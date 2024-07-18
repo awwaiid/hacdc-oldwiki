@@ -3,7 +3,7 @@ on a regular basis. It'd be neat if we could create kits to teach
 classes from and maybe even Kickstarter them if they get an appropriate
 level of polish.
 
-## Past Classes {#past_classes}
+## Past Classes
 
 Here are the wiki resources for our previous classes at HacDC:
 
@@ -22,7 +22,7 @@ Here are the wiki resources for our previous classes at HacDC:
 -   [Intro to Programming](Intro_to_Programming)
 -   [IntrotoVisualsforProgrammers](IntrotoVisualsforProgrammers)
 
-## Class Roster {#class_roster}
+## Class Roster
 
 Please fill in what classes you're interested in, want to teach or have
 resources for.

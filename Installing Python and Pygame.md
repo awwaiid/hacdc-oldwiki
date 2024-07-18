@@ -9,7 +9,7 @@ After that, you are ready to install pygame, which can be obtained from
 sure you get the one for 2.7. Once you run the installer you should be
 good to go.
 
-## Mac osx {#mac_osx}
+## Mac osx
 
 **OS X 10.6.\* (Snow Leopard)** You already have python 2.6 installed.
 You need only then to download the pygame installer at [Pygame

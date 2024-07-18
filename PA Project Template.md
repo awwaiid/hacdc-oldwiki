@@ -1,4 +1,4 @@
-### Project Summary {#project_summary}
+### Project Summary
 
 Project Code
 
@@ -32,6 +32,6 @@ Links To Other Project Pages
 
 License or IP status
 
-### Additional Info {#additional_info}
+### Additional Info
 
 [Category:Project_Awesome](Category:Project_Awesome)

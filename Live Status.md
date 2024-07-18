@@ -1,6 +1,6 @@
 `<noinclude>`{=html} `</noinclude>`{=html}
 
-## HacDC's Live Status {#hacdcs_live_status}
+## HacDC's Live Status
 
 This information comes from the space's [Presence
 Sensor](Presence_Sensor).

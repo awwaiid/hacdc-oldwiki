@@ -1,4 +1,4 @@
-## HacDC Byzantium Team Contact Info {#hacdc_byzantium_team_contact_info}
+## HacDC Byzantium Team Contact Info
 
 -   IRC
     -   [IRC on freenode](irc://irc.freenode.net/#byzantium)

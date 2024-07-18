@@ -13,7 +13,7 @@ From the HacDC Bylaws, Article III, Section 2:
 This meeting will also serve as the monthly meeting for the month of
 January.
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 January 10, 2015
 
@@ -26,24 +26,24 @@ Others Present: Danish, A-KO
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 12
 09](Regular_Member_Meeting_2014_12_09) Approved
 
 ## Recognition
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
-
-Not Present
-
-### Vice President's Report {#vice_presidents_report}
+### President's Report
 
 Not Present
 
-### Treasurer's Report {#treasurers_report}
+### Vice President's Report
+
+Not Present
+
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for December 2014:
 ![](HacDC_Financials_2014_12.pdf "HacDC_Financials_2014_12.pdf"). We
@@ -70,18 +70,18 @@ January 23 we must, in addition to the forms completed thus far:
     Statements and Reporting).
 -   prohibit the sale or lease of CFC contributor lists
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for December:
 ![](HacDC_PA_Projects-2014_12.pdf "HacDC_PA_Projects-2014_12.pdf"). We
 continue to have to dip into savings to pay our rent, so no dividend
 this month. :(
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 No Report.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Travis
 
@@ -91,22 +91,22 @@ CNC will be running by end of the month. Prusa is running.
 
 No report.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 No report. Hand-off required?
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 We're re-factoring the project. Slowly because we all have jobs now.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Nothing new to report. Still hoping to organize a kit build in concert
 with a Learn to Solder event sometime this spring.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Ordered replacement extruder for Rostock Max. Also ordered 0.35mm nozzle
 for dramatically improved resolution.
@@ -115,11 +115,11 @@ When finances become less strained, a Rev.7 PCB heater would be a nice
 addition. More even heating across the glass would reduce thermal stress
 and greatly improve adhesion.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Still conservative.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 Don has installed a 2 element 10m and a 160m dipole antenna. Don fitted
 a narrow (CW) filter in the main HF radio to improve narrow signal
@@ -128,11 +128,11 @@ contacted more than 100 countries.
 
 Lee N4TCW
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
-#### Lessons from Kamal Jain of Lowell Makes {#lessons_from_kamal_jain_of_lowell_makes}
+#### Lessons from Kamal Jain of Lowell Makes
 
 Met Kamal Jain from [http://lowellmakes.com/ Lowell
 Makes](http://lowellmakes.com/_Lowell_Makes), Massachusetts
@@ -150,9 +150,9 @@ HacDC server Shimmer is proving stable. Please contact me by email
 
 NetPLC boards and parts are in, so RFID system will be implemented soon.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 ### Cams
 
@@ -167,7 +167,7 @@ just a provision for future improvement.
 Approved the installation of camera. Funding and technical details to be
 revisited.
 
-### Dues Structure {#dues_structure}
+### Dues Structure
 
 We may benefit from some sort of multi-level membership structure,
 perhaps particularly to ensure fair compensation for renting the office
@@ -175,11 +175,11 @@ space.
 
 Needs to be discussed and revisited in a separate meeting.
 
-### Increase Dues by \$10 for one year {#increase_dues_by_10_for_one_year}
+### Increase Dues by \$10 for one year
 
 Approved.
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 
@@ -187,7 +187,7 @@ Results of the elections are as follows:
 
 Celeste
 
-### Vice-President {#vice_president}
+### Vice-President
 
 Haxwithaxe
 
@@ -199,11 +199,11 @@ Travis
 
 Enrique
 
-### At-Large Directors (two) {#at_large_directors_two}
+### At-Large Directors (two)
 
 Phil Don
 
-## New Members {#new_members}
+## New Members
 
 Danish
 

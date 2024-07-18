@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   April 8, 2014
 :   Called to order at 20:15 by Dan B.
@@ -17,7 +17,7 @@
 
     :   Quorum met? Yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Annual Meeting 2014](Annual_Meeting_2014)
 
@@ -28,9 +28,9 @@
 -   Zach for improving CNC mill, Laser Cutter, and 3D printer
     functionality.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Dan B has been instigating things! He introduced himself to Brian.
 They're with Megapath Internet with 3 up and down. Something on
@@ -57,9 +57,9 @@ effort at the USA SEF especially. Dan plans to bring his
 vendors who seems interested in donating a high-end 3D printer to us
 after the festival.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for March 2014:
 ![](HacDC_Financials_2014_03.pdf "HacDC_Financials_2014_03.pdf"). We
@@ -68,7 +68,7 @@ Cole. We lost one member, Alex Stone. We have 48 dues-paying members in
 good standing, two permanently dues-waived members, five temporarily
 dues-waived members, and three members who are behind on dues.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for March:
 ![](HacDC_PA_Projects-2014_03.pdf "HacDC_PA_Projects-2014_03.pdf"). We
@@ -77,11 +77,11 @@ Awesome dividend of \$300 while adding the remaining \$103.84 to our
 unearmarked reserves. There were 14 votes, unchanged from the previous
 month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Absent.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Ben
 
@@ -92,9 +92,9 @@ everyone who helped us out with this.
 
 In Shenzhen.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan has completely failed to perform the air isolation for the mirrors,
 because he was helping with the SEM, then got sick, etc. Still some
@@ -103,18 +103,18 @@ track which will probably help. Still more maintenance to be done. Some
 weekend we should rent a truck and go and buy the materials for the
 cabinet and build it.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Didn't have much movement in the last month. The Doctor is back in town
 this week and they're working on Byzantium again in the evenings. Dan B
 has been soaking some of the USB sticks in acetone, removing the
 sticker, and finding that they work.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Absent.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Still healthy and stable. Pleased to see this month's expenses almost
 exactly matched income. Plan to spend the SUPPLIES fund as necessary to
@@ -136,7 +136,7 @@ the SEM.
 
 Some of these may be delayed, due to the \$250 spending limit.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 There have been no objections raised to purchase of a small vertical
 bandsaw like this one for less than the existing \$145 budget:
@@ -152,7 +152,7 @@ If there are still no objections, will select the best one within the
 current EXPANSION budget, and direct Katie to order it. Preference will
 be given to support for cheap, standard blades.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 The baffling idea sounds great. We can mount the newer, cleaner
 whiteboards on the wall. Kevin will need help with these efforts. The
@@ -169,11 +169,11 @@ rich telecom lobbyists. Since HARC is providing training for the amateur
 radio community, it could be argued that HacDC should be given some
 community wireless authority (?) as a public safety support provider.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
-#### Prusa Mendel {#prusa_mendel}
+#### Prusa Mendel
 
 Was on the fence for a while what to do about this beast. After
 approximately 300 hours of work, there was every reason to expect the
@@ -216,12 +216,12 @@ become an experimental machine for educational purposes.
 printers for free at USASEF.** Efforts are being made to inform HacDC
 BOD and members participating in USASEF.
 
-#### Biosignal Amplifier {#biosignal_amplifier}
+#### Biosignal Amplifier
 
 As a reminder, fully operational and documented:
 <http://wiki.hacdc.org/index.php/Category:BiosignalAmplifier>
 
-#### Photolithography PCB Fab {#photolithography_pcb_fab}
+#### Photolithography PCB Fab
 
 As a reminder, fully tested, working, and documented:
 <http://wiki.hacdc.org/index.php/Category:Photolithography_PCB_Fab>
@@ -229,7 +229,7 @@ As a reminder, fully tested, working, and documented:
 Need to create a 'photolithography materials' box to keep the equipment
 organized and available.
 
-#### SEM Progress {#sem_progress}
+#### SEM Progress
 
 Organized the wiki pages and began research on replacement electronics.
 Looks like we need an FPGA managing a bunch of I2S ADC/DAC devices
@@ -242,11 +242,11 @@ already have some usable FPGAs to begin experiments.
 Nearly there, another HacDC member has the final Giant Fresnel lens.
 Projector construction can commence once lens has been retrieved.
 
-#### Imagnus, Flex Replicator, Optical Table {#imagnus_flex_replicator_optical_table}
+#### Imagnus, Flex Replicator, Optical Table
 
 Still in the same state as last meeting. All in progress.
 
-#### Unnecessary Mess {#unnecessary_mess}
+#### Unnecessary Mess
 
 Spent \>3.5 hours cleaning up work benches at HacDC. Some of the more
 egregious problems included a melted space heater plug, still plugged
@@ -274,24 +274,24 @@ owing to past inability to dispose of junk more frequently. Failing
 other options, Waste Management 'dumpster in a bag' is a possibility, at
 a cost of approximately \$200 (not recommended).
 
-### Phil Stewart {#phil_stewart}
+### Phil Stewart
 
 Gave a tour to some journalism students.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Allocate \$750 to purchase and commissioning of a new 3D printer.
 Approved.
 
-### Ben {#ben_1}
+### Ben
 
 In order to move the SEM I rented a truck and drove it down to Norfolk
 and back. I would like to get reimbursed the \$724.94 for the truck
 rental. Approved.
 
-## New Members {#new_members}
+## New Members
 
 Harry: has been working on projects on his own but doesn't have much
 workspace. Brought a remote-controlled robotic thing to Greenbelt Mini

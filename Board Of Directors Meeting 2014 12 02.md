@@ -1,10 +1,10 @@
-### Time And Location {#time_and_location}
+### Time And Location
 
 HacDC @ 7pm 2014-12-02
 
 Present: Zach, Travis, Ben
 
-### Discussion Topics {#discussion_topics}
+### Discussion Topics
 
 1.  Proposed Rule Changes
     1.  Grant the BoD limited powers to revoke memberships
@@ -17,7 +17,7 @@ Present: Zach, Travis, Ben
 ```
 1.  BoD becomes the financial committee and education committee
 
-### Meeting Adjourned {#meeting_adjourned}
+### Meeting Adjourned
 
 Meeting Adjourned 7:30pm
 

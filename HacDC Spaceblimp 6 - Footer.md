@@ -1,4 +1,4 @@
-# Spaceblimp 6 Links {#spaceblimp_6_links}
+# Spaceblimp 6 Links
 
 -   [`<span style="font-size: larger;">`{=html}Spaceblimp 6
     Inventory`</span>`{=html}](HacDC_Spaceblimp_6/Inventory)

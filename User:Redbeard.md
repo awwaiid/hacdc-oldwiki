@@ -1,6 +1,6 @@
 ![](redbeard.jpg "redbeard.jpg"){width="250"}
 
-# redbeard (is one sick dude) {#redbeard_is_one_sick_dude}
+# redbeard (is one sick dude)
 
 ## about
 
@@ -10,7 +10,7 @@ pretty regular.
 
 track me down on irc as "thebeardisred"
 
-## current projects {#current_projects}
+## current projects
 
 -   audio manipulation
 

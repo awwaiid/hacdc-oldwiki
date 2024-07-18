@@ -4,7 +4,7 @@
 "Central Services" is the internal reference for all members who serve
 in some leadership or official function at HacDC...
 
-## Disorganization Chart {#disorganization_chart}
+## Disorganization Chart
 
   The Will of the Membership (Directly Elected Positions)
   ---------------------------------------------------------
@@ -33,7 +33,7 @@ in some leadership or official function at HacDC...
 |                                                                      |
 +----------------------------------------------------------------------+
 
-## The [Board of Directors](Board_of_Directors) (Set by Bylaws) {#the_board_of_directors_set_by_bylaws}
+## The [Board of Directors](Board_of_Directors) (Set by Bylaws)
 
 The [Board of Directors](Board_of_Directors), per our
 [Bylaws](Bylaws) consists of [the
@@ -47,7 +47,7 @@ Despite direct membership control wherever possible, the [Board of
 Directors](Board_of_Directors) remains primarily responsible
 for the affairs of HacDC under District of Columbia Corporate Law.
 
-### [The Ministers](The_Ministers) {#the_ministers}
+### [The Ministers](The_Ministers)
 
 Most corporate law refers to "officers". [The
 Ministers](The_Ministers) are our Corporate Officers and
@@ -63,7 +63,7 @@ serve in the following roles:
 -   [Keeper of the MIBS](Keeper_of_the_MIBS) = Secretary
 -   [Minister of Finance](Minister_of_Finance) = Treasurer
 
-### At Large Directors {#at_large_directors}
+### At Large Directors
 
 The At Large Directors are the membership's direct representation on the
 [Board of Directors](Board_of_Directors). At Large Directors
@@ -72,7 +72,7 @@ running of HacDC. They are there to offer advice and perspective to [the
 Ministers](the_Ministers) and act as a form of internal
 control.
 
-## Current [Board of Directors](Board_of_Directors) {#current_board_of_directors}
+## Current [Board of Directors](Board_of_Directors)
 
 Prior board of directors.
 

@@ -46,7 +46,7 @@ of the steps that you'll be taking, and why you take them.
 
 The rest of this page is a step-by-step that you can follow. Enjoy.
 
-#### Printing computer {#printing_computer}
+#### Printing computer
 
 If you haven't brought a computer or can't for some reason (or would
 rather just bring in a file to print), there's an orange Vaio netbook in
@@ -58,7 +58,7 @@ left-hand favorites section (yellow box that says "ReplicatorG" on it).
 It's also got OpenSCAD installed, if you're tweaking or making a model.
 (It's in the Applications/Other category in Activities.)
 
-### Set up the Software Side {#set_up_the_software_side}
+### Set up the Software Side
 
 Get your bits set up.
 
@@ -111,7 +111,7 @@ Get your bits set up.
     with replicator-G will serve double-duty as time warming up the
     machine.
 
-### Fire up the Machine {#fire_up_the_machine}
+### Fire up the Machine
 
 Here we connect to the machine, and start it warming up.
 
@@ -180,7 +180,7 @@ Here we connect to the machine, and start it warming up.
     extrusion, be sure to place the nozzle back down at zero when you're
     done.
 
-### Build the G-code for your Model {#build_the_g_code_for_your_model}
+### Build the G-code for your Model
 
 G-code describes the path that the extruder head needs to follow to make
 your object, along with temperatures and motor speeds and other
@@ -393,7 +393,7 @@ don't stray too far from the machine. It needs babying.
 -   Did the machine work? Did it have troubles in places? What was
     non-intuitive? We want to know!
 
-### Advanced Tricks for Your Second Print {#advanced_tricks_for_your_second_print}
+### Advanced Tricks for Your Second Print
 
 There's a bunch of options in rendering to g-code that you may be
 interested in changing. You should probably preview your model before

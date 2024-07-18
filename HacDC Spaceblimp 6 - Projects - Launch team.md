@@ -15,7 +15,7 @@ the [communications
 logistics](HacDC_Spaceblimp_6/Projects/Groundwork#Logistical_Communications)
 team.
 
-# Team Members {#team_members}
+# Team Members
 
 -   TBD (All are welcome)
 

@@ -9,7 +9,7 @@ More elaborate, but probably too up-to-date, documentation is to be had
 at the [RedBoot User's
 Guide](http://www.ecos.sourceware.org/docs-latest/redboot/redboot-guide.html).
 
-### RedBoot help {#redboot_help}
+### RedBoot help
 
 For what it's worth, a summary of RedBoot's commands
 

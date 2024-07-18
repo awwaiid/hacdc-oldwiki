@@ -1,4 +1,4 @@
-## David Lotts's User Page {#david_lottss_user_page}
+## David Lotts's User Page
 
 I don't think I know myself well enough to say anything. Maybe others
 can help.

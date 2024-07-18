@@ -5,7 +5,7 @@ your full name). The general idea would be we would pick one item a week
 to disassemble, and we would document each step with a text description
 and photographs.
 
-## Proposal Vitals {#proposal_vitals}
+## Proposal Vitals
 
 **Status**: In Progress, Discussion
 

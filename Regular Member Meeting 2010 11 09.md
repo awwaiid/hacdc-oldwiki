@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-11-09 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 November 9, 2010 Meeting called to order at 8:15PM by Tim B (Vice
 President).
@@ -13,18 +13,18 @@ Others Present: David M., Xaq R., Sara P.
 
 [Quorum](Quorum) met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 10
 12](Regular_Member_Meeting_2010_10_12) Approved.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Absent.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Absent.
 
@@ -139,18 +139,18 @@ TOTAL ASSETS \$7,403.41
 
 TOTAL LIABILITIES AND EQUITY \$7,403.41
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### William
 
 A Quad Voltage (+-5, +-12) Power Supply has been deployed. Motley Fool
 is renting the space November 19 for \$500, Tim B. will monitor.
 
-#### Katie (absent due to work, sorry) {#katie_absent_due_to_work_sorry}
+#### Katie (absent due to work, sorry)
 
 Come to [T2: Return of Tea
 Night](http://hacdc.org/content/t2-return-tea-night) on Sunday at 7 p.m.
@@ -158,9 +158,9 @@ Night](http://hacdc.org/content/t2-return-tea-night) on Sunday at 7 p.m.
 Go [HacDC Spaceblimp 3](HacDC_Spaceblimp_3)! (Launch planned
 for Saturday the 13th.)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Ben Stanfield {#ben_stanfield}
+### Ben Stanfield
 
 -   CiviCRM now enabled, and available for events, fundraising, etc. If
     you're interested in using it, contact Ben
@@ -183,7 +183,7 @@ for Saturday the 13th.)
 
 MAKE Projects wants us to use their site.
 
-### Arc Riley {#arc_riley}
+### Arc Riley
 
 -   Event report for Rally/Fear
 
@@ -198,7 +198,7 @@ Very successful, thanks to Sara for bring more people in.
 
 Donation from John Kula
 
-### Dan Barlow {#dan_barlow}
+### Dan Barlow
 
 -   Virtual trophy wall is up, please update it with new project photos.
 
@@ -211,11 +211,11 @@ Donation from John Kula
 -   Japanese & Chinese Tea Ceremonies set for 7pm Sunday.
 -   FIRST Robotics needs mentors, will coordinate.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-### Make: Magazine Gift Subscriptions {#make_magazine_gift_subscriptions}
+### Make: Magazine Gift Subscriptions
 
 Motion: To develop a HacDC 3D-printable trinket or gift and a holiday
 card to give to people who would like to buy Make: Magazine
@@ -234,7 +234,7 @@ Discussion:
 
 -   Nothing in this requires a vote.
 
-### FIRST Robotics Team Mentorship {#first_robotics_team_mentorship}
+### FIRST Robotics Team Mentorship
 
 Motion: To approve an organization-wide mentorship of a local FIRST
 robotics team.
@@ -250,7 +250,7 @@ needed.
 
 -   Nothing in this requires a vote.
 
-### Motion to restrict communication with landlords {#motion_to_restrict_communication_with_landlords}
+### Motion to restrict communication with landlords
 
 Motion: To authorize the HacDC board of directors to carry out ALL
 business and communication with the landlord AND all personnel employed
@@ -271,7 +271,7 @@ individual HacDC members who's reputations have been besmirched.
 
 -   tabled
 
-### New Members {#new_members}
+### New Members
 
 Sunsh1ne (Beckie) - Formerly of Twin Cities maker now in the DC area.
 Has been paying dues, but unfortunately could not make it to the meeting

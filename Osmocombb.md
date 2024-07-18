@@ -16,7 +16,7 @@ progress. the above section label will be removed once complete.
     [this](http://bb.osmocom.org/trac/wiki/flashing_new#actualinstallation))
 -   do evil things
 
-## Get Clean Firmware Image {#get_clean_firmware_image}
+## Get Clean Firmware Image
 
 -   start loader in ram (for c140 or c139)
 
@@ -28,7 +28,7 @@ progress. the above section label will be removed once complete.
 
 -   go get a cup of caffiene
 
-## Load OsmocomBB {#load_osmocombb}
+## Load OsmocomBB
 
 -   for reference: <http://bb.osmocom.org/trac/wiki/flashing_new>
 
@@ -43,7 +43,7 @@ progress. the above section label will be removed once complete.
     for details of expected output
 3.  If output is as expected, then continue
 
-### Load Loader {#load_loader}
+### Load Loader
 
 Load the "loader" into ram and
 
@@ -53,7 +53,7 @@ Load the "loader" into ram and
 
 1.  if success continue
 
-### Install Loader {#install_loader}
+### Install Loader
 
 Install the "loader" to flash.
 
@@ -63,4 +63,4 @@ Install the "loader" to flash.
 
 1.  
 
-## Do Evil Things {#do_evil_things}
+## Do Evil Things

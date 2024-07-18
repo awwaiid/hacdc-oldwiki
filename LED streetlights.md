@@ -53,7 +53,7 @@ fixture](http://www.arktimes.com/Articles/ArticleViewer.aspx?ArticleID=fce07cab-
 > lot less wattage and it will put light out on the street but we can't
 > get any benefit out of it because of the tariffs."
 
-# Commercial LED lamps {#commercial_led_lamps}
+# Commercial LED lamps
 
 [SparkFun](http://sparkfun.com) sells LED lamps that are screw
 compatible with US light sockets:

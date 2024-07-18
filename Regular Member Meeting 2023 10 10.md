@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:37 pm by Obioma
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes! 6 / 21 members.
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12)
 
 Minutes approved.
 
@@ -21,7 +21,7 @@ Callie - Don - Kyle - Chris
 
 hauling the laser cutter and repairing network, ahead of LAN party.
 
-## New Members {#new_members}
+## New Members
 
 Kyle: Background in electrical and mechanical engineering - helping his
 building manage keyfobs refitting an RV Acoustics and oscilloscope art;
@@ -29,7 +29,7 @@ San Diego comic-con this year, and DC Bike Party mods.
 
 Approved by board, can pick up key Sunday or Monday.
 
-## Old Business {#old_business}
+## Old Business
 
 -   Schedule Movie night
 -   Speaker sessions
@@ -62,7 +62,7 @@ Approved by board, can pick up key Sunday or Monday.
 ` * Unable to access old / sign up again`\
 ` * Can proceed in livestreams on a per-speaker basis.`
 
-## New Business {#new_business}
+## New Business
 
 Treasurer's report August lease - \$900; needs to be applied Members: 21
 -\> 22
@@ -78,19 +78,19 @@ Tayeb came back on Monday. Movie night:
 
 -   check among church mgmt: can our group help clean solar panels?
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Michelle
 
-#### Don / Brian {#don_brian}
+#### Don / Brian
 
 ## Adjournment
 

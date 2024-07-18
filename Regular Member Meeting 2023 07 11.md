@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:37 pm by Obioma
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12)
 
 Oby, seconded by Gabe.
 
@@ -20,9 +20,9 @@ Oby, seconded by Gabe.
 Matt for being an amazing treasurer, and Oby and Gabe for hooking up our
 new wifi!
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 Movie Day Round 2: Space Sweepers
 
@@ -33,7 +33,7 @@ literacy course Online: Phil's
 Phil's banner printer - 3' by 150': Needs a proposal on paper, include
 Phil's email and phone
 
-## New Business {#new_business}
+## New Business
 
 Calli: Laser cutter -\> basement: Need a duct in the basement window
 Soldering desk -\> basement: perhaps add a second desk, keep soldering
@@ -48,7 +48,7 @@ circuit breakers are beginning to go.
 Chris: LAN party! How many people? 6-8? Saturday 15th, combination Movie
 Night beginning at 6/7pm: Space Sweepers.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Lost a couple members; correccion: Calli Youngblood remains a member.
 Property taxes due next July: \$0, need to be filed regardless. Mobile

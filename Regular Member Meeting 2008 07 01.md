@@ -11,28 +11,28 @@ These are the minutes of the Regular Member Meeting held on July 1, 2008
 -   Location: HacDC, 1525 Newton St NW, Washington DC, 20010, USA
 -   Presiding: Andrew Righer, Coordinator in Chief
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief {#coordinator_in_chief}
+### Coordinator in Chief
 
-### Ministry of Finance {#ministry_of_finance}
+### Ministry of Finance
 
-### Keeper of the MIBS {#keeper_of_the_mibs}
+### Keeper of the MIBS
 
 (No report as the officer was not present.)
 
-### Minister of Information {#minister_of_information}
+### Minister of Information
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
-### Approval of New Members {#approval_of_new_members}
+### Approval of New Members
 
-## New Business {#new_business}
+## New Business
 
 [Category:Meeting_Minutes](Category:Meeting_Minutes)

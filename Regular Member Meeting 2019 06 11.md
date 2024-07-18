@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   June 11 2019
 :   Called to order at 7:58pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Y
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Karen has to type in from recap email - can present for approval in July
 
@@ -19,43 +19,43 @@ Karen has to type in from recap email - can present for approval in July
 
 -   Karen et al for an outstanding Tech Circus at the Dupont Underground
 
-## New Members {#new_members}
+## New Members
 
 Maxxwell Michelle
 
-## Old Business {#old_business}
+## Old Business
 
 -   Letterhead finished? Where's it at?
 -   On a related note, a "Thank you" (on letterhead) to Bruno for the
     hardware donation
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-\- Report and updates
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project SpaceBlimp -Enrique
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+\- Report and updates
 
-## Member Reports {#member_reports}
+### Project Media Outreach - Matt
+
+### Project IT Infrastructure - Tom
+
+## Member Reports
 
 -   Kevin: I continue to struggle with the TAZ 1.0 and am beginning to
     believe that there is a hardware failure. The system consistently
@@ -68,9 +68,9 @@ Maxxwell Michelle
 \[Karen note\]Julia may be coming to visit DC soon, so perhaps she can
 take a peek.
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
 Exiles on U Street fundraiser planning Cryptoparty - figure out a date
 maybe fall 2019? 3d printing class the week of June 24 - guinea pigs are
@@ -80,9 +80,9 @@ Nonstop Art week of July 1 - see how they are using their space,
 volunteer to support them on a project and, hopefully, learn about
 community projects in the process.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 17 members, 2 of whom are students Took over square, can take cc
 payments (reader in bod locker) Namecheap is registrar for hackdc.org -
@@ -94,9 +94,9 @@ survey of other spaces, membership fees are generally \$70/month -
 should we raise membership fees for new members? Also work on benefit
 offerings. Please remember to use smile.amazon.com
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

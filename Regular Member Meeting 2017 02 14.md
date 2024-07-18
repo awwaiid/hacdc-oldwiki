@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: February 14, 2017
 :   Called to order at 2005 pm by Tom
@@ -11,7 +11,7 @@
 
     :   Quorum met? no
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 <http://wiki.hacdc.org/index.php/Regular_Member_Meeting_2017_01_10>
 
@@ -24,11 +24,11 @@
 
 `    local hosts are addressable by DNS.`
 
-## New Members {#new_members}
+## New Members
 
 `   James was voted in as a member with unanimous assent.`
 
-## Old Business {#old_business}
+## Old Business
 
 -   Bylaws amendment proposal (unless it was already voted on?): Change
     the threshold for future bylaws amendments from "more than three
@@ -41,7 +41,7 @@
     (Explanation: We are dangerously close to having 1/4th of members
     not respond aye/nay and making amendments impossible) - Enrique
 
-## New Business {#new_business}
+## New Business
 
 -   There's been some discussion of changing or frequently rotating door
     key-codes since the church was robbed last week; we would prefer
@@ -50,15 +50,15 @@
 `   Rockville Science fair is April 23rd and HacDC could have an exhibit. Space is free if we want a table.`\
 `   Ken proposes we look into more fundraising such as through fiscal sponsorship arrangements ...?`
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 -   Ethan left, so for now Enrique is POC for Project SEM. This is...
     ok, I guess.
@@ -67,11 +67,11 @@
     connected to an HD15 (VGA) conncetor. It's an easy job but saying
     that doens't make it more completed. Help wanted.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
 `the belts and gears for the optical table robot are in, and being mounted. the mini now prints rubber(thanks kevin!), and a prototype box for fitting in the radio shack bins has been printed by bobby and myself. with tom's help, i have christened a 32 core machine with 256GB of ram, for large CPU jobs.`
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 We repeated the experiment last week with new materials, unfortunately
 with mixed results, i.e. the CRISPR sample worked, but the control also
@@ -81,14 +81,14 @@ HME63 strains but maybe someone other than me should go through it this
 time. I think the next meeting will be Thursday night around 8. It's not
 on MeetUp because we obviously aren't getting it right. - Enrique
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 -   Ethan left, so for now Enrique is POC for Spaceblimp but volunteers
     wanted.
 -   Dirk & Sam finished the video!
 -   <https://www.youtube.com/watch?v=JhjD4Q3JfMM>
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Enrique: (1) March for Science is April 22 - I expect I'll go and
     I'm thinking of what signs and message would be good to promote.
@@ -102,13 +102,13 @@ on MeetUp because we obviously aren't getting it right. - Enrique
     with Signal and encrypting email with PGP, for whoever wants to
     stick around.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Our income for January came 100% from membership dues. It was
     \$1,330 from 30 members - 21 regular, 7 grandfathered in at \$50/mo
@@ -119,9 +119,9 @@ on MeetUp because we obviously aren't getting it right. - Enrique
     printer parts (\$308 from Project Supplies). Rent rises from 993 to
     1043 in February. Balances add up to \$12,442.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

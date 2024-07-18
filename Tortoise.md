@@ -18,11 +18,11 @@ For an acount on this server email admin@hacdc.org with the subject:
 Provide a desired username and a second choice username. Include an ssh
 public key as an attachement. access to this server is by ssh key only.
 
-# Admin Notes {#admin_notes}
+# Admin Notes
 
 Host machine is [Albert](Albert).
 
-## Xen Configs {#xen_configs}
+## Xen Configs
 
 -   -   CPU: 3
     -   RAM: 128MB
@@ -47,7 +47,7 @@ Host machine is [Albert](Albert).
 3.  Notify `<user>`{=html} of account creation and include the ssh
     oneliner for loggin into the server.
 
-## OS Config {#os_config}
+## OS Config
 
 -   Process limit:
 -   Memory limit:

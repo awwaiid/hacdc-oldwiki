@@ -1,36 +1,36 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 :   February 3, 2009
 :   7:30 p.m. to 8:30 p.m.
 :   HacDC, 1525 Newton St NW, Washington, DC. (Space or Auditorium, TBD)
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 (There weren't any minutes at the past several meetings.)
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 -   [Coordinator-in-Chief](Coordinator-in-Chief)
 -   [Minister of Finance](Minister_of_Finance)
 -   [Minister of Information](Minister_of_Information)
 -   [Keeper of The MIBS](Keeper_of_The_MIBS)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
-### [Workshop Configuration](Workshop_Configuration) {#workshop_configuration}
+### [Workshop Configuration](Workshop_Configuration)
 
-### [Main Space Reconfiguration](Main_Space_Reconfiguration) {#main_space_reconfiguration}
+### [Main Space Reconfiguration](Main_Space_Reconfiguration)
 
-## New Business {#new_business}
+## New Business
 
-### ShmooCon events {#shmoocon_events}
+### ShmooCon events
 
 We will be hosting the Friday Night [Shmoocon
 Party](Shmoocon_Party) for [ShmooCon](http://shmoocon.org) in
@@ -40,20 +40,20 @@ conjunction with [ToorCon](http://toorcon.org) on Feb. 6
 -   A planning list has been started, e-mail info@hacdc.org if you want
     on.
 
-### Chair Purchase {#chair_purchase}
+### Chair Purchase
 
 We seem to not have enough chairs. With the addition of the workshop, we
 may need to buy some. Are people happy with the current chairs? Should
 we buy more of the same or something new?
 
-### Internet Down? {#internet_down}
+### Internet Down?
 
 =
 
 The Internet in the space appears to have been down for about a week.
 Can we fix that?
 
-### Heat and AC {#heat_and_ac}
+### Heat and AC
 
 Spring is approaching, but we still have cold days. Can we get the heat
 working? By the same token, when Spring does arrive we have a broken AC
@@ -66,12 +66,12 @@ Group. Can we have some AV cables and connectors that are known to be
 good, as well as speakers, in the space, ready to be used for a
 presentation? This may include us buying a few small items.
 
-### Movie Night {#movie_night}
+### Movie Night
 
 Have people enjoyed Movie Night? Do we want to continue the effort? Do
 we want to pay for the sanctuary or use the space? Do we want to look
 into MPAA licenses?
 
-### Admit New Members {#admit_new_members}
+### Admit New Members
 
 [Category:Meeting Minutes](Category:Meeting_Minutes)

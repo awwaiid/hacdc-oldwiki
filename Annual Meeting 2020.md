@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 `   Date: Tuesday, March 12`\
 `   Location: HacDC`
@@ -43,7 +43,7 @@ Meeting called to order at
 
 `   Yes`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Approved
 
@@ -54,17 +54,17 @@ Approved
 -   Bobby -- Has put a lot of effort into the laser cutter and it's
     paying off! We're almost there
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Fundraising Activities - scheduled and proposed
 
 -   
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 10 days into March and we are net +\$677 dollars for this month. There
 have been addidional payments from paypal and additional deposits made
@@ -75,37 +75,37 @@ additional \$1400.
 We are doing significantly better this month than before with several
 one-time payments accounting for the difference
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Member cleanup will be happening this coming Saturday with Don
     Jones. And we have a new spring cleaning part II scheduled for March
     21st
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Ken
 
 #### Kevin
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project SEM {#project_sem}
+### Project SEM
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
 Nobody bothered to form a committee so there's no report. All financial
 statements including receipts for all purchases are at the space, in the
 BOD locker, treasurer's folder.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
 -   We are still figuring out a time and list idea of things to talk
     about to Nehemia of NonStop Art (who just got a new job)
@@ -114,9 +114,9 @@ BOD locker, treasurer's folder.
     elements to be added. We should email Avi about TOOOL and try to
     make lockpicking happen
 
-### Bylaws Amendments {#bylaws_amendments}
+### Bylaws Amendments
 
-## New Business {#new_business}
+## New Business
 
 -   HARC Foxhunt coming up in the future (early April planning, event in
     June/July)
@@ -124,7 +124,7 @@ BOD locker, treasurer's folder.
     want HacDC for electronics repair? Or other table operations? Or
     could we bring a 3D printer?
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 
@@ -141,7 +141,7 @@ Results of the elections are as follows:
 Karen moved, Kevin seconded a motion to elect the slate of board
 candidates in a single vote. Motion to elect the slate passed.
 
-## New Members {#new_members}
+## New Members
 
 We have a new member! Chris
 

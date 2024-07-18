@@ -13,7 +13,7 @@ directorify this information more appropriately
 
 Edit/add links at will!
 
-## United States {#united_states}
+## United States
 
 -   [CELLspace](http://www.cellspace.org), SF
 -   [Eyebeam](http://www.eyebeam.org), NY

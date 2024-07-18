@@ -11,7 +11,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.
 
-# Time and Location {#time_and_location}
+# Time and Location
 
 Meeting called to order at 2008 EST by Brian Harrington
 
@@ -25,9 +25,9 @@ Others:
 
 [Quorum](Quorum) Yes
 
-# Officer Reports {#officer_reports}
+# Officer Reports
 
-## President's Report {#presidents_report}
+## President's Report
 
 IRS 501c3 status has been obtained. Donations made to HacDC can now be
 considered tax-exempt. Please contact any Board Member to obtain a
@@ -59,11 +59,11 @@ aware of large issues.
 CHECK OUT Foundation Center <http://foundationcenter.org/> They are
 located in Downtown DC and area fantastic resource!
 
-## Vice President's Report {#vice_presidents_report}
+## Vice President's Report
 
 Not Present
 
-## Treasurer's Report {#treasurers_report}
+## Treasurer's Report
 
 ASSETS
 
@@ -138,11 +138,11 @@ Q: Have we reconciled the billing discrepency with the church, regarding
 the change in our monthly rent? A: The church has started billing us at
 the proper rate, as of this month.
 
-## Secretary's Report {#secretarys_report}
+## Secretary's Report
 
 No Secretary present.
 
-## At-Large Directors' Reports {#at_large_directors_reports}
+## At-Large Directors' Reports
 
 ### Katie
 
@@ -154,7 +154,7 @@ move to Kyoto to study the Art of Tea.
 Secured a large electronics test equipment donation from GWU. Happy to
 have been a board member the past year :)
 
-# Member Reports {#member_reports}
+# Member Reports
 
 -   Martin: Robotfest is coming up. This is a huge gathering of folks
     likeminded towards HacDC. We should make a presence there, as it
@@ -169,7 +169,7 @@ have been a board member the past year :)
     out the FIRST Robotics robot. This is a good start towards a useful
     relationship to promote HacDC.
 
-# New Business {#new_business}
+# New Business
 
 Brian: New benefits that go inhand with out 501c3 Status.
 
@@ -203,13 +203,13 @@ Brian: New benefits that go inhand with out 501c3 Status.
     -   Elliot Williams seconds the motion.
     -   Motion Passes
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 ### President
 
 Elliot and Redbeard were nominated. Redbeard elected.
 
-### Vice-President {#vice_president}
+### Vice-President
 
 Tim, Elliot, Brad? nominated. Elliot elected.
 
@@ -221,11 +221,11 @@ Tim C. elected through acclimation.
 
 Ben Mendis elected through acclimation.
 
-### At-Large Directors {#at_large_directors}
+### At-Large Directors
 
 Will, Toast, Brad, Xaq, Phil nominated. Will and Brad elected.
 
-### Induction of New Members {#induction_of_new_members}
+### Induction of New Members
 
 JustMike from NYC (knows A1Labs, NYCResistor). Nominated by Redbeard,
 seconded by Brad. Memberized.

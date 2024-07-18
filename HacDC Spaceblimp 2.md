@@ -1,4 +1,4 @@
-## Flight Summary {#flight_summary}
+## Flight Summary
 
 Flight date: 8/21/10
 
@@ -18,7 +18,7 @@ Weight of payload/chute: 1lb 13oz
 
 Total cost of launch: \$320
 
-## Airframe & Rigging {#airframe_rigging}
+## Airframe & Rigging
 
 Balloon: 800g Kaymont/Totex latex weather balloon cost: \$69
 
@@ -57,7 +57,7 @@ Pool](http://www.flickr.com/groups/spaceblimp/pool/with/4922202931/)
 [aprs.fi Flight
 Map](http://aprs.fi/?call=w3hac-11&dt=1282348800&mt=roadmap&z=11&timerange=3600)
 
-## Some details on the avionics {#some_details_on_the_avionics}
+## Some details on the avionics
 
 Our balloon carried a minimalist avionics package consisting of a custom
 built APRS tracker and a Canon PowerShot SD300 digital camera.

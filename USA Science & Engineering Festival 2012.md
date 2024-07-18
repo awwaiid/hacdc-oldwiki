@@ -2,7 +2,7 @@ HacDC has a 10x20 foot booth at the [2012 USA Science & Engineering
 Festival](http://www.usasciencefestival.org/), in the National Robot
 Fest and DIY Expo area that has been organized by Gary Mauler.
 
-## General Info {#general_info}
+## General Info
 
 Here is a [map and
 schedule](http://c3067082.r82.cf0.rackcdn.com/2012ExpoMap_Printable_web_v4.pdf)
@@ -16,7 +16,7 @@ Here are [slides](media:USASEF_Webinar_PPT.pdf) from the
 conference call where they discussed logistics like move-in and move-out
 rules.
 
-## Who Will Be Going {#who_will_be_going}
+## Who Will Be Going
 
 List of people who will be going, when, and whether they can sit at the
 HacDC booth
@@ -31,7 +31,7 @@ HacDC booth
 -   Nick B, Friday, Saturday & Sunday
 -   David Whiteis, Sunday?
 
-## Cart Transport {#cart_transport}
+## Cart Transport
 
 Exhibitors will be allowed to hand-carry in one trip worth of items for
 their booth. You must be able to carry it by yourself with no help from
@@ -49,7 +49,7 @@ to haul your stuff on a cart, please sign up here:
 **Everything going by cart will need to be labelled with HacDC and our
 booth number, which is 2250.**
 
-## Projects On Display {#projects_on_display}
+## Projects On Display
 
 If you'd like to show something at the 2012 USASEF, feel free to ad your
 project info to the list below. Do it soon so we can organize the
@@ -65,7 +65,7 @@ info like :
 -   Completion status
 -   Project wiki page
 
-### Image Plotter {#image_plotter}
+### Image Plotter
 
 -   Contact: TimS
 -   Booth people: TimS all day Saturday
@@ -76,7 +76,7 @@ info like :
 -   Supplies: Paper with HacDC info, plotter pens/ink
 -   Status: in development
 
-### Trippy Video Pong {#trippy_video_pong}
+### Trippy Video Pong
 
 -   Contact: BradB
 -   Equipment: Fast PC running Linux, webcam, video projector
@@ -110,11 +110,11 @@ info like :
 
 -   Contact: Mark Adams
 
-### Blinky Projects {#blinky_projects}
+### Blinky Projects
 
 -   Contact: David Kaufman
 
-### 3D Printing {#d_printing}
+### 3D Printing
 
 -   Contact: Anderson Ta
 -   Staff: Anderson Ta, Saturday
@@ -122,14 +122,14 @@ info like :
 -   Supplies: Roll of Plastic, Kinect/Tripod (if we are still
     scanning?), Power Strip
 
-### Signup Kiosk {#signup_kiosk}
+### Signup Kiosk
 
 -   Contact: ITechGeek
 -   Staff: (not needed?)
 -   Space: 2 feet of table space
 -   Equipment: Computer, Keyboard, Mouse, and LCD monitor
 
-### Ring Bubble Generator {#ring_bubble_generator}
+### Ring Bubble Generator
 
 -   Contact: David Whiteis
 -   Staff: David Whiteis Sunday
@@ -141,7 +141,7 @@ Video from the Festival:
 
 <http://www.youtube.com/watch?v=xUDqmr1PRyQ>
 
-## Misc Stuff To Bring {#misc_stuff_to_bring}
+## Misc Stuff To Bring
 
 A list of stuff we will want to have at the booth. If you can bring it,
 please sign up with your name by the item. Personal items should have

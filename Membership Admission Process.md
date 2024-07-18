@@ -1,4 +1,4 @@
-# How to Apply for Membership {#how_to_apply_for_membership}
+# How to Apply for Membership
 
 -   Pay \$60/month dues, via Paypal, Dwolla, check, cash, etc.
 -   Attend a monthly membership meeting (2nd Tuesday of the month in the
@@ -8,7 +8,7 @@
         you don't know any of the members yet. The nomination will be
         voted upon by the members present.
 
-# Once you Become a Member {#once_you_become_a_member}
+# Once you Become a Member
 
 -   identity check
 -   keys

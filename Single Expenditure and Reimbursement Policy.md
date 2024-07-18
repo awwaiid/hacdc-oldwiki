@@ -13,7 +13,7 @@ Events or Projects that require real budgets. Real budgets are burdened
 by approval whereas ad-hoc defacto budgets do not require approval, even
 though they can theoretically spend as much funds as a real budget.
 
-## Potential Solutions {#potential_solutions}
+## Potential Solutions
 
 -   Lower the limit of single expenditures to \$100 and record the
     expenditures in the weekly finance report and require pre-approval

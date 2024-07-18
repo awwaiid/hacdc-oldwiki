@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-09-13 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 September 13, 2011
 
@@ -14,23 +14,23 @@ Others Present: Danny, Steve, Sean, Richard, Adam, Bill
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 07
 12](Regular_Member_Meeting_2011_07_12) Approved [Regular
 Member Meeting 2011 08 09](Regular_Member_Meeting_2011_08_09)
 Approved
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Traveled 30,000 miles. Hounding AgentSilverfox over GGHC. Hounding
 Element14 about GGHC. Got us an Eagle license, but only a single-user
 license. (Eagle is a CAD software for circuit boards.) Handed out about
 250 HacDC pamphlets
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Moving to Germany (Munich) next week. :,( Resigning. :,( :,(
 
@@ -42,7 +42,7 @@ new door lock.
 Elliot will become an Honorary (non-voting) member until he returns to
 the area.
 
-### Treasurer's Report (Tim Slagle) {#treasurers_report_tim_slagle}
+### Treasurer's Report (Tim Slagle)
 
 Here is the Aug 2011 financial summary:
 <file:HacDC_Financials_Aug_2011.pdf>
@@ -64,17 +64,17 @@ your payments, **please** contact me (treasurer@hacdc.org) or any of the
 officers and let us know. Please **don't** contest the charges or file a
 dispute with PayPal without talking to us first!
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Thoftware Thursdays are fun!
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Toast
 
 Had another Zine event at the space. People had fun.
 
-#### Brad B {#brad_b}
+#### Brad B
 
 Trying to do outreach. 1. Emerge Art Fair will have a piece next week
 with HacDC. 2. Talking to people at NIST about connecting the space with
@@ -82,9 +82,9 @@ DC public schools. 3. Talking to a woman from the DC public libraries
 about doing an LED light show for kids. 4. Trying to keep the space open
 more with regular events like {S,Th}oftware Thursdays.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Tim Slagle {#tim_slagle}
+### Tim Slagle
 
 I (re)applied to Google Grants and we were accepted this time! We now
 have an AdWords account with a \$329 daily advertising budget. I created
@@ -133,44 +133,44 @@ tie in for their activities in DC.
 
 Biologist from UM is willing to do a hacker introduction to bio stuff.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Authorize up to \$250 to take care of the extension cord using Brian's
 electrician. **Approved**
 
-## New Members {#new_members}
+## New Members
 
-### Sean Rutledge {#sean_rutledge}
+### Sean Rutledge
 
 Background in Mechanical Engineering. Got into this stuff through
 Burning Man. Does fire performances.
 
 Nominate: Martin Second: Elliot Vote passed
 
-### Bill Babson {#bill_babson}
+### Bill Babson
 
 HAM. Background in network routing protocols and Unix. Likes taking
 stuff apart and making new stuff.
 
 Nominate: Alberto Second: Ben the Pyrate Vote passed
 
-### Adam Green {#adam_green}
+### Adam Green
 
 Software Engineer (C#, VB, Java). Has a mill and needs a place to put
 it.
 
 Nominate: Brad Second: Toast Vote passed
 
-### Steve Beuttel {#steve_beuttel}
+### Steve Beuttel
 
 Background in Electronics. Likes metalworking and woodworking. Excited
 about space blimp.
 
 Nominate: Second: Martin Vote passed
 
-### Richard Bullington-McGuire {#richard_bullington_mcguire}
+### Richard Bullington-McGuire
 
 Software architect, tinkerer, beginning hardware hacker. Founder of
 Obscure.org a 501c3. Taught classes in Scratch.

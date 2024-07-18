@@ -13,17 +13,17 @@ or to disrupt dominant frequencies\[12\].
 \[12\] [Disrupt Dominant
 Frequencies](http://disruptdominantfrequencies.net/)
 
-## Museums, collections, directories {#museums_collections_directories}
+## Museums, collections, directories
 
 [The Alternative Museum](http://www.alternativemuseum.org/) (Doesn't
 appear to have been updated since 2003)
 
-## DIY projects related to CJ {#diy_projects_related_to_cj}
+## DIY projects related to CJ
 
 [MAKE electronics
 projects](http://blog.makezine.com/archive/2009/12/culture_jamming_open_source_hardwar.html)
 
-## DC Area Culture Jamming {#dc_area_culture_jamming}
+## DC Area Culture Jamming
 
 [Capitol Climage Action](http://www.capitolclimateaction.org/)
 (apparently the webmaster has moved to SF?)
@@ -33,14 +33,14 @@ projects](http://blog.makezine.com/archive/2009/12/culture_jamming_open_source_h
 -   Barbie Liberation Organization
     -   [Youtube Video](http://www.youtube.com/watch?v=OVT4T7OR3iQ)
 
-## Articles and papers {#articles_and_papers}
+## Articles and papers
 
 -   [Elliot Feldman, Aug 22 2007,
     AP](http://www.associatedcontent.com/article/350004/what_is_culture_jamming.html)
 -   [Mark Dery, Dec 23 1990, NY
     Times](http://www.nytimes.com/1990/12/23/arts/the-merry-pranksters-and-the-art-of-the-hoax.html)
 
-## Movers and shakers {#movers_and_shakers}
+## Movers and shakers
 
 [Mark Dery popularized the term "culture jamming" in his
 writing](http://en.wikipedia.org/wiki/Mark_Dery)

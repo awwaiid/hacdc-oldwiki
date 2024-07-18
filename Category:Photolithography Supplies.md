@@ -9,7 +9,7 @@ These materials work well...
     [Datasheet.](http://www.alliedelec.com/images/products/datasheets/bm/MG_CHEMICALS/70125847.pdf)
     Specifically recommend 590-660 .
 
-## Developer Chemicals {#developer_chemicals}
+## Developer Chemicals
 
 -   [Positive Developer Chemical - Compatible with above presensitized
     copper clad
@@ -20,7 +20,7 @@ These materials work well...
 Starting from raw materials may be cheaper and doable, but has yet to be
 thoroughly tested.
 
-## Substrate {#substrate_1}
+## Substrate
 
 -   [5 x 8 Scissor Cut Ultra Thin Copper Clad - Cheap for
     Photolithographic PCB
@@ -28,7 +28,7 @@ thoroughly tested.
 -   [10x 6x8" Photosensitive Dry Film
     Sheets](http://www.amazon.com/Negative-Film-Photoresist-Sheets-Prototype/dp/B00B0Z8AZ6/ref=sr_1_3?ie=UTF8&qid=1387391738&sr=8-3&keywords=photosensitive+dry+film)
 
-## Developer Chemicals {#developer_chemicals_1}
+## Developer Chemicals
 
 -   [Sodium Carbonate Washing Soda. May not be suitable for processing
     positive

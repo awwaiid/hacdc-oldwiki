@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-05-25 Special Member Meeting's
 agenda (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 May 25, 2010 Meeting called to order at 7:08pm by el Presidente
 
@@ -13,7 +13,7 @@ Others:
 
 [Quorum](Quorum) yes! we rock!
 
-## New Business {#new_business}
+## New Business
 
 -   Current cash (after one time expenses): \$7000 - 8000
 -   Current cash in bank: \$7000 - 7500

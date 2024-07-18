@@ -1,7 +1,7 @@
 This is a proposal to create an ongoing event aimed at procuring more
 quality hardware for HacDC.
 
-## Proposal Vitals {#proposal_vitals}
+## Proposal Vitals
 
 **Status**: In Progress, Discussion
 
@@ -15,7 +15,7 @@ quality hardware for HacDC.
         hardware
     -   To develop & demo creative ways of recycling computers
 
-## Detailed Proposal {#detailed_proposal}
+## Detailed Proposal
 
 A lot of local companies and non-profits have old computers sitting
 around. They know they need to destroy the data before the dispose of

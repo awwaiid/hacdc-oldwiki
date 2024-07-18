@@ -1,6 +1,6 @@
 This is the project page for webcams in HacDC.
 
-## Current Proposals {#current_proposals}
+## Current Proposals
 
 -   Option 1
 
@@ -20,9 +20,9 @@ etc). -- either two linux machines for two instances of Presenter@hacdc
 in Jitsi, or one and another Linux VM (for the projector) but both using
 Webcamstudio and VNC.
 
-## Tested Platforms {#tested_platforms}
+## Tested Platforms
 
-### Google Hangouts {#google_hangouts}
+### Google Hangouts
 
 Good
 
@@ -44,7 +44,7 @@ Bad
 
 -   BW intensive (peered connections, no mixing)
 
-### Web RTC {#web_rtc}
+### Web RTC
 
 Good
 
@@ -59,7 +59,7 @@ Bad
 All platforms tested with dual core 1.8ghz and 2-3 users, on HacDC clear
 wireless and Verizon 4g LTE
 
-## Posting Links {#posting_links}
+## Posting Links
 
 people who host the hangout for events should post the link to the
 hangout as many places as they see fit just so long as it isn't a public
@@ -75,7 +75,7 @@ member meetings i would suggest we consistently post a link in 3 places
 if we have an on the air view only stream we should also post that link
 to blabber as our meetings are intended to be public.
 
-## Relevant member dlist topics {#relevant_member_dlist_topics}
+## Relevant member dlist topics
 
 -   <https://groups.google.com/a/hacdc.org/forum/#!topic/members/w0VXzNA7Lao>
 -   <https://groups.google.com/a/hacdc.org/forum/#!topic/members/2s4RWBiq6qo>

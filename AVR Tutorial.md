@@ -17,7 +17,7 @@ contribute, feel free.
 
 [Useful AVR Links](Useful_AVR_Links)
 
-## The Basics (take these in order): {#the_basics_take_these_in_order}
+## The Basics (take these in order):
 
 [AVR Lesson: Setup](AVR_Lesson:_Setup): Get a programmer, a
 chip, the software, and some parts
@@ -44,7 +44,7 @@ to get analog outputs. Dimming LEDs or Crossfading Cylon Eyes
 Conversion](AVR_Lesson:_Analog-digital_Conversion):
 Automatical Dimming Night Light
 
-## Advanced Material (mix-n-match): {#advanced_material_mix_n_match}
+## Advanced Material (mix-n-match):
 
 [AVR Lesson: Watchdog Timers](AVR_Lesson:_Watchdog_Timers):
 

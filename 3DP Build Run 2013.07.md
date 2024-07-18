@@ -26,7 +26,7 @@ designs.
 4.  Set some form of gathering schedule or build timeline. (a little
     structure is good)
 
-### Which model? {#which_model}
+### Which model?
 
 #### Deltas
 
@@ -65,7 +65,7 @@ designs.
     :   Some design concerns; wear at base rotation points, accuracy on
         reel drives
 
-### Mentors / Guides {#mentors_guides}
+### Mentors / Guides
 
 Unbeknowst to them, considering asking Julia and/or mirage.
 

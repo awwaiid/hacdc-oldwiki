@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: May 12th, 2020
 :   Called to order at 7:40 pm by Karen
@@ -12,23 +12,23 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_02_11) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_02_11)
 
 Approved
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 No new members
 
-## Old Business {#old_business}
+## Old Business
 
 -   John wants to make sure that cleaning the space stays on the radar,
     and Tayeb will look for additional recycling options because Ft
     Totten is not currently accepting recycling.
 
-## New Business {#new_business}
+## New Business
 
 -   Karen -- We want to host online activities at HacDC, to keep us
     active during the lockdown. Luis may be able to spearhead a "work
@@ -41,21 +41,21 @@ No new members
     hospitals. Matt will get in contact with local hospitals to assess
     need and requirements for helping
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Current balance is \$4700, including Paypal (so all of our assets). We
 have 19 paying members currently. As Don stated, we are far under and we
@@ -68,9 +68,9 @@ impacting our cash flow. We also may still have \$1500 in Facebook
 waiting to be transferred in donations, and there may be funds available
 for non-profits impacted by the shelter-in-place order.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

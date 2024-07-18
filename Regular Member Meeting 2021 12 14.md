@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date Tue 14 Dec 2021
 :   Called to order at 7:47pm pm by Tayeb
@@ -13,16 +13,16 @@
 
 -   = board members
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
 Tristan - for Microfabrication and FreeCAD events donors - special
 thanks... just because
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 New Workspace Oversight Person - Rev. Rondesia Jarrett-Schell; wants to
 know who is using the roof (and when we use it) and when/how they need
@@ -41,7 +41,7 @@ prevent from going back and forth to space Annual Survey (by Michelle) -
 more in-depth discussion at Board member Coinbase Hack - why oh why,
 Coinbase? was always "fun money", now is "gone money"
 
-## New Business {#new_business}
+## New Business
 
 Zoom - want to switch from Jitsi; initially requested by Ethan; will use
 TechSoup nonprofit account; former person setup was Nicholas (secretary
@@ -64,37 +64,37 @@ use coupons or others); would be interested in donating
 PairsMathGame.com - Phil interested in helping share his invention
 during the Rockville event
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
-#### ??? {#section_1}
+#### ???
 
 ## Adjournment
 

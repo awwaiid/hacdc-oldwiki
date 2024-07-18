@@ -1,4 +1,4 @@
-## ze microTweeter {#ze_microtweeter}
+## ze microTweeter
 
 This microTweeter application was written so I could learn python and
 play with my microcontroller a bit. Its a combination twitter

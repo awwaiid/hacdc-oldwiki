@@ -11,7 +11,7 @@ From the HacDC Bylaws, Article III, Section 2:
 This meeting will also serve as the monthly meeting for the month of
 March.
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 March 12, 2013
 
@@ -26,7 +26,7 @@ Others Present: Logan, Graham
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 02
 12](Regular_Member_Meeting_2013_02_12) Approved unanimously.
@@ -39,17 +39,17 @@ Tim Slagle for being treasurer. And proposing Project Awesome.
 
 And the entire board.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Absent.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Nothing to report.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for February 2013:
 ![](HacDC_Financials_2013_02.pdf "HacDC_Financials_2013_02.pdf"). We
@@ -62,7 +62,7 @@ regular (non-earmarked) monthly net of \$563.
 
 Quorum is 14.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 We had a surplus so I am able to declare a \$450 Project Awesome
 dividend and add \$113 to our reserves. Here is the Project Awesome
@@ -79,11 +79,11 @@ out there, file a report or have someone else do it! And if you don't
 think you'll want to continue as coordinator, please turn it over to
 someone else.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Announcements, membership database.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -95,9 +95,9 @@ about HacDC.
 
 Absent.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 A bunch of research was done, resulting in a comparison
 \[<https://docs.google.com/spreadsheet/ccc?key=0Ai_FSnJ6DCsUdEpPdDJhM2Y0WUQ5eEw4TzRHMm84SWc&usp=sharing>\|
@@ -105,7 +105,7 @@ spreadsheet\] and more [links](LaserCutterLinks) to
 manufacturers and articles. HacDC's front door is 30.5 inches wide which
 limits our choices substantially.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Won a \$10K grant (InformSec)! Can be spent on ham equipment, raspberry
 pis, macbook and macbook air. Also on CDs. The money will go through
@@ -113,19 +113,19 @@ HacDC.
 
 Haven't heard back about FEMA grant (no applicants have).
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Earmarked balance large enough to pay for some tools and supplies, need
 to check out existing bin to see what we already have available.
 
-### Project 3DP {#project_3dp}
+### Project 3DP
 
 Do we want to keep buying plastic? Andy will pass the baton to mirage335
 as coordinator.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Shawn Nock {#shawn_nock}
+### Shawn Nock
 
 GrindDC (HacDC Biohacking Group) hasn't been active for an entire year
 yet... but we've made impressive progress. A functional Biosignal Amp
@@ -149,7 +149,7 @@ Challenges moving forward:
 -   Electro-physiology and DIY EEG/EMG: Designing analysis software and
     novel applications for the Biosignal Amp Mirage designed.
 
-### Dan Barlow {#dan_barlow}
+### Dan Barlow
 
 Have been telling you about Jon Singer's moving adventure. Do you know
 anyone who wants a transformer (designed to be immersed in oil)? Give
@@ -160,7 +160,7 @@ Dan feedback about what HacDC wants/needs.
 See e-mail. (Looking for hardware for old video games for an electronic
 literature showcase.)
 
-### David Whiteis {#david_whiteis}
+### David Whiteis
 
 [F3-robot](F3-robot) (used to sequence human genome). Brought
 stuff that can be claimed but not left in the space.
@@ -171,18 +171,18 @@ Would like laptops for HARC. Offline discussion.
 
 Occupancy sensor is working fine.
 
-### Martin {#martin_1}
+### Martin
 
 There are new HARC postcards that will be sent to FCC license-holders in
 DC.
 
-## Old Business {#old_business}
+## Old Business
 
 None.
 
-## New Business {#new_business}
+## New Business
 
-### Approve new Standing Rules {#approve_new_standing_rules}
+### Approve new Standing Rules
 
 Because the Standing Rules are not fully completed and we haven't had
 much time to discuss them among the members before voting, we can just
@@ -193,7 +193,7 @@ the other parts of the Standing Rules at future monthly member meetings.
 
 Unanimously approved.
 
-### Anti-Harassment Policy and Diversity Statement {#anti_harassment_policy_and_diversity_statement}
+### Anti-Harassment Policy and Diversity Statement
 
 [Anti-Harassment Policy](Anti-Harassment_Policy) and
 [Diversity Statement](Diversity_Statement) need to be voted
@@ -281,13 +281,13 @@ else voted for Proposal 1. Proposal 1 is approved.
 
 Diversity Statement approved unanimously.
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 ### President
 
 Ben has been nominated and wins by default.
 
-### Vice-President {#vice_president}
+### Vice-President
 
 Shahar and Chris and Reuven have been nominated. Chris wins.
 
@@ -299,11 +299,11 @@ Katie has been nominated and wins by default.
 
 David Mc has been nominated and wins by default.
 
-### At-Large Directors (two) {#at_large_directors_two}
+### At-Large Directors (two)
 
 Shawn Nock and Reuven are nominated and win by default.
 
-## New Members {#new_members}
+## New Members
 
 Logan is originally from DC and just moved back here about a year ago.
 Physics background. Programming job. Been coming to GrindDC meetups.

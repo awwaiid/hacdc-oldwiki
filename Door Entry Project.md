@@ -9,7 +9,7 @@ start prototyping the Asterisk back-end.
 Discussion is taking place on [the red door mailing
 list](http://hacdc.org/mailman/listinfo/reddoor_hacdc.org).
 
-# Current plans {#current_plans}
+# Current plans
 
 As per a discussion Nate had with Brian on Tuesday, December 16th, here
 are the current plans:

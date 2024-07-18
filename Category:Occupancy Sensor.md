@@ -83,7 +83,7 @@ Some of the fimware-included commands are as follows.
 Note the database is limited to short names and about 50 members, at
 \~500B EEPROM storage.
 
-## Planned Upgrades {#planned_upgrades}
+## Planned Upgrades
 
 -   ) SD card support is easy to provide to AVR/Arduino platforms,
     offering virtually unlimited storage capacity.
@@ -99,7 +99,7 @@ Router based occupancy sensor is on the way out. Lack of a crystal
 oscillator does not guarantee operation internal communication with the
 microcontroller when significantly beyond room temperature.
 
-## Maintenance {#maintenance_1}
+## Maintenance
 
 Wired network configuration is set to DHCP, wireless configuration can
 be set by connecting a computer to the LAN interface. Microcontroller
@@ -115,14 +115,14 @@ addition to the hardware designs listed below, members like "haxwithaxe"
 and "eryc" have contributed supporting infrastructure like
 [WOPR](WOPR).
 
-## NetPLC {#netplc_1}
+## NetPLC
 
 Open-source hardware designed by mirage335. Both RFID and Occupancy
 Sensing functions are supported. Compatible with Arduino Leonardo
 bootloader, based on an ATMega32U4 microcontroller, with on-board
 provisions for wired and wireless connectivity.
 
-## WRT54GL {#wrt54gl_1}
+## WRT54GL
 
 Second occupancy sensor, configured by mirage335, using a WRT54GL with
 barebones AVR chip hardwired to internal serial TX/RX pads. Data was

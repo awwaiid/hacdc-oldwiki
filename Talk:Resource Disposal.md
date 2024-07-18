@@ -1,4 +1,4 @@
-## Changed "property" to "junk" {#changed_property_to_junk}
+## Changed "property" to "junk"
 
 One of the primary purposes of a hacker space is to hold nifty stuff
 that the members can't store at their residences or simply wish to make

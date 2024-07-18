@@ -1,31 +1,31 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 August 19, 2008 7:30 - (ending no later than 8:30 PM) HacDC, 1525 Newton
 St NW, Washington, DC. (Space)
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 -   Revise and Approve Minutes
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 **Times reflect allocated discussion time if moved to New Business**
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-## Member Reports {#member_reports}
+## Member Reports
 
 (One minute per member who wishes to give a quick report)
 
-## Old Business {#old_business}
+## Old Business
 
 -   Approve new members (10 mins)
 
 Timball would like to sponsor Serge
 
-## New Business {#new_business}
+## New Business
 
 [Category:Meeting Minutes](Category:Meeting_Minutes)

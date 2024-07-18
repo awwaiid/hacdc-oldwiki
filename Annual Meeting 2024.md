@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 `   Date: 03/26/2024`\
 `   Location: HacDC`
@@ -34,7 +34,7 @@ Meeting called to order at
 
 `   Yes`
 
-## New Business {#new_business}
+## New Business
 
 Use of dangerous or breakable equipent. SLA Printer, welding equipment
 in the basement. Who has access to these tools and whether that is
@@ -42,7 +42,7 @@ limited to members or potentially limited further to member who have
 been approved by someone who has acknowledged authority over that
 equipment.
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 
@@ -57,7 +57,7 @@ Results of the elections are as follows:
 `   At large seats: Sven stood for election unopposed.`\
 `                   Don Jones / John Pancoast`
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

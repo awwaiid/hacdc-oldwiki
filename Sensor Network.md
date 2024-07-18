@@ -8,7 +8,7 @@ The goal of this project is: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Format ? ---\>\[ XMPP server \]\<--- ? Message Format ? ---\>\[ XMPP
 client \]
 
-### Wire Language {#wire_language}
+### Wire Language
 
 The wire language will be device-specific. Devices can speak any
 language they want as long as someone has written a "driver" to
@@ -21,7 +21,7 @@ support datagrams up to 1022 bytes over a mesh of
 [JeeNodes](http://cafe.jeelabs.net/lab/jn5/). The goal is to support up
 to 4 hop meshes of up to 26 nodes plus 4 servers/gateways each.
 
-### Message Format {#message_format}
+### Message Format
 
 Since XMPP messages are already XML, I think it makes sense to use an
 XML vocabulary as the message format.

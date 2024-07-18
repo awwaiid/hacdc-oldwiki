@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 June 12, 2012
 
@@ -11,24 +11,24 @@ Others Present: dan
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 05
 08](Regular_Member_Meeting_2012_05_08) \*approved\*
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 teaching a class for kcdc. thursdays.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 carolinacon == awsome videos on blip.tv/carolinacon mountpleasant mesh
 stuff: antenna mast + router installed not close enough to get a signal
 HOPE9, byzantium release planned all's well
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for May 2012:
 ![](HacDC_Financials_May_2012.pdf "HacDC_Financials_May_2012.pdf")
@@ -54,9 +54,9 @@ takes about a week to get verified. Our Dwolla Hub page is at:
 payment there. I will work on getting payment buttons on the HacDC web
 page. Let me (TimS) know if I can answer questions or help you sign up.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -64,7 +64,7 @@ page. Let me (TimS) know if I can answer questions or help you sign up.
 
 wikimainia 12-15 \@GWU
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### ITechGeek
 
@@ -113,7 +113,7 @@ Facebook group members: 337
 
 Twitter followers: 1368 (We passed 1337 earlier this month!)
 
-### Tim Slagle {#tim_slagle}
+### Tim Slagle
 
 I am working on writing Standing Rules to guide our day-to-day doings. I
 am fleshing out an outline now. I'll send it out for comments when a
@@ -133,11 +133,11 @@ NEW AND IMPROVED! hacdc hackerpassport stamp.
 
 adacamp: supporting women in opensource. <http://dc.adacamp.org>
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 dan k: works at adobe, gearhead, autorepair, etc. approved unanimously.
 

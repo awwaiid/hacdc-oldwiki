@@ -1,8 +1,8 @@
-# Team Members Roles {#team_members_roles}
+# Team Members Roles
 
 Enrique
 
-# Project Links {#project_links}
+# Project Links
 
 -   **[Google Sheet of all
     Components](https://docs.google.com/spreadsheets/d/1pbtn7ECg-q11PLaRodAbiNXFW9PaxQSlg8VCRAd21Sg/edit?usp=sharing)**

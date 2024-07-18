@@ -2,7 +2,7 @@
 
 The problem: <http://en.wikipedia.org/wiki/Zooko's_triangle>
 
-## Suggested Reading {#suggested_reading}
+## Suggested Reading
 
 [CJDNS](https://github.com/cjdelisle/cjdns) - CJDNS == CJD's Network
 Suite. it does not contain a ddns system yet. it currently uses plain

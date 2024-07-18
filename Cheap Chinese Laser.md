@@ -146,7 +146,7 @@ power strip which all the line voltage equipment plugs into: exhaust
 fan, cooling pump, laser chassis, 12V power supply (marginal one
 installed currently to power the cutting chamber accessory lights).
 
-## Safety Interlocks {#safety_interlocks}
+## Safety Interlocks
 
 **Only some of these safeties (cutting chamber cover, control cover, &
 water level) are installed presently.** Don't go futzing around with
@@ -244,7 +244,7 @@ control panel (SAFETIES; middle of three).
 5.  Roll cabinet back under the shelf
 6.  Continue with your evil plans for world domination
 
-## Custom Wiring {#custom_wiring}
+## Custom Wiring
 
 Julia had some LED strips she wanted installed. We succeeded. They
 illuminate when the main power is turned on.
@@ -326,7 +326,7 @@ or links to them would go here.
   Right
   Connectors at front of middle power supply are labeled
 
-## Custom Parts {#custom_parts}
+## Custom Parts
 
 Images of custom parts like the exhaust nozzles and eventually a new
 control panel and source files for 3d printed or laser cut parts can go
@@ -375,7 +375,7 @@ cutouts for switches, knobs, lamps, etc.
 7.  Green connectors for smoothieboard and laser power supply
     [2](https://www.amazon.com/uxcell-Terminals-Pitch-Mount-Terminal/dp/B00E6Q4FE6/ref=sr_1_9?ie=UTF8&qid=1493691567&sr=8-9&keywords=pluggable+terminal+block+connector)
 
-## To-Do Tasks {#to_do_tasks}
+## To-Do Tasks
 
 1.  Airflow switch housing
     1.  manufacture
@@ -411,7 +411,7 @@ cutouts for switches, knobs, lamps, etc.
     5.  backup the raspi so when the sdcard fails we don't have to
         rebuild it.
 
-## Completed Tasks {#completed_tasks}
+## Completed Tasks
 
 If you do work on the laser, please record it here.
 
@@ -489,7 +489,7 @@ Tom moved a connector on the ACR board - problem solved. Mirrors now
 move correctly under computer control but computer could not fire laser.
 Left with enable disconnected. Time to examine power supply schematic.
 
-## Additional Reading {#additional_reading}
+## Additional Reading
 
 1.  [Laser blog](http://howell.seattle.wa.us/essays/lasercutter.shtml)
 2.  [Reddit K40 wiki](https://www.reddit.com/r/lasercutting/wiki/k40)

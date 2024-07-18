@@ -1,6 +1,6 @@
-## Andrew Q Righter {#andrew_q_righter}
+## Andrew Q Righter
 
-### Security Researcher {#security_researcher}
+### Security Researcher
 
 ![](Qlabs-photo1.jpg "Qlabs-photo1.jpg")
 

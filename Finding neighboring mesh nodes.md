@@ -21,7 +21,7 @@
     -   MP3 players
     -   Computers not running Byzantium
 
-# Existing protocols {#existing_protocols}
+# Existing protocols
 
 -   Avahi/ZeroConf/mDNS
 -   Included in Porteus Linux

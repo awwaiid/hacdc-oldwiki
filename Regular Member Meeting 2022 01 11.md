@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date Tue 11 Jan 2022
 :   Called to order at 7:35 pm by Tayeb
@@ -12,7 +12,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -21,9 +21,9 @@ Kevin - communications & risk management process (website and wiki
 backups) John - funding & relevant new programming (grant proposal
 acceptance)
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 1.  Zoom - want to switch from Jitsi; initially requested by Ethan; will
     use TechSoup nonprofit account; former person setup was Nicholas
@@ -56,7 +56,7 @@ acceptance)
 7.  PairsMathGame.com - Phil interested in helping share his invention
     during the Rockville event
 
-## New Business {#new_business}
+## New Business
 
 1.  Board Member Elections \* - on Mar 8 during regular Monthly Members
     Meeting; decided during Board member meeting we had on Dec 21
@@ -129,41 +129,41 @@ acceptance)
 \_\_\_\_ (\*) = Address in first 30 minutes for full Board member
 attendance
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Louie - will terminate membership; "gave it a year" to be useful to him
 and it hasn't; now doing some cool digital art stuff; possibility
 remains to rejoin
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
-#### ??? {#section_1}
+#### ???
 
 ## Adjournment
 

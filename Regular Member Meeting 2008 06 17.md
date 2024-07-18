@@ -14,7 +14,7 @@ These are the minutes of the Regular Member Meeting held on June 17,
 -   Location: HacDC, 1525 Newton St NW, Washington DC, 20010, USA
 -   Presiding: Andrew Righter, Coordinator in Chief
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 -   The [ May 20 Meeting
     Minutes](Regular_Member_Meeting_Minutes_2008_05_20), as
@@ -24,7 +24,7 @@ These are the minutes of the Regular Member Meeting held on June 17,
     Meeting](Regular_Member_Meeting_Minutes_2008_06_10) were
     reviewed
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 The following items were removed from the Consent Agenda:
 
@@ -40,14 +40,14 @@ The following items were approved by consensus:
     Project](Physical_Access_Control_Project) (i.e. Door
     Unlockerator Project)
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief {#coordinator_in_chief}
+### Coordinator in Chief
 
 Projects going well. Covered the reverse engineering class being held at
 the end of June.
 
-### Ministry of Finance {#ministry_of_finance}
+### Ministry of Finance
 
 [ Report for June 13](MoF_Report_2008_06_13). Nick also
 indicated he was pondering ways to move to a better way to account for
@@ -55,16 +55,16 @@ indicated he was pondering ways to move to a better way to account for
 automatically via PayPal, our Rent is paid. \$1003.91 in equipment,
 including tools and shelving.
 
-### Keeper of the MIBS {#keeper_of_the_mibs}
+### Keeper of the MIBS
 
 Derek announced his resignation. Nick noted that the meeting minutes are
 wikified after a meeting, and can be edited by group members.
 
-### Minister of Information {#minister_of_information}
+### Minister of Information
 
 New Theme for HacDC Blog is finished.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Nick Farr: [ Columbia Heights
     Wireless](Columbia_Heights_Wireless) project: We met with
@@ -75,13 +75,13 @@ New Theme for HacDC Blog is finished.
     Has been taking pictures of the more interesting pieces from the
     patent examiner's collection.
 
-## Old Business {#old_business}
+## Old Business
 
 No Old Business is currently pending
 
-## New Business {#new_business}
+## New Business
 
-### [ Resource Use Policy](Resource_Use_Policy) {#resource_use_policy}
+### [ Resource Use Policy](Resource_Use_Policy)
 
 -   Ben was concerned with resource policy, particularly disposal
     requirements.
@@ -106,11 +106,11 @@ No Old Business is currently pending
 
 **Passes by consensus**
 
-### [ Central Services Concept](Central_Services) {#central_services_concept}
+### [ Central Services Concept](Central_Services)
 
 Nothing discussed due to time
 
-### Approve new members {#approve_new_members}
+### Approve new members
 
 No new members appeared to be approved. As of this meeting, 4 persons
 have signed up to pay dues and have not been officially approved as

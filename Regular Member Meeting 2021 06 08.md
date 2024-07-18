@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: June 8th 2021
 :   Called to order at 7:36 pm by ????
@@ -11,15 +11,15 @@
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
 -   Open Project Night -- everyone who showed up and Gabe for hosting!
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Food Kitchen -- Karen has been there, group volunteering possible.
     Likely in two weeks Saturday morning (9am-12pm) -- Update: No spots
@@ -62,54 +62,54 @@ ventilating the space better. Links:
 <https://www.amazon.com/gp/product/B00BWYO2PM>,
 <https://www.amazon.com/dp/B00BWYO3X8>
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-\- Report and updates
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project SpaceBlimp -Enrique
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+\- Report and updates
 
-## Member Reports {#member_reports}
+### Project Media Outreach - Matt
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+### Project IT Infrastructure - Tom
 
-### President's Report {#presidents_report}
+## Member Reports
+
+## Director Reports (Governance related stuff)
+
+### President's Report
 
 Our ongoing plan with the church for reduced rent during Covid is coming
 to an end. After discussing with Mike, we will be stepping the rent back
 up now that 10 or more individuals are allowed in the physical space.
 The rent will be stepped up in July and then September again.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
-#### ??? {#section_1}
+#### ???
 
 ## Adjournment
 

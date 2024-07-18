@@ -1,6 +1,6 @@
 ![](HacDC_phone.jpg "HacDC_phone.jpg")
 
-## Executive Summary {#executive_summary}
+## Executive Summary
 
 We need a phone in the space so people can see if someone's there and
 the space is open. (Or to call for cupcakes in case of broken pinkie.)
@@ -49,6 +49,6 @@ class to give us a hand.
 
 We've got a number: ~~(202) 595-2274~~ ~~253 243 2280~~ ~~202 870 5002~~
 
-## Prior Art: Links and References {#prior_art_links_and_references}
+## Prior Art: Links and References
 
 [Category:Previous_Projects](Category:Previous_Projects)

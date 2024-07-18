@@ -10,9 +10,9 @@ With guest appearances by:
 
 -   Darius
 
-# New Business {#new_business}
+# New Business
 
-## Exploration of the Basement Storage Area {#exploration_of_the_basement_storage_area}
+## Exploration of the Basement Storage Area
 
 We went down to the basement because Mirage mentioned that there was a
 binocular microscope stored there. The microscope was found, but it was
@@ -23,7 +23,7 @@ A small (10x14x20") fish tank was discovered that will be useful for an
 initial build of the [Physiological
 Saline](PhysiologicalSaline) testing apparatus.
 
-## Pacemaker Project {#pacemaker_project}
+## Pacemaker Project
 
 To facilitate testing of biomaterials, a simple and small test implant
 was proposed. It was proposed that we create a reproduction of an
@@ -35,9 +35,9 @@ Having a "go to" easy implant will allow us to start quickly testing
 realistic payload. Bonus: blinking red LED *heartbeat* is pretty rad
 especially once installed in the saline pods.
 
-# Old Business {#old_business}
+# Old Business
 
-## tDCS v4 Prototypes {#tdcs_v4_prototypes}
+## tDCS v4 Prototypes
 
 PCBs for the tDCS v4 were sent priority mail on Oct 30th. They should
 arrive in time to be built next meeting.

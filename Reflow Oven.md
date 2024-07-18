@@ -15,7 +15,7 @@ input system.
 -   Provide real time output via serial
 -   All through hole (otherwise you're in chicken vs egg mode)
 
-# Parts List {#parts_list}
+# Parts List
 
 -   SPST Relay (at least 30 amps)
 -   AVR (At least ATMega168, possibly ATMega328

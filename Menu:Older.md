@@ -1,4 +1,4 @@
-### Older productions {#older_productions}
+### Older productions
 
 `<strong>`{=html}\< Ask us about any project you'd like to resurrect
 \>`</strong>`{=html}

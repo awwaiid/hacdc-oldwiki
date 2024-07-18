@@ -1,4 +1,4 @@
-## Interesting Attractions {#interesting_attractions}
+## Interesting Attractions
 
 -   [Historic code breaking computers and home of mathematician Alan
     Turing](http://www.bletchleypark.org.uk/)

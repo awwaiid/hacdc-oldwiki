@@ -10,7 +10,7 @@
     price.](http://www.goldstar.com/events/browse/20201)
 -   [For art and local culture stuff](http://pinklineproject.com/)
 
-## Museums, Clubs, Orgs {#museums_clubs_orgs}
+## Museums, Clubs, Orgs
 
 -   [Smithsonian National Air and Space Museum](http://www.nasm.si.edu/)
     Amazing overview of mans efforts of lifting himself off the ground.

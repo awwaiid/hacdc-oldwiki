@@ -1,4 +1,4 @@
-# Household Emergency Prep {#household_emergency_prep}
+# Household Emergency Prep
 
 ## Indoors
 
@@ -7,14 +7,14 @@
 -   DO NOT BURN STUFF INSIDE THE HOUSE unless you have a fireplace or
     the like that has ventilation.
 
-### Cold Weather {#cold_weather}
+### Cold Weather
 
 -   use rocks/bricks/concrete to transfer heat from a outdoors fire
     inside the house using cotton or wool clothe to wrap them after
     removing them from the fire so you don't burn yourself of stuff
     inside the house.
 
-### Warm Weather {#warm_weather}
+### Warm Weather
 
 -   water mist near doorways or around porches cools the air nearby.
 
@@ -28,9 +28,9 @@
 
 -   store dry wood in recycle bins and trashcans and secure the lids
 
-### High Wind {#high_wind}
+### High Wind
 
 -   store or tie down items such as lawn furniture, tables, umbrellas,
     flowerpots, construction material, etc.
 
-# After The Event {#after_the_event}
+# After The Event

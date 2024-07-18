@@ -1,13 +1,13 @@
 This page refers to the space HacDC rented from 2010 to 2015 and is
 currently out of date; we have moved to suite 212.
 
-## Current Space Plan {#current_space_plan}
+## Current Space Plan
 
 This is based on all meetings to date including the space planning
 meeting on 6/4 and the shop planning meeting on 6/14. Please leave
 feedback on the wiki, or on the members list. Thanks!
 
-### Meeting Room {#meeting_room}
+### Meeting Room
 
 -   36" kitchen counter height 24" deep "bar tables" around the meeting
     room perimeter, except in front of windows and part of the room for
@@ -38,7 +38,7 @@ feedback on the wiki, or on the members list. Thanks!
 -   If necessary we can add more storage under some of the bar tables,
     though it might block some leg room
 
-### Upstairs Workshop {#upstairs_workshop}
+### Upstairs Workshop
 
 At the meeting last night (6/14) we roughly agreed on the following
 (please correct errors/omissions):
@@ -68,7 +68,7 @@ At the meeting last night (6/14) we roughly agreed on the following
     side of the room. It would support the projector and any other
     ceiling-mounted gear.
 
-### Basement / Wood shop {#basement_wood_shop}
+### Basement / Wood shop
 
 -   layout unknown - use is half wood working and half stock/long term
     storage
@@ -85,7 +85,7 @@ See image gallery for sketches and renderings. Meeting room sketchup
 rendering is still roughly what was discussed - workshop 2D diagram is
 out of date based on shop meeting on 6/14.
 
-## Image Gallery {#image_gallery}
+## Image Gallery
 
 ![Both rooms](Hacdc_space2_bothrooms.png "Both rooms"){width="640"}
 ![Just the shop](Hacdc_space2_shop.png "Just the shop"){width="640"}
@@ -121,7 +121,7 @@ times are not open for heavy moving due to noise concerns:
 Next planning meeting is Tuesday 6/1 at 7pm. All members are encouraged
 to attend so everyone can help make the new space awesome.
 
-## Wishlist of equipment for new space {#wishlist_of_equipment_for_new_space}
+## Wishlist of equipment for new space
 
 This list is just a stub, please fill out with actual desired equipment
 and list projects it would be used for.
@@ -219,12 +219,12 @@ potential sources of free/discounted items.
 
 -   etc.
 
-## Sightings of good potential equipment, furniture, etc online {#sightings_of_good_potential_equipment_furniture_etc_online}
+## Sightings of good potential equipment, furniture, etc online
 
 -   [\$1000 separate mill and
     lathe](http://baltimore.craigslist.org/tls/1736377934.html)
 
-## Space Specs {#space_specs}
+## Space Specs
 
 -   See current space plan for most recent design ideas (above)
 -   2 rooms, each roughly 400 sq ft, plus hallway, plus basement
@@ -234,7 +234,7 @@ potential sources of free/discounted items.
 -   [Dan Barlow's workshop
     suggestion](http://www.bobdbob.com/~graysoul/hacdc/spaceplan/hacdc1.svg)
 
-## Use Cases {#use_cases}
+## Use Cases
 
 -   Simultaneous activities in both rooms
 -   Hanging out (unstructured activity, socializing)
@@ -312,7 +312,7 @@ Use cases from email list:
      - projector
      - powered speakers
 
-## Dan Barlow's suggestions {#dan_barlows_suggestions}
+## Dan Barlow's suggestions
 
 Permanent space allocation for tool installations (hardware room)
 
@@ -344,7 +344,7 @@ room)
 6.  Preference for folding tables so meeting/project space can be
     configured easily
 
-## David Edwards' suggestions {#david_edwards_suggestions}
+## David Edwards' suggestions
 
 I'd suggest keeping the lounge (the larger room) friendly (or at least
 non-intimidating) to the non-geek. Think coffee shop-meets-lecture hall,
@@ -422,7 +422,7 @@ easy to pick out photos as "oh, that was at HacDC".
 
 Acoustic paneling: Get the fireproof (or at least fire resistant) kind.
 
-## Physical Security Review {#physical_security_review}
+## Physical Security Review
 
 Update
 
@@ -495,7 +495,7 @@ Update
     -   Anchors for conduit around room's perimeter should be checked
         and any broken should be replaced
 
-## Proposed art/design projects in space {#proposed_artdesign_projects_in_space}
+## Proposed art/design projects in space
 
 -   [Redbeard's Hedy Lamarr mural
     idea](http://wiki.hacdc.org/index.php/File:Hedy_lamar_v3.png)
@@ -520,7 +520,7 @@ Update
 
 ## Meetings
 
-### Meeting Minutes 5/28 {#meeting_minutes_528}
+### Meeting Minutes 5/28
 
 Attended: Darius, Daniel P, Andy, Todd, Alberto, Brad, Alan, Redbeard,
 Arc, Jamie, Darian
@@ -558,7 +558,7 @@ To do:
 Next meeting will be Tues June 1st at 7pm. There should be at least one
 or two meetings after that to get all the To do items done.
 
-### Meeting Minutes 6/4 {#meeting_minutes_64}
+### Meeting Minutes 6/4
 
 Themes that keep coming up from member suggestions:
 

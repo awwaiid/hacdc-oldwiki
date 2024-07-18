@@ -2,7 +2,7 @@ Page was created in error.
 
 # Overview
 
-## HacDC-shared-m335-1 {#hacdc_shared_m335_1}
+## HacDC-shared-m335-1
 
 Simple project server, emphasis on availability and uptime.
 
@@ -19,7 +19,7 @@ knowledge of Linux command line use is required.
 
 Ready for delivery to HacDC.
 
-# General Policies {#general_policies}
+# General Policies
 
 Applicable to all use of HacDC server resources.
 

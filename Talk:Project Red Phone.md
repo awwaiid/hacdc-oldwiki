@@ -1,4 +1,4 @@
-## Freeworlddialup connection is online {#freeworlddialup_connection_is_online}
+## Freeworlddialup connection is online
 
 I donated a
 [HT-488](http://www.voip-info.org/wiki/view/Grandstream+Handytone-488)

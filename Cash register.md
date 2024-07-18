@@ -7,7 +7,7 @@ Our cash register is a Sharp XE-A203 ([quickstart
 guide](:media:Cas_qguide_XEA203.pdf), [full
 manual](:media:Cas_man_XEA203.pdf)).
 
-## How to Use the Cash Register {#how_to_use_the_cash_register}
+## How to Use the Cash Register
 
 Before beginning, make sure that the key is set to the *Reg* position.
 If you want a receipt, turn the key to the *OP X/2* position and hit the

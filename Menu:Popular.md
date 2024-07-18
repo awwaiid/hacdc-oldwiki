@@ -1,4 +1,4 @@
-### Popular Links {#popular_links}
+### Popular Links
 
 `<strong>`{=html} \< Common hobbies. \>`</strong>`{=html}
 

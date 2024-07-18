@@ -15,7 +15,7 @@ so far.
 -   November 3, 2009:
 -   December 1, 2009:
 
-## Past Seminars {#past_seminars}
+## Past Seminars
 
 -   December 9, 2008: Gareth Branwyn and Alberto Gaitan, [Dorkbot
     DC](http://www.dorkbot.org/dorkbotdc) co-overlords

@@ -1,4 +1,4 @@
-## TAG: CAPHYDRG {#tag_caphydrg}
+## TAG: CAPHYDRG
 
 IBM Thinkpad T60
 

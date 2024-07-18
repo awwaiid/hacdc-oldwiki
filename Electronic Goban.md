@@ -54,7 +54,7 @@ Of course, it should also have some pointless eastereggs built in...
 [the game of life](http://en.wikipedia.org/wiki/Conway%27s_game_of_life)
 springs to mind.
 
-## Implementation Ideas {#implementation_ideas}
+## Implementation Ideas
 
 Simply but, a big array of multicolor LEDs, each one an "intersection"
 on the board. 19\^2, 361, of them. A glorious sight to behold. Initially

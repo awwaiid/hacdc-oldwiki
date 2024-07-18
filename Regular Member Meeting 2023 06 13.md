@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 2023 06 13
 :   Called to order at 7:40 pm by Obioma
@@ -11,7 +11,7 @@
 
     :   Quorum met? yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_05_09) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_05_09)
 
 yes
 
@@ -19,9 +19,9 @@ yes
 
 -   Thanks to Matt for being a treasurer
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 Internet router has presumably arrived. Kevin can check around 1:30
 tomorrow. Wiki has moved to hacdcserver.org to repair the SSL cert Main
@@ -35,7 +35,7 @@ movie night - Arrival
 ` * New visitor Kevin said he'd be up to run diagnostics on 3d printers.`\
 ` * Schedule a "Call for proposals" on basement uses.`
 
-## New Business {#new_business}
+## New Business
 
 Christopher's school is open to running lessons for students - Capitol
 City Public Charter School. David Park in SE DC, Maurice in DC are eager
@@ -43,37 +43,37 @@ to run lessons on digital literacy and electronics recycling. Phil is
 looking to make a library exhibit to help children expend physical
 energy and learn some physics lessons.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Michelle
 
-#### Don / Brian {#don_brian}
+#### Don / Brian
 
 ## Adjournment
 

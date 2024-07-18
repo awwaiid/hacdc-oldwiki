@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 `   Date: Tuesday, March 12`\
 `   Location: HacDC`
@@ -47,13 +47,13 @@ Meeting called to order at
 
 `   Unknown`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Fundraising Activities - scheduled and proposed
 
@@ -80,9 +80,9 @@ Next Movie night:
 -   Gravity (2013) directed by Alfonso Cuaron, starring Sandra Bullock
     and George Clooney
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 The cash flow spreadsheets should be visible to all present, and there
 are a couple of things I would like to point out. We continue to have a
@@ -116,34 +116,34 @@ discuss the best way to hand off the credentials and any other pressing
 financial matters for HacDC (e.g. filing with the IRS to maintain our
 non-profit status).
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Ken
 
 #### Kevin
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project SEM {#project_sem}
+### Project SEM
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
 Nobody bothered to form a committee so there's no report. All financial
 statements including receipts for all purchases are at the space, in the
 BOD locker, treasurer's folder. The Dwolla statements include member
 names, the rest don't. -Enrique
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
 Rules of the Road - Code of Conduct Review
 
@@ -178,13 +178,13 @@ new benefits. Important to know how many members at what level right
 now. It would be good to have an effort at the April 23rd event to sign
 up members or take donations.
 
-### Bylaws Amendments {#bylaws_amendments}
+### Bylaws Amendments
 
-## New Business {#new_business}
+## New Business
 
 Business license expires in June, James will renew it.
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 
@@ -201,7 +201,7 @@ Results of the elections are as follows:
 Karen moved, Kevin seconded a motion to elect the slate of board
 candidates in a single vote. Motion to elect the slate passed.
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

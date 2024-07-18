@@ -6,7 +6,7 @@ raise money for HacDC and provide a service to conference goers. In the
 future, Hackersmart will be traveling to other
 [Conferences](Conferences).
 
-## Hackersmart Lessons Learned {#hackersmart_lessons_learned}
+## Hackersmart Lessons Learned
 
 ### Preparation
 

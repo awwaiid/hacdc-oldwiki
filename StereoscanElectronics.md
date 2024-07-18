@@ -1,4 +1,4 @@
-# Replacement Devices {#replacement_devices}
+# Replacement Devices
 
 ## Requirements
 
@@ -22,7 +22,7 @@ flexibility in software.
 
 ## Technology
 
-### Maximum Speed, Maximum Dynamic Range ADC/DACs {#maximum_speed_maximum_dynamic_range_adcdacs}
+### Maximum Speed, Maximum Dynamic Range ADC/DACs
 
 Modern audio devices can achieve approximately 120dB dynamic range at
 192kHz sampling rates. The remaining 89.5dB (1V-30kV) dynamic range may
@@ -44,12 +44,12 @@ Candidate devices include:
 
 -   ES9018 (Claims to be a 32-bit DAC.)
 
-### Maximum Resolution ADC {#maximum_resolution_adc}
+### Maximum Resolution ADC
 
 LTC2440 is ATMega32U4/Arduino compatible, and most appropriate for
 independent low-speed applications (ie. vacuum gauge).
 
-### High Performance Analog Amplifier Chips {#high_performance_analog_amplifier_chips}
+### High Performance Analog Amplifier Chips
 
 Same as used in the biosignal amplifier should work here, both for low
 and high-impedance measurement as well as fully differential (using an
@@ -57,11 +57,11 @@ instrumentation amplifier).
 
 ## Hosts
 
-### Beaglebone Black {#beaglebone_black}
+### Beaglebone Black
 
 I2S port seems to be derived from HDMI, which is output only.
 
-### Raspberry Pi {#raspberry_pi}
+### Raspberry Pi
 
 I2S port speed doesn't seem to be specified, though one individual
 reports the use of a software clock to generate 19.2MHz, which some

@@ -1,4 +1,4 @@
-## Recommended Printing Procedure {#recommended_printing_procedure}
+## Recommended Printing Procedure
 
 1.  Assuming Inkscape or Corel draw, make the default page size to be
     12"H x 20"W

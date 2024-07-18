@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   November 18, 2014
 :   Called to order at \_\_\_20:00\_\_\_ by \_\_\_Dan Barlow\_\_\_\_
@@ -17,7 +17,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 10
 14](Regular_Member_Meeting_2014_10_14) Approved.
@@ -26,14 +26,14 @@
 
 Dan Barlow - CNC machining on behalf of HacDC.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Phil's grounddrone Kickstarter is going well and is probably going to
 make it.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Please direct all design inquiries to the members list. Thisservers as a
 notice of plans not a binding policy. It should be discussed outside of
@@ -73,7 +73,7 @@ the meeting.
         appreciated. They will be used as air filters on a custom server
         muffler. Any \~19" quiet fans would also be apreciated.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for October 2014:
 ![](HacDC_Financials_2014_10.pdf "HacDC_Financials_2014_10.pdf"). We
@@ -81,7 +81,7 @@ gained Don Jones as a new member. We lost Blake Wintermute, Christopher
 Hermance, Harry Detwiler, and Abraham Abbas. We have 41 dues-paying
 members in good standing and 6 dues-waived members.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for October:
 ![](HacDC_PA_Projects-2014_10.pdf "HacDC_PA_Projects-2014_10.pdf"). We
@@ -96,12 +96,12 @@ minutes before its status is re-evaluated.
 
 Project SPACECAM is cancelled.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I installed that door handle that I bought two months ago for the Pirate
 bathroom. Otherwise, haven't done much.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 Travis ++++++ HackDC issue has been mostly resolved. They have agreed to
 cease use of the "HackDC" name and stop using the domain name by the end
@@ -125,34 +125,34 @@ products to help those with disabilities. Regardless, I hope to get them
 all to visit us to see our space and talk about the problems they'd like
 help with...
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Officially reported that he hasn't been doing anything.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 No change.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Reimbursed SEM filament. Otherwise, not much happening.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Still running a deficit, still have tools in the basement to setup.
 Nothing spent.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 Cancelled!
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Phil S. has made no progress this past month because of apartment
 troubles.
@@ -192,13 +192,13 @@ better heatsink, and enable higher temperatures in firmware.
 Sincere apologies for not getting to the space sooner and helping with
 Phil Walker's CNC milling project.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Vote to approve \$100 gift to each of our two security guards: Passed.
 
-## New Members {#new_members}
+## New Members
 
 Christine Axsmith: Very active in HARC. She has helped us out a ton with
 publicity. Approved.

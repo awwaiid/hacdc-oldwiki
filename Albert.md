@@ -7,7 +7,7 @@ albert is an infrastructural VM host and nothing else.
 Admin access only. Email support@hacdc.org if you need to report an
 issue.
 
-# Admin Notes {#admin_notes}
+# Admin Notes
 
 ## Case
 
@@ -26,14 +26,14 @@ issue.
 -   2 internal front 3.5 inch slots
 -   2 3.5 inch slots on spreader bar
 
-### Addon Cards {#addon_cards}
+### Addon Cards
 
 -   RAID/SATA controller
     -   ports
     -   model
 -   GPU see [Server_Albert#GPU](Server_Albert#GPU)
 
-## Mother Board {#mother_board}
+## Mother Board
 
 ### RAM
 
@@ -147,7 +147,7 @@ issue.
     -   Version - stable
     -   Arch - amd64
 
-# OS Config {#os_config}
+# OS Config
 
 ## DomU
 
@@ -201,7 +201,7 @@ issue.
 
 ## Software
 
-#### Xen HVM {#xen_hvm}
+#### Xen HVM
 
 -   domain configs /etc/xen/conf
 -   configs tracked with git

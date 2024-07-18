@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: January 8 2019
 :   Called to order at 7:37 pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Y
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2018_12_18) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2018_12_18)
 
 ## Recognition
 
@@ -19,11 +19,11 @@ Thanks Kevin for changing my wiki password. Again. Thanks Julia and bon
 voyage to you and Jesse! Thanks Dave for getting the server downstairs
 up and running (supercomputers are go)
 
-## New Members {#new_members}
+## New Members
 
 Dan - interested in 3d printing, Blender, etc.
 
-## Old Business {#old_business}
+## Old Business
 
 Ken concerned about air quality
 
@@ -68,7 +68,7 @@ Fundraising
 -   Kevin has an idea for a venue for a fundraising event - Exiles on U
     Street NW - trivia night
 
-## New Business {#new_business}
+## New Business
 
 -   **'Bot in search of a good home:** ITechGeek has been hosting the
     IRC 'bot on his personal VPS, and has asked that it be moved to an
@@ -78,31 +78,31 @@ Fundraising
     -   [Reserving St. Stephen's
         auditorium](https://www.saintstephensdc.org/using-the-auditorium-for-meetings)
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-\- Report and updates
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project SpaceBlimp -Enrique
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+\- Report and updates
 
-## Member Reports {#member_reports}
+### Project Media Outreach - Matt
+
+### Project IT Infrastructure - Tom
+
+## Member Reports
 
 Ken
 
@@ -114,9 +114,9 @@ Ken
 -   Needs volunteers - will put something out on blabber after he has
     confirmed HacDC's participation
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
 Still working on code of conduct - will include edits from last time and
 circulate to members for input. Don't want grammatical wordsmithing -
@@ -125,9 +125,9 @@ want more substantial comments for inclusion/editing
 Fundraising Want to set up a gofundme page to share on facebook and
 other venues
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 I can confirm Dan's Paypal subscription. The settlement check has been
 sent. I have our information and passwords on the 990 that needs to be
@@ -141,9 +141,9 @@ monthly) this should balance out for this months finances once everyone
 has paid. Still working on contacting everyone to make sure they are up
 to date with this month's payment.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 11/10/15
 :   Called to order at 8:20 pm by Julia
@@ -12,7 +12,7 @@
 
     :   Quorum met? Yes, 10
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -23,11 +23,11 @@
     the space. The electronics workstation and shelf reinforcement looks
     amazing.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Church Core Router went down for a day due to a couple hardware
 failures. Replaced after many hours of work. Many, many thanks to
@@ -55,7 +55,7 @@ toward that approach are completely understandable, a safe space with
 reasonable rules is a well proven model for success, and should be a
 desirable goal.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Current Paypal balance: \$2352.10
 
@@ -83,7 +83,7 @@ Donations: \$170
 
 Mirage's reimbursements have not been paid out.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Unfortunately HacDC didn't attend the CFC fundraising / advertising
     event at NRL that we were invited to. It was pushed back due to
@@ -131,25 +131,25 @@ Mirage's reimbursements have not been paid out.
     directors is expected to do all that and deal with unexpected
     problems as they come up, some stuff will never get done.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
-
-No expenditures.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 No expenditures.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
 
-## Member Reports {#member_reports}
+No expenditures.
+
+### Project HAMRADIO
+
+## Member Reports
 
 ### mirage335
 
@@ -180,9 +180,9 @@ Taz_Mega is now an operational CNC mill.
     with a smooth floor. Tiles, Vinyl, Paint, something. Screwed in the
     missing light bulbs. (One. It takes one of me to do that).
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Proposal: Allocate up to \$500 for improved flooring in the basement
     front room. Our access to the basement is from the outdoors so dirt
@@ -231,7 +231,7 @@ electronically to all members."
 Actually passing this will subsequently require obtaining signatures
 from 3/4ths of the members.
 
-## New Members {#new_members}
+## New Members
 
 \- Grenville - Alex Kuck
 

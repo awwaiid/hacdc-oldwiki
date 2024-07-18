@@ -15,31 +15,31 @@ These are the minutes of the Regular Member Meeting held on June 10,
 -   Presiding: [Nick Farr](User:Nickfarr), [Minister of
     Finance](Minister_of_Finance) & Acting Chairperson
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 Review of minutes was tabled for review at a full
 [quorum](quorum) meeting.
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 Nick Farr reviewed the [MIBS Simplified Rules of Coordinated Consensus
 through
 Chaos](MIBS_Simplified_Rules_of_Coordinated_Consensus_through_Chaos).
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 Review of finance report was tabled for review at a full
 [quorum](quorum) meeting.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 There were no Member Reports.
 
-## Old Business {#old_business}
+## Old Business
 
 There was no old business
 
-## New Business {#new_business}
+## New Business
 
 Members discussed topics that should be on the next meeting agenda.
 

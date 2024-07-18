@@ -10,7 +10,7 @@ inadequate.
 -   some have misaligned case isolation bushing that cover the pin prick
     mic hole in the case
 
-## Bushing/Case Fix {#bushingcase_fix}
+## Bushing/Case Fix
 
 1.  invoke your inner caveman
 2.  remove the front panel of the case

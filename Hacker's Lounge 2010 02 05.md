@@ -1,4 +1,4 @@
-## When and where? {#when_and_where}
+## When and where?
 
 We're having an open house and providing a place to hang out on Friday,
 February 5th, 2010, from 8pm until late (2am?). That's right after
@@ -8,7 +8,7 @@ though, and would greatly appreciate your support.
 
 The lounge area will be in the dining room (in the basement).
 
-## What will be there {#what_will_be_there}
+## What will be there
 
 -   Snacks
     -   Pretzels - [User:NikolasCo](User:NikolasCo)

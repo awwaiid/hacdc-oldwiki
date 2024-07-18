@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date March 13, 2018
 :   Called to order at xxxx pm by xxxx
@@ -11,15 +11,15 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 \- Nancy = Membeship renewal
 
@@ -35,27 +35,27 @@
 \- Need to find a new date for the 10th anniversary party. We'll discuss
 it more over the blabber
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
 Stalled for last month, we have new seals except for the one we know is
 damaged. We need to find the information about the damaged seal and then
 replace it
 
-### Project Optical Table Robot (OTR) -Julia {#project_optical_table_robot_otr__julia}
+### Project Optical Table Robot (OTR) -Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
+### Project CRISPR -Enrique
 
 No update; too busy with Spaceblimp lately.
 
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project SpaceBlimp -Enrique
 
 Enrique: Launch date (for test-launch) looks like 2018/03/24
 
@@ -66,13 +66,13 @@ that the students visit all of the different organizations that are
 involved in the Space Blimp project. We also have a group of Girl Scouts
 that will be getting involved. We are working on those last details.
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project Media Outreach - Matt
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project IT Infrastructure - Tom
 
 No IT needs this month.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 \- Bobby: Make sure that we are documenting the projects as they go to
 make sure that if the lead person is unable to work, the project can
@@ -80,11 +80,11 @@ continue
 
 \- Enrique: Has a couple of HDMI VGA adapters that he meant to bring in
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 I've been making a bunch of new computers for the space. New lasercutter
 driver, new Classroom TV, new basement TV.
@@ -101,7 +101,7 @@ I'm trying to create a wiki for reverse engineering in general. I think
 I've purchased a domain, ikiw.io, and will provision a server for it
 eventually.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 I have not fully transferred all account credentials since this past
 weekend.
@@ -121,9 +121,9 @@ update their subscription to the new PayPal system that does
 auto-renewals (as opposed to requiring me to manually request every
 month).
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 
@@ -141,7 +141,7 @@ month).
 
 #### Ken
 
-## Other Notes {#other_notes}
+## Other Notes
 
 Nancy membership renewal: Nancy is forced by the law to disclose this.
 She will be sensitive to the notes that we are taking.

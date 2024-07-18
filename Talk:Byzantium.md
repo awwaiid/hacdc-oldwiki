@@ -1,4 +1,4 @@
-### Natural disaster {#natural_disaster}
+### Natural disaster
 
 A fault tolerant internet system is helpful to prevent loss of service
 from natural events both large, such as floods and earthquakes, and

@@ -11,7 +11,7 @@
     -   Determine how many nodes can participate in a mesh before
         responsiveness or bandwidth begin to degrade.
 
-## Stuff To Bring {#stuff_to_bring}
+## Stuff To Bring
 
 -   anything that can run babel
     -   laptops/netbooks

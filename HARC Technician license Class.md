@@ -1,6 +1,6 @@
-## HacDC entry-level (Technician) Amateur License test preparation class {#hacdc_entry_level_technician_amateur_license_test_preparation_class}
+## HacDC entry-level (Technician) Amateur License test preparation class
 
-### Dates and Times {#dates_and_times}
+### Dates and Times
 
 The class will be held at the Space on two consecutive Saturdays:
 February 11 and 18 from 1 to 4 PM. The following Saturday: February 25
@@ -99,7 +99,7 @@ Virginia Community College Annandale Campus.
     light, heat, etc. in a very sensorial (as in Montesssori education)
     way: <http://www.youtube.com/watch?v=AU8PId_6xec>
 
-### About the class {#about_the_class}
+### About the class
 
 Add another tool to your Maker toolkit: an Amateur Radio License.
 Amateur Radio Operators (Hams) have a long history of "Homebrewing":

@@ -34,7 +34,7 @@ us](http://www.hacdc.org/about).
 Want to help us do more awesome stuff? [Make a tax deductible donation
 to our .org!](http://www.hacdc.org/donate)
 
-## Pictures and Video {#pictures_and_video}
+## Pictures and Video
 
 Photos have been uploaded to
 <http://www.flickr.com/photos/itechgeek/sets/72157627058450849/>.
@@ -48,9 +48,9 @@ spaceblimp5_accelerometer.csv.gz](Media:_spaceblimp5_accelerometer.csv.gz)
 
 Analysis to come in the next few days....
 
-### Flight Tracker {#flight_tracker}
+### Flight Tracker
 
-## Launch Plans {#launch_plans}
+## Launch Plans
 
      Planned launch date: Saturday, July 9, 2011
   ----------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------

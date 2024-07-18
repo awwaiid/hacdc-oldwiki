@@ -1,6 +1,6 @@
-# The Elements of Computing Systems: Building a Modern Computer from First Principles {#the_elements_of_computing_systems_building_a_modern_computer_from_first_principles}
+# The Elements of Computing Systems: Building a Modern Computer from First Principles
 
-## Course Overview {#course_overview}
+## Course Overview
 
 Copied from course-provided syllabus: The course objective is to
 integrate key topics from algorithms, computer architecture, operating
@@ -36,7 +36,7 @@ We will be using the syllabus provided by the book which follows the
 chapters in order. The lecture/discussion will loosely follow the slides
 provided on the course website.
 
-### List of Lectures {#list_of_lectures}
+### List of Lectures
 
 This is the proposed schedule based on the course-provided syllabus.
 Changes are likely to happen and I will try to keep this updated to

@@ -15,9 +15,9 @@ Consensus through Chaos", our standing rules.
     meetings.
 -   Improve the membership admission procedure
 
-## Section I : Specific Types and Conduct of Meetings {#section_i_specific_types_and_conduct_of_meetings}
+## Section I : Specific Types and Conduct of Meetings
 
-### Standard Regular Meetings {#standard_regular_meetings}
+### Standard Regular Meetings
 
 Standard Regular Meetings are to be as informal as possible while
 facilitating productive discussion on matters affecting the
@@ -53,7 +53,7 @@ those attending.
 Standard Regular Meetings may take no longer than one hour if a member
 scheduled event immediately follows.
 
-### Formal Regular Meetings {#formal_regular_meetings}
+### Formal Regular Meetings
 
 Formal Regular Meetings shall take place monthly on dates decided at the
 Annual Meeting.
@@ -66,9 +66,9 @@ shall be admitted into the record.
 Special meetings, as called per procedure in the Bylaws, shall be
 considered a Formal Regular Meeting.
 
-## Section II: Standing Rules {#section_ii_standing_rules}
+## Section II: Standing Rules
 
-### Standing Rule 1 : Admission of Members {#standing_rule_1_admission_of_members}
+### Standing Rule 1 : Admission of Members
 
 For the purposes of Article II, Section 3, any eligible person present
 at any meeting, provided a quorum is present, may present themselves for
@@ -90,7 +90,7 @@ all member privileges have been conveyed to all newly admitted members.
 They shall jointly issue a report on the current membership count prior
 to every meeting.
 
-### Standing Rule 2 : Special Meetings at other times {#standing_rule_2_special_meetings_at_other_times}
+### Standing Rule 2 : Special Meetings at other times
 
 To accommodate the needs of the members as well as any potential
 pressing issues, the Ministers shall occasionally schedule Special
@@ -102,14 +102,14 @@ petition may be considered signed if any member electronically conveys
 their approval for such a proposed meeting to all other members through
 a means established by the Ministers.
 
-### Standing Rule 3 : Annual Meeting Business not determined at the Annual Meeting {#standing_rule_3_annual_meeting_business_not_determined_at_the_annual_meeting}
+### Standing Rule 3 : Annual Meeting Business not determined at the Annual Meeting
 
 For the purposes of Article III, Section 2, "Annual Meetings", if any
 required business is not conclusively determined by resolution at the
 Annual Meeting, said business must be entertained as the first orders of
 business at the next regularly scheduled Formal Regular Meeting
 
-## Section III: Meeting Dates {#section_iii_meeting_dates}
+## Section III: Meeting Dates
 
 The dates of Standard or Formal meetings are to be set by resolution at
 the Annual Meeting.

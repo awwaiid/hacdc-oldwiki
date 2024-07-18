@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date February 12, 2018
 :   Called to order at by
@@ -11,7 +11,7 @@
 
     :   Quorum met? no
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2018 01
 09](Regular_Member_Meeting_2018_01_09)
@@ -24,38 +24,38 @@ I filed a bunch of paperwork for the CFC application. - Enrique Tom made
 the TV server much better and added good instructions for VNC remote
 desktop. Thanks Tom!
 
-## New Members {#new_members}
+## New Members
 
 Karen and Ben by acclamation.
 
-## Old Business {#old_business}
+## Old Business
 
 Need an annual meeting and board election date.
 
-## New Business {#new_business}
+## New Business
 
 Enrique - I'd like to be reimbursed for the \$340 CFC application fee.
 Nancy C. W.: How can we get more volunteers to write articles for the
 HacDC Website?
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
 Enrique - I purchased a vacuum valve, tee and other minor hardware. We
 could 1) mount the gauge on the rough pump to see how low that pressure
 goes, 2) blank off the gauge flange and tee the gauge between the pumps
 to measure turbo backing pressure.
 
-### Project Optical Table Robot (OTR) -Julia {#project_optical_table_robot_otr__julia}
+### Project Optical Table Robot (OTR) -Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
+### Project CRISPR -Enrique
 
 Our last experiment was a failure: the unmodified bacteria thrived on
 the antibiotic-free plate but not the antibiotic plate. Of note, we
@@ -65,7 +65,7 @@ CRIPR'd solution. Also the single run used up all the Cas9 protein and
 templateDNA; the free sample the vendor sent was unexpectedly one-fifth
 of the regular amount. Nancy C. Wolfson and Enrique Cobas
 
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project SpaceBlimp -Enrique
 
 Nancy C. Wolfson
 
@@ -79,13 +79,13 @@ coordinating the participation of Wikipedia and The Houston Elementary
 School, plus the participation of the Spacebimp Project in the Science
 and Engineering festival 2018 (invited by one of the organizers G. M.)
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project IT Infrastructure - Tom
 
 Signed up for Linode account. We can probably get a \$5-\$10 monthly VPS
 which will be a big improvement over our "free" as in costly liability
 dreamhost account.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 **Enrique** - the CFC campaign is in the Fall. Federal employers host
 'fairs' where charities are invited to set up booths that their
@@ -109,11 +109,11 @@ need volunteers to staff such booths at each fair.
     someone "ride shotgun" while I try it out on Aden's rebuild. (I need
     to know that his rebuild is in a working state before I break it.)
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 I'm kind of sick so we'll see if I can make it all the way to the VP's
 report. I may have to leave early in which case see below:
@@ -134,11 +134,11 @@ somebody who knows about EE.
 We need a better WAP. I've got one potential LEDE/OpenWRT capable
 device.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ### Kevin
 

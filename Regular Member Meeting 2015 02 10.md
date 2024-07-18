@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   February 10, 2015
 :   Called to order at 8pm by Travis B.
@@ -17,7 +17,7 @@
 
     :   Quorum met? Yes, 12.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 12
 09](Regular_Member_Meeting_2014_12_09)
@@ -28,9 +28,9 @@
     equipment salvage, and other things.
 -   Ben "sitwon" Mendis and James - IR thermometers much appreciated.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Shed Media contacted HacDC about a Television show on January 14 2015.
 
@@ -54,11 +54,11 @@ Thusfar, no one has expressed an interest in participating. If I don't
 see/hear from anyone by the end of the week, I will tell Shed Media that
 HacDC is not interested.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   These are the financial logs of the HacDC enterprise
 
@@ -72,7 +72,7 @@ either switch to Dwolla for their payments to HacDC (Lower fees
 result in about an extra \$50. Sorry it's taken so long to get this out.
 ![](Jan2015.jpg "Jan2015.jpg")
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 -   
 
@@ -98,7 +98,7 @@ Amazon, that need to be ordered please shoot treasurer@hacdc.org an
 email. There is a Project Supplies order that doesn't meet the minimum
 purchase for shipping requirement at the moment.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   
 
@@ -130,25 +130,25 @@ organization first. They also charge cost-recovery fees for large tools
 like the laser cutter and CNC. Might be worth comparing/contrasting the
 two organizations to see if we can learn anything from each other.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 -   
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
-
--   
-
-### Project BYZANTIUM {#project_byzantium}
+### Project LASER
 
 -   
 
-### Project KITBUILD {#project_kitbuild}
+### Project BYZANTIUM
+
+-   
+
+### Project KITBUILD
 
 -   No news to report.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 -   Thoroughly needed replacement soldering iron tips have been
     requested, and ordered at a cost of \~\$70.
@@ -157,25 +157,25 @@ two organizations to see if we can learn anything from each other.
 
 A "clerical error" was reported earlier today.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Planning a \~\$90 expenditure for OpticalTable V-Wheels.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 -   
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
-#### VP Candidacy {#vp_candidacy}
+#### VP Candidacy
 
 Would like to run for the Vice President position. Wrapping up a major
 project soon, and seems time I committed more time to HacDC's
 educational and technological missions.
 
-#### 3D Printer {#d_printer}
+#### 3D Printer
 
 Please, do not introduce food or finger grease to the 3D printer glass.
 Some unknown contaminant has proven extremely tough to remove from the
@@ -183,7 +183,7 @@ glass. Additionally, the extruder is also dripping oil, suggesting
 ongoing contamination upstream. This is more recent, and definitely
 unrelated to, any CNC mill oiling.
 
-#### Other Things {#other_things}
+#### Other Things
 
 Although delayed a few weeks by another project, the RFID reader system
 is still underway. Have just constructed a new workbench at home, which
@@ -192,11 +192,11 @@ should greatly improve my ability to clear off projects like this.
 Optical Table Robot construction is apparently going well. Many thanks
 to other participants on this project.
 
-## Old Business {#old_business}
+## Old Business
 
 -   
 
-## New Business {#new_business}
+## New Business
 
 Is this in the right section? This is my first time entering minutes
 here.
@@ -231,7 +231,7 @@ votes via IRC and 1 via proxy. The results were: **Mirage (7 votes),
 Shawn (6 votes), Bill (2 votes). Congratulations to our new VP,
 Mirage.**
 
-## New Members {#new_members}
+## New Members
 
 -   
 

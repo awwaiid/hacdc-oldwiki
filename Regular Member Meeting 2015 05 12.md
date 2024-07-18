@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   May 12, 2015
 :   Called to order at 20:00 by Celeste
@@ -11,7 +11,7 @@
 
     :   Quorum met? Need 10. Have 9. No
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2015 04
 14](Regular_Member_Meeting_2015_04_14)
@@ -20,9 +20,9 @@
 
 -   HARC for cleaning up the classroom
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   Stuff under tables in the classroom will be
     moved/removed/cleaned/cleared. If you have a project that needs to
@@ -31,7 +31,7 @@
     event supplies. We are working on a policy to utilize the shelves in
     the lab on the far wall by the windows.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Need a suitably sized electronic door strike for the new RFID/occupancy
 system. Everything else is ready, including a WYSE terminal for
@@ -41,9 +41,9 @@ Have a working LulzBot Taz 3D printer, also configured as a 3W UV laser
 cutter. Expect this to make a big difference at HacDC, contributing
 replacement parts for equipment like the CO2 laser cutter.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 It's been a very busy month. At least I'm not around to read this.
 
@@ -112,37 +112,37 @@ groups? How badly do we need the extra income?
 **Reminders to others**: CFC application status, check from the Phillips
 Collection, National Maker Faire, I-COM Radio Status, FCC License
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
-
-No expenditures this month.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 No expenditures this month.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
 
-## Member Reports {#member_reports}
+No expenditures this month.
 
-## Old Business {#old_business}
+### Project HAMRADIO
 
-## New Business {#new_business}
+## Member Reports
 
-## New Members {#new_members}
+## Old Business
+
+## New Business
+
+## New Members
 
 ## Adjournment
 

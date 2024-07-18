@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: February 16th, 2021
 :   Called to order at 7:40 pm by Karen
@@ -12,15 +12,15 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_12_08) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_12_08)
 
 Approved
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   John: Time of year to talk to Mike about the future years rent
     situation -- should we reach out to Mike or wait for him to reach
@@ -55,36 +55,36 @@ as a membership fee
     weeks. To send update on the members email list and reach out to
     Words Beats and Life.
 
-## New Business {#new_business}
+## New Business
 
 -   2021 HacDC Board Elections:
 
 Slate of Candidates -- Tayeb: President, John: Vice-President, Michelle:
 Secretary, Matt: Treasurer, Brian: At-Large, Gabe Altay: At-Large
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Financial Report: Current Balance -- \$13712 We currently have 17 paying
 members, \$930 from dues and an additional \$120 from donations. Rent is
 \$732 for September, total expenses are \$793
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

@@ -21,25 +21,25 @@ the server's root admins.
 Shell and VPS server, emphasis on uptime, durability, and performance.
 Quad-Core, 6GB ECC RAM, 100GB RAID1. **ONLINE**
 
-# Available Resources {#available_resources}
+# Available Resources
 
 WIP = Work In Progress
 
-## Shell Servers {#shell_servers}
+## Shell Servers
 
 -   [Shimmer](Shimmer)
 -   [Starlight](Starlight)
 
-## Network Attached Storage {#network_attached_storage}
+## Network Attached Storage
 
-## VM Server {#vm_server}
+## VM Server
 
 -   [Shimmer](Shimmer)
 -   [Starlight](Starlight)
 -   [hacdc-vmhost0](hacdc-vmhost0)
 -   [hacdc-vmhost1](hacdc-vmhost1)
 
-## Rendering Servers {#rendering_servers}
+## Rendering Servers
 
 -   [jobs](jobs)
 -   [gygax](gygax)
@@ -92,7 +92,7 @@ no longer wish to host a device. We will make reasonable efforts to
 contact the owner of the server to arrange for collection and tell them
 the reason.
 
-# Acceptable Use Policies {#acceptable_use_policies}
+# Acceptable Use Policies
 
 Applicable to all use of HacDC communal computing resources.
 
@@ -105,7 +105,7 @@ Applicable to all use of HacDC communal computing resources.
 -   It is requested than any commercial users 'give back' fairly
     (upwards 5% of returns).
 
-## Prohibited Activities {#prohibited_activities}
+## Prohibited Activities
 
 Server/network/web administrators may take corrective action to address
 violations of policy. The following actions are never acceptable.

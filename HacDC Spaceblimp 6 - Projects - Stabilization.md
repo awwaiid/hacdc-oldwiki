@@ -7,7 +7,7 @@ These team members will provide active or passive stabilization
 suggestions and solutions to maximize the potential for payloads that
 are better served by a stabilized craft.
 
-# Team Members {#team_members}
+# Team Members
 
 -   Nancy Wolfson
 -   Samarth

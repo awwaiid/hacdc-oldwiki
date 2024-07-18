@@ -10,12 +10,12 @@ Our general communications policy is simple:
 2.  Use it
 3.  Don't change it unless it's failing.
 
-## E-Mail {#e_mail}
+## E-Mail
 
 E-mail is the most common method of communication within HacDC and
 between HacDC and the outside world.
 
-### Public E-mail Lists {#public_e_mail_lists}
+### Public E-mail Lists
 
 Our public lists, which anyone can sign up for, are:
 
@@ -27,7 +27,7 @@ Our public lists, which anyone can sign up for, are:
     : Our completely unmoderated and public open discussion forum
     covering a wide range of topics and questions.
 
-### Public POC E-mail {#public_poc_e_mail}
+### Public POC E-mail
 
 All inquiries from the outside world, via e-mail, should go to
 [bod@hacdc.org](bod@hacdc.org).
@@ -36,7 +36,7 @@ All inquiries from the outside world, via e-mail, should go to
 page, wiki, on documents, flyers, etc. as a way for those outside HacDC
 to contact the organization.
 
-### Internal/Member E-mail Addresses/Aliases {#internalmember_e_mail_addressesaliases}
+### Internal/Member E-mail Addresses/Aliases
 
 Each member is entitled to an \@hacdc.org e-mail account. HacDC shall
 offer hosting for \@hacdc.org e-mail accounts or offer the option of
@@ -44,7 +44,7 @@ forwarding to the member's chosen e-mail address. Member e-mail shall
 not be archived, except as chosen by the member in a hosted e-mail
 account.
 
-### Internal E-mail Lists/Accounts {#internal_e_mail_listsaccounts}
+### Internal E-mail Lists/Accounts
 
   E-mail address               Purpose                                                                                                                                                                                         List Members                                                                                             Archived by
   ---------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- ------------------------------------------
@@ -56,7 +56,7 @@ account.
   ministers@hacdc.org          Primary contact address for the administrators of HacDC, designed for use by members to address specific concerns and by ministers to keep each other updated on minor administrative action.   [The Ministers](The_Ministers), [Shadow Ministers](Shadow_Ministers)               Mailman
   news@hacdc.org               Primary contact list for the PR team of HacDC, designed to help members and associates get events publicised via HacDC's public e-mail lists, blog, twitter, etc.                               [news@hacdc.org](news@hacdc.org)                                                              Mailman
 
-### Project Contact E-Mail Addresses {#project_contact_e_mail_addresses}
+### Project Contact E-Mail Addresses
 
 Each ongoing project must have an e-mail address associated with it. The
 e-mail address may be an alias for the project coordinator, a discussion
@@ -74,7 +74,7 @@ each project contact e-mail must be documented here:
   [micromondays@](http://hacdc.org/mailman/listinfo/micromondays_hacdc.org)                         (None)    Discussion list for the [Microcontroller Course](Microcontroller_Course)                  Mailman via hacdc.org   Yes
   [reddoor@](http://hacdc.org/mailman/listinfo/reddoor_hacdc.org)                                   (None)    Discussion list for the [Door Entry Project](Door_Entry_Project)                          Mailman via hacdc.org   Yes
 
-## Web Presence {#web_presence}
+## Web Presence
 
 ### Homepage/Blog: hacdc.org {#homepageblog_hacdc.org}
 

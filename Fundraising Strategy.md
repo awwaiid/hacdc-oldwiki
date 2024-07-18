@@ -1,4 +1,4 @@
-## Alberto's Notes {#albertos_notes}
+## Alberto's Notes
 
 -   -   Stakeholder Stacks\*\*
 
@@ -6,7 +6,7 @@
 
 ### Outside
 
-#### Seeking Educational Experiences {#seeking_educational_experiences}
+#### Seeking Educational Experiences
 
 -   Students
 -   Amateur Engineers
@@ -51,20 +51,20 @@
 -   Local Government / economic development
 -   DC Gov
 
-#### People we use or need {#people_we_use_or_need}
+#### People we use or need
 
 -   Brian B.
 -   St Stephen's
 -   Tech suppliers
 -   Vendors
 
-#### Affect us but don't seek us {#affect_us_but_dont_seek_us}
+#### Affect us but don't seek us
 
 -   Family
 -   Friends
 -   Significant others
 
-#### People who give money {#people_who_give_money}
+#### People who give money
 
 -   Donors
 -   External donors
@@ -75,7 +75,7 @@
 -   Funders of education
 -   Those with money
 
-#### People who seek HacDC {#people_who_seek_hacdc}
+#### People who seek HacDC
 
 -   Guests
 -   Visitors
@@ -87,7 +87,7 @@
 -   Alumni
 -   Strange attractors (lots of stuff happening around them)
 
-#### Know shit {#know_shit}
+#### Know shit
 
 -   Class / Event organizers
 -   SME non-members
@@ -119,7 +119,7 @@
 -   Breakers
 -   Disinterested members
 
-#### Do shit {#do_shit}
+#### Do shit
 
 -   Re\* \* \* te\] volunteers
 -   Cleaners / maintainers
@@ -136,12 +136,12 @@
 -   3D printer people
 -   Hams
 
-#### Organization core {#organization_core}
+#### Organization core
 
 -   Officers
 -   Board of Directors
 
-## Phil's Notes {#phils_notes}
+## Phil's Notes
 
 **Imagined Stakeholder Persona**
 
@@ -251,4 +251,4 @@ specialized in—biomed engineering? Physics? Economics?\] Make
 `       Outsider Art Pathfinder`\
 `       `
 
-## Travis's Notes {#traviss_notes}
+## Travis's Notes

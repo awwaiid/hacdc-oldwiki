@@ -13,7 +13,7 @@ the space.
 
 Also see <http://lockwiki.com/index.php/Legal_Issues>
 
-### District of Columbia {#district_of_columbia}
+### District of Columbia
 
 Several sources I found on the web claim that mere possession of
 lockpicking tools—regardless of intent—in D.C. is illegal, but I have

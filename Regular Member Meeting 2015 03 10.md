@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   March 10, 2015
 :   Called to order at 20:02 by Celeste
@@ -17,7 +17,7 @@
 
     :   Quorum met? N
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 12
 09](Regular_Member_Meeting_2014_12_09)
@@ -32,9 +32,9 @@
 -   Evan - Hosting the Raspberry Jam!
 -   Don and Enrique for helping make the Raspberry Jam happen.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   To help keep the space clean, IN ADDITION TO THROWING AWAY YOUR OWN
     TRASH, please throw away one thing you see that is obviously trash
@@ -46,7 +46,7 @@
     organize a monthly Table Top Gaming day (picking a date, encouraging
     members to participate, bringing games, herding cats, etc.)
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Bunch of things have been done, more are in progress. Please be patient,
 and tolerate the resources presently being deployed.
@@ -73,7 +73,7 @@ and tolerate the resources presently being deployed.
 -   RostockMax 3D printer back online. Some wires are corroding, and
     will be replaced with a dedicated PCB.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Please Forgive My absence. I am on I-95N by the time you see this.
     Probably in South Carolina. Also, please forgive the external links.
@@ -98,7 +98,7 @@ and i will keep an eye out and get back to you.
 
 <https://drive.google.com/a/hacdc.org/file/d/0B-gL3hld3MyTRS1UYUlUQVBlbEU/view?usp=sharing>
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 -   
 
@@ -109,7 +109,7 @@ as a donation and expense to project supplies when that transaction
 should have been assigned to expansion. There is no impact on the
 balances.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   
 
@@ -126,7 +126,7 @@ attendance at future events. Thanks to Evan for putting the event
 together and Don for setting up a lot of equipment and everyone who
 promoted the event online and offline.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
@@ -143,34 +143,34 @@ promoted the event online and offline.
 -   We have been making some progress on identifying our stake holders
     and developing personas to better understand them.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 -   Dan has been busy, so no change.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 -   Still waiting on a box from California
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 -   Alberto is still alive and plans to do more classes to teach people
     soldering and Processing.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 -   Authorized purchase of some 3D printer filament.
 -   New WSM1 soldering iron tips have arrived. Please use the needle tip
     specifically for surface-mount work.
 -   Requested purchase of hobbed bolts for the Rostock Max.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 -   Authorized purchase of Wheels for OpticalTableRobot. AFAIK, the
     vendor has not been able to ship them yet.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 -   Preparing for Field Day in June.
     -   Possibly going to Hains Point.
@@ -178,19 +178,19 @@ promoted the event online and offline.
 -   Our radio is in the repair shop getting fixed.
 -   Jamie has brought one in to use in the mean time.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Don {#don_1}
+### Don
 
 Would like to create an inventory of equipment at HacDC. Would like to
 get volunteers to help with the work, and is seeking permission to
 compensate them with membership or something else.
 
-## Old Business {#old_business}
+## Old Business
 
 -   
 
-## New Business {#new_business}
+## New Business
 
 -   
 
@@ -304,7 +304,7 @@ Projects will be submitted for consideration at the next meeting.** **A
 proposal to change the HacDC storage and disposition policy will be
 submitted for consideration at the next meeting.**
 
-## New Members {#new_members}
+## New Members
 
 -   Andrew
 

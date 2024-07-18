@@ -1,16 +1,16 @@
-## Header 2 {#header_2}
+## Header 2
 
 Here is some text. This is the next line.
 
 There is one blank line above this line. ahaha
 
-### Header 3 {#header_3}
+### Header 3
 
 Here is some text. This is the next line.
 
 There is one blank line above this line. ahaha
 
-#### Header 4 {#header_4}
+#### Header 4
 
 Here is some text. This is the next line.
 

@@ -1,4 +1,4 @@
-## VPS Options {#vps_options}
+## VPS Options
 
 The vendor links should point to the page where the plan is actually
 described.
@@ -26,7 +26,7 @@ described.
   [CoreNetworks](https://corenetworks.net/virtual/)
   [CoreNetworks](https://corenetworks.net/virtual/)
 
-## Shared Hosting {#shared_hosting}
+## Shared Hosting
 
 Migration to a VPS has been the major area of discussion. However,
 shared hosting is still an option. It is universally cheaper and, in a
@@ -38,7 +38,7 @@ maintainable by *non-admin* types.
   Host
   [Dreamhost](http://www.dreamhost.com/hosting.html)
 
-## Dedicated Hosting {#dedicated_hosting}
+## Dedicated Hosting
 
 At least one vendor offers dedicated hosting at a competitive price.
 

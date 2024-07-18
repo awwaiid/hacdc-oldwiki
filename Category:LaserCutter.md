@@ -1,6 +1,6 @@
 ![](Wrywry_scary_laser.png "Wrywry_scary_laser.png"){width="500"}
 
-## Safety training required {#safety_training_required}
+## Safety training required
 
 **Class IV laser. Even matte reflections (ie. spot on the wall) will
 blind instantly.**

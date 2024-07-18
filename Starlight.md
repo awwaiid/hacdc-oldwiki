@@ -58,7 +58,7 @@ with other services (eg. offsite backup).
 Routinely important commands unique to this server documented as
 follows.
 
-## Root (Admin) {#root_admin}
+## Root (Admin)
 
 ### ReInstall
 
@@ -166,7 +166,7 @@ Opens the console of running VM `<name>`{=html} .
 -   Hostname - HacDC-shared-m335-2
 -   FQDN - HacDC-shared-m335-2.srv.hacdc.org
 
-# Redundancy (RAID) {#redundancy_raid}
+# Redundancy (RAID)
 
 Root filesystem is comprised of six WD60EZRX (WD Green 6TB) disks in a
 RAID6 (dual-parity array) configured with low "intellipark" frequency.
@@ -280,7 +280,7 @@ bandwidth use where possible, particularly for web servers.
     subnet and will call mirage335, juri\_, Ethan Waldo, or other admin
     team members to resolve the issue (no one will be happy).
 
-### Good Standing {#good_standing}
+### Good Standing
 
 Access to servers is subject to the same conditions as access to any
 other HacDC resource, including internet service generally. As a
@@ -288,7 +288,7 @@ other HacDC resource, including internet service generally. As a
 our non-profit mission. Abuse, or any activity inconsistent with these
 obligations, will result in account termination upon discovery.
 
-# Special Services {#special_services}
+# Special Services
 
 ## HTTP/HTTPs
 
@@ -328,14 +328,14 @@ HacDC-shared-m335-2.router.hacdc.org
 
 ## Virtual
 
-### Hostnames {#hostnames_1}
+### Hostnames
 
 mirage335-1
 
 -   mirage335 - Local username.
 -   1 - Unique machine identifier.
 
-### FQDNs {#fqdns_1}
+### FQDNs
 
 mirage335-1.HacDC-shared-m335-2.router.hacdc.org
 
@@ -345,7 +345,7 @@ EST/EDT aka US Eastern, America/NewYork, or "Eastern"
 
 # Workarounds
 
-## SSH KeepAlive {#ssh_keepalive}
+## SSH KeepAlive
 
 Due to limited bandwidth, SSH sessions may freeze. To prevent this,
 consider the following to configuration, appended to client-side

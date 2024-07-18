@@ -57,7 +57,7 @@ for June 13) this phase has the following goals:
     -   Provide method for tenants to view persons outside the building
         and allow building access
 
-## Phase Two: Provide Wireless to the Housing Project Surrounding the Church {#phase_two_provide_wireless_to_the_housing_project_surrounding_the_church}
+## Phase Two: Provide Wireless to the Housing Project Surrounding the Church
 
 Once the hurdles of providing wireless to a given area (the church) are
 handled, the goal is to extending the public church network to the
@@ -73,7 +73,7 @@ are relatively less complex:
 -   Work out technical challenges present in extending the public
     network beyond church immediate line-of-sight
 
-## Phase Three: Provide Wireless to Neighborhood Buildings {#phase_three_provide_wireless_to_neighborhood_buildings}
+## Phase Three: Provide Wireless to Neighborhood Buildings
 
 -   Provide public wireless available throughout Columbia Heights
 -   Attract public and government support to make such a public wireless

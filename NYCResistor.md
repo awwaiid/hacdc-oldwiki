@@ -1,7 +1,7 @@
 NYC Resistor is a group of people, who are located in NYC, who make,
 share and learn with each other.
 
-#### External Links {#external_links}
+#### External Links
 
 -   [NYCResistor Hacker Space Blog](http://www.nycresistor.com)
 -   [NYCResistor Hacker Space

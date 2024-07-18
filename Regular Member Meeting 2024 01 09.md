@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date Jan 9
 :   Called to order at 7:34 pm by Obioma
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes!
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10)
 
 Approved by Obioma and Gabriel
 
@@ -22,7 +22,7 @@ on space upgrades, including noise cancellation! Aure has been managing
 the lock battery on the inner door Obioma shared a large collection of
 common batteries
 
-## New Members {#new_members}
+## New Members
 
 Liz has been adopted as a member! Unanimous applause. Ask members for
 onboarding!
@@ -31,9 +31,9 @@ onboarding!
 -   Callie for email address
 -   Obioma for a key
 
-## Old Business {#old_business}
+## Old Business
 
-### Coming back from 2023 {#coming_back_from_2023}
+### Coming back from 2023
 
 Open Project Night Rebuild HacDC.org Game night Lightning talks
 
@@ -47,9 +47,9 @@ Scheduling on Meetup:
 -   Low-friction scheduling for our members: ask to become an admin on
     Meetup.
 
-## New Business {#new_business}
+## New Business
 
-### Rebuild Fund working group {#rebuild_fund_working_group}
+### Rebuild Fund working group
 
 -   Bringing in new members requires us to keep up our equipment:
 -   Laser cutter & 3d printers
@@ -61,7 +61,7 @@ Members:
 -   Liz - researching our tools & needed equipment
 -   Matthew - procuring gear
 
-### Public Engagement and Social Media {#public_engagement_and_social_media}
+### Public Engagement and Social Media
 
 -   Do more displays such as in public fairs, and engage in social media
 -   Pictures from Open Project Night and from around our space
@@ -78,7 +78,7 @@ Members:
 -   Obioma is going to help lead
 -   Callie can pick up on Gabe's management of the codebases
 
-### LAN club in Chris' public school {#lan_club_in_chris_public_school}
+### LAN club in Chris' public school
 
 Chris is bringing in a rack server to the school, and using Senet as a
 network boot launcher for some workstation towers. He is using spare
@@ -96,7 +96,7 @@ our space.
 Thursday - speak to Callie or Tristan if you can help on Nix & Proxmox
 deployments
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Had been an issue - our bank held up payment of checks to the church, so
 going ahead Matthew is going to change us to use ACH payments for rent.

@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 2110 pm by Karen
@@ -14,16 +14,16 @@
 
 `   yes`
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Update new BOD on last year's history of IT admin relationship with
 church and its denouement.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 We used to have a monthly income hovering around \$1300 but for the past
 five+ months it's been aroud \$6-700; we may have lost up to \$7000 in
@@ -47,9 +47,9 @@ information has not been updated. This will be rectified soon.
 
 We have three new members!
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 
@@ -57,7 +57,7 @@ We have three new members!
 
 ## Agenda
 
-### Draft Code of Conduct {#draft_code_of_conduct}
+### Draft Code of Conduct
 
 #### Karen
 

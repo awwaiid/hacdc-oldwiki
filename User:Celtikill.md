@@ -2,9 +2,9 @@
 
 # Present
 
-## Current Projects {#current_projects}
+## Current Projects
 
-### Urban Homesteading {#urban_homesteading}
+### Urban Homesteading
 
 I read *The Urban Homestead* by Kelly Coyne & Erik Knutzen, and it got
 me amp'd. I've started composting, and am launching a hydroponics
@@ -13,7 +13,7 @@ inlaw, dogs) started cooking the majority of our food from scratch. I
 believe I've roughly cut my food waste by 20%, and my food costs by 30%.
 More TBA.
 
-### Operation Consultant {#operation_consultant}
+### Operation Consultant
 
 Since I'm unemployed (sort of, since my "penniless" employer continues
 to direct deposit and calls me to the NOC at all hours of the night),
@@ -28,12 +28,12 @@ and got topographic info on the LOS. It's almost exactly a 2 mile link,
 and I'm about 10 meters above the HacDC location at ground level. Nice.
 Outsourced bi-quad antenna to a better solderer than myself. In limbo.
 
-### Linux Frankencluster (aka ClusterF\*&k) {#linux_frankencluster_aka_clusterfk}
+### Linux Frankencluster (aka ClusterF\*&k)
 
 Got nifty No Starch Press book for Yule. Hid book in workshop to stave
 off nightmares.
 
-### Operation Workshop {#operation_workshop}
+### Operation Workshop
 
 Sifted nutrients for items of value, sorted into well-labeled bins.
 Began trash mountain for future snow-less waste removal. Need to build
@@ -44,7 +44,7 @@ as Frankencluster.
 
 # Past
 
-## In The Beginning {#in_the_beginning}
+## In The Beginning
 
 In my youth, I had a 101 electronics kit. My buddy Patrick and I wired
 it up to all sorts of interesting things, most of which exploded in one
@@ -55,7 +55,7 @@ divisions. Meanwhile, I moonlighted on an elite "unorthodox payloads"
 rocketry team. We called ourselves "Cobra's Revenge" because everyone
 knows Cobra is way cooler than GI Joe.
 
-### Things Get Rolling {#things_get_rolling}
+### Things Get Rolling
 
 I won the Baltimore Museum of Industry's Mag Lev Challenge
 [1](http://www.thebmi.org/index.cfm/cID/630) at some point. This was
@@ -67,22 +67,22 @@ was wicked-tight.
 I won the Junior Olympic Fencing Qualifiers in an epic overtime match
 against the Mag Lev Artist. We never spoke again.
 
-## The Computing Stone Age {#the_computing_stone_age}
+## The Computing Stone Age
 
 I got an Apple II when I was 8.
 
-### Why it stank {#why_it_stank}
+### Why it stank
 
 I couldn't play Wolfenstein, and The Oregon Trail stank.
 
-## The Enlightenment {#the_enlightenment}
+## The Enlightenment
 
 I got a 486SX with 4 Megs of RAM when I was 10. My dad was working his
 PhD at UMCP, so I had a dial-up to the University. PuTTY sessions at
 9600 baud; BBS flame wars; Doom and Hexen h4x0ring.... It was a golden
 age!
 
-### The Turning Point {#the_turning_point}
+### The Turning Point
 
 My dad was consumed with the fear of his computer breaking. For some
 reason, it broke daily.

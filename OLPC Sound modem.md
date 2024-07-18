@@ -1,4 +1,4 @@
-## The Easy Way {#the_easy_way}
+## The Easy Way
 
 1.  Get [DebXO](OLPCDebXO) running on a XO with the Terminal
     Activity
@@ -22,7 +22,7 @@
 
 9.  # soundmodem /etc/ax25/soundmodem.conf
 
-## The Right Way {#the_right_way}
+## The Right Way
 
 1.  [Upgrade](OLPCUpdate) to the latest official build
 

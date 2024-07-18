@@ -1,17 +1,17 @@
 This page is a resource for keysigning parties @ HacDC.
 
-## Upcoming Parties {#upcoming_parties}
+## Upcoming Parties
 
 Friday, November 13th @ 7:30PM
 
-## Past Parties {#past_parties}
+## Past Parties
 
 September 10th, 2009
 
 -   We had about 20 folks and about 10 of whom were productively
     keysigning.
 
-## Intro to KeySigning {#intro_to_keysigning}
+## Intro to KeySigning
 
 -   You have a private key and a public key, which you generate (your
     keypair).

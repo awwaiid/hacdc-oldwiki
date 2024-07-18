@@ -32,7 +32,7 @@ Arrangement](https://github.com/HacDC/FloorPlan/blob/master/_ref/render/Basement
     modifications or "abusing" tools.
 5.  Report all equipment problems to the Dungeon Master.
 
-### The Optical Table Robot {#the_optical_table_robot}
+### The Optical Table Robot
 
 # Procedures
 
@@ -40,13 +40,13 @@ Arrangement](https://github.com/HacDC/FloorPlan/blob/master/_ref/render/Basement
     basement' should be placed in a plastic tub, and given to the
     dungeon master, for sorting.
 
-## People Who Are Required To Have Access {#people_who_are_required_to_have_access}
+## People Who Are Required To Have Access
 
 -   The HacDC Secretary, for maintaining our outgoing disposal process.
 -   At least one member of HARC (chosen by the Dungeon Master) for
     access to stored equipment.
 
-## People who May Request Access {#people_who_may_request_access}
+## People who May Request Access
 
 -   Members with assigned shelves.
 -   Members who have proven to have skills using the tools in a safe and

@@ -1,4 +1,4 @@
-## Makefiles for command line development {#makefiles_for_command_line_development}
+## Makefiles for command line development
 
 I found the built-in editor with Inform7 somewhat frustrating, so I
 wrote a set of Makefile rules to allow me to do command line compiling

@@ -60,14 +60,14 @@ It's a shame we don't have any photos from the [Microcontroller
 Course](Microcontroller_Course). We should definitely take
 some in the next session of it!
 
-# Logo Image {#logo_image}
+# Logo Image
 
 *We need a logo from your hackerspace ideally in a vector format like
 .eps or .ai.*
 
 Nick - can you provide this?
 
-# BONUS POINTS {#bonus_points}
+# BONUS POINTS
 
 *If you get this all done and feel like going an extra mile you could do
 one of the following. Don’t do these if they will put you over the

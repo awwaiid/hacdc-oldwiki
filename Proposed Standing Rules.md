@@ -1,6 +1,6 @@
-# Article I: Voting {#article_i_voting}
+# Article I: Voting
 
-## Section 1: Board Approval {#section_1_board_approval}
+## Section 1: Board Approval
 
 Unless otherwise specified, “Board Approval” means a “yes” vote by 4/4
 (four out of four), 4/5, 5/5, 5/6, or 6/6 voting board members.
@@ -10,12 +10,12 @@ Unless otherwise specified, “Board Approval” means a “yes” vote by 4/4
     1.  Board members have 48 hours from the email vote request to
         respond
 
-## Section 2: Member Approval {#section_2_member_approval}
+## Section 2: Member Approval
 
 Unless otherwise specified, “Member Approval” means a “yes” vote by a
 majority of a quorum of members at a duly called meeting.
 
-## Section 3: Virtual Attendance and Voting {#section_3_virtual_attendance_and_voting}
+## Section 3: Virtual Attendance and Voting
 
 Members who participate in meetings using two-way audio and/or video
 conferencing systems such as Skype or Google+ Hangouts shall be
@@ -31,12 +31,12 @@ counts and voting.
     virtually) on whether to accept the remote person as being the
     claimed member.
 
-## Section 4: Proxy Voting {#section_4_proxy_voting}
+## Section 4: Proxy Voting
 
 For now, proxy votes are not allowed, only members in physical or
 virtual attendance may vote.
 
-## Section 5: Amending Standing Rules {#section_5_amending_standing_rules}
+## Section 5: Amending Standing Rules
 
 The Standing Rules of the corporation can be amended by vote of 2/3rds
 of a quorum of members at either:
@@ -51,14 +51,14 @@ of a quorum of members at either:
         1.  it is clear what is being voted on, and
         2.  the general subject of the Rule is not changed.
 
-# Article II: Membership {#article_ii_membership}
+# Article II: Membership
 
 Article II, as written here:
 <http://wiki.hacdc.org/index.php?title=Proposed_Standing_Rules&oldid=9449>
 , was approved during the [Regular Member Meeting 2013 06
 11](Regular_Member_Meeting_2013_06_11).
 
-## Section 1: Membership Types, requirements, privileges {#section_1_membership_types_requirements_privileges}
+## Section 1: Membership Types, requirements, privileges
 
 ===Type 1) Full members (PV=Paying,Voting member)===
 
@@ -79,7 +79,7 @@ Article II, as written here:
 ===Type 2) Reduced-fee Student/Starving Hacker members (P-V=Paying
 Less,Voting member)===
 
-#### Requirements {#requirements_1}
+#### Requirements
 
 1.  Meet any of these criteria for reduced fees:
     1.  Be a full-time student
@@ -88,11 +88,11 @@ Less,Voting member)===
 3.  Become member as with Full Member
 4.  If approved, pay \$20/mo dues
 
-#### Privileges - same as full members {#privileges___same_as_full_members}
+#### Privileges - same as full members
 
 ===Type 3) Fee-waived members (P\*V=Not paying,Voting member)===
 
-#### Requirements {#requirements_2}
+#### Requirements
 
 1.  Must have been voted in as member at a monthly meeting
 2.  Should be making an extraordinary contribution to HacDC
@@ -106,16 +106,16 @@ Less,Voting member)===
         by another vote
     2.  The maximum period per approval vote is one year
 
-#### Privileges - same as full members {#privileges___same_as_full_members_1}
+#### Privileges - same as full members
 
 ===Type 4) Honorary members (P\*V\*=Not paying, not voting member)===
 
-#### Requirements {#requirements_3}
+#### Requirements
 
 1.  Must have been voted in to regular membership at monthly meeting
 2.  Must have made extraordinary contribution to HacDC
 
-#### Privileges {#privileges_1}
+#### Privileges
 
 -   \@hacdc.org Google email and docs account
 -   Membership in HacDC:Members mailing list
@@ -127,21 +127,21 @@ Less,Voting member)===
 
 ===Type 5) Friends of HacDC (PV\*=Paying, not voting Friend)===
 
-#### Requirements {#requirements_4}
+#### Requirements
 
 1.  Sign up for a “Friend of HacDC” subscription payment of \$13.37/mo
     or more
 
-#### Privileges {#privileges_2}
+#### Privileges
 
 -   \@hacdc.org Google email and docs account
 -   Membership in the HacDC:Members mailing list
 
-#### Procedure {#procedure_1}
+#### Procedure
 
 1.  Sign up for monthly payment using instructions on HacDC website
 
-## Section 2: Membership induction procedure options {#section_2_membership_induction_procedure_options}
+## Section 2: Membership induction procedure options
 
 1.  Potential member comes to monthly Member meeting and gets voted in
     by unanimous consent of all members present (quorum not required).
@@ -154,9 +154,9 @@ Less,Voting member)===
 3.  If unanimous vote of members present is not attained, a new member
     may be approved by a vote of 2/3rds of a quorum of members.
 
-## Section 3: Restoring Membership {#section_3_restoring_membership}
+## Section 3: Restoring Membership
 
-### Lapsed Membership {#lapsed_membership}
+### Lapsed Membership
 
 1.  Membership in HacDC is considered lapsed if the monthly membership
     dues is not paid by the end of the month.
@@ -166,7 +166,7 @@ Less,Voting member)===
 3.  According to Bylaws, membership is revoked after three months of
     non-payment of dues.
 
-### Cancelled Membership {#cancelled_membership}
+### Cancelled Membership
 
 1.  If Membership was cancelled by Member, it may be restored without
     member vote by restarting the Membership dues subscription payments.
@@ -176,7 +176,7 @@ Less,Voting member)===
 3.  The membership should be informed of the reason for cancellation of
     the original membership.
 
-### Cancelling Membership {#cancelling_membership}
+### Cancelling Membership
 
 1.  Members wishing to cancel their HacDC membership should discontinue
     their dues payments and inform a HacDC board member of their
@@ -189,14 +189,14 @@ Less,Voting member)===
 4.  Keys can be returned in person to a HacDC officer or mailed to the
     HacDC Secretary at the HacDC mailing address.
 
-# Article III: Expenditures and Reimbursements {#article_iii_expenditures_and_reimbursements}
+# Article III: Expenditures and Reimbursements
 
 Article III, as written here:
 <http://wiki.hacdc.org/index.php?title=Proposed_Standing_Rules&oldid=9449>
 , was approved during the [Regular Member Meeting 2013 06
 11](Regular_Member_Meeting_2013_06_11).
 
-## Section 1: Process {#section_1_process}
+## Section 1: Process
 
 ### Preferred
 
@@ -211,7 +211,7 @@ interested members
 4.  HacDC may contribute some percentage of matching funds as finances
     permit
 
-### Pre-Approval {#pre_approval}
+### Pre-Approval
 
 With pre-approval by Board or membership vote, HacDC members may
 purchase items with personal funds and get reimbursed by HacDC.
@@ -220,13 +220,13 @@ purchase items with personal funds and get reimbursed by HacDC.
     reimbursement.
 2.  Treasurer will issue check or electronic transfer
 
-### Post-purchase Approval {#post_purchase_approval}
+### Post-purchase Approval
 
 If approval is not obtained in advance, reimbursement must be approved
 by member vote - more than 2/3rds of a quorum of members must approve
 expenditure
 
-## Section 2: Approval {#section_2_approval}
+## Section 2: Approval
 
 1.  Purchases required for the ongoing operation of HacDC (such as rent,
     insurance, licenses, and utilities) do not require authorization and
@@ -240,20 +240,20 @@ expenditure
 4.  Amounts over \$50 require a membership vote. More than 2/3 of a
     quorum of members must approve expenditure.
 
-## Project Awesome {#project_awesome}
+## Project Awesome
 
 This process allows for the disbursement of funds to various projects.
 The details are described in [Project Awesome
 Rules](Project_Awesome_Rules). Project listing is located
 [here](:Category:Project_Awesome).
 
-# Article IV: Meetings {#article_iv_meetings}
+# Article IV: Meetings
 
-## Section 1: Robert’s Rules {#section_1_roberts_rules}
+## Section 1: Robert’s Rules
 
 Meetings follow Robert’s rules of order, but not obsessively
 
-## Section 2: Schedule {#section_2_schedule}
+## Section 2: Schedule
 
 Monthly Members’ Meeting is held on the second Tuesday of each month.
 
@@ -264,27 +264,27 @@ Monthly Members’ Meeting is held on the second Tuesday of each month.
     to attend the meeting, meeting may be cancelled by the President and
     rescheduled for the next week
 
-## Section 3: Virtual Attendance {#section_3_virtual_attendance}
+## Section 3: Virtual Attendance
 
 Meetings may be attended via video or audio conference if available.
 
-## Section 4: Meeting Agenda {#section_4_meeting_agenda}
+## Section 4: Meeting Agenda
 
 1.  Directors’ reports, then member reports
 2.  Vote on expenditures and policy changes (Old & New Business)
 3.  Introduce and vote on new members
 
-## Section 5: Meeting Minutes {#section_5_meeting_minutes}
+## Section 5: Meeting Minutes
 
 Minutes shall be taken using the \[monthly members meeting template\]
 
-## Section 6: Annual / Special Meetings {#section_6_annual_special_meetings}
+## Section 6: Annual / Special Meetings
 
 Important matters such as major purchases, signing new leases, and
 adopting Standing Rules should be done at the Annual Meeting, or at a
 Special Meeting called for the purpose
 
-### Annual Meeting Agenda {#annual_meeting_agenda}
+### Annual Meeting Agenda
 
 1.  If the Annual Meeting falls on the same day as a Members Meeting,
     then the Members Meeting Agenda will precede the Annual Meeting
@@ -296,13 +296,13 @@ Special Meeting called for the purpose
 5.  Determine the direction of the corporation in the coming year.
 6.  Election of Board Members
 
-### Special Meetings {#special_meetings}
+### Special Meetings
 
 1.  The petition for a Special Meeting may be conducted by Email.
 
-# Article V: Materiel {#article_v_materiel}
+# Article V: Materiel
 
-## Section 1: Storage {#section_1_storage}
+## Section 1: Storage
 
 Members and guests can temporarily store their personal items at HacDC
 
@@ -311,7 +311,7 @@ Members and guests can temporarily store their personal items at HacDC
 2.  Members have first priority for storing items in a locker labelled
     with their name
 
-## Section 2: Long-term Loan {#section_2_long_term_loan}
+## Section 2: Long-term Loan
 
 Equipment can be left at HacDC under long-term loan from the owner
 
@@ -322,7 +322,7 @@ Equipment can be left at HacDC under long-term loan from the owner
     arrangements are written and agreed to by the HacDC Board of
     directors.
 
-## Section 3: Property Rights {#section_3_property_rights}
+## Section 3: Property Rights
 
 Supplies and equipment left at or given to HacDC becomes HacDC property
 
@@ -340,7 +340,7 @@ Supplies and equipment left at or given to HacDC becomes HacDC property
     -   Then items go on the public tables for anyone to take
     -   Remaining items can be recycled if possible or disposed of
 
-# Article VI: Shop equipment and tools {#article_vi_shop_equipment_and_tools}
+# Article VI: Shop equipment and tools
 
 1.  Must have signed liability release for everyone that uses tools and
     shop equipment (including soldering irons and wiring tools)
@@ -355,11 +355,11 @@ Supplies and equipment left at or given to HacDC becomes HacDC property
 5.  Must abide by shop rules as approved of at a duly called member
     meeting and posted in or near the shop and tools.
 
-# Article VII: Anti-harassment Policy {#article_vii_anti_harassment_policy}
+# Article VII: Anti-harassment Policy
 
 See [Anti-Harassment Policy](Anti-Harassment_Policy)
 
-# Article VIII: Diversity Statement {#article_viii_diversity_statement}
+# Article VIII: Diversity Statement
 
 See [Diversity Statement](Diversity_Statement)
 

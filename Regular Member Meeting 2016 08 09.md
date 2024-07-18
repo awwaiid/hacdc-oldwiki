@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   August 9th, 2016
 :   Called to order at 7:50PM by Ethan
@@ -12,15 +12,15 @@
 
     :   Quorum met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   We should edit the bylaws so the board of directors' terms are
     staggered. Having a complete board turnover last year was not great.
@@ -49,11 +49,11 @@
 
 *Four month extension to the MOU passed with 5 in favor, no opposition.*
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 IT systems are functioning nominally. Replaced the classroom Wifi since
 the 5Ghz hardware was not stable. Also got the classroom room mic
@@ -62,15 +62,15 @@ compatibility. Also fixed a Wifi AP for the church and provided general
 email support. Haven't set up the Linux repo mirrors yet, plan on doing
 that soon.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Still fixing the issue that I didn't bill some people in June. Generally
 things are OK. See sheet below.
 ![](HacDC_2016_-_Report-8_(1).pdf "HacDC_2016_-_Report-8_(1).pdf")
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 
@@ -80,27 +80,27 @@ All Starlight accounts also provide SMTP/POP/IMAP email service.
 
 ReverseProxy for HTTP/HTTPS sites on HacDC servers are now redundant.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
-
-Nothing to report.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 Nothing to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+Nothing to report.
+
+### Project HAMRADIO
+
+### Project Electron Microscope (SEM)
 
 Our President Julia has volunteer to cover the delta costs from PA SEM
 funds to purchase the digital vacuum gauge. Need to work on ordering
 that.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 <http://wiki.hacdc.org/index.php/HacDC_CRISPR>
 
@@ -113,7 +113,7 @@ going through it once to verify we can actually do it with the equipment
 on-hand. Expect we'll have materials left over to repeat the experiment
 several more times.
 
-### Project Spaceblimp {#project_spaceblimp}
+### Project Spaceblimp
 
 We have had several fantastic meetings and are starting to break out in
 to individual teams based on project area outlined in the [Spaceblimp
@@ -126,7 +126,7 @@ Spaceblimp donation link directly on the HacDC website, possibly close
 below the HacDC donation link on the left rail. The Spaceblimp donation
 link would be up for no more than 6 months.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Kevin reports the FLIR One software on Linux compiles OK and complains
 no device is connected (which is correct).
@@ -135,7 +135,7 @@ no device is connected (which is correct).
 
 Adjourned at 945 PM
 
-## IRC Log {#irc_log}
+## IRC Log
 
 :   2016-08-09 19:28 -!-
     thomisthoss(\~thomistho@c-98-218-139-137.hsd1.md.comcast.net) has

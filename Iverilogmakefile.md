@@ -66,7 +66,7 @@ targeting an Arithmetic Logic Unit (alu).
     $(COUTPUT): $(TESTBENCH) $(SRC)
         $(COMPILER) $(COFLAGS) $(COUTPUT) $(TESTBENCH) $(SRC)
 
-## convenient file copy script {#convenient_file_copy_script}
+## convenient file copy script
 
 Convenient file to copy the makefile from \~/resources/makefile to your
 current directory. copy the script into a file, chmod +x the file and

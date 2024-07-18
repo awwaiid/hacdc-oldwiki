@@ -33,7 +33,7 @@ February 2013 (PST)
 
 -   Major upgrades in progress thanks to TJ.
 
-## 10 July 2012 {#july_2012}
+## 10 July 2012
 
 -   Platform still needs replacing, but Barlow resurfaced the remaining
     usable area. At least now it is level again.

@@ -37,7 +37,7 @@ services hosted on Starlight (eg. MediaWiki, git, etc).
 Routinely important commands unique to this server documented as
 follows.
 
-## Root (Admin) {#root_admin}
+## Root (Admin)
 
 ### ReInstall
 
@@ -140,7 +140,7 @@ Dell 1850
 -   Hostname - HacDC-shared-m335-3
 -   FQDN - HacDC-shared-m335-3.srv.hacdc.org
 
-# Redundancy (RAID) {#redundancy_raid}
+# Redundancy (RAID)
 
 Root filesystem is comprised of two approximately 100GB HDDs.
 
@@ -240,7 +240,7 @@ bandwidth use where possible, particularly for web servers.
     subnet and will call mirage335, juri\_, Ethan Waldo, or other admin
     team members to resolve the issue (no one will be happy).
 
-# Special Services {#special_services}
+# Special Services
 
 ## HTTP/HTTPs
 
@@ -277,14 +277,14 @@ HacDC-shared-m335-2.router.hacdc.org
 
 ## Virtual
 
-### Hostnames {#hostnames_1}
+### Hostnames
 
 mirage335-1
 
 -   mirage335 - Local username.
 -   1 - Unique machine identifier.
 
-### FQDNs {#fqdns_1}
+### FQDNs
 
 mirage335-1.HacDC-shared-m335-2.router.hacdc.org
 
@@ -294,7 +294,7 @@ EST/EDT aka US Eastern, America/NewYork, or "Eastern"
 
 # Workarounds
 
-## SSH KeepAlive {#ssh_keepalive}
+## SSH KeepAlive
 
 Due to limited bandwidth, SSH sessions may freeze. To prevent this,
 consider the following to configuration, appended to client-side

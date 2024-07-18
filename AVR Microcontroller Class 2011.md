@@ -8,7 +8,7 @@ Kit](Avr2011_Programming_The_Kit) Or check out the old
 version of the course [AVR Microcontroller Class
 2009](AVR_Microcontroller_Class_2009)
 
-## Class 0: Introduction and Setup {#class_0_introduction_and_setup}
+## Class 0: Introduction and Setup
 
 Hello World!
 
@@ -53,7 +53,7 @@ program runs. - Will
 
 ![ 500px](Screenshot-ATmega48-88-168.png " 500px")
 
-## Class 1: Digital and Serial I/O {#class_1_digital_and_serial_io}
+## Class 1: Digital and Serial I/O
 
 Interfacing with the real world is the soul of microcontrolling.
 
@@ -87,7 +87,7 @@ serial communications and social media integration. -Will G.
 -   More than you ever wanted to know about debouncing: [A Guide to
     Debouncing](http://www.ganssle.com/debouncing.htm)
 
-## Class 2: ADC and PWM: "Analog" I/O {#class_2_adc_and_pwm_analog_io}
+## Class 2: ADC and PWM: "Analog" I/O
 
 **Covers**: Learn about ways to fake analog data into and out of your
 microcontroller. We'll learn how to switch logic states fast to emulate
@@ -109,7 +109,7 @@ avr2011_class2_demoCode.tgz](Media:_avr2011_class2_demoCode.tgz)
 follow these
 directions](http://wiki.hacdc.org/index.php/Avr2011_kit#Adding_the_Light_Sensor_for_Class_2_.28ADC.29_follow_these_directions)
 
-## Class 3: Interrupts {#class_3_interrupts}
+## Class 3: Interrupts
 
 **Covers**: Interrupts call subroutines when certain conditions are
 true. They take a lot of the programming burden off your shoulders,
@@ -132,7 +132,7 @@ ghetto oscilloscope
 
 **Resources**:
 
-## Class 4: Timers and Counters {#class_4_timers_and_counters}
+## Class 4: Timers and Counters
 
 **Covers**: Timers and counters let you time and count events! Up until
 now, we've been doing a lot with for loops and delays to count the
@@ -152,7 +152,7 @@ avr2011_counterPWM.tgz](Media:_avr2011_counterPWM.tgz)
 
 **Homework**: Response-time-tester Game or tone generator
 
-## Class 5: Flash, EEPROM, I2C, USB, SD Cards, GPS, and Life After AVR Class {#class_5_flash_eeprom_i2c_usb_sd_cards_gps_and_life_after_avr_class}
+## Class 5: Flash, EEPROM, I2C, USB, SD Cards, GPS, and Life After AVR Class
 
 **Covers**: First, we'll cover using the internal flash memory and
 EEPROM for data storage. Then I'll demo how to use other people's

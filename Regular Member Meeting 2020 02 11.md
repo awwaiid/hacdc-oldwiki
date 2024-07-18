@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: February 11, 2020
 :   Called to order at 7:45 pm by Karen
@@ -12,7 +12,7 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_01_21) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_01_21)
 
 (such as they were.)
 
@@ -30,14 +30,14 @@
     bringing it back to life.
 -   **Loui** for running a beginners electronics classes at HacDC
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Spring cleaning (but not gear cleaning) has begun. Clean those
     springs!
 
-## New Business {#new_business}
+## New Business
 
 -   Once again, we've had an offer of space at the [USA Science and
     Engineering Festival](https://usasciencefestival.org/) April 25-26,
@@ -60,29 +60,29 @@
     by the current rules into a situation where changing the bylaws is
     nigh on impossible.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 -   Half of the SEM is now, gutted, "vertically oriented" and
     precariously balanced -- off-center on a dolly loaned by Don.
 -   The other half, Tristin has laid claim to.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

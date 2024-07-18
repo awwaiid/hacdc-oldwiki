@@ -11,7 +11,7 @@ Also see (and contribute to) [Linux Lab](Linux_Lab)
 
 ## Class ¼: Introduction and Setup (The Hardware) {#class_¼_introduction_and_setup_the_hardware}
 
-### Types of systems {#types_of_systems}
+### Types of systems
 
 -   Desktops
 -   Servers
@@ -42,10 +42,10 @@ to serve web pages to clients using the
 protocol. Though we're not using it for web pages per se, it still gets
 transferred to the clients in the same fashion.
 
-## Class 1: SSH & Getting In {#class_1_ssh_getting_in}
+## Class 1: SSH & Getting In
 
-## Class 2: My Little VM {#class_2_my_little_vm}
+## Class 2: My Little VM
 
-## Class 3: Service Time: DNS {#class_3_service_time_dns}
+## Class 3: Service Time: DNS
 
 [Category:Classes](Category:Classes)

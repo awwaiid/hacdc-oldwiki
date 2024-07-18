@@ -1,7 +1,7 @@
 ```{=mediawiki}
 {{Obsolete}}
 ```
-## Website Feedback {#website_feedback}
+## Website Feedback
 
 Please update this page with details of any broken links, errors or
 requested content
@@ -18,15 +18,15 @@ servers - is it possible?
 TC - We should be able to export the existing Wordpress data and load it
 on the new server
 
-# Requested content {#requested_content}
+# Requested content
 
 ...
 
-# Errors, typos {#errors_typos}
+# Errors, typos
 
 ...
 
-# Broken links {#broken_links}
+# Broken links
 
 -   Next / previous buttons on front page are broken
 -   The built in rss button for the main page is not working.(Firfox

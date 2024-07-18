@@ -17,7 +17,7 @@ time may take a while.
 
 ------------------------------------------------------------------------
 
-# Prebuilt Images {#prebuilt_images}
+# Prebuilt Images
 
 Knoppix and DSL ("Damn Small Linux") images have been prebuilt for 2GB
 USB sticks, to easily and reliably boot these finicky WYSE terminals.
@@ -33,7 +33,7 @@ modern platforms may be challenging.
 
 # Setup
 
-## Step 1: Configuring the BIOS to boot from a USB drive {#step_1_configuring_the_bios_to_boot_from_a_usb_drive}
+## Step 1: Configuring the BIOS to boot from a USB drive
 
 This part is very simple. Before inserting the power cable, connect a
 USB keyboard, and VGA monitor to the terminal. Then, hold down the del
@@ -50,7 +50,7 @@ whether or not the terminal can be shut down while power is connected.
 
 Save your configuration and exit the BIOS.
 
-## Step 2: Creating a bootable Linux USB drive {#step_2_creating_a_bootable_linux_usb_drive}
+## Step 2: Creating a bootable Linux USB drive
 
 **Virtually unbearable.**
 
@@ -65,7 +65,7 @@ the boot flag.
 Newer versions of syslinux tend to hang. Modern hybrid LiveCD ISOs,
 GRUB2, etc, also fail.
 
-#### Performance Management {#performance_management}
+#### Performance Management
 
 CPU is adequate for basic web browsing and similar kiosk tasks.
 
@@ -80,7 +80,7 @@ USB drives may provide tolerable swap. IDE interface seems to be
 operating rather slowly, with extreme CPU usage. Suspect it operates
 only in PIO mode, and is not DMA capable.
 
-#### Network Bug {#network_bug}
+#### Network Bug
 
 Sometimes, the network device may not initialize properly. DSL (2.4
 kernel) does not appear to have this problem, Knoppix (2.6 kernel) does.
@@ -89,7 +89,7 @@ Automatic retry does seem to be a valid workaround as follows.
 ``\
 `while ! ifconfig | grep eth0; do ifconfig eth0 down ; sleep 3 ; ifconfig eth0 up ; sleep 3 ; done`
 
-## Step 3: More powerful OS {#step_3_more_powerful_os}
+## Step 3: More powerful OS
 
 ### ChRoot
 
@@ -107,7 +107,7 @@ Unfortunately, at present it seems Debian packages rely on kernels newer
 than 2.4, which DSL does not provide. However, Knoppix does provide a
 newer 2.6 series kernel.
 
-### Direct Booting {#direct_booting}
+### Direct Booting
 
 It is possible to manually build Debian or Gentoo operating systems, and
 use syslinux directly as the bootloader. Unfortunately, at least Debian

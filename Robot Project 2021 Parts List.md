@@ -1,10 +1,10 @@
-# [Robot Project](Robot_Project) Parts List {#robot_project_parts_list}
+# [Robot Project](Robot_Project) Parts List
 
 See the [Codeberg
 repository](https://codeberg.org/ubuntourist/RedHat_Co.Lab_Robot) for
 the most up-to-date list.
 
-## [Shadow Chassis and breakouts](https://www.sparkfun.com/products/13301) {#shadow_chassis_and_breakouts}
+## [Shadow Chassis and breakouts](https://www.sparkfun.com/products/13301)
 
 -   1 top chassis cover
 -   1 bottom chassis cover
@@ -13,19 +13,19 @@ the most up-to-date list.
 -   1 line follower mount
 -   1 line follower mount plate
 
-## Chassis parts bag {#chassis_parts_bag}
+## Chassis parts bag
 
 -   4 side struts
 -   2 rear motor mounts
 -   2 moto:bit mounts
 -   1 battery pack clip
 
-## Servo motor bags (2) {#servo_motor_bags_2}
+## Servo motor bags (2)
 
 -   2 [servo motors plus white
     “gears”](https://www.sparkfun.com/products/9065) (2 bags)
 
-## [BBC micro:bit Go Bundle](https://www.sparkfun.com/products/14336) {#bbc_microbit_go_bundle}
+## [BBC micro:bit Go Bundle](https://www.sparkfun.com/products/14336)
 
 -   1 BBC micro:bit v 1.5 microprocessor (v 2.0 would be better…)
 -   1 USB to mini-USB cable (3" maybe?)

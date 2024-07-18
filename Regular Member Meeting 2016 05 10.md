@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:47 pm by Ethan W. (VP)
@@ -11,7 +11,7 @@
 
     :   Quorum met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -50,26 +50,26 @@ Also,
 -   and myself (Enrique) for filling out tedious IRS forms on short
     notice and handing them in in-person and other stuff.
 
-## New Members {#new_members}
+## New Members
 
 Ethan and Nacy were approved as members.
 
 Ken and Jamie were previously members and are considering resuming
 membership by paying of dues.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Tom I (Secretary) requests approval for reimbursment of PEI heatbed.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 I'll be headed back into town Tuesday evening and may not make it to
 this meeting.
@@ -100,7 +100,7 @@ we can stay on the list and do better this year. I haven't heard from
 the Audit Committee lately. Getting Brian a parting gift wasn't clearly
 delegated and didn't happen, unfortunately. It was a busy month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I've been a little scattered the past month -- will try to do better
 this month and all others coming.
@@ -130,11 +130,11 @@ put linux on/get help and see if it's salvageable" and similar sorts of
 statements from visitors; it seems like a well run class that addresses
 this kind of want from people could be a good draw to the space.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 
-#### Matt "mirage335" {#matt_mirage335}
+#### Matt "mirage335"
 
 -   Fabric chairs present a special combination of food and habitat.
     None that we have are significantly better than trash.
@@ -147,25 +147,25 @@ this kind of want from people could be a good draw to the space.
     48GB RAM, 20TB RAID6 array, 4TB RAID0 fast array, with around
     900MB/s and 1000 IOPS peak disk performance.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 -   Emergency purchase of supplies related to recent incidents.
 -   Preemptive delegation to Ethan Waldo to select a computer
     workstation (after two missed purchases).
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Nothing to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ## Adjournment
 

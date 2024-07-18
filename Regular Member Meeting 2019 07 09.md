@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7.35 pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Y
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Motion, seconded, approved by acclamation.
 
@@ -22,11 +22,11 @@ Members who have converted to automatic payment Welcome back Tayeb James
 has done a ton of work organizing the basement into a working shop - he
 also got a welder for the shop
 
-## New Members for July {#new_members_for_july}
+## New Members for July
 
 Michelle
 
-## Old Business {#old_business}
+## Old Business
 
 -   Rules of the road/code of conduct - there is input from Bobby that
     should be considered before we vote to accept
@@ -38,7 +38,7 @@ Michelle
 -   Visit to Nonstop Art - aiming for a group field trip on Wednesday,
     July 17, 6pm - Karen will email Nehemiah
 
-## New Business {#new_business}
+## New Business
 
 -   Kevin made a connection with WABA (kind of) who offered to help
     HacDC get a table at community events
@@ -49,43 +49,43 @@ Michelle
     neighborhood
 -   Visitor Jeff would like to join - members present approved
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-\- Report and updates
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project SpaceBlimp -Enrique
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+\- Report and updates
 
-## Member Reports {#member_reports}
+### Project Media Outreach - Matt
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+### Project IT Infrastructure - Tom
 
-### President's Report {#presidents_report}
+## Member Reports
+
+## Director Reports (Governance related stuff)
+
+### President's Report
 
 Next movie is Young Frankstein on Friday, July 19
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Out of town - no report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Google for nonprofits?
 
@@ -111,11 +111,11 @@ It would be nice to have monthly events where we could solicit donations
 (they would be free events otherwise) Some topics - AI, Blockchain, etc.
 Michelle's brain computer interface group?
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Dave's not here man...
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

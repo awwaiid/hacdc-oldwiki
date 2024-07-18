@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: Tue 14 June 2022
 :   Called to order at 7:35pm by
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Approved
 
@@ -19,9 +19,9 @@ Approved
 
 Tayeb for last meeting as a member -- moving to Chicago
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Ulisses - starting federated biology-combo group of labs; mostly
     graduate students or working professionals; space is hosted by
@@ -53,7 +53,7 @@ Tayeb for last meeting as a member -- moving to Chicago
     newsletter to gauge interest -- Oby will take leadership and restart
     this
 
-## New Business {#new_business}
+## New Business
 
 -   Bike light event last weekend of July (Tayeb) -- request that
     individuals bring/buy their own supplies, spend next weeks ensuring
@@ -81,41 +81,41 @@ Tayeb for last meeting as a member -- moving to Chicago
     effort to set this up -- need new filament and profile for Ultimaker
     2
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 21 paying members currently, donations from Tayeb, Karen, Obioma, and
 Tristan. Increase in current balance of \$1027 from last month. Rent
 still at \$900/month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
-#### ??? {#section_1}
+#### ???
 
 ## Adjournment
 

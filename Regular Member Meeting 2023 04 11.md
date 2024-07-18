@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 11 Apr 2023
 :   Called to order at 7:35 pm by Obi
@@ -12,20 +12,20 @@
 
     :   Quorum met?
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_03_14) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_03_14)
 
 ## Recognition
 
 -   Calli for looking at the door lock and replacing / charging the
     batteries
 
-## New Members {#new_members}
+## New Members
 
 -   Braaains (into cyber security, AI, and trading)
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Internet service - how to pay Mobile Citizen? how to get
     connection/installation instructions? who will setup our service

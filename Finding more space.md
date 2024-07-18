@@ -4,7 +4,7 @@
 Right now, we're paying \$850/month, all utilities and cleaning
 expenses, for the space we have now. Our lease is up in January.
 
-## What would we do with more space? {#what_would_we_do_with_more_space}
+## What would we do with more space?
 
 -   Add a woodshop
 -   Add an audio/visual editing and recording studio
@@ -12,14 +12,14 @@ expenses, for the space we have now. Our lease is up in January.
 -   Develop a [storefront](storefront)?
 -   ...
 
-## Space requirements, desires, and considerations {#space_requirements_desires_and_considerations}
+## Space requirements, desires, and considerations
 
 -   Cost
 -   Accessibility to members (particularly via Metro)
 -   Size
 -   ...
 
-## Option: More space in the church {#option_more_space_in_the_church}
+## Option: More space in the church
 
 [Nick](User:Nickfarr) is currently working with the church to
 determine where/how/when we would be able to get more space at our
@@ -37,7 +37,7 @@ Cons:
 -   The church may want to increase our rent to "market" rates
 -   We may be missing out on a better deal somewhere else
 
-## Option: Elsewhere {#option_elsewhere}
+## Option: Elsewhere
 
 See [SpaceSearch](SpaceSearch).
 

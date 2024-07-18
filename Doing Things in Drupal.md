@@ -7,7 +7,7 @@ create content, you need to sign up for an account on the drupal page,
 activate your account (follow instructions in the email), and then bug
 Will Gibb to make sure your account is setup as a member.
 
-# Creating a blog post {#creating_a_blog_post}
+# Creating a blog post
 
 The site's blog content is driven by content nodes. To add something to
 it, [create a new story "node"](http://hacdc.org/node/add/story) and
@@ -30,7 +30,7 @@ to use the img tag here \[syntax\]
 site and see how other authors have used the img tag in their posts, to
 do positioning. Katie has some pretty good examples.
 
-# Adding an Event {#adding_an_event}
+# Adding an Event
 
 Drupal's [calendar](http://hacdc.org/date-browser) is driven by content
 nodes. To add something to it, [create a new event

@@ -46,14 +46,14 @@ The microcontroller we are using is a RAMBO board.
 
 # Software
 
-## User Interface {#user_interface}
+## User Interface
 
 We are using Pronterface and Pronsole from the PrintRun package.
 
 I am taking PNG snapshots of STL files using [A Customized
 STLTools](https://github.com/jhdulaney/stltools).
 
-## Embedded Controller {#embedded_controller}
+## Embedded Controller
 
 The Optical Table robot is running [The Marlin
 Firmware](https://github.com/MarlinFirmware/Marlin).
@@ -70,7 +70,7 @@ which version?)
 -   Y minimum endstop not functional.
 -   Uptime of around 4-6 hours.
 
-## 3D Printing {#d_printing}
+## 3D Printing
 
 For slicing 3d printable objects, We are using
 [Slic3r](https://github.com/alexrj/Slic3r).
@@ -78,14 +78,14 @@ For slicing 3d printable objects, We are using
 For object design, we are using
 [ImplicitCAD](https://github.com/colah/ImplicitCAD/).
 
-## Laser Cutting {#laser_cutting}
+## Laser Cutting
 
 For designing cut out parts, we are moving to using
 [ImplicitCAD](https://github.com/colah/ImplicitCAD/).
 
 # Tools
 
-## IR Laser {#ir_laser}
+## IR Laser
 
 Tested. Mirrors are in place, but laser tube has died.
 
@@ -99,16 +99,16 @@ nozzles, one for high-precision (\<0.35mm), one for high-speed (\>1mm).
 In progress. Standard 120V AC drill, connected to control circuitry by
 SSR.
 
-## Pick And Place {#pick_and_place}
+## Pick And Place
 
 In Progress. camera system, part feeders, and vacuum based pick up and
 rotate tool will need to be added.
 
-## Liquid Deposition {#liquid_deposition}
+## Liquid Deposition
 
 In Progress. Epson piezoelectric print heads are useful for this.
 
-## VLSI Projection Lithography {#vlsi_projection_lithography}
+## VLSI Projection Lithography
 
 In progress. Modified (ultraviolet) DLP projector and camera mounted to
 microscope, used for high-resolution patterning. Absolute accuracy

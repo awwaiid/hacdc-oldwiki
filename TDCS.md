@@ -21,7 +21,7 @@ for DIY tDCS include:
 
 # Safety
 
-# Current Status {#current_status}
+# Current Status
 
 Several designs for easily-built open source TDCS have been produced
 under the name OpenTDCS. None are currently ready for wide-spread use,
@@ -31,7 +31,7 @@ and await assembly at the November 8th 2012 [Meatup](Meatup).
 
 # Devices
 
-## Version 1 {#version_1}
+## Version 1
 
 ![](v1.png "v1.png")
 
@@ -62,7 +62,7 @@ Disadvantages:
 -   No Electrostatic Discharge (ESD) protection
 -   No fail-safe if the LM334Z current limiting IC were to fail.
 
-## Version 2 {#version_2}
+## Version 2
 
 -   [gEDA Schematic](https://github.com/nocko/tdcs/tree/v2)
 -   [Original Announcement
@@ -73,7 +73,7 @@ stimulator. USB power was not a good fit due to power supply isolation
 issues. No prototypes were built, the design is flawed and not
 recommended for any use.
 
-## Version 3 {#version_3}
+## Version 3
 
 ![](opentdcs-v3.png "opentdcs-v3.png")
 
@@ -91,7 +91,7 @@ became apparent. The design will probably work safely if the USB power
 is provided by a laptop running on battery power, but construction or
 use of the v3 design is not recommended
 
-## Version 4 {#version_4}
+## Version 4
 
 ![](opentdcs-v4.png "opentdcs-v4.png")
 

@@ -6,9 +6,9 @@ PayPal's system.
 The Ministry of Finance will be publishing weekly financial reports on
 Fridays.
 
-# Financial Statements {#financial_statements}
+# Financial Statements
 
-## Statement of Financial Position {#statement_of_financial_position}
+## Statement of Financial Position
 
   -------------------------------- ------------------ ---------------- ------------
   **Assets**                       **Unrestricted**   **Restricted**   **Total**
@@ -30,7 +30,7 @@ Fridays.
                                                                        
   -------------------------------- ------------------ ---------------- ------------
 
-## Statement of Financial Position {#statement_of_financial_position_1}
+## Statement of Financial Position
 
   ---------------------------------------- ------------------ ---------------- ------------
                                            **Unrestricted**   **Restricted**   **Total**
@@ -56,7 +56,7 @@ Fridays.
                                                                                
   ---------------------------------------- ------------------ ---------------- ------------
 
-## 5 Largest Receipts (Since Last Report) {#largest_receipts_since_last_report}
+## 5 Largest Receipts (Since Last Report)
 
   --------------------------- ----------
   Prepaid Dues (Member 010)   \$300.00
@@ -67,13 +67,13 @@ Fridays.
                               
   --------------------------- ----------
 
-## 5 Largest Expenditures (Since Last Report) {#largest_expenditures_since_last_report}
+## 5 Largest Expenditures (Since Last Report)
 
 No Expenditures (Since Last Report)
 
 # Budget
 
-## Membership Dues {#membership_dues}
+## Membership Dues
 
 The general proposal agreed to on Tuesday, May 6 was to charge
 \$50/month for dues, strongly encouraging members to donate via PayPal
@@ -85,7 +85,7 @@ As of COB on the date of this report, we have 22 dues paying members
 establishing a base budget of \$1,100 to cover Rent, Insurance and
 Internet for the space.
 
-## Budget Principles Proposal {#budget_principles_proposal}
+## Budget Principles Proposal
 
 These were unofficially adopted as the Budget Principles at the planning
 meeting on May 13:
@@ -99,9 +99,9 @@ meeting on May 13:
     sale of recycled equipment, etc (and not restricted to a cause)
     should go towards group-wide goals approved at a meeting
 
-## Budget Proposals {#budget_proposals}
+## Budget Proposals
 
-### HiDeUS (High Density Unit of Shelving) - \$500 {#hideus_high_density_unit_of_shelving___500}
+### HiDeUS (High Density Unit of Shelving) - \$500
 
 I authorized a budget of \$400 for the initial construction. I propose a
 budget of \$500.00 for finishing off the shelf, however, we need to

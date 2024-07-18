@@ -2,7 +2,7 @@ Meetings Thursdays at 7:30ish starting 10 Feb 2011
 
 # Brainstorming
 
-## Official Project Page {#official_project_page}
+## Official Project Page
 
 [ Byzantium](Byzantium)
 
@@ -22,7 +22,7 @@ Which way will we head with this?
 -   Communication technology which lends itself to improvisational
     construction.
 
-## What Next? {#what_next}
+## What Next?
 
 After we have our direction what are we gonna do?
 
@@ -76,7 +76,7 @@ that?
             -   incoherent light
 -   a higher order traditional network
 
-## Crazy Ideas {#crazy_ideas}
+## Crazy Ideas
 
 -   viral node generation - present captive portals on carriers that
     require the user to become a "infected" and themselves present

@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-10-12 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 October 12, 2010 Meeting called to order at 7:45 by Redbeard.
 
@@ -11,16 +11,16 @@ Others Present: Alex, Bjorn, Andrew
 
 [Quorum](Quorum) met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 09
 14](Regular_Member_Meeting_2010_09_14) Arc requested that
 nonprofit income which was earmarked for a specific project should be
 split out. Approved.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   Discussion of fundraising efforts
 
@@ -36,7 +36,7 @@ notification of receipt of 501(3)c paperwork from Daniel P. Tim B.
 mentioned that now donors such as Think Geek and electronics supply
 houses can write off parts donations.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 HacDC
 
@@ -165,13 +165,13 @@ Total Equity \$7,246.40
 
 TOTAL LIABILITIES AND EQUITY \$7,246.40
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### William Gibb {#william_gibb}
+#### William Gibb
 
 -   Still working with the resilient community folks. They are pretty
     busy but want to get their article on us done by this months end.
@@ -183,7 +183,7 @@ TOTAL LIABILITIES AND EQUITY \$7,246.40
 -   Thinking of doing a workshop/learningshop on spectroscopy based off
     the materials mark Adams sent out yesterday.
 
-#### Katie Bechtold {#katie_bechtold}
+#### Katie Bechtold
 
 -   Planning an [LED Embroidery](LED_Embroidery) workshop and
     another tea night.
@@ -193,7 +193,7 @@ TOTAL LIABILITIES AND EQUITY \$7,246.40
     Rules](Standing_Rules) when that becomes sufficiently
     more important than becoming financially secure.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Ben S. Brochure design updated, needs about \$350 for 2000 copies.
 Funding discussion. Dan B. Job update Andy Shirts are on the way and
@@ -210,9 +210,9 @@ ACME threads and heated build platform. TC mentioned Mark A. will give
 3D printing class Elliot mentioned that the Lathe classes were very
 popular and encouraged everyone to learn.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Hacker Homcoming
 
@@ -228,7 +228,7 @@ TC proposed the hackerspace sleepover for March for Sanity/Fear.
 Suggested donation, part of which goes to church; breakfast; Friday and
 Saturday night activities. Motion carries.
 
-### New Members {#new_members}
+### New Members
 
 All approved.
 

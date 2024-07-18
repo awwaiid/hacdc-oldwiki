@@ -17,7 +17,7 @@ Plug the FTDI cable into the board -- black wire to GND.
 
 ![ 500px](_avr2011_cable_hookup.jpg " 500px")
 
-# Getting the Board Into Bootloader Mode {#getting_the_board_into_bootloader_mode}
+# Getting the Board Into Bootloader Mode
 
 When the chip starts up, the bootloader program checks if the "B" button
 (connected to PD2) is pressed. If the button is pressed, it sits and
@@ -35,7 +35,7 @@ You can tell you're in bootloader mode because your normal code won't be
 running. If you had and LED on or blinking, for instance, it won't be
 now.
 
-# Programming the Chip {#programming_the_chip}
+# Programming the Chip
 
 -   Get the chip into bootloader mode
 -   While you're in the directory with your code and the Makefile, type

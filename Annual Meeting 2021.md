@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 `   Date: Tuesday, March 9`\
 `   Location: HacDC`
@@ -43,7 +43,7 @@ Meeting called to order at
 
 `   Yes`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Approved
 
@@ -52,59 +52,59 @@ Approved
 -   Don -- repairing the antennas on the roof
 -   HacDC Robot Group -- ready to start classes this week
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Fundraising Activities - scheduled and proposed discussed in shared
 google docs aggregating ideas from past members meetings. Board to meet
 in the future.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Financial Report: Current Balance -- \$13,766 We currently have 17
 paying members, \$930 from dues and an additional \$120 from donations.
 Rent is \$732 for September, total expenses are \$793
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Ken
 
 #### Kevin
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project SEM {#project_sem}
+### Project SEM
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
 Nobody bothered to form a committee so there's no report. All financial
 statements including receipts for all purchases are at the space, in the
 BOD locker, treasurer's folder.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
 -   John: Perhaps codify the idea that the Vice President should be the
     person likely to become the President in the Bylaws? Look into a
     Bylaws amendment for future monthly meetings
 
-### Bylaws Amendments {#bylaws_amendments}
+### Bylaws Amendments
 
 -   No bylaws amendments
 
-## New Business {#new_business}
+## New Business
 
 -   Board to meet the following Tuesday to address plan for Mike
     Ritonia. Tayeb to prepare shared document for Board consideration
@@ -116,7 +116,7 @@ BOD locker, treasurer's folder.
 -   Ken: Discusses Strawman Vision for HacDC Robot Project -- taking the
     project beyond just the space to the community
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Slate of Candidates -- Tayeb: President, John: Vice-President, Michelle:
 Secretary, Matt: Treasurer, Brian: At-Large, Gabe Altay: At-Large
@@ -135,7 +135,7 @@ Results of the elections are as follows:
 Karen moved, Kevin seconded a motion to elect the slate of board
 candidates in a single vote. Motion to elect the slate passed.
 
-## New Members {#new_members}
+## New Members
 
 We have a new member! Jared
 

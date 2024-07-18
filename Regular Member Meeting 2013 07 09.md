@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   July 9, 2013
 :   Called to order at 1935 by Ben.
@@ -8,30 +8,30 @@
 
     :   Quorum met? Yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 06
 11](Regular_Member_Meeting_2013_06_11)
 
 ## Recognition
 
-### Dan Barlow, Martin, Jon Singer, Chas, TC {#dan_barlow_martin_jon_singer_chas_tc}
+### Dan Barlow, Martin, Jon Singer, Chas, TC
 
 Massive thanks for Optical Table delivery (including difficult rigging).
 Advanced mechanical (eg. advanced 3D printers, CNC mills) and optical
 (eg. microscopy) engineering is now possible at HacDC.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
-
-Nothing to report.
-
-### Vice President's Report {#vice_presidents_report}
+### President's Report
 
 Nothing to report.
 
-### Treasurer's Report {#treasurers_report}
+### Vice President's Report
+
+Nothing to report.
+
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for June 2013:
 ![](HacDC_Financials_2013_06.pdf "HacDC_Financials_2013_06.pdf"). We
@@ -39,7 +39,7 @@ regained Nick Mapsy as a member. Andy Walker, Eric Miller, and TJ
 Johnson left. Five people (members and non-members) made non-dues
 donations.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 We had a surplus so I am able to declare a \$250 Project Awesome
 dividend and add \$113.49 to our reserves. Here is the Project Awesome
@@ -47,32 +47,32 @@ spreadsheet for June:
 ![](HacDC_PA_Projects-2013_06.pdf "HacDC_PA_Projects-2013_06.pdf").
 There are currently 15 votes.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Nothing to report.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) {#shawn_nock}
+#### [Shawn Nock](User:Nocko)
 
 #### Reuven
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan: Showed proof that the laser has cut something.. test pattern on
 plexiglas. All seems to work. Needs to be be placed in a cabinet. Will
 be working most evenings this week at the space setting things up. **Do
 not use the laser without being cleared by Dan for saftey!**
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Some updates, including adding Groundstation (software). Organizing
 repositories. Starting 4th milestone.. lots to do, heading towards a
 beta quality release.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 \[Alberto:\] Tim S has been reimbursed \[treasurer@, please
 confirm/deny?\] for soldering irons and other Project Kitbuild supplies
@@ -87,16 +87,16 @@ where best to store the stuff.
 Discussion: things are ok where they are for now.. we need to get rid of
 more stuff in general around the space.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 No expenditures this month. Ongoing equipment setup and cleanup has been
 a priority. Also, we have many semi-sorted components (resistors and
 similar) taking up several boxes. Consolidating these into a mini-rack
 would be useful and save space.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -125,13 +125,13 @@ series which might fit nicely as a follow up would be one on AVR
 programming. I want to thank Katie, Martin, Phil, Shawn and Chris for
 offering to help out, especially during the first one.
 
-### David Mc {#david_mc}
+### David Mc
 
 Starting planning for 3DP build run.
 [3DP_Build_Run_2013.07](3DP_Build_Run_2013.07) Would like to
 go with Kossel Pro, but Kossel Mini seems more likely.
 
-### Dan Barlow {#dan_barlow}
+### Dan Barlow
 
 Thanks to Chas, Martin, and TC for helping with wrestling the optical
 table into the basement. New shelves and cabinet were donated.
@@ -141,9 +141,9 @@ table into the basement. New shelves and cabinet were donated.
 'Data center' issues with overheating and lack of ventilation. Working
 on plan for updating and organizing the hardware there.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 ### Dehumidifier
 
@@ -156,7 +156,7 @@ buying a AC/dehumid unit from Sears as per Dan B.'s suggestion.
 
     :   Approved by member vote.
 
-## New Members {#new_members}
+## New Members
 
 -   Greg Toth (visiting) - [DC Internet of Things
     (Meetup)](http://www.meetup.com/Internet-of-Things-DC) dropped by to

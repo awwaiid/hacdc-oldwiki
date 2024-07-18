@@ -5,7 +5,7 @@ encrypted sessions but is otherwise robust out of the box [akiscode
 p2pchat](http://akiscode.com/projects/p2pchat/) - needs work but could
 be made into a webchat and is written in python.
 
-## Ideal Chat Client {#ideal_chat_client}
+## Ideal Chat Client
 
 -   has the ability to do asymetric encryption
 -   has the ability to work without a server (maybe unrealistic but it

@@ -1,4 +1,4 @@
-## Introduction to Python {#introduction_to_python}
+## Introduction to Python
 
 WHERE: HacDC 1525 Newton ST NW Washington D.C. 20010
 

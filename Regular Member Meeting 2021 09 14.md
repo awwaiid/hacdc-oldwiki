@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date September 14th 2021
 :   Called to order at 7:40pm by Tayeb
@@ -12,16 +12,16 @@
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
 Tristan -- Tayeb for checking in on Project Night and Capture the Flag
 events.
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 In-Person Events -- not having in-person group events for at least
 another month as Delta is peaking. Members-only for the space right now.
@@ -37,7 +37,7 @@ on Saturdays. Might create an upper-track for another day/time-slot
 maybe Tristian can host the advance variety CAD Night -- Tristian still
 interested in this
 
-## New Business {#new_business}
+## New Business
 
 Workspace. New Church POC -- former POC, Mike, has left his position
 with the church. The replacement is: The Rev. Rondesia Jarrett-Schell

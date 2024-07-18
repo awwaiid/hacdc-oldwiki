@@ -3,9 +3,9 @@
 -   [Shawn](User:Nocko)
 -   Stuart
 
-# New Business {#new_business}
+# New Business
 
-## Build a Temp controlled water bath {#build_a_temp_controlled_water_bath}
+## Build a Temp controlled water bath
 
 Shawn brought the parts to build a simple temperature controlled water
 bath
@@ -16,18 +16,18 @@ bath
 -   Immersion Heater
 -   Temperature probe
 
-# Old Business {#old_business}
+# Old Business
 
-## tDCS v4 Prototypes {#tdcs_v4_prototypes}
+## tDCS v4 Prototypes
 
 Report from tDCS human testing.
 
-## Biosignal Amp {#biosignal_amp}
+## Biosignal Amp
 
 Boards delayed by holiday... should be here Monday. Parts order needs to
 go in soon, we'll decide on financing at the meeting.
 
-## SMT Soldering Class {#smt_soldering_class}
+## SMT Soldering Class
 
 Prototype boards are in. Parts are ordered will probably arrive Friday.
 Boards will be showed off, etc.

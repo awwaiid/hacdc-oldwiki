@@ -23,7 +23,7 @@ Suppliers](http://wiki.hacdc.org/index.php/Suppliers#Mechanical_Parts_.26_Fabric
 [American Science and Surplus \$20 Digital
 Calipers](http://www.sciplus.com/search.cfm/scategory/TAM/term/calipers/srch.fp/1)
 
-## Lessons Learned {#lessons_learned}
+## Lessons Learned
 
 List of tips gleaned from our own ~~mistakes~~ experiences. Please
 contribute (with attribution / date).
@@ -67,7 +67,7 @@ Page](http://wiki.hacdc.org/index.php/Procurement)
 -   Threading (may take some time, I (Tom) will need to teach myself
     first)
 
-## Successful Parts! {#successful_parts}
+## Successful Parts!
 
 Feel free to post up proof of your awesome part-making skills here.
 Stories and photos encouraged.

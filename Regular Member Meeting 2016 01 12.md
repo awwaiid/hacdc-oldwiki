@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   January 12th, 2016
 :   Called to order at 7:47 pm by Enrique
@@ -12,7 +12,7 @@
 
     :   Quorum met? No. 7/10
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -22,13 +22,13 @@
     as well as our PFSense firewall to bring first-class web
     conferencing capabilities to HacDC.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-#### Basement Policy {#basement_policy}
+#### Basement Policy
 
 Would appreciate seeing HacDC willing to trust and back its volunteers
 after a success like the OpticalTableRobot. If additional safety or
@@ -75,7 +75,7 @@ Again, this matters, and represents a crucial milestone at HacDC.
 With effective leadership and sound policies, we could have a good year,
 back on track as a real hackerspace.
 
-#### OpticalTableRobot Repairs {#opticaltablerobot_repairs}
+#### OpticalTableRobot Repairs
 
 Since the laser tube was found to be damaged or defective, fully
 re-commissioning our new OpticalTableRobot laser will involve:
@@ -104,7 +104,7 @@ systems. Moreover, irreplaceable volunteer hours have gone into both. On
 that note, our custom exhaust system for the FullSpectrum machine was
 nearly trashed.
 
-#### Commercial Laser Cutters {#commercial_laser_cutters}
+#### Commercial Laser Cutters
 
 Off-the-shelf laser cutters are of throw-away quality with miniscule
 build area and lackluster precision. However, they have also become
@@ -114,7 +114,7 @@ OpticalTableRobot is up to the task, we could allocate up to \$500 for a
 
 <http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR1.TRC0.A0.H0.X40W+CO2+laser+cutter.TRS0&_nkw=40W+CO2+laser+cutter&_sacat=0>
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Dwolla balance: \$4245.00
 -   Paypal balance: \$4355.98
@@ -131,31 +131,31 @@ OpticalTableRobot is up to the task, we could allocate up to \$500 for a
 ```
 -   Income earmarked for HARC: \$675
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   We gained a new member last month but we lost three members also.
 -   We're at 38 members, therefore quoum is 10, majority is 20 and
     3/4ths is 29.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Nothing to report.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 \$37.89, More screws for basement printer.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Enrique: I brought in a brand new ladder for the basement; it was
     about \$94 and I'd like to be reimbursed either by Expansion or by
@@ -175,9 +175,9 @@ Nothing to report.
     been mistreted, for future attempts to duplicate the OTR's success
     elsewhere.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   EdTechDMV, a non-profit that hosts educational tech events for DC
     teachers and developers in the education software market, wants to
@@ -197,7 +197,7 @@ Nothing to report.
 -   Approve \$2k for fully re-commissioning the OpticalTableRobot.
 -   Approve \$500 for an off-the-shelf throw-away eBay laser cutter.
 
-## New Members {#new_members}
+## New Members
 
 Ian D. voted in 5/5. (Don left)
 

@@ -1,8 +1,8 @@
-### Current status {#current_status}
+### Current status
 
 (As of 2015) Moved away to PA, reluctantly left HacDC.
 
-### Archived page circa 2012 {#archived_page_circa_2012}
+### Archived page circa 2012
 
 Hey, I'm Nick (the "nmapsy" email on blabber).
 

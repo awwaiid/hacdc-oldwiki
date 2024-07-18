@@ -11,14 +11,14 @@ initiatives. Providing education and curriculum will facilitate better
 outreach and potential
 [funding](HacDC_Spaceblimp_6/Projects/Funding).
 
-# Team Members Roles {#team_members_roles}
+# Team Members Roles
 
 -   Nancy Wolfson-Project Development- I will be working on developing
     the curriculum and other writing materials (If you want to join me
     please add your name)
 -   [Ethan Waldo](User:Ewaldo)
 
-# Project Links {#project_links}
+# Project Links
 
 -   Project Development - Curriculum Link coming up soon
 

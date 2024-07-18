@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   October 13th, 2015.
 :   Called to order at 7:48pm pm by Enrique
@@ -12,7 +12,7 @@
 
     :   Quorum met? Yes, 9.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -32,11 +32,11 @@
 -   Don spearheaded moving stuff out of the old space into the new space
     and basement.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Top priority is to get all our equipment back online.
 
@@ -56,7 +56,7 @@ layout. However, our unfunded mandate to move did incur significant
 hidden costs. Setting aside \>\$1.5k for future moving services,
 construction, temporary/cheap storage, etc, would be wise.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Current Paypal balance: \$1901.17 Dwolla ballance: \$1780.00 BBT
 Balance: \$4090.23
@@ -69,7 +69,7 @@ Back dues paid during sept: \$600. Paypal income from dues for sept:
 
 Total paypal income for sept: \$1564.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 We gained a couple of members, so we're at 34 paying members now. We
 finalized a sponsorship arrangement with Accelebrate. They do online and
@@ -133,23 +133,23 @@ Let's please reimburse them... \[2\] I think the optical table is Juri's
 realm and she can toss whatever irrelevant junk is placed there,
 no-questions-asked.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Raspberry Pis purchased last month cost a total of \$110.93.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -193,11 +193,11 @@ me get back here more often with more interesting resources.
     out. Don's onboard, so maybe we'll be helping out some Hams in Japan
     soon.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 -   Nick S.'s membership was approved.
 -   Bobby B.'s membership was approved.

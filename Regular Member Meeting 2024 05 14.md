@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 2024-05-14 7:46PM
 :   Members present:
@@ -10,7 +10,7 @@
 
     :   Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2024_05_14) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2024_05_14)
 
 Obi Moves to approve, and Liz seconded
 
@@ -20,11 +20,11 @@ Chris for Google Workspace "spring cleaning" Shoutout Liz for getting
 Sven into radios, Sven got his Callsign!!! Shoutout to Obi for signing a
 supporting letter for the church (for the grant for the boiler)
 
-## New Members {#new_members}
+## New Members
 
 Brock - Approved! Maddie - Approved!
 
-## Old Business {#old_business}
+## Old Business
 
 Policy in place for using dangerous equipment:
 
@@ -56,7 +56,7 @@ discounts for nonprofits, business line only. We will look into
 [1](https://www.astound.com/business/smb/Astound), highly recommended by
 Chris and Kyle
 
-## New Business {#new_business}
+## New Business
 
 DC Tool Library - Searching for a fiscal sponsor
 

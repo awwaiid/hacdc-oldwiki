@@ -8,7 +8,7 @@ operate to specifications, have proper fail safes, and have the best
 chance of surviving the conditions of a [High-altitude
 balloon](https://en.wikipedia.org/wiki/High-altitude_balloon) flight.
 
-# Team Members {#team_members}
+# Team Members
 
 -   Ethan M
 -   [Ethan Waldo](User:Ewaldo)

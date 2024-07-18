@@ -12,7 +12,7 @@
 
 # Raster
 
-## Nail Polish Resist {#nail_polish_resist}
+## Nail Polish Resist
 
 Used to mask copper clad board for chemical etching.
 
@@ -20,7 +20,7 @@ Used to mask copper clad board for chemical etching.
 
 50% speed
 
-## Blue Tape {#blue_tape}
+## Blue Tape
 
 Excellent solder stencil material.
 

@@ -38,7 +38,7 @@ SFRA
 :   Special Flight Rules Area, an area with a whole new bag of
     regulations, DC for one.
 
-## Federal Regulations {#federal_regulations}
+## Federal Regulations
 
 Within the "Code of Federal Regulations" parts relating to airspace fall
 under "Title 14", FAA regulations.
@@ -48,7 +48,7 @@ under "Title 14", FAA regulations.
     :   ..this link probably won't work, but you can perform a search
         there
 
-### Summary of Part 101 bits that apply to kites and moored balloons {#summary_of_part_101_bits_that_apply_to_kites_and_moored_balloons}
+### Summary of Part 101 bits that apply to kites and moored balloons
 
 -   These rules apply to:
 
@@ -484,7 +484,7 @@ pounds.
 
     (d) Each person operating an unmanned free balloon shall notify the nearest FAA ATC facility when the operation is ended.
 
-## DC Regulations {#dc_regulations}
+## DC Regulations
 
 Under Title 14, part 93, "Special Air Traffic Rules"
 

@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 January 8, 2013
 
@@ -10,7 +10,7 @@ Present: TJ
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 12
 11](Regular_Member_Meeting_2012_12_11) Approved.
@@ -21,9 +21,9 @@ Matt Hines - Occupancy sensor getting better. Will be hooked up to
 twitter. Web cams exist and may be hooked up. There will be a switch to
 turn them on and off so as not to be creepy.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Planning activities for the year
 
@@ -48,11 +48,11 @@ there, so whatever we do will be interesting, but may not be relevant.
 Will not hand out all our stickers. Also lobby con, no ticket required
 -- just hang out outside the conference and talk to everyone.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Ben is not here.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for December 2012:
 ![](HacDC_Financials_2012_12.pdf "HacDC_Financials_2012_12.pdf"). We
@@ -69,7 +69,7 @@ regular expenses compared to dues and non-earmarked donations.
 
 Quorum remains at 14.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Since we were net negative in regular income and expenses, there is no
 Project Awesome dividend for December. However there were a large amount
@@ -77,9 +77,9 @@ of earmarked donations for Project LASER - thanks everyone! Here is the
 Project Awesome spreadsheet for December:
 ![](HacDC_PA_Projects-2012_12.pdf "HacDC_PA_Projects-2012_12.pdf").
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -93,9 +93,9 @@ Nothing to report. No excuses. Not nerding out.
 Cutting clear acrylic with a student and got hit with laser in eye.
 Guide laser. Freak accident, what. Spent 5 hrs in ER, sucked.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 We received a total of almost \$1900 in donations earmarked for Project
 LASER in December! That brings the total to \$4459, which is enough to
@@ -111,21 +111,21 @@ we are able to afford a 60W from somewhere else I think I'd go for that
 instead - the 40W FSlaser needs multiple passes to cut 1/4" materials.
 --TMS
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Not much. Code sprint guy from the neighborhood who work with Sean came
 in and got him working with that, and that's about it.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 No action unfortunately. Being realistic, I probably won't have time to
 put a workshop together until the end of February. If someone else wants
 to do one they could use my collection of soldering irons and tools.
 --TMS
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Tim Slagle {#tim_slagle}
+### Tim Slagle
 
 I'm hoping to set up info@hacdc.org as our inbox for help and
 information requests. Google Groups has a collaborative inbox feature we
@@ -159,7 +159,7 @@ then arduino processing. Supplanted by a kit build from sparkfun.
 Willing to teach that one. Three organizations from which to leverage
 attendees.
 
-### Andy {#andy_1}
+### Andy
 
 Learning software for dance music. If you are interested in electronic
 music with digital audio workstations, let's chat.
@@ -168,11 +168,11 @@ music with digital audio workstations, let's chat.
 
 Working on occupancy sensor, basement salvage, frequency mixer.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 TJ - Moved done a year ago. Used to do embedded design. Builds CNC
 machines. 3D printers. Aviation electronics. In between projects.

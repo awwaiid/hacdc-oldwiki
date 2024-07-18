@@ -1,4 +1,4 @@
-## Noise Toys {#noise_toys}
+## Noise Toys
 
 To turn a blinky LED program into a simple square-wave synthesizer, plug
 a speaker into PB4 and ground (where the LED was before), and turn up

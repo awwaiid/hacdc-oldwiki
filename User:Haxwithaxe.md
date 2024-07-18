@@ -1,4 +1,4 @@
-## Stuff I've worked on {#stuff_ive_worked_on}
+## Stuff I've worked on
 
 [Byzantium](Byzantium)
 

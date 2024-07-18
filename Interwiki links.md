@@ -1,7 +1,7 @@
 [How to write an interwiki
 link](mediawikiwiki:Help:Interwiki_linking#Interwiki_links)
 
-# Interwiki links that work here, as of 16:43, 17 December 2008 (UTC) {#interwiki_links_that_work_here_as_of_1643_17_december_2008_utc}
+# Interwiki links that work here, as of 16:43, 17 December 2008 (UTC)
 
 [abbenormal:](abbenormal:) [acronym:](acronym:)
 [advogato:](advogato:) [aiwiki:](aiwiki:)
@@ -112,7 +112,7 @@ model:](osi_reference_model:)
 [wlwiki:](wlwiki:) [ypsieyeball:](ypsieyeball:)
 [zwiki:](zwiki:) [zzz wiki:](zzz_wiki:)
 
-# See also {#see_also}
+# See also
 
 [mediawikiwiki:Interwiki map](mediawikiwiki:Interwiki_map)
 

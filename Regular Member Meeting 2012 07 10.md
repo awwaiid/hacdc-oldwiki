@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 July 10, 2012
 
@@ -11,25 +11,25 @@ Others Present: Tim, Nancy, Lonie, Jumoke
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 06
 12](Regular_Member_Meeting_2012_06_12)
 
 Approved.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Nothing to report.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Byzantium is doing awesome and excited for HOPE. Going to start
 organizing fundraising for the space.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for June 2012:
 ![](HacDC_Financials_2012_06.pdf "HacDC_Financials_2012_06.pdf") Debits
@@ -56,7 +56,7 @@ educational group and there shouldn't be a problem getting a new policy,
 but I haven't heard back with more details. They were very concerned
 about woodworking and sawdust, which is a big fire risk.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -66,7 +66,7 @@ Nothin'
 
 None.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Brad: Going to organize locksport events.
 
@@ -82,17 +82,17 @@ Andrew: Making awesome videos to show off the space
 ITG: Twilio! Todd is going to use his credits to pay for it. We'll keep
 the existing number.
 
-## Old Business {#old_business}
+## Old Business
 
 None
 
-## New Business {#new_business}
+## New Business
 
 Do we want to sign [Declaration of Internet
 Freedom](http://www.internetdeclaration.org/freedom) as an organization?
 Approved.
 
-## New Members {#new_members}
+## New Members
 
 Tim: Software guy. Interested in Arduino and RaspberryPi Nom: Brad,
 Second: Ben Approved

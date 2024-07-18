@@ -61,7 +61,7 @@ Finally, the following command is necessary to make the linker happy
 You'll want to adjust the path above to match your architecture and
 binutils version.
 
-## OS X {#os_x}
+## OS X
 
 > NOTE: In trying to program the AVR without using CrossPack (below), we
 > were unable to get OS X to recognize the FTDI device until we
@@ -86,7 +86,7 @@ your web browser. These docs are also located at
 /Applications/Crosspack-AVR-Manual.html. This is important, as the
 Crosspack docs are not on the www.obdev.at site :\\
 
-### Making Crosspack projects work with Elliot's boards {#making_crosspack_projects_work_with_elliots_boards}
+### Making Crosspack projects work with Elliot's boards
 
 Follow the crosspack 'getting started' section to create your first
 hello world project.
@@ -142,9 +142,9 @@ out!
 For the programmer type, select AVR109 or Butterfly. For the serial
 port, select the USB device.
 
-# Special-Needs Hardware {#special_needs_hardware}
+# Special-Needs Hardware
 
-#### Atmel Dragon Hardware Programmer with avrdude on Ubuntu {#atmel_dragon_hardware_programmer_with_avrdude_on_ubuntu}
+#### Atmel Dragon Hardware Programmer with avrdude on Ubuntu
 
 Apparently there are two bugs that get in the way when trying to use
 avrdude with the dragon.

@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at xxxx pm by xxxx
@@ -11,15 +11,15 @@
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Proposal for curtains on the classroom shelves. I propose we
     allocate up to \$150 from reserve funds to purchase curtains and
@@ -45,11 +45,11 @@
     I'm soliciting donations for the purchase of a \$150 DIY CRISPR
     educational kit. -Enrique & Nancy
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 IT systems are good. Firewall has been more stable since installed in
 rack so have not replaced yet. Phone system revamp by ITechGeek and
@@ -85,7 +85,7 @@ period. Rare equipment/parts/components or equipment actively being used
 in classes may qualify for special consideration with sufficient
 justification.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 In May we added pest control as a regular \$150/month expense, so our
 monthly expenses are now \$1,250. Our income was \$1,691, so it's a
@@ -102,7 +102,7 @@ sending out payment-overdue notices. I haven't heard from the CFC in
 regards to our appeal and tax forms for 2016 so I've just asked and hope
 to hear back shortly.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I will be adding a note to next month's meeting under New Business to
 approve all standing rules as currently written.
@@ -118,7 +118,7 @@ month's meeting. Please note that there is a watery hazard above the
 shelves which constitute the physical location of the outgoing pile, and
 everything placed there is subject to damage.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 
@@ -131,27 +131,27 @@ and extremely high-performance. Please request accounts.
 Collaborative work on OpticalTableRobot related CNC machinery is going
 well. More about that later.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 IT resources for Ethan's RasPi and classroom machine projects.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Pin strip headers for Ethan Waldo's RasPi project.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 Still waiting on sufficient cash distribution to purchase independent
 vacuum gauge to ensure sufficient vacuum is being achieved. This will
 also remain useful once the electronics are modernized.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ## Adjournment
 

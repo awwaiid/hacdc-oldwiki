@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 December 11, 2012
 
@@ -11,7 +11,7 @@ Others Present: Enrique, Paul, Christine P,
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 11
 13](Regular_Member_Meeting_2012_11_13) approved
@@ -22,9 +22,9 @@ David put in a lot of hard work cleaning up the basement. He had some
 help, but he doesn't remember their names. Everyone appreciates his
 effort.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 We had our second BOD planning meeting of the year. This was a virtual
 meeting using Google Hangout. We began the work of reviewing the draft
@@ -35,14 +35,14 @@ solutions to the Tip Jar and agreed to purchase at least one acrylic
 lock box as a replacement. we also discussed space organization
 (shelves, clear boxes) and workspace cleanup.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 TECS class is going strong with 6-8 people per night. Byzantium has been
 taking a break. Awarded runner up in Access Awards, which is a grant
 we'd applied for a few months ago. We were happy and honored to be a
 finalist, even if we didn't get any money.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for November 2012:
 ![](HacDC_Financials_2012_11.pdf "HacDC_Financials_2012_11.pdf") We had
@@ -58,7 +58,7 @@ Quorum remains at 14.
 Ignoring our uncashed rent check, regular expenses exceeded dues
 revenues and additional donations by \$138.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 We deferred \$300 Project Awesome funds to this month, but because of
 the shortfall I am only able to declare a \$100 project dividend for
@@ -69,11 +69,11 @@ no one actually voted for BYZANTIUM yet, so \$33 went to KITBUILD and
 Here is the Project Awesome spreadsheet for November:
 ![](HacDC_PA_Projects-2012_11.pdf "HacDC_PA_Projects-2012_11.pdf").
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Looking into anti-discrimination and -harassment policy.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -85,9 +85,9 @@ that will be donated to HacDC.
 
 Absent due to a laser-related workplace accident. :(
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 The response to my request for additional donations to Project LASER has
 been awesome - \$1350 from 11 members, plus \$100 cash from the November
@@ -102,7 +102,7 @@ Engineering and although the laser seems like a good value, it is not
 the equal of the "real" ones from Epilog or wherever. I'll certainly do
 more research before going through with the order. --Tim
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Skipped the last sprint because of busy schedules. Have a new build that
 Just Works and is Commotion-compatible. Eventually HacDC will be part of
@@ -112,7 +112,7 @@ participated in. Helped install a dish on the RHI building. RHI is
 working to get a permanent agreement with the city to do mesh networking
 and provide Internet access to people who otherwise wouldn't have it.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 There was a hot sale at www.PartsExpress.com so I bought 10 sets of
 irons, solder, wick, tools, and DMMs. Total cost was about \$300. I also
@@ -120,7 +120,7 @@ bought 30 SMT Christmas tree kits for \$1 each. We will figure out
 reimbursement details later. Been too busy with Project LASER to plan a
 workshop but am still interested. --Tim
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Hax
 
@@ -163,14 +163,14 @@ Project Byzantium stickers are in. HacDC logo stickers should arrive
 Real Soon Now. Developing a second e-textile workshop to run in the
 first quarter of next year.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Proposal to approve holiday gift of \$100 to our excellent security
     guard. Approved.
 
-## New Members {#new_members}
+## New Members
 
 Paul: recently moved to DC. Background in open source software, worked
 at OLPC, have been doing work overseas. With brother designed own 3D

@@ -2,7 +2,7 @@ The InterMesh is the network of meshes that is separate from the
 internet either functionally (bandwidth/latency limitations) or fully
 (completely disconnected).
 
-## Services Needed {#services_needed}
+## Services Needed
 
 All these services need to be distributed throughout the InterMesh.
 

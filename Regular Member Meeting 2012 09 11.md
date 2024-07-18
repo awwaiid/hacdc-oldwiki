@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 September 11, 2012
 
@@ -11,14 +11,14 @@ Others Present: Angela, Nathan, Samudra
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 -   Approved\* [Regular Member Meeting 2012 08
     14](Regular_Member_Meeting_2012_08_14)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Cryptoparty.org has organized a party on Oct 16th at HacDC. Reddit
 coverage on this as well.
@@ -26,12 +26,12 @@ coverage on this as well.
 In collaboration with KCDC, taught a Lockpicking class. Journalist from
 RT attended and would like to host an interview on cryptoparties.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Interviewed on Packet Pushers podcast - gained a great deal of interest
 as a result. Lots of cool events upcoming on Meetup. Sign up and RSVP!!
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for Aug 2012:
 ![](HacDC_Financials_2012_08.pdf "HacDC_Financials_2012_08.pdf") We
@@ -54,13 +54,13 @@ dropped as of today.
 
 Nothing to report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
 Nothing to report
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Katie
 
@@ -104,11 +104,11 @@ ISS. Offering \$2k prize.
 
 Made contact with South Portland hackerspace. They exist!
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-### Project Awesome {#project_awesome}
+### Project Awesome
 
 -   Approved\* (Tim Slagle) I sent out my "Project Awesome" proposal to
     the HacDC:Members list last week, and some discussion followed. My
@@ -124,11 +124,11 @@ Made contact with South Portland hackerspace. They exist!
     additional processing to validate and compute to the project vote
     totals.
 
-### New Director At Large 2 {#new_director_at_large_2}
+### New Director At Large 2
 
 Andy
 
-## New Members {#new_members}
+## New Members
 
 ### Samudra
 

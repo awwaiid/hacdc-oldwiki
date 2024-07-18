@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: December 21st 2021
 :   Called to order at 6:40pm
@@ -14,28 +14,28 @@
 
 `   yes`
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Agenda
 
-### Agenda Item #1: Decision-making: requiring a quorum for all meetings {#agenda_item_1_decision_making_requiring_a_quorum_for_all_meetings}
+### Agenda Item #1: Decision-making: requiring a quorum for all meetings
 
 -   General agreement this was the way to continue to schedule meetings
     and re-schedule meetings as necessary
 -   Where a quorum to meet = 1/4th of board members; quorum to pay
     \$1000 item = 1/3rd of board members
 
-### Agenda Item #2: Board elections: clarification of roles and setting a date for elections {#agenda_item_2_board_elections_clarification_of_roles_and_setting_a_date_for_elections}
+### Agenda Item #2: Board elections: clarification of roles and setting a date for elections
 
 -   must be in Feb or Mar (according to bylaws)
 -   Kevin open to being At-Large
@@ -53,7 +53,7 @@
 -   Include in email "want it to be tax deductible? might take a little
     research on our end." to get estimate and receipt.
 
-### Agenda Item #4: Getting (and keeping) additional helpers {#agenda_item_4_getting_and_keeping_additional_helpers}
+### Agenda Item #4: Getting (and keeping) additional helpers
 
 -   Supporting instructors & potential new instructors
 -   Managing volunteers & types of volunteers we need & volunteer

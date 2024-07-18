@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-10-11 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 October 11, 2011
 
@@ -13,22 +13,22 @@ Max, Rae, Nick
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 09
 13](Regular_Member_Meeting_2011_09_13) Approved
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Not here.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 None.
 
-### Treasurer's Report (Tim Slagle) {#treasurers_report_tim_slagle}
+### Treasurer's Report (Tim Slagle)
 
 Here is the Sept 2011 financial summary:
 <file:HacDC_Financials_Sept_2011.pdf>
@@ -64,24 +64,24 @@ ITG is switching mailing lists over to Google Groups. We found 17 recent
 paying members who were not subscribed to the HacDC:Members list, and
 ITG sent emails out inviting them to join.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Need to move all the member information onto Google Apps and need to
 make sure all our member info is up to date on the digital list.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Toast
 
-#### Brad B {#brad_b}
+#### Brad B
 
 We got \$10k worth of laser gear!!!!!! AWESOME!!
 
 Talked to Phillis at Fab Lab DC. Wants to collaborate with us.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-#### ITechGeek (Jamie) {#itechgeek_jamie}
+#### ITechGeek (Jamie)
 
 6 of those 17 members who weren't on the members mailing list have
 responded back asking to be placed on the members mailing list (and have
@@ -125,7 +125,7 @@ We have a booth for an upcoming Robot Festival-like event.
 
 Katie sent us some tasty treats from Japan.
 
-#### Dan Barlow {#dan_barlow}
+#### Dan Barlow
 
 We had some visitors from a Chinese hackerspace last week.
 
@@ -136,13 +136,13 @@ We have a bunch of cool laser stuff, Dan has ideas for how to setup
 
 Learned about a new space called GeekEasy(.org).
 
-## Old Business {#old_business}
+## Old Business
 
 None.
 
-## New Business {#new_business}
+## New Business
 
-### New Vice President {#new_vice_president}
+### New Vice President
 
 Bradford has been upgraded.
 
@@ -150,9 +150,9 @@ The vacant DAL position will be filled at the next meeting.
 
 Martin will become our new registered agent for DC corporate status.
 
-## New Members {#new_members}
+## New Members
 
-#### Emily Dunne {#emily_dunne}
+#### Emily Dunne
 
 Nom: Ben Sec: Chris Approved
 
@@ -164,7 +164,7 @@ Nom: Toast Sec: Brad Approved
 
 Nom: Ben Sec: Chris Approved
 
-#### Mike Chelen {#mike_chelen}
+#### Mike Chelen
 
 Nom: Chris Sec: Jon Thrid: none. Waiting until next meeting.
 

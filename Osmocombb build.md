@@ -1,6 +1,6 @@
 Notes on building osmocombb on debian jessie.
 
-## Build notes {#build_notes}
+## Build notes
 
 ### Order
 

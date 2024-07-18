@@ -11,11 +11,11 @@ confusing to newcomers. We should update it or get rid of it.
 
 ## Guidelines
 
-### Old Articles We Need to Update {#old_articles_we_need_to_update}
+### Old Articles We Need to Update
 
 Instructions pending.
 
-### Old Articles We Need to Delete {#old_articles_we_need_to_delete}
+### Old Articles We Need to Delete
 
 Instructions pending.
 
@@ -33,7 +33,7 @@ If you find spam inserted into an actual HacDC article, just undo the
 spammy edit. Go into the article's history by clicking the "history"
 tab, and click the "undo" link at the end of the edit description.
 
-## Useful Links {#useful_links}
+## Useful Links
 
 [Special:AllPages](Special:AllPages) - Here you can browse
 all the articles that currently exist [What is dislocation of the

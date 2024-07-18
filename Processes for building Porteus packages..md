@@ -1,4 +1,4 @@
-## From Slackbuild {#from_slackbuild}
+## From Slackbuild
 
 -   Download the SlackBuild tarball (from
     [slackbuilds.org](http://slackbuilds.org/), for example). It will
@@ -49,7 +49,7 @@ The general process for creating and manipulating the contents of
 modules is
 [here](http://porteus.org/component/content/article/36-modules/56-what-are-porteus-modules.html).
 
-## Activating Porteus modules {#activating_porteus_modules}
+## Activating Porteus modules
 
 -   Move the .xzm file to your porteus/modules directory (in my VM the
     full path is /mnt/sda1/porteus/modules, but yours may vary).
@@ -59,7 +59,7 @@ modules is
 -   Once activated, modules remain active across reboots (if Porteus is
     installed to read-write media).
 
-## Making Porteus modules available to Byzantium developers {#making_porteus_modules_available_to_byzantium_developers}
+## Making Porteus modules available to Byzantium developers
 
 -   Copy it off of your virtual machine or USB key.
 -   Check it into the [Subversion

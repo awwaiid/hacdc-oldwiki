@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date Tue 12 Apr 2022
 :   Called to order at 7:37 pm by Michelle Savage
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Approved
 
@@ -19,11 +19,11 @@ Approved
 
 Tayeb for opening up the space for the first time, well received
 
-## New Members {#new_members}
+## New Members
 
 Edwin -- Michelle and Tayeb to follow up
 
-## Old Business {#old_business}
+## Old Business
 
 1.  **Workspace Opening Up** - status update
 
@@ -61,7 +61,7 @@ Edwin -- Michelle and Tayeb to follow up
 -- Much offered grant writing support, Tayeb mentions Alan offer for NSF
 grant writing support for adult learning proposal (course support)
 
-## New Business {#new_business}
+## New Business
 
 1.  Basement cleanup
 
@@ -82,23 +82,23 @@ Ninjaflex). Potential supplier: <https://www.villageplastics.com/>
 
 -- Tayeb to send out email to assess who is interested
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Treasurer notes that Luis Granados was incorrectly listed but now Edwin
 is a paying member so member number remains the same at 21. \$220 net
 increase in the balance.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

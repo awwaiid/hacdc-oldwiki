@@ -20,14 +20,14 @@ radio organizations](http://www.arrl.org/find-a-club) and enthusiasts.
 This team will also facilitate logistical communications primarily for
 the launch and recovery teams.
 
-# Team Members {#team_members}
+# Team Members
 
 -   Derk
 -   [Ethan Waldo](User:Ewaldo) (licensed for Amateur Radio)
 -   Martin (licensed for Amateur Radio)
 -   Nancy Wolfson
 
-# Possible Balloon Communications {#possible_balloon_communications}
+# Possible Balloon Communications
 
 -   Primary VHF APRS tracker - sends regular APRS beacons with GPS and
     limited telemetry - use national 144.390 MHz network
@@ -39,7 +39,7 @@ the launch and recovery teams.
     distance with handy-talkies
 -   433 MHz ISM band low data rate telemetry
 
-# Possible Chase Team Communications {#possible_chase_team_communications}
+# Possible Chase Team Communications
 
 -   Cell phone WiFi for APRS.fi information
 -   VHF and UHF APRS receiver, possibly tracking, text and digitpeating
@@ -48,7 +48,7 @@ the launch and recovery teams.
 -   Secondary Voice - VHF and UHF mobile radios in conjunction with
     repeaters for off-grid operations operations
 
-# Possible Ground Station Communications {#possible_ground_station_communications}
+# Possible Ground Station Communications
 
 -   13 cm broadband receiver/recorder with 90 cm dish
 -   UHF/VHF receiver/recorder for SSTV
@@ -57,7 +57,7 @@ the launch and recovery teams.
 -   Secondary Voice - VHF and UHF mobile radios in conjunction with
     repeaters for off-grid operations operations
 
-# Teensy All-in-one {#teensy_all_in_one}
+# Teensy All-in-one
 
 -   [APRS Tracker using Teensy
     3.1](https://forum.pjrc.com/threads/24998-APRS-Tracker-using-Teensy-3-1)
@@ -72,7 +72,7 @@ the launch and recovery teams.
     Transceiver](http://www.radiometrix.com/content/bim1h) (same as used
     in TinyTrak4)
 
-# Communications Links {#communications_links}
+# Communications Links
 
 [Bionics TinyTrak 4](http://www.byonics.com/tinytrak4/) Likely primary
 APRS tracker - has limited telemetry capability [SainSonic TNC and 1 W

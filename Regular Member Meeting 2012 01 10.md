@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2012-01-10 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 January 10, 2012
 
@@ -14,18 +14,18 @@ Others Present: Scott, Vinnie, Stephen
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 12
 13](Regular_Member_Meeting_2011_12_13)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Currently have 56 paying members so quorum is now 14.
 
@@ -55,11 +55,11 @@ will take a little while - I hope emailed PDF file is okay. I also owe
 some merchandise donation letters - we got more laser stuff, and some
 PCs from Bill Babson.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 skiing in canadia
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Toast
 
@@ -71,7 +71,7 @@ Possible beer brewing class.
 
 Paid Jeff (the guard a) tip for Christmas.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 **Alberto**
 
@@ -108,9 +108,9 @@ the termistor.
 
 William Gibson now has a HacDC sticker!!
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Alberto & Brad discuss pros & cons of a proposed series of 3 or 4
 workshops co-branded with Washington Project for the Arts (WPA) &
@@ -129,7 +129,7 @@ if the logistics of the moving the CNC mill work out. Any other ideas to
 make HacDC stand out should be brought up ASAP. Pen plotter? Motion
 interactive video?
 
-## New Members {#new_members}
+## New Members
 
 **Vince**
 

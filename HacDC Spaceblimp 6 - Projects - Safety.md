@@ -9,7 +9,7 @@ uncontrolled balloon launch. [FAA rules and
 guidelines](HacDC_Spaceblimp_6/Projects/Compliance) and
 potential life and property hazards should be taken in to consideration.
 
-# Team Members {#team_members}
+# Team Members
 
 -   Ethan M (tentative)
 -   [Ethan Waldo](User:Ewaldo)

@@ -1,4 +1,4 @@
-# Renovation Effort {#renovation_effort}
+# Renovation Effort
 
 On Saturday, 20 December 2008, [Nate](User:Myself) is
 coordinating an intensive effort to renovate the basement workshop-to-be
@@ -22,7 +22,7 @@ February 2009 Update [Dan Barlow](User:Myself):
 
 ![](Progress.png "Progress.png")
 
-# Paint removal {#paint_removal}
+# Paint removal
 
 The walls are covered in pretty nasty old paint, much of which is
 already flaking off. We presume at least some layers contain lead.
@@ -50,7 +50,7 @@ Dan Barlow says:
     the floor could benefit from coating as well -- considering \[epoxy
     \| porch paint \| concrete sealer\].
 
-# Asbestos encapsulation {#asbestos_encapsulation}
+# Asbestos encapsulation
 
 A large steam pipe runs the length of the room, near the ceiling. It is
 wrapped in mineral wool insulation, presumed to be asbestos. The EPA has
@@ -83,13 +83,13 @@ Dan Barlow says:
     church maintenance and ask them to do or schedule the steam repairs.
     After the repairs are complete, go ahead with the wood sheath plan.
 
-# Safety gear {#safety_gear}
+# Safety gear
 
 We have Tyvek bunny-suits, half-mask respirators, goggles, and shoe
 covers. These should keep most of the nasty off your skin, but plan to
 go home and shower after your shift anyway. Can't be too careful.
 
-# Electrical Power {#electrical_power}
+# Electrical Power
 
 [Nate](User:Myself) says:
 

@@ -8,7 +8,7 @@ interested in NLP and AI together for research, projects, and knowledge
 sharing. Supporting members in getting projects done is the primary
 goal. Contact [User:Obscurite](User:Obscurite) for more info.
 
-## Reference and Resources {#reference_and_resources}
+## Reference and Resources
 
 Add links to AI/NLP reference material, courseware, etc.
 
@@ -135,18 +135,18 @@ Other events and cancelations will be announced via the mailing list.
 Check it out! [NARG mailman
 page](http://www.hacdc.org/mailman/listinfo/narg)
 
-### Meeting minutes for September 2 2010 {#meeting_minutes_for_september_2_2010}
+### Meeting minutes for September 2 2010
 
 Discussed new \[Google AI competition <http://www.ai-contest.com/>\] and
 began to work with simulator and basic code.
 
-### Meeting minutes for August 12 2010 {#meeting_minutes_for_august_12_2010}
+### Meeting minutes for August 12 2010
 
 Arc Riley presented a talk on some advanced aspects of XMPP -- PubSub,
 Data Forms, and Ad-Hoc Commands -- for use in the sensor network/ambient
 lighting project.
 
-### Meeting minutes for July 29 2010 {#meeting_minutes_for_july_29_2010}
+### Meeting minutes for July 29 2010
 
 Ambient Lighting Project with HacDC's Artifical Intelligence Working
 Group (NARG) Interested in the "smart home" concept, HacDC is taking the
@@ -159,7 +159,7 @@ API that could link into various algorithms -- smart, simple, or silly
 NARG will discuss and outline the hardware and software needs for this
 platform.
 
-### Meeting minutes for July 22 2010 {#meeting_minutes_for_july_22_2010}
+### Meeting minutes for July 22 2010
 
 attended: Ben, Sam, Darius, Alan, Brock, Bevan, Arc, and some other
 people
@@ -174,7 +174,7 @@ maps.
 
 Some conceptual discussion of AI followed.
 
-### Meeting minutes for July 8 2010 {#meeting_minutes_for_july_8_2010}
+### Meeting minutes for July 8 2010
 
 Discussed [Spaced
 Repetition](http://en.wikipedia.org/wiki/Spaced_repetition) and software
@@ -187,7 +187,7 @@ goal.
 
 (... insert more details here ...)
 
-### Meeting minutes for June 17 2010 {#meeting_minutes_for_june_17_2010}
+### Meeting minutes for June 17 2010
 
 In attendance were Brad, Daniel, Todd, Sean and Jason.
 
@@ -199,7 +199,7 @@ Alan posted his Lua code featuring a working implementation of the
 evolutionary loop here
 [Genetic_programming_example_in_lua](Genetic_programming_example_in_lua)
 
-### Meeting minutes for May 28 2010 {#meeting_minutes_for_may_28_2010}
+### Meeting minutes for May 28 2010
 
 In attendance were Brad, Daniel, Darius, Todd, Mike D, Tino, Alan, Dirk,
 and one other person who found us via google.
@@ -212,7 +212,7 @@ workshop will continue.
 Daniel posted his python code from part I of Brad's GP workshop here
 [NARG_GP_stacks_code](NARG_GP_stacks_code)
 
-### Meeting minutes for May 13 2010 {#meeting_minutes_for_may_13_2010}
+### Meeting minutes for May 13 2010
 
 In attendance were Brad, Darius, Alan, Daniel, Todd, Mike D, and Tom C.
 
@@ -222,7 +222,7 @@ textures. He deployed Pyevolve and the Python Imaging Library. The
 slides are available here:
 <http://prezi.com/enn87uvfm-jc/artificial-evolution-for-computer-graphics/>
 
-### Meeting minutes for May 6 2010 {#meeting_minutes_for_may_6_2010}
+### Meeting minutes for May 6 2010
 
 In attendance were Brad, Nikolas, Daniel, Alan, Todd, Phil S, Mike D,
 and Bjorn
@@ -230,7 +230,7 @@ and Bjorn
 Brad gave a talk on Genetic Algorithms and showed off a LUA
 implementation. Slides will be posted.
 
-### Meeting minutes for Apr 29 2010 {#meeting_minutes_for_apr_29_2010}
+### Meeting minutes for Apr 29 2010
 
 In a brutal battle between gorgeous weather and HacDC NARG on Thursday,
 NARG suffered a humiliating defeat when gorgeous weather was presumably
@@ -241,7 +241,7 @@ NARG attendees. "We'll get you next time, gorgeous weather," Daniel was
 quoted as muttering as he wandered off into the sunshine, full of mini
 muffin.
 
-### Meeting minutes for Apr 22 2010 {#meeting_minutes_for_apr_22_2010}
+### Meeting minutes for Apr 22 2010
 
 In attendace were Daniel, Brad, Alan, Dirk (new to NARG), Melissa (new
 to NARG), Phil S., Tino, Mike D.
@@ -249,7 +249,7 @@ to NARG), Phil S., Tino, Mike D.
 Brad presented more on Particle Swarm Optimization and started on Neural
 Nets (Perceptrons).
 
-### Meeting minutes for Apr 15 2010 {#meeting_minutes_for_apr_15_2010}
+### Meeting minutes for Apr 15 2010
 
 In attendance were Daniel, Mike, and Todd F
 
@@ -268,12 +268,12 @@ terms and conditions, license, EULA, etc before running)
 
 -   ![](narg_pypres.tgz "narg_pypres.tgz")
 
-### Meeting minutes for Apr 8 2010 {#meeting_minutes_for_apr_8_2010}
+### Meeting minutes for Apr 8 2010
 
 Brad did a great presentation on Swarms and optimization problems,
 non-euclidean spaces...
 
-### Meeting minutes for Apr 1 2010 {#meeting_minutes_for_apr_1_2010}
+### Meeting minutes for Apr 1 2010
 
 In attendance were Daniel, Darius, Todd, and Brad,
 
@@ -289,13 +289,13 @@ databases. We also discussed potential hadoop/map reduce projects using
 pycloud or other cloud processing services. The meeting closed with
 burritos, fried tacos, and a bit of late night hacking.
 
-### Meeting minutes for Mar 18 2010 {#meeting_minutes_for_mar_18_2010}
+### Meeting minutes for Mar 18 2010
 
 In attendance were Daniel, Brad, Mike, and New-Mike.
 
 We had a general discussion about many things.
 
-### Meeting minutes for Mar 11 2010 {#meeting_minutes_for_mar_11_2010}
+### Meeting minutes for Mar 11 2010
 
 In attendance were Darius, Daniel, Brad, Phil Stewart, Mike, and A.J.
 
@@ -308,7 +308,7 @@ Brad suggested a long term contest idea analogous to Hackerspaces in
 Space, maybe using pygame. We discussed various ideas that would make
 fun competitions.
 
-### Meeting minutes for Mar 4 2010 {#meeting_minutes_for_mar_4_2010}
+### Meeting minutes for Mar 4 2010
 
 Second hand minutes about meeting from Daniel (did not attend due to
 sched. conflict):
@@ -318,7 +318,7 @@ sched. conflict):
 -   Discussion of approaches to AI vs NLP in group (AI more game/sim
     oriented NLP more machine learning oriented i.e. bayesian)
 
-### Meeting minutes for Feb 25 2010 {#meeting_minutes_for_feb_25_2010}
+### Meeting minutes for Feb 25 2010
 
 In attendance were Nikolas, Todd, Phil, Michael, Daniel, Brad, and
 Darius.
@@ -351,7 +351,7 @@ promised early on, and that seemed logical.
 The code for CTF has been put up on a
 [github](http://github.com/jdar/ctf)
 
-### Meeting minutes for Feb 20 2010 {#meeting_minutes_for_feb_20_2010}
+### Meeting minutes for Feb 20 2010
 
 The first NARG meeting was held on Feb 20, 2010 at Sticky Fingers
 Bakery. In attendance were Brad, Darius, Phil (not Stewart - a HacDC

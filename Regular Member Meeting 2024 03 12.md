@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 2024-03-12
 :   Called to order at 7:38 pm by Gabriel
@@ -11,7 +11,7 @@
 
     :   Quorum met? yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10)
 
 Gabriel, Matt, Ken approve.
 
@@ -20,15 +20,15 @@ Gabriel, Matt, Ken approve.
 Liz has been doing some amazing refurbishing of our printers! Aure
 finished up the LEDs across the shelves!
 
-## New Members {#new_members}
+## New Members
 
 Sven Kyle Martin
 
-## Old Business {#old_business}
+## Old Business
 
 Check processing issues - no changes.
 
-## New Business {#new_business}
+## New Business
 
 Gabriel proposes to move the board member elections to March 26, 19:30.
 Brian is asking for an invitation (by email).
@@ -67,7 +67,7 @@ Sven's community help ideas:
 
 -   Recycle / remake scooter batteries
 
-## Meetup Summaries {#meetup_summaries}
+## Meetup Summaries
 
 Monday's Open Hac
 

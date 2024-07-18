@@ -3,7 +3,7 @@ a Cambridge Stereoscan 200.
 
 ![SEM in workshop](SEM_install_1_thumb.jpg "SEM in workshop")
 
-# Current Status {#current_status}
+# Current Status
 
 Roughing pump works, turbo spins up to full speed for a while but then
 slows down. The vacuum controls operate but don't light up as expected,
@@ -39,7 +39,7 @@ details.
 
 \[Image of Vacuum Bracket\](https://i.imgur.com/3k8zrL5.png)
 
-## Manuals and Images {#manuals_and_images}
+## Manuals and Images
 
 -   the web archive's copy of RIT's [Stereoscan 200 Operating
     Instructions](https://web.archive.org/web/20050221031305/www.rit.edu/~bekpph/sem/S200.html)
@@ -106,7 +106,7 @@ compiled some information at:
 -   <http://757labs.org/wiki/Projects/SEM> ([archival link -- text
     only](http://pastebin.com/vWPj8eHu))
 
-## Additional Resources {#additional_resources}
+## Additional Resources
 
 -   The original S200 operating instructions are available at the space
     in a three-ring binder near the machine.
@@ -121,7 +121,7 @@ compiled some information at:
     but the original binding is rare and prone to falling apart. It
     might be possible to use the PDF copy for private, educational use.
 
-## More Photos {#more_photos}
+## More Photos
 
 -   [SEM install and
     overview](https://dl.dropboxusercontent.com/u/45972/sem/sem_install/index.html)

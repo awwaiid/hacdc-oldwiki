@@ -79,7 +79,7 @@ webroot is at
 
 writeable and persistent.
 
-### Important Configs and Auth {#important_configs_and_auth}
+### Important Configs and Auth
 
 `/etc/passwd`\
 `/etc/passwd-`\
@@ -96,7 +96,7 @@ Here is the hash for 'hacdc': ZnfPmQ6KIvlTA
 
 And after a reboot, here is the hash for 'hacdc': 4.n5RnxbkaMcU
 
-## Change Password for remote access {#change_password_for_remote_access}
+## Change Password for remote access
 
 Since the password is unknown, to obtain easy telnet access, you can
 append something like
@@ -107,12 +107,12 @@ Probably good to backup ipcam.sh before clobbering it with echo \>.
 
 ## Pictures
 
-## HowTO stream video over H264? {#howto_stream_video_over_h264}
+## HowTO stream video over H264?
 
 It seems that the encoder binary binds to 8600 and streams H.264; as of
 yet I'm not sure how to access that.
 
-## cat /proc {#cat_proc}
+## cat /proc
 
 `# cat /proc/version`\
 `Linux version 2.6.21 (root@mailzxh-desktop) (gcc version 3.4.2) #744 Tue Jul 23 17:23:52 CST 2013`
@@ -168,7 +168,7 @@ yet I'm not sure how to access that.
 `mtd6: 00300000 00010000 "sys"`\
 `mtd7: 00080000 00010000 "param"`
 
-## Furthur Reading {#furthur_reading}
+## Furthur Reading
 
 <https://hackaday.com/2016/03/28/tearing-down-an-ip-camera/>
 

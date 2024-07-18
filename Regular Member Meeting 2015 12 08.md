@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:45 pm by Enrique
@@ -13,7 +13,7 @@
 
 Yes. 11/10
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 <http://wiki.hacdc.org/index.php/Regular_Member_Meeting_2015_11_10>
 
@@ -22,11 +22,11 @@ Yes. 11/10
 -   Matt's (and ITechGeek) fixing the church's router sorta earned us a
     near-\$1,000 goodwill credit from St. Stephen's.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Planning to run at the next election to continue as HacDC VP.
 
@@ -39,7 +39,7 @@ to Makersmiths folk for the lively discussion.
 No more excuses remain, Shawn Wilson's abandoned Rostock Max goes to the
 going-out pile next month.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   PayPal Balance: \$2,459.02
 -   Dwolla Balance: \$3,470.00
@@ -56,7 +56,7 @@ reimbursement for shelving)
 
 Rent for DEC has been paid.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   I created a basement work group, basement@hacdc.org, to split off
     basement improvement discussions from the main members list.
@@ -70,33 +70,33 @@ Rent for DEC has been paid.
     it before, looks great). It should be well short of our \$500
     approved budget.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 -   Rostock Max extruder, hotend, mounting plate. Should be able to
     upgrade it to use exactly the same hardware as our reliable
     LulzBots.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 No expenditures this month.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 HARC meeting/dinner tomorrow nitght, planning for next year's HARC
 events Between 25-30 ham radio exams done this year new ham lives very
 close to HacDC, not here tonight though Elections are tomorrow night.
 
-### Project SEM {#project_sem}
+### Project SEM
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -108,7 +108,7 @@ Including the old ThinkPad, electronic filters, and any \>25W power
 amplifiers. If they are not wanted at HacDC, I will take them. Would be
 sad to see them trashed.
 
-## Old Business {#old_business}
+## Old Business
 
 -   Should we get a PO Box? The downsides are it's a new, additional
     recurring expense to the tune of \$110/year or \$10/mo (Mirage has
@@ -117,7 +117,7 @@ sad to see them trashed.
     secure access to our mail with no middle man, even after hours, and
     a mailing address separate from St. Stephen's.
 
-## New Business {#new_business}
+## New Business
 
 -   Should we have two meetings a month, rather than one very long one?
     In the past HacDC had two meetings a month with one meeting for
@@ -140,7 +140,7 @@ sad to see them trashed.
 <http://runningahackerspace.tumblr.com/post/129427996964/transitioning-your-board-role-to-another>
 )
 
-## New Members {#new_members}
+## New Members
 
 Bruce
 

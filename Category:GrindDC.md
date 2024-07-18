@@ -10,7 +10,7 @@ discuss new pop science and academic results. More information an
 minutes are available on the dedicated page
 [Meatups](:Category:Meatups).
 
-# Mailing List {#mailing_list}
+# Mailing List
 
 You can contact GrindDC by sending mail to our mailing list
 [meat@hacdc.org](https://groups.google.com/a/hacdc.org/forum/?fromgroups=#!forum/meat).

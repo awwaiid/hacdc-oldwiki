@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   July 14, 2015
 :   Called to order at 7:45pm by Enrique
@@ -11,7 +11,7 @@
 
     :   Quorum met? No (8).
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2015 06
 09](Regular_Member_Meeting_2015_06_09)
@@ -28,11 +28,11 @@
 -   ITechGeek for continued consultation regarding network
     configuration.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 #### Etiquette
 
@@ -42,7 +42,7 @@ my mistake. Anyway, my use of "please" and "thank you" might have been
 rather sparse these last few months while getting things done, so please
 don't take offense.
 
-#### Old Occupancy Sensor, Hacking {#old_occupancy_sensor_hacking}
+#### Old Occupancy Sensor, Hacking
 
 Old occupancy sensor is a nifty hack, an OpenWRT WiFi router sporting an
 internal microcontroller wired to the serial port. Since there haven't
@@ -60,7 +60,7 @@ reaching \~105C.
 
 #### Grants
 
-##### CapitalOne, AngelHack {#capitalone_angelhack}
+##### CapitalOne, AngelHack
 
 At the Maker Faire, we reached out to Capital One. We are still
 following up with them. Coincidentally, AngelHack, partnering with
@@ -81,7 +81,7 @@ follows.
 Business minded hackers (\*ahem\* Nell) should especially check this
 out.
 
-##### Edmund Optics {#edmund_optics}
+##### Edmund Optics
 
 Bit of a long shot, but if we win, we get up to \$10k in much-needed
 high-end optical products. Finalists will be announced September 2nd.
@@ -89,14 +89,14 @@ Greatly appreciate Phil Stewart's advice narrowing the scope of our
 application to a specific project (microscopic
 projection/scanning/alignment tool for 3D printers).
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 "\[Still don't have access to the PayPal account. Paperwork was filed
 with PayPal recently and we should expect and acknowledgement and
 resolution later this week or early next week at the latest. Julia is
 planning to be at 3D Thursday.\]"
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I don't have a roster of members in good standing until we get a report
 of PayPal dues.
@@ -104,17 +104,17 @@ of PayPal dues.
 A date for a TOOOL Intro Lockpicking class is still to be decided, but
 upcoming.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Development has been halted indefinitely. Basically, none of us have the
 time or motivation to continue to the project. I don't see that changing
@@ -123,19 +123,19 @@ earmarked funds reclaimed to the general fund.
 [Sitwon](User:Sitwon) ([talk](User_talk:Sitwon))
 13:56, 14 July 2015 (PDT)
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   We need to file a bianual report with the District of Columbia Dept.
     of Consumer and Regulatory Affairs, and we need to change our
@@ -163,7 +163,7 @@ earmarked funds reclaimed to the general fund.
 ```
 -   CryptoParty 2015?
 
-## New Members {#new_members}
+## New Members
 
 Andrew M.
 

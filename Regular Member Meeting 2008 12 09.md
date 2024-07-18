@@ -1,7 +1,7 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 December 9, 2008\
 Members Present: [Nick](User:Nickfarr),
@@ -14,17 +14,17 @@ Others Present: Sean (prospective new member)\
 HacDC, 1525 Newton St NW, Washington, DC. (Space)\
 Presiding: Elliot\
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 [Regular Member Meeting Minutes 2008 12
 02](Regular_Member_Meeting_Minutes_2008_12_02) were reviewed
 and unanimously ratified.
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 (no items)
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 [Coordinator in Chief](Coordinator_in_Chief): Nothing to
 report.
@@ -36,7 +36,7 @@ to report.
 
 [Keeper of the MIBS](Keeper_of_the_MIBS): Not Present.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 [Nate](User:Myself) reported that it's awesome to be back in
 town. Anonymous Member reported on the status of [Project Red
@@ -45,9 +45,9 @@ Phone](Project_Red_Phone), which is coming along; a class or
 [Asterisk](http://en.wikipedia.org/wiki/Asterisk_(PBX)) will be held at
 some point in the next few months.
 
-## Old Business {#old_business}
+## Old Business
 
-### [Workshop Configuration](Workshop_Configuration) {#workshop_configuration}
+### [Workshop Configuration](Workshop_Configuration)
 
 [Nate](User:Myself) reports there's no power or light right
 now, but it's getting cleaned up; we will be adding outlets and
@@ -70,7 +70,7 @@ comfortable in the summer.
 
 We can expect to be looking at shelving by this weekend.
 
-### [Main Space Reconfiguration](Main_Space_Reconfiguration) {#main_space_reconfiguration}
+### [Main Space Reconfiguration](Main_Space_Reconfiguration)
 
 [Nick](User:Nickfarr) says we'll turn the loft into a
 workbench with shelving that goes up to the ceiling;
@@ -103,7 +103,7 @@ area.
 Tim C. suggests this is a detailed / brainstorming discussion that may
 deserve a separate discussion.
 
-## New Business {#new_business}
+## New Business
 
 [Andrew](User:Q) has been appointed Shadow Minister of
 Special Projects; he will continue to work on the [Physical Access

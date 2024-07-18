@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-06-14 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 June 14, 2011
 
@@ -14,18 +14,18 @@ Others Present:
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 05
 10](Regular_Member_Meeting_2011_05_10) Approved.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Absent.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   I signed a new lease for the same rent as before (\$2,526). It turns
     out that we are already getting use of the basement space for free,
@@ -57,9 +57,9 @@ Absent.
 ```
 -   Rock on!
 
-### Treasurer's Report (Vacant) {#treasurers_report_vacant}
+### Treasurer's Report (Vacant)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Byzantium has been getting some attention, people are starting to see
 the need for cheap and reliable mesh networking. Still more work to be
@@ -67,11 +67,11 @@ done, people are interested but we need a working mailing list.
 
 TECS is done for now.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### -Vacant- {#vacant_}
+#### -Vacant-
 
-#### Brad B {#brad_b}
+#### Brad B
 
 Brad & Reuben have been teaching Python. Great class!
 
@@ -81,7 +81,7 @@ rate.
 We're partnering with One.USA.gov and bit.ly to do a visualization
 hack-a-thon.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Toast
 
@@ -122,24 +122,24 @@ possibilities available.
 
 DC-MAN has some opportunity for educational access.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-### Special Election for Director-at-Large {#special_election_for_director_at_large}
+### Special Election for Director-at-Large
 
 Tim Slagle is running for Director-at-Large on the LASER platform (We
 need a laser cutter @ HacDC). -LASERS!!!!!!!! ......q:
 
 Any other candidates??? Toast Nom: Will G. Second: Elliot Elected!
 
-### Special Election for Treasurer {#special_election_for_treasurer}
+### Special Election for Treasurer
 
 Any candidates??? Tim Slagle. Nom: Elliot Second: Will G. Elected!
 
 Do we still get a laser? Maybe.
 
-## Friendly Visitors {#friendly_visitors}
+## Friendly Visitors
 
 ### Chad
 

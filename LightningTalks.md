@@ -28,9 +28,9 @@ Why would you want to do a lightning talk?
     -   [google
         map](http://maps.google.com/maps?f=q&hl=en&q=1525%20newton%20st%20nw%2C%20dc)
 
-## Past Lightning Talks {#past_lightning_talks}
+## Past Lightning Talks
 
-### Lightning Talks VII: November 9, 2013 {#lightning_talks_vii_november_9_2013}
+### Lightning Talks VII: November 9, 2013
 
 The next round of HacDC Lightning Talks took place at 3:30 p.m. on
 Saturday, November 9, 2013, in the auditorium at Saint Stephen and the
@@ -54,7 +54,7 @@ Talks:
     EmbeddedML, by Andrew Harris
 -   The state of the art in private submersibles, by Alec Smyth
 
-### Lightning Talks VI: November 3, 2012 {#lightning_talks_vi_november_3_2012}
+### Lightning Talks VI: November 3, 2012
 
 The last round of HacDC Lightning Talks took place at 3:30 p.m. on
 Saturday, November 3, 2012, in the auditorium at Saint Stephen and the
@@ -88,7 +88,7 @@ Talks:
 -   [My First Patent by
     David](http://www.youtube.com/watch?v=jnufdeJPyy8#t=8m24s)
 
-### Lightning Talks V: June 9, 2012 {#lightning_talks_v_june_9_2012}
+### Lightning Talks V: June 9, 2012
 
 The most recent HacDC Lightning Talks took place at 3:00 p.m. on
 Saturday, June 9, 2012, in the dining room at Saint Stephen and the
@@ -138,7 +138,7 @@ The lineup:
     Dystopia?](http://www.youtube.com/watch?v=oQoisbN8tEY#t=41m16s), by
     Todd Fine
 
-### HacDC Lightning Talks IV: June 19, 2010 {#hacdc_lightning_talks_iv_june_19_2010}
+### HacDC Lightning Talks IV: June 19, 2010
 
 ![\|Lightning Talks IV at
 DCWeek](Lightning_talks_dcweek.jpg "|Lightning Talks IV at DCWeek"){width="200"}
@@ -178,7 +178,7 @@ Digital Capital Week links:
 -   [Digital Capital Week Digital Garage conference
     registration](http://digitalgarage.eventbrite.com/)
 
-### HacDC Lightning Talks III: February 23, 2010 {#hacdc_lightning_talks_iii_february_23_2010}
+### HacDC Lightning Talks III: February 23, 2010
 
 What an amazing Lightning Talks. The talks were well attended and the
 setup was better than ever with a great sound system setup and an actual
@@ -212,7 +212,7 @@ music and even comedy.
 -   Cancelled:
     -   Low Power Design Techniques, system/board level (William Gibb)
 
-### HacDC Lightning Talks II: November 17, 2009 {#hacdc_lightning_talks_ii_november_17_2009}
+### HacDC Lightning Talks II: November 17, 2009
 
 ![\|Lightning Talks II at St.
 Stephens](LightningTalks2.jpg "|Lightning Talks II at St. Stephens"){width="200"}
@@ -257,7 +257,7 @@ pub](http://www.commonwealthgastropub.com/).
         -   [Immunity - an alternative to IDA Free suggested by
             Riley](http://www.immunityinc.com/products-immdbg.shtml)
 
-### HacDC Lightning Talks I: October 1st, 2009 {#hacdc_lightning_talks_i_october_1st_2009}
+### HacDC Lightning Talks I: October 1st, 2009
 
 ![\|The first Lightning Talks at St. Stephens in the old HacDC
 space](LightningTalks1.jpg "|The first Lightning Talks at St. Stephens in the old HacDC space"){width="200"}
@@ -296,7 +296,7 @@ scheduling, and video recording.
         [MESSENGER Flyby](http://messenger.jhuapl.edu/mer_flyby3.html)
         Discoveries (Indy)
 
-## Other Hackerspace Lightning Talks {#other_hackerspace_lightning_talks}
+## Other Hackerspace Lightning Talks
 
 `* `[`Noisebridge Five Minutes of Fame`](http://5mof.net/)` (`[`old site`](https://www.noisebridge.net/wiki/Five_Minutes_of_Fame)`)`\
 `* `[`Lightning Talks at MetaLab, Vienna (2008-11-15)`](http://metalab.at/wiki/Kurzvortraege_2008-11-15)\

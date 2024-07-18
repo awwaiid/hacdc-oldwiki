@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date Tue 8 Mar 2022
 :   Called to order at ??? pm by ???
@@ -11,13 +11,13 @@
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 1.  Wiki-Website Re-Design - the Unified Data Team launched new Wiki and
     new Website for purpose of unifying two platforms, minimizing
@@ -35,7 +35,7 @@
     (providing & fixing computers and possibly building furniture out of
     scrap wood"
 
-## New Business {#new_business}
+## New Business
 
 1.  **Workspace Opening Up** - status update
 2.  **Resources for Instructors** - on website, could include: list of
@@ -53,17 +53,17 @@
     7](HacDC_Spaceblimp_7) with a fantastic team (you)"*
     [SpaceBlimp.org](https://spaceblimp.org)
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
 1.  **"bike lights" project** - Tayeb wants to get a community grant
     (see Rep. [Mary
@@ -71,24 +71,24 @@
     bike enthusiast on social media). Detail on what grant will cover.
 2.  **Newsletter** - status update? Are we going with Medium?
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
 1.  **Website Redesign** - status update:
     1.  added Events Calendar to Home Page & GDPR cookie
     2.  want to add "Access & Covid Policy" Page to website to direct
         inquiries to
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 1.  HacDC WorkRoom Safety & Security:
     1.  Waiver. [Hold harmless
@@ -108,11 +108,11 @@
         an emergency response group. There is also CERT training given
         by the city
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
-#### ??? {#section_1}
+#### ???
 
 ## Adjournment
 

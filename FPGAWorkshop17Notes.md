@@ -1,9 +1,9 @@
-## PicoBlaze Flow / Tutorial {#picoblaze_flow_tutorial}
+## PicoBlaze Flow / Tutorial
 
 **THIS SET OF INSTRUCTIONS ASSUMES THE READER IS FAMILIAR WITH THE ISE
 SUITE FLOW FOR CREATING, IMPLEMENTING AND PROGRAMING PROJECTS.**
 
-### Overview of Picoblaze / ISE Development flow {#overview_of_picoblaze_ise_development_flow}
+### Overview of Picoblaze / ISE Development flow
 
 The PicoBlaze development flow is different from the FPGA flow we've
 seen so far. We have to use a new tool, a PicoBlaze assembler, in
@@ -45,9 +45,9 @@ In general, a picoblaze design would look like this
     4.  other logic as needed
 2.  project_constraints.ucf
 
-## Example #1 {#example_1}
+## Example #1
 
-### Picoblaze simple example / toolchain tutorial {#picoblaze_simple_example_toolchain_tutorial}
+### Picoblaze simple example / toolchain tutorial
 
 To begin, make sure you've got Xilinx ISE and OpenpicIDE installed. You
 can obtain openpicIDE here <http://openpicide.org/> You'll also need to
@@ -185,7 +185,7 @@ this tutorial.
 
     endmodule
 
-### example #1 source {#example_1_source}
+### example #1 source
 
     ;
     ; simple example code, original
@@ -205,9 +205,9 @@ this tutorial.
     XOR s9, 0xFF ;toggle register
     JUMP drive_wave 
 
-## Example #2 {#example_2}
+## Example #2
 
-### Expanding on the example {#expanding_on_the_example}
+### Expanding on the example
 
 Create a new picoblaze project, in the assembly directory. Use the
 source from example #2 to create a new program rom file. You can name
@@ -237,9 +237,9 @@ be shifty now, instead of inverting!
     RL s9 ; shift left register ;  <---- THIS CHANGED
     JUMP drive_wave
 
-## Example #3 {#example_3}
+## Example #3
 
-### Lets add some input {#lets_add_some_input}
+### Lets add some input
 
 Lets read in a switch now! To do this, you can do one of two things. You
 can add a input port, and add the multiplexed input re g manually. I've
@@ -403,14 +403,14 @@ After replacing the constants, you're code should look like this
     invert_wave: XOR WAVE_VAR, 0xFF ;toggle register
     JUMP drive_wave 
 
-## Run the simulator {#run_the_simulator}
+## Run the simulator
 
 Now we have mnemonics entered into our code, we can easily tweak it.
 First, we can change the I_Var, J_Var, K_Var, to be smaller values, such
 as 0x0F. You can then step through the program, or just run it, in the
 OpenPicIDE simulator.
 
-## Acknowledgements / References {#acknowledgements_references}
+## Acknowledgements / References
 
 This was based on a simple example found here
 <http://forums.xilinx.com/xlnx/board/message?board.id=PicoBlaze&thread.id=780>\

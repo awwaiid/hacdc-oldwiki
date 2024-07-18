@@ -7,7 +7,7 @@ For the current class, head on over to [AVR Microcontroller Class
 Also see (and contribute to) [Useful AVR
 Links](Useful_AVR_Links)
 
-## Class 0: Introduction and Setup {#class_0_introduction_and_setup}
+## Class 0: Introduction and Setup
 
 What the AVRs are, what all the pins do, what they can do for you. Then
 the toolchain: soldering together the programmer kits, getting the
@@ -34,7 +34,7 @@ today, little talk.)
     ![](FFVH7HBF5UO1JMR.MEDIUM.jpg "FFVH7HBF5UO1JMR.MEDIUM.jpg")
     ![](Screenshot-ATmega48-88-168.png "Screenshot-ATmega48-88-168.png"){width="320"}
 
-## Class 1: Programmer Hookup and Hello World LED Blinking {#class_1_programmer_hookup_and_hello_world_led_blinking}
+## Class 1: Programmer Hookup and Hello World LED Blinking
 
 Lecture on how the programmer works -- simple serial interface basics.
 Some basics on avrdude / GCC tools. Hook up the programming interface
@@ -75,7 +75,7 @@ hook up an LED to the output port and watch it blink!
 -   Play around with the delays in the LED_Demo.c code. Make the
     blinking faster or slower. Experiment with on time and off time.
 
-## Class 2: Outputs: Bit Math, Cylon Eyes, and PWM Fading {#class_2_outputs_bit_math_cylon_eyes_and_pwm_fading}
+## Class 2: Outputs: Bit Math, Cylon Eyes, and PWM Fading
 
 How to make chips speak to the outside world, pin-by-pin. Enough C
 bitwise-math operations to make it work. Pulse-width modulation.
@@ -108,14 +108,14 @@ cross-fading cylon eyes!
 -   If you could swing it around, you'd be on your way to a [POV
     toy](http://www.ladyada.net/make/minipov3/index.html).
 
-## Class 3: Inputs: Buttons {#class_3_inputs_buttons}
+## Class 3: Inputs: Buttons
 
 Gather data from the world. The lecture ended up being just on digital
 input.
 
 Labs: One note organ [Media: class3.pdf](Media:_class3.pdf)
 
-## Class 4: Inputs: Debouncing and Analog-to-Digital conversion (ADC) {#class_4_inputs_debouncing_and_analog_to_digital_conversion_adc}
+## Class 4: Inputs: Debouncing and Analog-to-Digital conversion (ADC)
 
 This class, we'll get to debouncing our button input, and reading in
 continuous voltages
@@ -130,7 +130,7 @@ Labs: pushbutton organ, light-dependent theremin.
 [Media:
 lightDependentTheremin.zip](Media:_lightDependentTheremin.zip)
 
-## Class 5: Serial I/O and Interrupts I {#class_5_serial_io_and_interrupts_i}
+## Class 5: Serial I/O and Interrupts I
 
 Laptop, meet AVR. AVR, laptop. Serial communication (plus serial-to-USB
 cable) lets you connect your micro to about anything, including your
@@ -152,7 +152,7 @@ sideways) serial oscilloscope. Otherwise, a handy debugging aide.
 your laptop, make a full keyboard out of the AVR plus speaker. Or write
 a ROT-13 device that takes your input and returns the encoded version.
 
-## Class 6: Timers/Counters and Interrupts II {#class_6_timerscounters_and_interrupts_ii}
+## Class 6: Timers/Counters and Interrupts II
 
 Timers/counters let you do precision things with time. Fix up that nasty
 audio tone from the LDR theremin. Precise timing allows you to use LED's
@@ -166,7 +166,7 @@ class, we'll scratch the surface of what you can do with timers.
 [Media:
 timerPWM_ctc_hardware_toggle.c](Media:_timerPWM_ctc_hardware_toggle.c)
 
-## Extra Credit: I2C {#extra_credit_i2c}
+## Extra Credit: I2C
 
 Talked a bit about the I2C serial protocol -- a light-weight serial
 multi-master bus using two wires (plus ground) and capable of addressing

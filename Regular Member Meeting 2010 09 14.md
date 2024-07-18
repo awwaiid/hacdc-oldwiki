@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-09-14 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 September 14, 2010 Meeting called to order at 7:37:09 by President
 Packer.
@@ -14,14 +14,14 @@ Others Present: Tim C
 
 [Quorum](Quorum) met? Yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 08
 10](Regular_Member_Meeting_2010_08_10)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Moved to NYC. Will be doing ongoing support for IT stuff, but will pass
 on the knowledge of HacDC systems to the server admin team. Lightning
@@ -29,7 +29,7 @@ talks had a volunteer to continue them. Would like to see that continue
 with HacDC in the future. Membership should continue to be a focus for
 HacDC. That seems to be happening.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 HacDC Transaction Detail by Account August 2010
 
@@ -154,11 +154,11 @@ agreed to this.
 The treasurer is going to work on charts for the next meeting to get a
 sense of revenue and expenditures.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Have a genius idea for a class next month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Katie is involved in the membership spreadsheet. Going through the new
 member minutes to update the membership rosters.
@@ -167,7 +167,7 @@ There are bedbugs in the space. Please be vigilant about taking stuff
 home and bringing things into the space. If you see one, press a piece
 of tape on it, and then throw it away.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ### Katie
 
@@ -184,7 +184,7 @@ Would like to see more project content on the website. Have been doing
 some resilient community work. Needs the PDF's of the flyers that were
 developed.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### 
 
@@ -209,36 +209,36 @@ thermosomethingorother plastics to mold.
 We have been working on lab power supplies in the space with extremely
 precise voltage and current.
 
-### Arc R {#arc_r}
+### Arc R
 
 The church now has a new security system. One of our boxes is now the
 security system with recording capacity. As of yesterday, we have four
 out of five planned occupancy sensors in place. Came up with some new
 templates for scale calibration.
 
-### Red Beard {#red_beard}
+### Red Beard
 
 Two events in the past week with over 100 new people in the space:
 Cooking with Geeks book talk, and Skylar's lock-picking class. He
 donated an entire lock set to HacDC to encourage the formation of a lock
 club.
 
-### Tim C {#tim_c}
+### Tim C
 
 Martin, Tim and others went to a machinists group with people who really
 know metal working and like to train. There was interest about helping
 us get setup with a CNC for approximately \$2K that we might be able to
 finance with public donations, not current funds.
 
-###  {#section_1}
+### 
 
 Open lock nights. Fridays or Saturdays.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-### Election of New President {#election_of_new_president}
+### Election of New President
 
 Tim Ball nominated Red Beard. Todd F seconded. Accepted.
 
@@ -251,14 +251,14 @@ There were short statements, a question period, and the vote.
 The vote was clear in the first counting, and RedBeard is the new HacDC
 president.
 
-### Proposal for Brochure Printing {#proposal_for_brochure_printing}
+### Proposal for Brochure Printing
 
 Ben Stanfield has suggested a budget of \$300 to produce several hundred
 HacDC Brochures for publicity purposes.
 
 Motion failed.
 
-### New Members {#new_members}
+### New Members
 
 Toast, Richard, and Richard, Tim C, Ederlyn
 

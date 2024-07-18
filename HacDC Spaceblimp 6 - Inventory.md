@@ -25,7 +25,7 @@ smallest parachute with lines (blue, orange with yellow rigging line)
 5.9oz small parachute with lines 12.9oz larger parachute without lines
 38.4oz dual parachute with lines 2.1oz
 
-## Payload enclosures {#payload_enclosures}
+## Payload enclosures
 
 large single lunchbox (#1) 14.5oz small single lunchbox (#2) 12.7oz
 large double lunchbox (#3) 15.4oz

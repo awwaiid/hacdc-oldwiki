@@ -1,6 +1,6 @@
 Basic instructions for the HacDC **Lulzbot 3D** printers
 
-## Create a model with CAD software {#create_a_model_with_cad_software}
+## Create a model with CAD software
 
 Create your model with [ImplicitCAD](http://www.implicitcad.org/) or
 [OpenSCAD](http://www.openscad.org/). Creating your model is beyond the
@@ -8,7 +8,7 @@ scope of this document, but the two previous links include
 documentation. The model will be saved with the extension or **.escad**
 or **.scad** respectively.
 
-## Export CAD model to a STereoLithography (STL) file {#export_cad_model_to_a_stereolithography_stl_file}
+## Export CAD model to a STereoLithography (STL) file
 
 Your model should then be exported as a [STereoLithography
 file](https://en.wikipedia.org/wiki/STL_%28file_format%29) with the
@@ -17,7 +17,7 @@ menu. ImplicitCAD appears to use a separate program:
 
 `   $ `**`extopenscad`**` model`**`.escad`**` model`**`.stl`**
 
-## Export STL file to G-code printer instructions file {#export_stl_file_to_g_code_printer_instructions_file}
+## Export STL file to G-code printer instructions file
 
 While the **.escad** and **.scad** files are unique to the apps above,
 the **.stl** file is a standard understood by many programs. Some(?)

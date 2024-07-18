@@ -1,7 +1,7 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 July 29, 2008\
 Members Present: Nick, Ali, Derek, Katie, Timball, Pete\
@@ -11,22 +11,22 @@ Others Present: Guests: Sam, Cassia\
 HacDC, 1525 Newton St NW, Washington, DC. (Space)\
 Presiding: Nick Farr\
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 -   No [quorum](quorum) was achieved, so prior meeting
     minutes could not be received.
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 -   No consent agenda this week.
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief {#coordinator_in_chief}
+### Coordinator in Chief
 
 -   No coordinator in chief present.
 
-### Minister of Finance {#minister_of_finance}
+### Minister of Finance
 
 \- Would like to start using the [cash
 register](cash_register) for soda and component sales, so
@@ -49,7 +49,7 @@ plan ahead.
 \- Ben points out there are lots of different kinds of cons, including
 Otakon (Baltimore), Freaknic (Nashville)
 
-### Minister of Information {#minister_of_information}
+### Minister of Information
 
 \- Still looking for input to the design of the website.
 
@@ -60,13 +60,13 @@ list.
 Google calendar widget, but there were arguments about members stuck in
 the 1990s who don't use JavaScript.
 
-### Keeper of the MIBS {#keeper_of_the_mibs}
+### Keeper of the MIBS
 
 -   No Keeper of the MIBS present.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Ben Stanfield {#ben_stanfield}
+### Ben Stanfield
 
 Talked with a woman from Safari Online Book program. \$347 per year per
 person to join Safari Online Books. Unlikely to go for this. Ben did ask
@@ -92,11 +92,11 @@ Derek had some speculation about having a space in Maryland so there's
 an option closer to people there, but no immediate action is planned.
 Someone suggested carpooling.
 
-## Old Business {#old_business}
+## Old Business
 
 -   There was no old business to discuss.
 
-## New Business {#new_business}
+## New Business
 
 -   There was no new business to discuss.
 

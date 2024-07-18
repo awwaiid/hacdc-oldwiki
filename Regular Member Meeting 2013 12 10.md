@@ -4,7 +4,7 @@
 Personnel Management declared December 10, 2013 a day of
 closure](http://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/status-archives/13/12/10/Federal-Offices-are-Closed---Emergency-and-Telework-ready-Employees-Must-Follow-Their-Agencys-Policies_565/).***`</big>`{=html}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   December 10, 2013
 :   Called to order at \_\_\_\_\_\_ by \_\_\_\_\_\_
@@ -19,7 +19,7 @@ closure](http://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/stat
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 11
 12](Regular_Member_Meeting_2013_11_12)
@@ -44,20 +44,20 @@ closure](http://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/stat
 -   Various members on the mailing list for constructive criticism
     regarding the new shelves.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for November 2013:
 ![](HacDC_Financials_2013_11.pdf "HacDC_Financials_2013_11.pdf"). We
 gained one new member, Griffin Boyce, and lost no members, though a
 number of members failed to pay dues this month.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for November:
 ![](HacDC_PA_Projects-2013_11.pdf "HacDC_PA_Projects-2013_11.pdf"). I'm
@@ -65,39 +65,39 @@ able to declare a \$300 Project Awesome dividend and add \$137.87 to our
 un-earmarked reserves for the month of November. There were 16 Project
 Awesome votes.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Nothing significant to report.
 
 (unable to attend meeting, probably traveling atm)
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) {#shawn_nock}
+#### [Shawn Nock](User:Nocko)
 
 #### Reuven
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-#### Financial Outlook {#financial_outlook}
+#### Financial Outlook
 
 Healthy and stable at \~\$1.4k.
 
-### Recent Purchases {#recent_purchases}
+### Recent Purchases
 
 -   2 1kg PLA Filament Spools
 -   Glass cutter, several glass sheets.
 -   T25 Torx Bit
 
-### Prusa Mendel {#prusa_mendel}
+### Prusa Mendel
 
 Bed leveling issues became an increasing nuisance, due to a lack of
 suitable glass and clamps. Using dremel tool, glass cutter, and laser
@@ -108,21 +108,21 @@ This took weeks of experimentation and shattered glass that would have
 been much easier if we already had a wide-area CNC built on the optical
 table.
 
-### Future Plans {#future_plans}
+### Future Plans
 
 After cleanup at HacDC, can consider improving generic supplies like
 mill stock, electronic components, laser cutter stock, and hardware (ie.
 screws).
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-#### Financial Outlook {#financial_outlook_1}
+#### Financial Outlook
 
 Off to a good start. At \$87.19, need to wait a little longer before we
 can buy more equipment. Then again, we need to finish cleanup first
 anyway.
 
-#### Future Plans {#future_plans_1}
+#### Future Plans
 
 As noted on the [Project
 Tracker](http://mirage335.dyndns.org/hacdcprojects/index.php?m=projects&a=view&project_id=6),
@@ -134,18 +134,18 @@ of metal/wood/plastic working tool required at HacDC.
 High-end VM server will be used to PXE boot the WYSE terminals into high
 powered computers.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
-#### Basement Shelves & Cleanup {#basement_shelves_cleanup}
+#### Basement Shelves & Cleanup
 
 Members are encouraged to discuss floor plan options with mirage335
 after the meeting.
 
-##### The Debate {#the_debate}
+##### The Debate
 
 Despite a full CAD model, lengthy comment period, and general consensus
 that the shelves should be built, all well in advance of their
@@ -196,7 +196,7 @@ Since some concerns have been raised about placing more than a metric
 ton on wheels, this should probably be done only if members absolutely
 insist on pushing the shelves against a wall.
 
-##### Floor Plans {#floor_plans}
+##### Floor Plans
 
 <https://github.com/HacDC/FloorPlan/raw/master/FloorPlans/BasementBackRoom/BasementBackRoom_ShelvesAsideLeft.pdf>
 
@@ -209,7 +209,7 @@ intended to be shared with both rooms in the basement. At any time,
 members could push the carts out of whichever room is most in use, or
 perhaps even temporarily outside.
 
-##### Policy Changes {#policy_changes}
+##### Policy Changes
 
 Some have objected to HacDC storing anything at all. While this probably
 is not a growth-oriented viewpoint, the need for a more effective, well
@@ -228,7 +228,7 @@ Features include:
 However, it has been suggested that policy changes should wait at least
 until January, which seems reasonable.
 
-#### Flex Replicator / Optical Table CNC {#flex_replicator_optical_table_cnc}
+#### Flex Replicator / Optical Table CNC
 
 Soon as the Optical Table is on its feet, will outfit it with gantry
 hardware and a variety of tools. This is compatible with the Flex
@@ -253,7 +253,7 @@ out.
 Also, a lot of interesting progress is being made on a really cool
 product.
 
-##### Biosignal Amplifier {#biosignal_amplifier}
+##### Biosignal Amplifier
 
 All the hardware is in place, usage will soon be simplified to a USB
 plug-and-play device. GNURadio has proven insufficiently flexible, and a
@@ -265,14 +265,14 @@ This environment will allow graphical 'drag-and-drop' development of DSP
 C programs, similar to, but much more powerful than
 [blocklyduino](http://www.gasolin.idv.tw/public/blockly/demos/blocklyduino/index.html).
 
-##### Thursday Meetings {#thursday_meetings}
+##### Thursday Meetings
 
 The Thursday biohacking meetings have been getting quiet, but the core
 members still occasionally drop by and express interest. With the
 biosignal amplifier nearly finished, and hopefully more tools deployed
 at HacDC, we should be able to resume other projects.
 
-#### WYSE Terminals {#wyse_terminals}
+#### WYSE Terminals
 
 Created persistent USB stick image for the WYSE terminals, documented at
 [Linux_on_Wyse_Winterm_S10_Thin_Clients](Linux_on_Wyse_Winterm_S10_Thin_Clients).
@@ -281,7 +281,7 @@ Trick is to use an old version of syslinux.
 Tested about two dozen units. Surprisingly, all are functional, capable
 of USB and presumably PXE booting.
 
-#### myDAQ and myDSP {#mydaq_and_mydsp}
+#### myDAQ and myDSP
 
 Special thanks to Ahmed Aden for making a special trip to bring the
 myDAQ and myDSP back to us.
@@ -295,11 +295,11 @@ Also, a modular pallet-and-rail will be used for the optics this time.
 The prototype frame that has been taking up space in the workshop is no
 longer useful, and will be disassembled immediately.
 
-#### Occupancy Sensor {#occupancy_sensor}
+#### Occupancy Sensor
 
 Working reliably.
 
-## Old Business {#old_business}
+## Old Business
 
 ### Shelves
 
@@ -307,9 +307,9 @@ Working reliably.
 
 -   Quorum not met, could not vote.
 
-### Honorary Memberships {#honorary_memberships}
+### Honorary Memberships
 
-#### The Doctor {#the_doctor}
+#### The Doctor
 
 The Doctor is one of the founding members of Project Byzantium and one
 of the largest contributors to the project. He has made numerous other
@@ -317,7 +317,7 @@ contributions including donating time and equipment to improve the
 space, and helping us to network with other individuals and
 organizations with shared interests.
 
-#### Bradford Barr {#bradford_barr}
+#### Bradford Barr
 
 Former President of HacDC. He is also headed off the SF. Brad has been a
 long-time supporter of HacDC's mission. He donated a lot of time to
@@ -328,7 +328,7 @@ of topics from Python to lockpicking to yo-yos.
 
 Long time member and contributor to the space.
 
-## New Business {#new_business}
+## New Business
 
 -   Zach purchased materials for basement shelves, and should now be
     reimbursed up to \$400 (exact receipt value is not known to
@@ -339,7 +339,7 @@ Long time member and contributor to the space.
 -   Katie proposes we allocate \$100 for our traditional holiday gift to
     the security guard.
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

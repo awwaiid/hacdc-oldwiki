@@ -1,4 +1,4 @@
-# [Robot Project](Robot_Project) Notes {#robot_project_notes}
+# [Robot Project](Robot_Project) Notes
 
 See the [Codeberg
 repository](https://codeberg.org/ubuntourist/RedHat_Co.Lab_Robot) for
@@ -6,9 +6,9 @@ the most up-to-date notes.
 
 # Sparkfun Red Hat Co.Lab Robot {#sparkfun_red_hat_co.lab_robot}
 
-# (BBC micro:bit + Sparkfun moto:bit) {#bbc_microbit_sparkfun_motobit}
+# (BBC micro:bit + Sparkfun moto:bit)
 
-## Sparkfun moto:bit Carrier Board {#sparkfun_motobit_carrier_board}
+## Sparkfun moto:bit Carrier Board
 
 The [moto:bit](https://www.sparkfun.com/products/15713) - micro:bit
 Carrier Board (Qwiic) uses a Qwiic interface? and offers pins for:
@@ -50,7 +50,7 @@ and an I2C bus (as well as a Qwiic “port” and power switch)
 
 ------------------------------------------------------------------------
 
-## Wheel Motor Assembly {#wheel_motor_assembly}
+## Wheel Motor Assembly
 
 -   Geez! They weren’t kidding! Getting the front motor mounts over the
     big motors was a PITA! Ultimately, brute forcing it with my hand
@@ -63,7 +63,7 @@ and an I2C bus (as well as a Qwiic “port” and power switch)
 
 ------------------------------------------------------------------------
 
-## Line folowing sensors {#line_folowing_sensors}
+## Line folowing sensors
 
 -   The pins should be sticking out on the smooth side of the “bottom”
     mount.
@@ -101,14 +101,14 @@ and an I2C bus (as well as a Qwiic “port” and power switch)
 
 ------------------------------------------------------------------------
 
-## Powering on {#powering_on}
+## Powering on
 
 -   Providing power causes the `micro:bit` to boot with an introductory
     “H…E…L…L…O” and then prompts you to push buttons A and then B.
 
 ------------------------------------------------------------------------
 
-## Uploading code to the micro:bit {#uploading_code_to_the_microbit}
+## Uploading code to the micro:bit
 
 -   Connecting the **micro:bit** to desktop or laptop computer via USB
     provides sufficient power to program it. No need to waste the
@@ -182,7 +182,7 @@ and an I2C bus (as well as a Qwiic “port” and power switch)
 
 ------------------------------------------------------------------------
 
-## Disconnect from the web {#disconnect_from_the_web}
+## Disconnect from the web
 
 I want to write Python code, and load it into the beastie without need
 of a network. I have a computer, I have a USB cable and I have a
@@ -199,7 +199,7 @@ use of that. On Ubuntu 20.04, the following works:
 
 ------------------------------------------------------------------------
 
-## REPL achieved! {#repl_achieved}
+## REPL achieved!
 
 It probably completely messes up the Microsoft MakeCode flow completely,
 but I now have the MicroPython REPL prompt:

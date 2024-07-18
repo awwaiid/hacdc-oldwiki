@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 2024-02-13
 :   Called to order at 7:43 pm by Obioma
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes; 9/19 members.
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2024) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2024)
 
 Oby, seconded by Gabe.
 
@@ -23,14 +23,14 @@ using Clipper
 Dave and Charlie came to discuss adding their laser engraver to the
 basement this coming monday. Can perhaps share keys to the basement.
 
-## New Members {#new_members}
+## New Members
 
 Sven is looking to become a member. He has been to the space a bunch and
 shares nail polish, cookies, and valentine's day chocolates. Going to
 bring by some "Hextraction" pieces. No opposition, unanimous acceptance.
 Glad you're aboard, Sven!
 
-## Old Business {#old_business}
+## Old Business
 
 -   Possible changes or additional open house nights
 -   Open Project Night
@@ -113,7 +113,7 @@ Position is in a good place. Main requirements are monthly slides and
 deciding on purchases. 990 Tax forms are due in a couple months, super
 simple online submission. DC CorpOnline renewals each year.
 
-## New Business {#new_business}
+## New Business
 
 Treasurer's report:
 

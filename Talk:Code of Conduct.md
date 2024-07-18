@@ -1,9 +1,9 @@
-## Grammatical correction {#grammatical_correction}
+## Grammatical correction
 
 -   Delete of after Misuse under Safety Rules (Bobby)
     -   Good catch. Done. Thanks.
 
-## A deletion or a culture shift {#a_deletion_or_a_culture_shift}
+## A deletion or a culture shift
 
 `* Guests are not allowed to use tools and equipment except as part of a scheduled workshop. `
 
@@ -13,7 +13,7 @@ will need to start re-educating some of the regulars...
 --[Ubuntourist](User:Ubuntourist)
 ([talk](User_talk:Ubuntourist)) 08:32, 10 April 2018 (PDT)
 
-## preliminary comments {#preliminary_comments}
+## preliminary comments
 
 General comment: It is important to CLEARLY distinguish between rules
 and requests. They are definitely not the same. Do: Ask questions -
@@ -47,7 +47,7 @@ I will undoubtedly come up with much more.
 
 `    Bobby`
 
-## Mirage: comments {#mirage_comments}
+## Mirage: comments
 
 Most importantly, lack of barriers to entry, such as strict rules about
 equipment usage, borrowing, or supplies consumption, has been a huge
@@ -105,7 +105,7 @@ become comfortable with the freedom we offer, as well as to provide a
 sense of fairness for policy makers.
 <https://wiki.hacdc.org/index.php/NormsOfHacDC>
 
-## Bobby's version of CoC {#bobbys_version_of_coc}
+## Bobby's version of CoC
 
 ​I still think the proposed Code of Conduct, even after the tool use
 policy was changed, would make undesirable changes to the open way HacDC
@@ -128,7 +128,7 @@ members and the community) and minimize risk and restrictions.
     membership of or bar anyone who violates the rules (but not just
     guidelines).
 
-### Membership Rules {#membership_rules}
+### Membership Rules
 
 -   Anyone who wishes to may become a member.
 -   Full members get a key and can use the space at any time.
@@ -137,7 +137,7 @@ members and the community) and minimize risk and restrictions.
     required if there is any charge to attend.
 -   Members are responsible for monitoring guests in the space.
 
-### Behavior Rules {#behavior_rules}
+### Behavior Rules
 
 -   Everyone must tolerate the presence of others and not harass anyone
     or interfere with their use of the space.
@@ -147,7 +147,7 @@ members and the community) and minimize risk and restrictions.
 -   Except for caffeine, recreational drugs and pets are prohibited
     unless specifically approved in advance.
 
-### Behavior Guidelines {#behavior_guidelines}
+### Behavior Guidelines
 
 -   Everyone is encouraged to assist each other and to request
     assistance.
@@ -158,7 +158,7 @@ members and the community) and minimize risk and restrictions.
 -   Everyone is urged to document their work if it is likely to be
     useful to others.
 
-### Safety Rules {#safety_rules}
+### Safety Rules
 
 -   HacDC shall make sure recommended safety equipment is available &
     functional.
@@ -173,11 +173,11 @@ members and the community) and minimize risk and restrictions.
 -   Noone is allowed in the space while they have a contagious illness.
 -   Members shall point out exits & fire extinguishers to guests.
 
-### Safety Guidelines {#safety_guidelines}
+### Safety Guidelines
 
 -   Everyone should pay attention to what is going on around them.
 
-### Tools & Equipment Rules {#tools_equipment_rules}
+### Tools & Equipment Rules
 
 -   HacDC may require that a particular item can only be used by those
     trained to use it or under the supervision of someone who knows how
@@ -196,19 +196,19 @@ members and the community) and minimize risk and restrictions.
 -   Items may not be left in the wrong place (i.e., a clamp in the
     precision screwdrivers bin).
 
-### Tools & Equipment Guidelines {#tools_equipment_guidelines}
+### Tools & Equipment Guidelines
 
 -   Everyone is urged to put items in the correct location when finished
     with them and clean up debris.
 
-### Guests Rules {#guests_rules}
+### Guests Rules
 
 -   Guests may only be in the space when a full member is present.
 -   Except for specific items designated as members only, guests may use
     tools & equipment with appropriate (as defined by HacDC) supervision
     when no member needs to use that item.
 
-### Revised Safety section rules {#revised_safety_section_rules}
+### Revised Safety section rules
 
 -   Everyone must try to minimize risks, to others and to the
     surroundings, in general and from tools & equipment, including:
@@ -232,7 +232,7 @@ members and the community) and minimize risk and restrictions.
 -   Members must point out exits & fire extinguishers to guests.
 -   Noone is allowed in the space while they have a contagious illness.
 
-### Safety Guidelines {#safety_guidelines_1}
+### Safety Guidelines
 
 -   Anything abnormal (strange noise, unusual smell, peculiar motion,
     etc.) should be investigated - it may be telling you something

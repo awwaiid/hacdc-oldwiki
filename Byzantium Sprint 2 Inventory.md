@@ -4,7 +4,7 @@ the same stuff.
 Also, keep in mind that having spares around would be handy in case we
 fry some stuff.
 
-## haxwithaxe (chris) {#haxwithaxe_chris}
+## haxwithaxe (chris)
 
 -   openwrt compatable routers....10
 -   FRS/GMRS handsets....2
@@ -24,7 +24,7 @@ fry some stuff.
     -   Cheaper but more scarce. Buy them online, you'll have a better
         chance of getting them, plus it saves on gas.
 
-## The Doctor {#the_doctor}
+## The Doctor
 
 -   Wireless routers: 2
 -   FRS/GMRS handsets: three pairs

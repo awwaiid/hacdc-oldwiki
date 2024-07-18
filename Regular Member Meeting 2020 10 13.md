@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: October 13th, 2020
 :   Called to order at 7:35 pm by Karen
@@ -11,17 +11,17 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_08_18) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_08_18)
 
 Approved
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 No new members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Tayeb: Successful HacDC Software Defined Radio meetup! Going to
     continue on September 23rd, this time by posting ahead of time all
@@ -73,7 +73,7 @@ No new members
     HacDC members? Tayeb volunteers himself to try initial setup of the
     servers
 
-## New Business {#new_business}
+## New Business
 
 -   John: Time of year to talk to Mike about the future years rent
     situation -- should we reach out to Mike or wait for him to reach
@@ -92,21 +92,21 @@ No new members
     club that would bring people in? Getting a laser cutter -- earmark
     money perhaps -- Karen volunteers to reach out to Mike
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Financial Report: Current Balance -- \$4935 We currently have 17 paying
 members, \$870 from dues and an additional \$370 from donations. Rent is
@@ -115,9 +115,9 @@ members, \$870 from dues and an additional \$370 from donations. Rent is
 HacDC Amateur Radio Club to itemize the costs of their equipment to add
 to the insurance.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

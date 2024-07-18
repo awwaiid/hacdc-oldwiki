@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date November 8th, 2016
 :   Called to order at 8:07 pm by Enrique
@@ -11,53 +11,53 @@
 
     :   Quorum met? Noooo.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 Jeff D. was voted in as a new member.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 The gauge should arrive this month.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 The first real CRISPR event should be in early-mid December once Nancy
 is back. It will be a Saturday.
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 HacDC will be a founding member of Nation of Makers. Julia has been
 nominated for the NoM board of directors and will be asking members to
 vote for her there. Julia is also going to CCC this year, although not
 presenting. She'll probably return, with t-shirts.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 I haven't done the math this month, sorry. I was out of town all last
 week. However I did talk to DCRA and verify we are registered as a
@@ -74,7 +74,7 @@ of Helium). We have a little over six months worth of reserve funds and
 about \$100 in bitcoins, which are ...quickly gaining in value
 tonight...
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 ***VOTE-POCALYPSE-GEDDON!***
 
@@ -82,7 +82,7 @@ It's (potentially) [the
 end](https://i.ytimg.com/vi/NRLXp3R7uZY/maxresdefault.jpg) of our
 Republic.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 

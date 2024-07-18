@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:40 pm by Oby
@@ -13,13 +13,13 @@
 
 No
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10)
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 electricity problems - fixed Ham Radio Club on their own circuit
 
@@ -29,23 +29,23 @@ LAN Party - recurring every other sunday
 
 Solar panels - leave them be for now
 
-## New Business {#new_business}
+## New Business
 
 Printer's coming back online
 
 CNC table in the basement
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 My goals as secretary for the upcoming month are to deploy (and design)
 some more apps and domains; I hope you can discuss some of these - I'll
@@ -58,11 +58,11 @@ pages as plaintext / markdown back up old wiki pages as plaintext /
 markdown redesign landing page as static site; alpha deploy for feedback
 on hacdcserver.org
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Michelle
 
-#### Don / Brian {#don_brian}
+#### Don / Brian
 
 ## Adjournment
 

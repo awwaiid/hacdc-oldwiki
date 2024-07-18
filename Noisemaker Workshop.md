@@ -9,7 +9,7 @@ This workshop series involves soldering, (ab)use of digital CMOS chips
 for analog ends, a smidgen of electronics knowledge (provided), and
 plenty of noise. You bring the musical sensibility (not required).
 
-## Day 1: Getting Oscillating {#day_1_getting_oscillating}
+## Day 1: Getting Oscillating
 
 This class focuses on the 74HC14 logic chip and how it can be used to
 make a square-wave oscillator. By using a light-dependent resistor in
@@ -19,7 +19,7 @@ around.
 [Media:
 NoisemakerWorkshop_Day1.pdf](Media:_NoisemakerWorkshop_Day1.pdf)
 
-## Day 2: Modulation {#day_2_modulation}
+## Day 2: Modulation
 
 So you've got one oscillator. Great, now build another. Now have the
 second feed into the first. Fun.
@@ -31,7 +31,7 @@ blinked rhythmically.
 Slides, without nearly enough pictures or comments: [Media:
 modulation.pdf](Media:_modulation.pdf)
 
-## Day 3: Amplification and Filtration {#day_3_amplification_and_filtration}
+## Day 3: Amplification and Filtration
 
 Here we go a little bit analog. Using a 74hc04 chip as a
 buffer/amplifier, we start to get non-square waves. An amplifier with a
@@ -41,7 +41,7 @@ capacitor in its feedback loop makes a nice lowpass filter.
 kind-of winged it. It wasn't stellar. We'll probably need to re-visit
 some of this later anyway...)
 
-## Day 4: Sequencing, Clocking {#day_4_sequencing_clocking}
+## Day 4: Sequencing, Clocking
 
 Using a low-frequency as a clock source, we'll drive a counter which
 drives a multi-way switch. Point the switch at different resistors =
@@ -50,11 +50,11 @@ different pitches = 8-step sequencer. Mayhem? Music?
 Here's the slides from class: [Media:
 sequencing.pdf](Media:_sequencing.pdf)
 
-## Day 5: Ring Modulation and Sync {#day_5_ring_modulation_and_sync}
+## Day 5: Ring Modulation and Sync
 
 [Media: ringMod.pdf](Media:_ringMod.pdf)
 
-## What's Next? {#whats_next}
+## What's Next?
 
 This wiki page is still being worked on. What should we do next week?
 

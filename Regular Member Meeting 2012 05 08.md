@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 May 8, 2012
 
@@ -11,26 +11,26 @@ Others Present: Rob Matthew
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 04
 10](Regular_Member_Meeting_2012_04_10) \*Approved\*
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Starting teaching classes for Washington Project for the Arts at
 Artisphere. Knowledge Commons DC has approached to teach a class on
 programming. Cross-listing course with KDC and HacDC. Also teaching a
 wommyns programming class. More info when the time comes.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Byzantium presenting next weekend at CarolinaCon in Raleigh, NC and at
 HOPE NYC. If interested in presenting cool stuff at HOPE contact Ben.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for April 2012:
 ![](HacDC_Financials_Apr_2012.pdf "HacDC_Financials_Apr_2012.pdf")
@@ -45,12 +45,12 @@ with HacDC funds some time ago.
 A tripod for the video recording setup approved two months ago was
 purchased.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Will be working on a spreadsheet of member contact info. Expect an email
 in the near future requesting this info for internal HacDC google doc.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -61,9 +61,9 @@ to gain recognition from ARRL as an associate club.
 
 Nick is doing finals. Wait, Nick is not doing finals. Nothing.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Tim Slagle {#tim_slagle}
+### Tim Slagle
 
 I got all the gear I ordered for the event video recording setup. I
 talked to Church Brian and the custodian about storing the gear in the
@@ -119,11 +119,11 @@ Chairs soon!
 Trying to move woodworking equipment (saws) to lower level space, to
 complement woodshop.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 ### Matt
 

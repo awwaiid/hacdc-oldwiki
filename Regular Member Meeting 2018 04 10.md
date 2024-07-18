@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 1942 pm by Karen
@@ -13,7 +13,7 @@
 
 `   yes`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 `   Approved`
 
@@ -22,43 +22,43 @@
 `   Many HacDC members helped out for a successful showing at USASEF.`\
 `   Avi helped us have a great lockpicking station.`
 
-## New Members {#new_members}
+## New Members
 
 `   Diego -- voted unanimously`
 
-## Old Business {#old_business}
+## Old Business
 
 Enrique would like to be reimbursed for the CFC application fee, which
 was \$340.00 on 1/31/18.
 [Media:CFC_App_Payment_2018.png](Media:CFC_App_Payment_2018.png)
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
 An old receipt Bobby gave me has not been located. May have been
 misplaced by me, or submitted and not yet reimbursed. Perhaps we should
 just vote to reimburse Bobby from SUPPLIES as a general expense?
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
 Nothing to report.
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
+### Project CRISPR -Enrique
 
 Made an interesting contact at USASEF, Capital Area BioSpace, a
 burgeoning bio-space in DC currently with no physical space. We may hold
 some event at HacDC in the future and discuss collaborations.
 
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project SpaceBlimp -Enrique
 
 Had a booth at USASEF staffed mainly by volunteers and members of
 Unallocated Space and Rockville RSC Makerspace. There's a prep meeting
@@ -70,31 +70,31 @@ last I checked so the track was very long and fast - hard for the launch
 team to chase. Avi is also making progress on the website,
 spaceblimp.org.
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project Media Outreach - Matt
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project IT Infrastructure - Tom
 
 Still looking for problems to throw money at.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
 *moved to another location*
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
 *(see BOD meeting minutes)*
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

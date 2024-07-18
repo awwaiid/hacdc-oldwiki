@@ -21,11 +21,11 @@ environment.
 This may also be an example of the ["Worse is
 better"](http://en.wikipedia.org/wiki/Worse_is_better) philosophy.
 
-## The sloppy redundant full feedback approach to physical computing {#the_sloppy_redundant_full_feedback_approach_to_physical_computing}
+## The sloppy redundant full feedback approach to physical computing
 
 -or-
 
-## The Cloud Computing approach to Managing Sensors {#the_cloud_computing_approach_to_managing_sensors}
+## The Cloud Computing approach to Managing Sensors
 
 Abstract: Physical computing, robotics, and mechatronics suffer from a
 mapping problem, a mechanical complexity problem, and a configuration

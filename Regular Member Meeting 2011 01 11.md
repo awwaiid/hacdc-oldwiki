@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-01-11 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 January 11, 2011 Meeting called to order at 7:55 by Timball.
 
@@ -18,24 +18,24 @@ John W Ben H
 
 Totally.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 12
 14](Regular_Member_Meeting_2010_12_14)
 
 Approved as read.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 In Vancouver.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Happy New Year.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Total for Membership Dues \$1,930.00
 
@@ -144,11 +144,11 @@ TOTAL ASSETS \$7,719.20
 
 TOTAL LIABILITIES AND EQUITY \$7,719.20
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 There is no spoon.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 Will: Been working with Jamie to clean up the HacDC drupal site: it was
 found by the spambots. Requiring new accounts has shut down the new
@@ -159,7 +159,7 @@ Katie: Unicorn (My Little Pony + soldering iron) build this weekend, as
 well as cupcake packaging (hackerspace challenge). Will all be scheduled
 tomorrow, check the mailing list for details.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Todd: FIRST robotics. Five members went to the kickoff. Game is throwing
 inner tubes onto pegs on a wall while another bot has to climb a pole.
@@ -193,11 +193,11 @@ Will: Sent out a list of programming, past and future. Wants to collect
 up a list of skills. Need more instructions on how to run an event at
 HacDC.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-### New Members {#new_members}
+### New Members
 
 John W.
 

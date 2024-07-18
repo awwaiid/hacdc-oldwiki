@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   September 10, 2013
 :   Called to order at \_1959\_ by Chris.
@@ -16,7 +16,7 @@ Alex
 
     :   Quorum met? No
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 08
 13](Regular_Member_Meeting_2013_08_13)
@@ -28,9 +28,9 @@ Can't be approved w/o quorum.
 Julia should be, but Hax didn't edit this section like he was supposed
 to.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 ISC Grant is completed. See Project Byzantium report.
 
@@ -42,9 +42,9 @@ Speaking of Faires, it's Renn Fest season.
 What's going on with the Crypto Party? Can we get that on the calendar
 and start promoting?
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for August 2013:
 ![](HacDC_Financials_2013_08.pdf "HacDC_Financials_2013_08.pdf"). We
@@ -52,7 +52,7 @@ gained Ann Millspaugh, Evan Phillips, Jarett DeAngelis, Kay Kenworthy,
 Brendan Levy, as new, paying members. No members left, though one will
 be on hiatus until January.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Thanks to fewer delinquent members and an unexpected grant from the
 Community Foundation for Northern Virginia, we had a healthy surplus
@@ -62,29 +62,29 @@ the Project Awesome spreadsheet for August:
 ![](HacDC_PA_Projects-2013_08.pdf "HacDC_PA_Projects-2013_08.pdf").
 There are currently 15 votes.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) {#shawn_nock}
+#### [Shawn Nock](User:Nocko)
 
 #### Reuven
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Laser printed needs lense cleaning & calibration.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Grant is finished.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 No report.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 #### Arrivals
 
@@ -96,14 +96,14 @@ No report.
     of at least \$100, prefer to see them used in equipment available to
     HacDC members.
 
-##### PLA Solvent (Tetrahydrofuran) {#pla_solvent_tetrahydrofuran}
+##### PLA Solvent (Tetrahydrofuran)
 
 -   Manually polish or glue PLA printed parts with just few drops.
 -   Small glass bottle, stored inside metal tin on chemical shelf.
 -   Generally safe as acetone. However, seal tight to minimize
     oxidization, and wear nitrile gloves.
 
-##### Solder Paste {#solder_paste}
+##### Solder Paste
 
 -   Professional quality SMT soldering by the thousand. Recommend laser
     cutting blue tape for stencils and hot air gun for soldering. See
@@ -113,25 +113,25 @@ No report.
 -   Toxic, like all solder dust. Minimize contamination, wash hands
     thoroughly after use.
 
-##### PCB Milling Bit {#pcb_milling_bit}
+##### PCB Milling Bit
 
 -   Maximum quality circuit boards, 5 mil diameter.
 -   Stored in toolbox.
 -   Tough when spinning, fragile when not.
 
-#### Future Plans {#future_plans}
+#### Future Plans
 
 -   Spare hot-end for Prusa Mendel.
 -   Large plastic buckets.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 Still figuring things out including possible bandwidth issues and
 addressing privacy concerns. He's planning to start working on
 infrastructure while trying to figure out how to take care of the other
 issues.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### [User:haxwithaxe](User:haxwithaxe)
 
@@ -144,7 +144,7 @@ issues.
 
 Hope my reports aren't getting too long...
 
-#### General Use Computer {#general_use_computer}
+#### General Use Computer
 
 New computer in front room set up for general web browsing, google
 hangout hosting, etc.
@@ -155,7 +155,7 @@ hangout hosting, etc.
 
 Still going well, still plan to give details later.
 
-##### Biosignal Amplifier {#biosignal_amplifier}
+##### Biosignal Amplifier
 
 New headgear tested, using earplug "sponges" instead of pin headers.
 Comfortable, works well, even through thick hair.
@@ -176,7 +176,7 @@ considerable quantities of non-junk on floors, such as:
 
 #### Projector/OpenDisplay
 
-##### **Giant Fresnel Lenses - Craiglist Expedition for Rear Projection TV** {#giant_fresnel_lenses___craiglist_expedition_for_rear_projection_tv}
+##### **Giant Fresnel Lenses - Craiglist Expedition for Rear Projection TV**
 
 <http://washingtondc.craigslist.org/search/zip?query=projection&zoomToPosting=&srchType=A&minAsk=&maxAsk=>
 
@@ -187,7 +187,7 @@ Rear projection TVs, available freely on Craigslist, are now the only
 known source of the five Fresnel lenses we require. Project is stalled
 until we get these lenses.
 
-##### Final Cost Estimate {#final_cost_estimate}
+##### Final Cost Estimate
 
 \$128.97 Includes metal-halide light source, projection lens, and
 condenser lenses. Does not include LCD (which we probably have) or
@@ -223,11 +223,11 @@ Has a meet-up for capital staffer types and all HacDC members are
 invited. He is also requesting someone to help demo 3D printing and
 maybe help set-up a 3D scanner.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 Alex-Wants to learn about Arduinos, surface mount soldering, cnc mill, &
 laser cutter. Approved by majority.

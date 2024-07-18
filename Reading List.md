@@ -4,11 +4,11 @@ discussion page. I've avoided adding too much detail, so as to minimize
 the amount of work that will need to be done to re-arrange the list once
 a more useful organization scheme is hatched.)
 
-# Kid's Books {#kids_books}
+# Kid's Books
 
-# Non-Fiction {#non_fiction}
+# Non-Fiction
 
-### Biography & History {#biography_history}
+### Biography & History
 
 -   [The Hacker Crackdown](http://www.mit.edu/hacker/hacker.html) by
     Bruce Sterling.
@@ -90,7 +90,7 @@ a more useful organization scheme is hatched.)
 
 # Fiction
 
-### Science Fiction {#science_fiction}
+### Science Fiction
 
 -   ```{=mediawiki}
     {{amazon|0441012035|Neuromancer}}

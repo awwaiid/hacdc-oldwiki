@@ -1,4 +1,4 @@
-## Project Summary {#project_summary}
+## Project Summary
 
 **Project Code:** SEM **Project Contact:** Julia Longtin **Project
 Status:** Active

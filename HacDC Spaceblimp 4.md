@@ -45,7 +45,7 @@ sb4_editingMovieForYoutube.txt](Media:_sb4_editingMovieForYoutube.txt)
 
 ## Data
 
-### On-board Logging {#on_board_logging}
+### On-board Logging
 
 The on-board datalogger keeps records of interior/exterior temperature
 and GPS data.
@@ -82,7 +82,7 @@ some python code to get you started with the accelerometer data: [Media:
 analyseAccelerometer.py](Media:_analyseAccelerometer.py).
 (Requires SciPy for plotting.)
 
-## Launch Plans (Historic) {#launch_plans_historic}
+## Launch Plans (Historic)
 
 +-----------------------+---------------------------------------------+
 | Planned launch date:  | Sunday, April 10, 2011                      |

@@ -29,7 +29,7 @@ tool for high-performance mechanical part and PCB construction
 
 # Wishlist
 
-## IT Admin {#it_admin}
+## IT Admin
 
 -   USB Webcams for OctoPrint/OctoPi.
 

@@ -10,7 +10,7 @@ situ for reactionary measures as well as for post flight analysis. Some
 common power subsystems can include battery, solar, energy harvesting,
 and various generators with wind as a primary source.
 
-# Team Members {#team_members}
+# Team Members
 
 -   Mariama
 -   Nancy Wolfson

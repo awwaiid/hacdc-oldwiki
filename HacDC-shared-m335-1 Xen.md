@@ -24,7 +24,7 @@ settings.
 Routinely important commands unique to this server documented as
 follows.
 
-## Root (Admin) {#root_admin}
+## Root (Admin)
 
 ### ReInstall
 
@@ -124,7 +124,7 @@ Opens the console of running VM `<name>`{=html} .
 -   Hostname - HacDC-shared-m335-1
 -   FQDN - HacDC-shared-m335-1.hacdc.org
 
-# Redundancy (RAID) {#redundancy_raid}
+# Redundancy (RAID)
 
 None yet, keep backups. Nonetheless, hard disk is kept cool, so the
 server should have a long life ahead of it.
@@ -204,7 +204,7 @@ mirage335
 
 Hunterkll - Donated core hardware.
 
-# Special Services {#special_services}
+# Special Services
 
 # Funtoo
 

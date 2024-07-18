@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 `   Date: Change me`\
 `   Location: HacDC`
@@ -35,52 +35,52 @@ Meeting called to order at
 
 `   Unknown`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Matt
 
 #### Kevin
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project SEM {#project_sem}
+### Project SEM
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
 Nobody bothered to form a committee so there's no report. All financial
 statements including receipts for all purchases are at the space, in the
 BOD locker, treasurer's folder. The Dwolla statements include member
 names, the rest don't. -Enrique
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
-### Bylaws Amendments {#bylaws_amendments}
+### Bylaws Amendments
 
-## New Business {#new_business}
+## New Business
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 
@@ -96,7 +96,7 @@ Results of the elections are as follows:
 `   At large seats: ''???, ???, and ??? stand for at large seats.`\
 `   ''??? and ??? won the ranked choice vote.`
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

@@ -1,4 +1,4 @@
-### Conference Speakerphone {#conference_speakerphone}
+### Conference Speakerphone
 
  
 
@@ -19,7 +19,7 @@
 
 ------------------------------------------------------------------------
 
-### Dual-band Gigabit Wi-Fi Router {#dual_band_gigabit_wi_fi_router}
+### Dual-band Gigabit Wi-Fi Router
 
  
 
@@ -46,7 +46,7 @@
 
 ------------------------------------------------------------------------
 
-### VoIP unit {#voip_unit}
+### VoIP unit
 
  
 

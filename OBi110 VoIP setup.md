@@ -53,7 +53,7 @@ After this, you should now be able to see the OBi Web interface.
 Now on the left side of the screen please find the next options and
 follow the next steps:
 
-### Disabling auto-provisioning {#disabling_auto_provisioning}
+### Disabling auto-provisioning
 
 **\*\*NOTE :** You may use this guide to configure an OBi110 as well.
 This is the VoIP.ms recommended configuration versus using the Obihai
@@ -79,7 +79,7 @@ After this, save all changes and you are ready to move on to the actual
 configuration.\
 ===Configuring the ITSP Profile===
 
-#### General Section {#general_section}
+#### General Section
 
 In this section you will set the name and the DigiMap you will use in
 the profile you configure. By default you will configure the profile A,
@@ -111,7 +111,7 @@ for line 1 or **\*\*2 and \*97** for line 2.
 ![ITSP profile, General - click to
 enlarge](Step2.png "ITSP profile, General - click to enlarge"){width="550"}\
 
-#### SIP Section {#sip_section}
+#### SIP Section
 
 In this section you can set the server and the port that you wish to
 register to.
@@ -136,7 +136,7 @@ to 300.
 ![ITSP profile, SIP (Register Expires)- click to
 enlarge](Step4.png "ITSP profile, SIP (Register Expires)- click to enlarge"){width="550"}\
 
-### Configuring Voice Services {#configuring_voice_services}
+### Configuring Voice Services
 
 \
 In this section you can set your Main account/sub_account credentials
@@ -152,7 +152,7 @@ enlarge](Step5.png "Voice Services (SIP Credentials) - click to enlarge"){width=
 
 `Once you have finished changing all those settings, click on the button `*`Submit`*` to save the changes and `*`reboot your OBi device`*`,  your device should now be registered.`
 
-## Configuration Using OBi Dashboard {#configuration_using_obi_dashboard}
+## Configuration Using OBi Dashboard
 
 Besides the Manual Configuration previously explained, Obihai also
 provides us with their own API dashboard where you can add your device,
@@ -167,9 +167,9 @@ Services** heading. This will take you to a page where you can select
 *voip.ms*. Follow the instructions and once you are done the
 configuration will be downloaded to your Obi110.
 
-## Known Issues and Resolutions {#known_issues_and_resolutions}
+## Known Issues and Resolutions
 
-### Ghost Calls {#ghost_calls}
+### Ghost Calls
 
 \
 Some customers have reported receiving constant calls from "100" or
@@ -235,7 +235,7 @@ waiting 10 seconds.
 Read more on digitmaps under the topic Digit Map Configuration in the
 Obi Device Admin Guide.
 
-### Call Drops {#call_drops}
+### Call Drops
 
 If you experience random call drops while in the middle of a call or if
 the person you talk to remains silent for over a minute (60 seconds by
@@ -243,7 +243,7 @@ default), OBi will hang up the call. Please go here and check and
 increase the following setting (Physical interface -\> LINE port -\>
 DetectFarEndLongSilence / SilenceTimeThreshold)
 
-### Enable Message Waiting Indicator MWI {#enable_message_waiting_indicator_mwi}
+### Enable Message Waiting Indicator MWI
 
 To enable MWI please refer to the following section of the OBI web page:
 
@@ -265,7 +265,7 @@ resolve this.**
 
 ` In Your OBi Device please go to Physical Interfaces >> PHONE Port which by default it is PSTN and it needs to be changed to Trunk Group 1`
 
-### Using the OBi Network {#using_the_obi_network}
+### Using the OBi Network
 
 You can use your OBi device to make calls directly to other OBi devices
 "*The OBi comes out of the box ready to make FREE calls to other OBi
@@ -286,13 +286,13 @@ in the settings of your device at: *Star Codes \>\> Star code profile
 ![Changing \*98 default code - click to
 enlarge](Step6.png "Changing *98 default code - click to enlarge"){width="550"}\
 
-### Using the Phone book of your customer portal {#using_the_phone_book_of_your_customer_portal}
+### Using the Phone book of your customer portal
 
 If you plan on using the Phone Book in your Customer Portal and Speed
 Dial \*75. Please log into your OBi and change the built-in speed dial
 code from \*75 in the device to something else.
 
-### An additional note regarding outgoing calls {#an_additional_note_regarding_outgoing_calls}
+### An additional note regarding outgoing calls
 
 In at least one instance it was necessary to specify a non-default
 outbound calling route in the OBi110 to be able to place calls using the
@@ -315,7 +315,7 @@ Configuring an OBi
 ATA](http://www.toao.net/500-mangos-guide-to-configuring-an-obi100-obi110-and-obi202-ata).
 Used with permission.
 
-## OBI 100/110 OBI 200/202 star codes {#obi_100110_obi_200202_star_codes}
+## OBI 100/110 OBI 200/202 star codes
 
 Here's a list of the most common used Star codes available for the OBI.\
 You may also consult the following link in order to see the full list of

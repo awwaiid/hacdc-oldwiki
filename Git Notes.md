@@ -1,6 +1,6 @@
-## Git Config {#git_config}
+## Git Config
 
-### Git Alias {#git_alias}
+### Git Alias
 
 To use add to \~/.gitconfig under "\[alias\]"
 

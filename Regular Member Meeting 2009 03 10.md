@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 March 10, 2009 Meeting called to order at 7:39 PM by Coordinator in
 Chief Elliot Williams.
@@ -8,7 +8,7 @@ Katie B, Tim B, Elliot W, Dave
 
 [Quorum](Quorum) determined to be present.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting Minutes 2009 03
 03](Regular_Member_Meeting_Minutes_2009_03_03) were presented
@@ -21,7 +21,7 @@ and amended as follows
 
 Approval of Minutes as amended carried with no objections.
 
-## Consent Agenda {#consent_agenda}
+## Consent Agenda
 
 -   Robert's Rules of Order Approval was pulled from the consent agenda
     and put in New Business
@@ -32,31 +32,31 @@ Approval of Minutes as amended carried with no objections.
 -   The Meeting Frequency Bylaw change passed, and needs 3/4 of the
     Member's signatures to go into effect.
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief Report {#coordinator_in_chief_report}
+### Coordinator in Chief Report
 
 The CiC reported being very pleased with progress on the basement space.
 He didn't have a chance to speak with the church last week, but will
 attempt to this week.
 
-### Minister of Finance Report {#minister_of_finance_report}
+### Minister of Finance Report
 
 We spent \$343.10 on paint.
 
 We're currently running approximately 1 month ahead with cash on hand.
 
-### Minister of Information Report {#minister_of_information_report}
+### Minister of Information Report
 
 Nothing to report.
 
-### Keeper of the MIBS Report {#keeper_of_the_mibs_report}
+### Keeper of the MIBS Report
 
 Nothing to report.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Member 43, PR Coordinator {#member_43_pr_coordinator}
+### Member 43, PR Coordinator
 
 Member 43 visited the NoVA LUG meeting to give a talk on HacDC. 1 person
 from the DC LUG he gave a talk to previously came to HacDC on Monday. He
@@ -64,22 +64,22 @@ plans to use Twitter and the Announce mailing list more often to get the
 word out about events. Asked for member's to alert him to any other
 email lists or resources he should be on to promote HacDC.
 
-### Derek C {#derek_c}
+### Derek C
 
 Derek reported HacDC had a good event with Dan Kaminsky last week, but
 pointed out that we can do much more at our events to promote HacDC.
 Things like promoting the Blabber mailing list and the website
 prominently would be good.
 
-### Tim B {#tim_b}
+### Tim B
 
 His employer hosted a transparency camp last week where he met Tim
 O'Reilly and Craig Newmark. He invited both of them to come to HacDC
 when they're in DC next.
 
-## Old Business {#old_business}
+## Old Business
 
-### Basement Update {#basement_update}
+### Basement Update
 
 On Saturday there was a painting party. It took 3 buckets of Dry-Lok to
 finish the space. The next step is to pressure wash the floor, then etch
@@ -93,7 +93,7 @@ Elliot M seconded.
 
 There was no opposition, motion carried.
 
-### HacDC Door {#hacdc_door}
+### HacDC Door
 
 Tim is concerned that we have a large number of ex members how have
 valid keys to the space, and lots of valuable equipment in the space.
@@ -105,9 +105,9 @@ agrees with the lease of our space.
 
 Tim Ball suggested using an RFID reader that can read smart trip cards.
 
-## New Business {#new_business}
+## New Business
 
-### Election to fill vacant At-Large Seat on the Board of Directors {#election_to_fill_vacant_at_large_seat_on_the_board_of_directors}
+### Election to fill vacant At-Large Seat on the Board of Directors
 
 Martin R nominated himself as a candidate.
 
@@ -115,7 +115,7 @@ Tim B nominated himself as a candidate.
 
 A vote was held, and Marin R was the winner.
 
-### HacDC Insurance {#hacdc_insurance}
+### HacDC Insurance
 
 A brief discussion was held on liability insurance for HacDC and Board
 Indemnity Insurance. We currently have liability insurance, although we
@@ -160,7 +160,7 @@ The amendment to the motion carried.
 
 The motion carried.
 
-### Call List {#call_list}
+### Call List
 
 Member 43 expressed interest in posting a list of emergency numbers in
 the space.
@@ -182,7 +182,7 @@ The motion carried without objection.
 Elliot asked people to stay after the meeting if they had ideas for
 artomatic projects.
 
-### Robert's Rules of Order {#roberts_rules_of_order}
+### Robert's Rules of Order
 
 Ben moved to replace the text of the [MIBS Simplified Rules of
 Coordinated Consensus through

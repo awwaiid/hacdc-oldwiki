@@ -30,7 +30,7 @@ electrodes will be sealed in hot glue soon.
     two electrodes pickup the actual signal, and should be placed near
     the signal source.
 
-# Signal Sources {#signal_sources}
+# Signal Sources
 
 The pickup electrodes (either the green sponges and headband or dry pin
 header based electrodes) may be placed at a variety of locations to
@@ -50,7 +50,7 @@ obtain biosignals in realtime.
     across the parietal (top of the head) and frontal (forehead) lobes.
     This has yet to be experimentally verified.
 
-# Captured Data Samples {#captured_data_samples}
+# Captured Data Samples
 
 ## Heartbeat
 
@@ -58,7 +58,7 @@ Captured on a [DSO Nano](https://www.sparkfun.com/products/11702)
 oscilloscope from the analog (BNC) output.
 ![](BiosignalAmplifierHeartbeat.jpg "BiosignalAmplifierHeartbeat.jpg")
 
-## Alpha Rhythm {#alpha_rhythm}
+## Alpha Rhythm
 
 Alpha waves (EEG brainwaves) captured from occipital lobe with eyes
 closed. USB output was used directly. Notice the \~10Hz signal.
@@ -119,7 +119,7 @@ some things to be aware of:
 Total cost of replacement is \~\$300 and \~60 hours. Please don't break
 our BiosignalAmplifier!
 
-# Lending Policy {#lending_policy}
+# Lending Policy
 
 Qualified HacDC members are invited to borrow the BiosignalAmplifier,
 particularly for sleep research. Please update the status section when
@@ -156,7 +156,7 @@ See license.txt for Mirage335BiosignalAmp license conditions.
 
 ![](Gplv3-127x51.png "Gplv3-127x51.png")
 
-# Future Improvements {#future_improvements}
+# Future Improvements
 
 -   Host board enclosure wasn't quite the right size. Once that is
     reprinted, all components should be in nice strong 3D printed cases.

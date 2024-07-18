@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 01-10-2017
 :   Called to order at 2009 pm by Tom I.
@@ -13,7 +13,7 @@
 
 `   No.`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 `   OK (review and vote aye without quorum)`
 
@@ -21,19 +21,19 @@
 
 -   Ben
 
-## New Members {#new_members}
+## New Members
 
 -   Matt and Nick.
 
 `   Unanimous approval of Matt and Nick.`
 
-## Old Business {#old_business}
+## Old Business
 
 -   Bylaws amendments are pending. print. Sign.
 
-## New Business {#new_business}
+## New Business
 
-### February 11: Request for Participation at MLK (DCPL) tech event {#february_11_request_for_participation_at_mlk_dcpl_tech_event}
+### February 11: Request for Participation at MLK (DCPL) tech event
 
 -   **RSVP ASAP** February 11: D.C. Public Library asking for HacDC
     participation in a "Teen Techathon" for Black History Month. But
@@ -45,23 +45,23 @@
     Blimps, ham radios, or interesting microprocessor stuff would fit
     better.
 
-### Wacky Wiki / Wiki Hacky {#wacky_wiki_wiki_hacky}
+### Wacky Wiki / Wiki Hacky
 
 -   In attempting to get a list of registered wiki users, I noted
     "billions and billions" of randomly generated usernames
     (*ubuntourist*)
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Reminded our treasurer of some un-reimbursed expenses.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 No activity to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 We have a meeting tomorrow. We can give a more full report then.
 
@@ -74,13 +74,13 @@ but who have never been on the air get to have real on-air experience.
 We are setting up a satellite station at the Armed Forces Retirement
 Home, one of the highest points in DC.
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 Vacuum gauge is supposed.... to ship in January... supposed to
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 Nothing new to report. I purchased more DNA/RNA and E.Coli. The
 classroom fridge was found ajar some time ago,so all its DNA/RNA might
@@ -88,12 +88,12 @@ be suspect and better trashed anyway. Will meet to discuss CRISPR
 Thursday night. CRISPR event planning is a bit on the back-burner
 because of the cryptoparty I'm also doing.(enrique)
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 Video still not edited /not on YouTube. Seems after doing it people
 don't care about presenting it so much. :\\
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   We now have a NinjaFlex extruder head for the Lulzbot Mini. When and
     how to test it out, TBD. (*ubuntourist*)
@@ -110,19 +110,19 @@ don't care about presenting it so much. :\\
 
 `   Xavier reported on his ongoing linux class.  Hope for CTF in the future?`
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 `   PoHacDC regales us with tales of 31c3.`
 
 `   Also announces the Annual Meeting will be held J28th at 4pm.`
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 `   Ethan has resigned as a member.`
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 We finished 2017 with roughly \$8,000 in reserves (6-7 months) and
 \$4,500 in project earmarks (mostly OTR), so about \$12,500 in the bank.
@@ -148,7 +148,7 @@ year's donations exceeded the threshold where you need a solicitation
 license (\$1,500), so we should probably get one and check any other
 paperwork so HacDC can qualify for grants in the future.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Happy New Year. Hope we can have an excellent 2017.
 
@@ -166,7 +166,7 @@ OTR great again (and yes, Mexico's gonna pay for it!).
 
 Fear your neighbor. MAGA.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 

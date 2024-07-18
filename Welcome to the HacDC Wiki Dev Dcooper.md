@@ -17,13 +17,13 @@ at [hacdc.org](http://www.hacdc.org/). Our Wiki is mostly for internal
 organization, but you're welcome to look through to get a sense of what
 we work on (and consider joining yourself!).
 
-## HacDC's Live Status {#hacdcs_live_status}
+## HacDC's Live Status
 
 HacDC is `{{:Live Status}}`{=mediawiki}
 
 For full detail, visit the [Live Status](Live_Status) page.
 
-## Events and Event Planning {#events_and_event_planning}
+## Events and Event Planning
 
 -   [ Configuration](:Category:Space_Configuration)
 -   [ Event Planning](:Category:Event_Planning)
@@ -42,7 +42,7 @@ For full detail, visit the [Live Status](Live_Status) page.
 -   [ Meeting Agendas](:Category:Meeting_Agendas)
 -   [ Policy Manual](:Category:Policy)
 
-## Our Community {#our_community}
+## Our Community
 
 -   [ Member User Pages](:Category:Members)
 -   [ HacDC Collaborators](:Category:Collaborators)

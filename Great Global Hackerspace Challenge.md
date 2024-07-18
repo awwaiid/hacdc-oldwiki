@@ -33,7 +33,7 @@ wish you the very best of luck, and look forward with great anticipation
 to seeing your work as it develops. This is a challenge in which
 brilliant minds collaborate so that everybody wins. Onwards!
 
-## CHALLENGE GUIDELINES {#challenge_guidelines}
+## CHALLENGE GUIDELINES
 
 Outlined below is a step-by-step guide with all the information you will
 need to help make your hackerspace challenge as successful as possible.
@@ -45,7 +45,7 @@ If you have any questions along the way that aren't answered here,
 please email hackerspace@element14.com and we'll be sure to get back to
 you.
 
-## YOUR TOOL KIT {#your_tool_kit}
+## YOUR TOOL KIT
 
 element14 is providing you with a budget of \$900 US to complete your
 build. You will be contacted directly to establish exactly how you would
@@ -62,7 +62,7 @@ fully permitted to use any components or items that you might already
 have at your hackerspace within your build. We challenge you to be as
 creative as you like!
 
-## DOCUMENTING YOUR BUILD {#documenting_your_build}
+## DOCUMENTING YOUR BUILD
 
 Core to this challenge is to produce an electronics build that will
 ultimately help education, but you can also start to help people learn
@@ -96,7 +96,7 @@ be:
     -   This is the time to really showcase your build, why it works and
         what features make it stand out
 
-## HOW TO SHARE {#how_to_share}
+## HOW TO SHARE
 
 You will be required to contribute to your profile page within the
 element14 community. This is where you can upload your videos and photos
@@ -106,7 +106,7 @@ shines through. To do this, go to element14.com, click on �Join Now� if
 you are not already registered, using your Hackerspace name, and we will
 create your page for you.
 
-## BUILD CRITERIA {#build_criteria}
+## BUILD CRITERIA
 
 Our esteemed panel of judges will include luminaries from the worlds of
 technology and science, education and hackerspacing.
@@ -126,7 +126,7 @@ Criteria:
 -   How relevant is the project to helping education today
 -   How inventive and creative is the design and build of the project
 
-## THE MAKER FAIRE GRAND FINALE {#the_maker_faire_grand_finale}
+## THE MAKER FAIRE GRAND FINALE
 
 The Great Global Hackerspace Challenge will culminate in a live
 demonstration of each of the three semi-finalists in front of the panel
@@ -154,7 +154,7 @@ magic will receive a suitably rocking prize: a Tektronix MSO2024
 oscilloscope (worth around US\$5,600). Start clearing a space in the
 corner of your hackerspace now!
 
-## THE GREAT GLOBAL HACKERSPACE CHALLENGE PACT {#the_great_global_hackerspace_challenge_pact}
+## THE GREAT GLOBAL HACKERSPACE CHALLENGE PACT
 
 You won't find any legal language here. We promise. The purpose of this
 section is to let you know that if, for any reason you are unable to
@@ -178,7 +178,7 @@ requirements of the challenge. We will be in close communication
 throughout this project and, we can all work together to avoid any
 adverse situations.
 
-## CHALLENGE KEY DATES CALENDAR {#challenge_key_dates_calendar}
+## CHALLENGE KEY DATES CALENDAR
 
 -   Week of 3/21 : Official Challenge Briefing / Q+A
 -   3/25: Deadline to create your profile and submit your first blog

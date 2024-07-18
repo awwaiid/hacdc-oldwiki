@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 2005 pm by Julia
@@ -11,7 +11,7 @@
 
     :   Quorum met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -25,11 +25,11 @@
 -   Ethan M. donated a nice sheet metal bending and cutting tool, now in
     the basement.
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   HARC would like a separate bank account; it would be a HacDC account
     that the HARC treasurer would be an authorized user of. It would
@@ -57,13 +57,13 @@
     amendments from 3/4ths of all voting members to 3/4ths of votes
     cast.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   We got another \$32 from last year's CFC recently; the total is now
     \$260 or so for 2016.
@@ -87,7 +87,7 @@ Project balances at the end of JULY... need to update this... Supplies
 
 [Media:http://wiki.hacdc.org/index.php/File:HacDC_2016\_-\_Report-9\_(1).pdf](Media:http://wiki.hacdc.org/index.php/File:HacDC_2016_-_Report-9_(1).pdf)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I've been holding our PC repair instruction (destruction) meetup on
 Sundays now for a few Sundays running and plan on continuing it every
@@ -107,25 +107,25 @@ massively inconvenient and difficult to use. I would like to set up a
 more customized CRM setup so that we can more easily keep track of up to
 date member information.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 
 #### Matt
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR Initiative {#project_crispr_initiative}
+### Project CRISPR Initiative
 
 Our first attempt at adding antibiotic resistance failed. We tried this
 again with several troubleshooting control samples and although the
@@ -135,7 +135,7 @@ also expanding the equipment. We've contacted both the vendor and a
 local Maryland lab about obtaining more of the particular consumable
 ingredients.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Enrique: I'm starting to put together a monthly HacDC newsletter.
     It's hard for HacDC members (paying membeers) to keep up to date

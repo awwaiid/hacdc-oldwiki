@@ -1,9 +1,9 @@
 Note: This report was submitted late and reflects our position on the
 date of the report (Tuesday)
 
-# Financial Statements {#financial_statements}
+# Financial Statements
 
-## Statement of Financial Position {#statement_of_financial_position}
+## Statement of Financial Position
 
   -------------------------------- ------------------ ---------------- ------------
   **Assets**                       **Unrestricted**   **Restricted**   **Total**
@@ -24,7 +24,7 @@ date of the report (Tuesday)
                                                                        
   -------------------------------- ------------------ ---------------- ------------
 
-## Statement of Financial Position {#statement_of_financial_position_1}
+## Statement of Financial Position
 
   ---------------------------------------- ------------------ ---------------- ------------
                                            **Unrestricted**   **Restricted**   **Total**

@@ -1,4 +1,4 @@
-# how not to run lightning talks! {#how_not_to_run_lightning_talks}
+# how not to run lightning talks!
 
 by [user:obscurite](user:obscurite) 11/21/2010
 

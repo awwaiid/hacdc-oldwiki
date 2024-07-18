@@ -1,4 +1,4 @@
-## Press Release {#press_release}
+## Press Release
 
     FOR IMMEDIATE RELEASE:
 
@@ -123,7 +123,7 @@ construction by one of the original designers- the time represented by
 the video is about four hours. Given enough participants, we should be
 able to do something similar in our two days!
 
-## Project Plan {#project_plan}
+## Project Plan
 
 In order to get this project under way, it will be important to have a
 schedule that is workable, given that we have a month and a half or so
@@ -163,19 +163,19 @@ to take these action items and give them a due date.
 -   What are we calling the event? Are we committing to doing something
     like this annually? Quarterly?
 
-## Proposed (DRAFT) Resource List {#proposed_draft_resource_list}
+## Proposed (DRAFT) Resource List
 
 The draft Resource List is available as a Google Docs spreadsheet- you
 can see the current version here. [Current DRAFT Resource
 List](http://spreadsheets.google.com/ccc?key=prefa6V1AY22C9DOLEIA9cQ)
 
-## Proposed (DRAFT) Agenda {#proposed_draft_agenda}
+## Proposed (DRAFT) Agenda
 
 The draft agenda is available as a Google Docs spreadsheet- you can see
 the current version here. [Current DRAFT
 Agenda](http://spreadsheets.google.com/pub?key=piOmqdyV_dfMs7tN92xx-Ow)
 
-## Reference Material {#reference_material}
+## Reference Material
 
 1\) Bitsfrombytes.com
 
@@ -186,7 +186,7 @@ Agenda](http://spreadsheets.google.com/pub?key=piOmqdyV_dfMs7tN92xx-Ow)
 -   Sanguino Arduino code:
     <https://reprap.svn.sourceforge.net/svnroot/reprap/trunk/reprap/firmware/GCode_Interpreter/>
 
-## repRapAgenda 20090126 {#reprapagenda_20090126}
+## repRapAgenda 20090126
 
 Task list
 

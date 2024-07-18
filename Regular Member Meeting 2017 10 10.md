@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 8:11 pm by Julia
@@ -11,7 +11,7 @@
 
     :   Quorum met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 <http://wiki.hacdc.org/index.php/Regular_Member_Meeting_2017_09_12>
 
@@ -25,12 +25,12 @@ the windowsill. It has a VNC server, the login is hacdc/hacdc and you
 can do remote desktop presentations, etc. And removed the trunking VLAN
 switch and blah blah blah...
 
-## New Members {#new_members}
+## New Members
 
 Bobby voted in as honorary member by vote 6-0-1. Sanjay voted in as a
 Fee-Waived Voting member by voice vote.
 
-## Old Business {#old_business}
+## Old Business
 
 We need a new Treasurer. **There were no nominations for Treasurer.
 Julia took over as Acting Treasurer in addition to President.**
@@ -53,26 +53,26 @@ but are breaking-even month-to-month. - proposal TABLED.
 Enrique - We need a liability waiver for kids that specifies that
 parents are responsible for supervision. - no action.
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Enrique {#project_electron_microscope_sem___enrique}
+### Project Electron Microscope (SEM) - Enrique
 
 Nothing new to report; we need to inspect the electronics, particularly
 the high voltage (15kV) power supplies for debris that may have fallen
 into them and then turn the thing on and see what the pressure does.
 This is not scheduled.
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR - Enrique {#project_crispr___enrique}
+### Project CRISPR - Enrique
 
 I wrote the vendor of the DIY CRISPR Kit and they seem receptive to
 sending us free new reagents and ingredients but didn't offer any advice
@@ -81,7 +81,7 @@ we receive new, fresh ingredients so degradation in the fridge may not
 be an issue. This is not scheduled; we haven't asked for the new
 ingredients.
 
-### Project SpaceBlimp - Enrique {#project_spaceblimp___enrique}
+### Project SpaceBlimp - Enrique
 
 I purchased and received a new GPS-APRS tracker, a TrackSoar
 Ready-To-Fly. Setup seems easy but I haven't attempted it. Sam has his
@@ -92,19 +92,19 @@ taking back the (4' tall, heavy, cumbersome steel) cylinder until SB7 is
 closer to a launch date. I think we're also lacking payload ideas
 besides cameras.
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project Media Outreach - Matt
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project IT Infrastructure - Tom
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 This is my last report as Treasurer.
 
@@ -126,9 +126,9 @@ Project Awesome earmarks balances sheets are linked below.
 
 [Media:HacDC_2017-9_Projects.pdf](Media:HacDC_2017-9_Projects.pdf)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at Julia pm by 8:00
@@ -11,17 +11,17 @@
 
     :   Quorum met? No
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Dispense with the reading of the previous minutes.
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Enrique: The MOU proposed by HSTS. Sorry to add this last minute;
     busy couple of weeks. I'm skeptical because the proposal sounds less
@@ -47,15 +47,15 @@ Dispense with the reading of the previous minutes.
     -   Tom has created a Google Ad, but founds it limited to something
         like a 30-character blurb.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 microcontroller to speak to our vacuum sensor has been located, and a
 USB serial adaptor for talking to that microcontroller has also been
@@ -63,7 +63,7 @@ found.
 
 Julia and Andrew making slow progress on parts, etc.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
 James and Tom are still plugging away on the classroom laser. It now has
 safety switches.
@@ -79,7 +79,7 @@ new belts have not been installed yet.
     -   Flow sensor for air
     -   Flow sensor for water
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 April's been busy for me with work, so not much time for CRISPR. We met
 once or twice (Nancy, Enrique, Sophia, Bobby) to make fresh plates and
@@ -91,7 +91,7 @@ but Sigma won't ship to a church.
 -   No successes yet.
 -   Hope to establish a regular meeting schedule
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 There's been little interest in Spaceblimp 7 lately. I will ask once
 more.r me
@@ -100,7 +100,7 @@ more.r me
 -   Most of the equipment is currently available
 -   Another meeting proposed.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Not sure where to put these
 
@@ -124,9 +124,9 @@ Not sure where to put these
     government and business contacts. (Julia, Kevin and Tom provided
     feedback. See Free Geek.)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   We're bringing online two more 3d printers: A taz, and the old
     rostock. As the printers are getting a bit deep, We're going to
@@ -145,7 +145,7 @@ Not sure where to put these
     -   Need income for buying a space
     -   More events needed
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   We've got a 2d print server and some printers up and running. The
     hostname of the printserver is **classroom-printserver**.
@@ -180,7 +180,7 @@ Not sure where to put these
     -   Just get TP link (Andrew)
     -   Create it as an official project (Julia)
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Revenue was \$1,360 and our expenses would have been \$1,096 if we
     hadn't paid rent early. Since we did, our expenses were only \$101.
@@ -221,9 +221,9 @@ Not sure where to put these
 -   We effectively have no Secretary ; Ben has been away for several
     months now.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

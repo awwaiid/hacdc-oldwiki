@@ -18,7 +18,7 @@ from Blindside Networks.
 We will use chill.hakely.org as our domain name until another
 more-appropriate domain name is decided upon.
 
-## Software Installation {#software_installation}
+## Software Installation
 
 [Check Server
 Specs](http://docs.bigbluebutton.org/install/install.html#check-server-specs)

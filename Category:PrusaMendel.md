@@ -3,7 +3,7 @@ HacDC's Prusa Mendel 3D **OLDER** Printer.
 
 This is NOT the only Prusa Mendel machine currently in the space!
 
-# Current Machine Status {#current_machine_status}
+# Current Machine Status
 
 Operational most of the time, continues to require occasional
 maintenance. Serves as an excellent 'school' for teaching the basics of
@@ -12,7 +12,7 @@ details.
 
 # Operation
 
-## Firing Up {#firing_up}
+## Firing Up
 
 1.  **Emergency Stop**. Be ready to unplug USB cable when beginning
     X/Y/Z motion.
@@ -30,7 +30,7 @@ details.
     heated bed to 65C for bare glass. If you don't do this now, the
     printer will wait for the bed to heat up later.
 
-## File Preparation {#file_preparation}
+## File Preparation
 
 1.  Load an STL model onto the dedicated laptop for printing. If you
     haven't made one, download one from
@@ -112,14 +112,14 @@ details.
 1.  Please update the [PrusaMendel Operators
     Log](PrusaMendel_Operators_Log).
 
-# Routine Maintenance - ALWAYS CHECK {#routine_maintenance___always_check}
+# Routine Maintenance - ALWAYS CHECK
 
-## FIRE HAZARDS {#fire_hazards}
+## FIRE HAZARDS
 
 -   Power Supply. NEVER leave ATX power supply on after leaving HacDC,
     it gets hot.
 
-## Machine Damage {#machine_damage}
+## Machine Damage
 
 -   X/Y endstops. Manually push X/Y axes to test the switches. Make sure
     the extruder and bed are positioned not to bump anything when
@@ -131,7 +131,7 @@ details.
 -   Lose bolts. In particular, check the endstop bolts.
 -   Loose wires. Short circuits cause severe damage.
 
-## Bed Cleaning {#bed_cleaning}
+## Bed Cleaning
 
 -   Bare glass bed must be extremely clean. If bed is level to within
     0.25mm, and plastic is not sticking, it needs cleaning. Take glass
@@ -143,7 +143,7 @@ details.
     excessive protrusions. Scrape excess plastic off, and trim deep
     cuts.
 
-## Z-Axis {#z_axis}
+## Z-Axis
 
 -   First-layer depth. Extruder should just barely touch the surface,
     Slic3r will move the extruder the correct distance from that
@@ -163,7 +163,7 @@ details.
     involving a 3D printed and heat-polished leveling mat. See
     [PrusaMendel_Print_Surface](PrusaMendel_Print_Surface) .
 
-# Please Avoid {#please_avoid}
+# Please Avoid
 
 You are adding to the workload on a shared machine. Please be gentle.
 

@@ -9,7 +9,7 @@ There is a README in the link for useage of the VM.
 
 Highlights of the software installed on the Linux machine.
 
-## Rig Control {#rig_control}
+## Rig Control
 
 -   Hamlib - used by several programs to control radios.
 -   GRig - GUI to control radios via hamlib.
@@ -18,7 +18,7 @@ Highlights of the software installed on the Linux machine.
 
 ## Logging
 
-## Digital modes {#digital_modes}
+## Digital modes
 
 ## Contesting
 
@@ -30,6 +30,6 @@ Highlights of the software installed on the Linux machine.
 
 ### CW
 
-### FCC Exams {#fcc_exams}
+### FCC Exams
 
 [Category:HamDesk](Category:HamDesk)

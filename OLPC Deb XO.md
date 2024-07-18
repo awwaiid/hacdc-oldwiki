@@ -7,7 +7,7 @@ the USB/SD instructions from the
 [haxwithaxe's](User:haxwithaxe) image you **Must** expand the
 partition to at least 2GB.
 
-## After Install {#after_install}
+## After Install
 
 1\) Boot up the XO with the boot media inserted or if you flashed the
 nand then just boot up.

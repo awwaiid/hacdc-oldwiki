@@ -14,7 +14,7 @@ From the HacDC Bylaws, Article III, Section 2:
 This meeting will also serve as the monthly meeting for the month of
 February.
 
-# Time and Location {#time_and_location}
+# Time and Location
 
 Location: HacDC (software room)
 
@@ -30,20 +30,20 @@ Others Present: Justin
 
 [Quorum](Quorum) met? \_Yes\_
 
-# Officer Reports {#officer_reports}
+# Officer Reports
 
-## President's Report {#presidents_report}
+## President's Report
 
 Not present.
 
-## Vice President's Report {#vice_presidents_report}
+## Vice President's Report
 
 Has some ideas for events and stuff to be mentioned later.
 
 XLaser mentioned the would send us another package of laser stuff, but
 never did. (Sharks with freaking laser beams.)
 
-## Treasurer's Report {#treasurers_report}
+## Treasurer's Report
 
 Currently have 59 voting members so quorum is still 14 for now.
 
@@ -61,11 +61,11 @@ We finished January almost \$500 ahead and membership revenue is now \>=
 expenses! If this keeps up, HacDC will have some resources to put into
 projects again going forward.
 
-## Secretary's Report {#secretarys_report}
+## Secretary's Report
 
 Nothing special to report. Haven't been around for a couple months.
 
-## At-Large Directors' Reports {#at_large_directors_reports}
+## At-Large Directors' Reports
 
 ### Toast
 
@@ -75,7 +75,7 @@ Not present.
 
 Nothing to report.
 
-# Member Reports {#member_reports}
+# Member Reports
 
 ## Brad
 
@@ -97,7 +97,7 @@ with the printers at the space.
     shouldn't be on when no one is at the space from being on while no
     one is at the space.
 
-## Martin {#martin_1}
+## Martin
 
 -   noise reduction: status? items/actions/help required? (item added by
     haxwithaxe)
@@ -115,7 +115,7 @@ problem with the AP.
 
 Bill has donated an AP which might help with the Internets.
 
-## Tim S {#tim_s}
+## Tim S
 
 Sparkfun would like to borrow our space, and will reciprocate by doing
 something nice for us.
@@ -126,7 +126,7 @@ Lots of recent work on infrastructure:
 -   Website moved to Dreamhost
 -   Infrastructure work thanks to Jaime and Chris
 
-# New Business {#new_business}
+# New Business
 
 New America Foundation conference (on impact of Makers on technology)
 has invited us to come and show off our toys (3D printers). In favor of
@@ -136,7 +136,7 @@ Andy Walker's permission)? **Vote passes.**
 Alex, non-member, would like to teach a class about Java programming. On
 March 28th, at 7 or 8p. Gonna post something to Blabber. Sponsor: Brad
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 ### President
 
@@ -147,7 +147,7 @@ Ben withdraws.
 
 Brad wins unopposed.
 
-### Vice-President {#vice_president}
+### Vice-President
 
 -   Ben nominated Tim S. second Chris and Reuven
 
@@ -166,14 +166,14 @@ second by Martin.
 
 Voted by secret ballot: Eric won by a bunch.
 
-### At-Large Directors {#at_large_directors}
+### At-Large Directors
 
 haxwithaxe is running, seconded by Reuven. Marin, seconded by Brad Nick,
 seconded by Ben
 
 Nick and Martin elected by vote.
 
-### Induction of New Members {#induction_of_new_members}
+### Induction of New Members
 
 # Adjournment
 

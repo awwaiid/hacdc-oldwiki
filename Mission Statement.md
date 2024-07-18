@@ -3,7 +3,7 @@ Article](Articles_of_Incorporation#Third_Article_:_Purposes)
 of our [Articles of
 Incorporation](Articles_of_Incorporation).
 
-## In Brief {#in_brief}
+## In Brief
 
 In short, our mission is to *improve the world by creatively rethinking
 technology*.

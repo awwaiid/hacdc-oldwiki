@@ -1,4 +1,4 @@
-# Electronics Class {#electronics_class}
+# Electronics Class
 
 This class is targeted at the beginner who wants to learn electronics.
 It would make a fine prerequisite to the [Microcontroller
@@ -95,7 +95,7 @@ welds and hugs.
 
 -   <http://wiki.hacdc.org/images/4/47/Cadfab.jpg> Welding robots!
 
-## Required Materials {#required_materials}
+## Required Materials
 
 (see also: our [Suppliers page](Suppliers))\
 ----
@@ -286,7 +286,7 @@ electrically strong connection.
     -   Western Union Splice
     -   Pigtail Splice
 
-## Speakermaking lab {#speakermaking_lab}
+## Speakermaking lab
 
 materials:
 
@@ -397,7 +397,7 @@ map this mystery relay lab
 -   the diode check function of the meter can reveal the correct
     polarity of a mystery diode with a suspect cathode mark.
 
-## Light Emitting Diode {#light_emitting_diode}
+## Light Emitting Diode
 
 -   the short lead is the cathode
 -   LED's need current limiting (see
@@ -411,7 +411,7 @@ map this mystery relay lab
 
 ## Motor
 
-## Printed Circuits {#printed_circuits}
+## Printed Circuits
 
 ## Capacitor
 
@@ -445,7 +445,7 @@ $\operator {work} (V) =
 `Notes in PDF are here:`\
 [`Media:transistorLecture.pdf`](Media:transistorLecture.pdf)
 
-### little amplifierlab {#little_amplifierlab}
+### little amplifierlab
 
 -   class A amp
 -   DC blocking caps
@@ -453,13 +453,13 @@ $\operator {work} (V) =
 -   fixed gain
 -   inverted waveform
 
-### construction intro {#construction_intro}
+### construction intro
 
 -   breadboard intro
 -   soldering intro
 -   led circuit
 
-## Digital Logic {#digital_logic}
+## Digital Logic
 
 -   AND C = A & B
 -   OR C = A \| B
@@ -472,7 +472,7 @@ $\operator {work} (V) =
 
 `LM386 Audio Amplifier `[`3`](http://www.national.com/mpf/LM/LM386.html)
 
-# Links and class notes {#links_and_class_notes}
+# Links and class notes
 
 -   7-28
     -   [How bipolar junction transistors actually

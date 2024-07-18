@@ -1,4 +1,4 @@
-## DIY Christmas {#diy_christmas}
+## DIY Christmas
 
 ### Software
 
@@ -20,7 +20,7 @@ Software Demo <http://www.youtube.com/watch?v=aOwrz-P5Bf0> Show Example
 
 ## DMX
 
-### What is DMX? {#what_is_dmx}
+### What is DMX?
 
 <http://www.youtube.com/watch?v=fPAmB3SzJEo>
 
@@ -29,7 +29,7 @@ Software Demo <http://www.youtube.com/watch?v=aOwrz-P5Bf0> Show Example
 <http://playground.arduino.cc/Learning/DMX>
 <http://playground.arduino.cc/DMX/Ardmx>
 
-### Software {#software_1}
+### Software
 
 #### BirdFish
 
@@ -49,7 +49,7 @@ Demo Show <https://www.youtube.com/watch?v=lEKbVin93_o> Free Trial
 <http://www.pablogindel.com/2012/03/artnet-light-controller/>
 <http://www.lumikit.com.br/software-dmx-lumikit-show-windows%26lang%3Den>
 
-##### Arduino {#arduino_1}
+##### Arduino
 
 <http://vvvv.org/contribution/artnet-arduino-set-v2>
 
@@ -57,7 +57,7 @@ Demo Show <https://www.youtube.com/watch?v=lEKbVin93_o> Free Trial
 
 <http://www.deskontrol.net/en/>
 
-## Raspberry Pi {#raspberry_pi}
+## Raspberry Pi
 
 ### PixelPi
 

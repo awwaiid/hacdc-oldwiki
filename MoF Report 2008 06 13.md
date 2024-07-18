@@ -1,8 +1,8 @@
 Random factoid: People aren't cashing our checks!
 
-# Financial Statements {#financial_statements}
+# Financial Statements
 
-## Statement of Financial Position {#statement_of_financial_position}
+## Statement of Financial Position
 
   -------------------------------- ------------------ ---------------- ------------
   **Assets**                       **Unrestricted**   **Restricted**   **Total**
@@ -23,7 +23,7 @@ Random factoid: People aren't cashing our checks!
                                                                        
   -------------------------------- ------------------ ---------------- ------------
 
-## Statement of Financial Position {#statement_of_financial_position_1}
+## Statement of Financial Position
 
   ---------------------------------------- ------------------ ---------------- ------------
                                            **Unrestricted**   **Restricted**   **Total**

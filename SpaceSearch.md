@@ -12,7 +12,7 @@ viewings, or space listings that seem interesting and should be viewed.
 NOTE: For properties, please add google map link, address, rent info,
 photos, and contact info if available.
 
-## Requirements for new space {#requirements_for_new_space}
+## Requirements for new space
 
 -   Budget: \$1000 - \$1500
 -   Size: 1500+ sq ft
@@ -36,9 +36,9 @@ photos, and contact info if available.
 -   Roof access (antenna) would be a plus
 -   No more than 3-4 blocks from metro stop and parking would be ideal.
 
-## Spaces That Were Viewed {#spaces_that_were_viewed}
+## Spaces That Were Viewed
 
-## Spaces Worth Viewing {#spaces_worth_viewing}
+## Spaces Worth Viewing
 
 Obscurite contacted the folks that put up this craigslist ad for 1500 sq
 ft on the second floor:

@@ -3,7 +3,7 @@ near DC. (This is a start at trying to form a mesh between the region's
 groups.) `{{TOCright}}`{=mediawiki} This is a simple dump at the moment,
 please feel free to correct or add information.
 
-## Valid as of Spring 2014 {#valid_as_of_spring_2014}
+## Valid as of Spring 2014
 
 [Baltimore Foundery](http://bmorefoundery.com/)
 :   207 S Central Ave, Baltimore, MD 21202
@@ -160,11 +160,11 @@ Maker Tech Tuesdays, Hyattsville, 4.5 miles south of U. of MD
 :   [mailto:info+blog@unallocatedspace.org](mailto:info+blog@unallocatedspace.org)
 :   calendar: <http://www.unallocatedspace.org/uas/calendar/>
 
-## Dead as of Spring 2014 {#dead_as_of_spring_2014}
+## Dead as of Spring 2014
 
-## Unknown - to be researched {#unknown___to_be_researched}
+## Unknown - to be researched
 
-### District of Columbia {#district_of_columbia}
+### District of Columbia
 
 (including groups that encompass the wider metropolitan area)
 
@@ -252,7 +252,7 @@ Maker Tech Tuesdays, Hyattsville, 4.5 miles south of U. of MD
     -   [Manassas Java Users Group](https://manassasjug.dev.java.net/) -
         no activity at all??
 
-### Other Lists {#other_lists}
+### Other Lists
 
 -   [DC and Northern Virginia Technology Networking Groups](http://www.ddmcd.com/groups-events/)
 -   [DC Tech Events Weekly groups index](http://dctechevents.com/groups/)

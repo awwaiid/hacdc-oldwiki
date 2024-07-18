@@ -1,6 +1,6 @@
 # Lasers
 
-## Highly Safe (1mW) {#highly_safe_1mw}
+## Highly Safe (1mW)
 
 Under some unusual conditions (eg. microscope viewing), extremely low
 optical power is appropriate to minimize risk.
@@ -8,7 +8,7 @@ optical power is appropriate to minimize risk.
 -   Red \$20/10 -
     <http://www.ebay.com/itm/10pcs-1mW-650nm-3VDC-Focusable-Red-Laser-Diode-Dot-Module-/130967366177?pt=LH_DefaultDomain_0&hash=item1e7e436a21>
 
-## Safe (5mW) {#safe_5mw}
+## Safe (5mW)
 
 Low power lasers (\<5mW) are eye-safe, useful for manual alignment, HUD
 prototypes, etc.
@@ -18,7 +18,7 @@ prototypes, etc.
 -   Green - \$10
     <http://www.ebay.com/itm/INDUSTRIAL-LAB-3VDC-532nm-Green-Laser-5mW-Diode-Module-/251194595549?pt=LH_DefaultDomain_0&hash=item3a7c5d58dd>
 
-## Moderate (\~200mW) {#moderate_200mw}
+## Moderate (\~200mW)
 
 Medium power lasers emit a beam powerful enough to cause severe
 permanent retinal damage if directly viewed. However, at substantially
@@ -68,7 +68,7 @@ displays.
 \$20/5 -
 <http://www.ebay.com/itm/5-Fresnel-Lenses-Magnifier-Reading-Aid-Solar-Oven-DIY-Projection-TV-Projects-/221471243707?pt=LH_DefaultDomain_0&hash=item3390b6fdbb>
 
-### Large Diameter Short Focal-Length {#large_diameter_short_focal_length}
+### Large Diameter Short Focal-Length
 
 HacDC has a variety of large diameter short-focal length lenses,
 typically used in projection. Additionally, the following can be
@@ -76,7 +76,7 @@ obtained for unusual situations.
 
 \$40 - <http://www.optolife.com/diy_projector_lens/ASSY013.html>
 
-### Condenser Lenses {#condenser_lenses}
+### Condenser Lenses
 
 Aspheric lenses can provide faster collimation with better performance
 across a white-light spectrum. For microscopes and projectors, this can
@@ -95,7 +95,7 @@ aggressive performance and ideal convergence.
 Various lenses have been collected from scrap CD/DVD players, disposable
 cameras, scrap projectors and other sources.
 
-## Table Ready {#table_ready}
+## Table Ready
 
 Lenses with focal lengths that factor to the optical table tap spacing
 are efficient for prototyping optical beampaths.

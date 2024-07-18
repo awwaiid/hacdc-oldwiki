@@ -8,13 +8,13 @@ mailing](https://groups.google.com/a/hacdc.org/group/wiki/topics) list
 instead! So, er, I guess this could still be useful sometime, but just
 default to the mailing list instead.
 
-## Example section {#example_section}
+## Example section
 
 I'm talking about a particular topic here! Look at me go! Remember to
 sign your posts by ending them with four tildes: "\~\~\~\~"
 [NickS](User:NickS) 17:37, 28 March 2012 (PDT)
 
-## Dealing with old pages {#dealing_with_old_pages}
+## Dealing with old pages
 
 So from what I understand, we're going to go around labeling pages that
 are outdated with category tags ([category
@@ -26,7 +26,7 @@ And then we'll update the former and blank the latter?
 
 [NickS](User:NickS) 19:57, 28 March 2012 (PDT)
 
-## Getting user IP addresses {#getting_user_ip_addresses}
+## Getting user IP addresses
 
 Another idea: do we have the
 [CheckUser](https://www.mediawiki.org/wiki/Extension:CheckUser)
@@ -47,7 +47,7 @@ name.
 
 [NickS](User:NickS) 09:29, 29 March 2012 (PDT)
 
-## Member Meeting notes linking {#member_meeting_notes_linking}
+## Member Meeting notes linking
 
 More of a note to myself; I'll bring it up on the mailing list later:
 

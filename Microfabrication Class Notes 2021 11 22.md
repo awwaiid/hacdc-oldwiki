@@ -8,13 +8,13 @@ you ask nicely) Ethan - instructor Oby - elec eng
 
 Discussion on varying approaches and implementations
 
-### Approach to project implementation {#approach_to_project_implementation}
+### Approach to project implementation
 
 1.  Collaborative - work as a group on the same project (something new,
     something done before)
 2.  Independent - everyone work independently on their projects
 
-### Approach to tech implementation {#approach_to_tech_implementation}
+### Approach to tech implementation
 
 1.  Use an SEM
     1.  Option 1 - get enough of the SEM fixed to operate manually
@@ -43,7 +43,7 @@ Discussion on varying approaches and implementations
     7.  Option 7 - "create a DIY sputtering" system and publish results
         to community (Ethan)
 
-##### More on Outsource approach: {#more_on_outsource_approach}
+##### More on Outsource approach:
 
 tech is moving so fast that the Fab Shops of yesterday doing "1000
 nanoML" are obsolete for commercial business/work doing "50 nanoML" and

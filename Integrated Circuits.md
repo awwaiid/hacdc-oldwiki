@@ -1,4 +1,4 @@
-## Integrated Circuits {#integrated_circuits}
+## Integrated Circuits
 
 Paul Charles Leddy donated these June 29,2010
 

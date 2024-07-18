@@ -1,4 +1,4 @@
-## ISE Installation Instructions {#ise_installation_instructions}
+## ISE Installation Instructions
 
 1.  Make sure you have a xilinx.com account
 2.  Go to Xilinx.com, navigate to their ISE Webpack download page. Links
@@ -72,7 +72,7 @@
 
 \
 
-## Running the tools {#running_the_tools}
+## Running the tools
 
 1.  Open up a terminal and type the following commands
     1.   cd /opt/Xilinx/10.1/ISE 
@@ -85,7 +85,7 @@
         through the in-depth tutorial linked to on the
         [mainpage](FPGA_Workshop#Xilinx_Links).
 
-## 64 bit install {#bit_install}
+## 64 bit install
 
 The Xilinx ISE Webpack install file complains about not supporting your
 64-bit computer when you run the toplevel "setup" script, so run the
@@ -113,7 +113,7 @@ use the 32-bit USB library:
 (And don't forget to "exit" when you're done to prevent
 infinitely-deeply nested linux32 bash shells.)
 
-## Alternative to Digilent Adept Suite {#alternative_to_digilent_adept_suite}
+## Alternative to Digilent Adept Suite
 
 Some basics:
 
@@ -143,7 +143,7 @@ non-free software is the Xilinx ISE Webpack..
 Just hit the reset button, and the board is ready to get another bitfile
 load, run nexys2prog and reconfigure the hardware on the fly.
 
-## Programming the board with the USB cable in Linux {#programming_the_board_with_the_usb_cable_in_linux}
+## Programming the board with the USB cable in Linux
 
 The Xilinx USB drivers for Linux don't work straight out of the box. The
 Spartan 3E board ships with a flexible firmware usb driver onboard,

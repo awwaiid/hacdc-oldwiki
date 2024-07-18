@@ -8,7 +8,7 @@ organization. This team may provide suggestions but project teams are
 expected to self-organize and decisions will be made by the Spaceblimp
 group at large.
 
-# Team Members {#team_members}
+# Team Members
 
 -   [Ethan Waldo](User:Ewaldo)
 -   Nancy Wolfson

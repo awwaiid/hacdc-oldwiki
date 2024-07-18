@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-04-12 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 April 12, 2011
 
@@ -14,18 +14,18 @@ Others Present: Shahar, Elizabeth
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 03
 08](Regular_Member_Meeting_2011_03_08)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Absent.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Spaceblimp4, GGHC, Open House, AVR Class, The Elements of Computing
 Systems, Bike Shop, Red Bull
@@ -56,7 +56,7 @@ We've been double-booked and that's good!
 
 Money is a real serious long discussion.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
     Membership:
 
@@ -101,13 +101,13 @@ Money is a real serious long discussion.
 We have 41 paying members. Had a few one-time donations including \$900
 for GGHC.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 TECS, Byzantium
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### Will G {#will_g}
+#### Will G
 
 Open House
 
@@ -123,7 +123,7 @@ Notes on wall.
 Important for community and social communication. We server an important
 need for a lot of people.
 
-#### Brad B {#brad_b}
+#### Brad B
 
 Yuri's Night GGHC
 
@@ -134,7 +134,7 @@ clickers. Need help with hardware, software, and documentation.
 
 Yo-Yoing is great! People are addicted now.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 # Martin
 
@@ -163,9 +163,9 @@ Spent last four months playing with lasers. Started recording on ZapIt
 paper. Upcoming Physic Cookout. (Three cookouts since last injury.) Open
 to members and friends of members. No observers, only participants.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Possible Benefit at Haydee's
     -   Dates: April 26th, 27th, or 28th (Tues, Wed, Thurs)
@@ -185,7 +185,7 @@ Nice family restaurant, serves alcohol.
 
 Vote on date: Thrusday, April 28 Wins by overwhelming majority.
 
-### New Members {#new_members}
+### New Members
 
 Shahar - First time here. Systems Administrator. Sick of computers.
 Builds destructive things (flamethrowers, thermite, biodisel).
@@ -195,7 +195,7 @@ Elizabeth - Multimedia Developer. Background in fine arts. Studied sound
 and interactive stuff. Wants to meet people and work on collaborative
 projects. Nominated: Brad Second: Toast Vote carries.
 
-### Space Discussion {#space_discussion}
+### Space Discussion
 
 What are we going to do?
 
@@ -203,12 +203,12 @@ We are in a financial bind.
 
 ## Options
 
-# Talk down the church {#talk_down_the_church}
+# Talk down the church
 
 We do a lot of services for them. Negotiate a lower rent. Elliot will
 talk to Brian soon.
 
-# Beg the members for more money {#beg_the_members_for_more_money}
+# Beg the members for more money
 
 Everyone on the board has doubled-down. Asking members to donate more
 money. Signup as a member twice or donate via Friends of HacDC. Our rent
@@ -219,12 +219,12 @@ Our deficit is about \$15/person per month. Personal outreach to members
 and past members. Keep the space open from 5-10 every night so that
 non-members can come visit.
 
-# Moving/New Space {#movingnew_space}
+# Moving/New Space
 
 Need to find a new cheaper space. Moving is expensive. Deadline is
 approaching. If you're interested in helping, send findings to Toast.
 
-# Phyllis & Fab Lab {#phyllis_fab_lab}
+# Phyllis & Fab Lab
 
 Won't get their space cleaned out in time to be useful for us. 1000
 sqft., not much bigger than we have now. They might want to share it
@@ -233,11 +233,11 @@ inspected first. Has a ton of cool tools already. Wants to make a
 not-for-profit (but fairly expensive) Fab Lab for DC. Stays on the
 radar, but not in our immediate future.
 
-# Mothball the space {#mothball_the_space}
+# Mothball the space
 
 Move everything into storage until we can find a new space.
 
-# Peter out and die {#peter_out_and_die}
+# Peter out and die
 
 Nobody wants to do this.
 

@@ -8,7 +8,7 @@
 
 <http://pfautsch.com/?p=624> <http://www.cncfusion.com/7xMiniLathe.html>
 
-## Tom Cohlmia's comments {#tom_cohlmias_comments}
+## Tom Cohlmia's comments
 
 "Here's a good list of turning operations: [Turning
 Operations](http://en.wikipedia.org/wiki/Turning#Turning_operations)

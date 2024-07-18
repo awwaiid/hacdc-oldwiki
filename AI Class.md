@@ -1,6 +1,6 @@
-## Artificial Intelligence {#artificial_intelligence}
+## Artificial Intelligence
 
-### Status: No Longer Taught {#status_no_longer_taught}
+### Status: No Longer Taught
 
 WHERE: HacDC 1525 Newton ST NW Washington D.C. 20010
 

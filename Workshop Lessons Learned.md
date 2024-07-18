@@ -24,7 +24,7 @@ These tips apply to any workshop held at HacDC or a similar hackerspace.
         a little while after the workshop started. -
         [Katie](User:Katie) 02:20, 28 September 2009 (UTC)
 
-## LED Cuff-specific Lessons Learned {#led_cuff_specific_lessons_learned}
+## LED Cuff-specific Lessons Learned
 
 These tips apply specifically to the LED Cuff workshop.
 

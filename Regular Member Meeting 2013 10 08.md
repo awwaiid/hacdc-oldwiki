@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   October 8, 2013
 :   Called to order at 2008 by Katie.
@@ -20,7 +20,7 @@ Zac, Brian, Doug, Justin, Blake
 Problems in getting Google hangout working on in-house desktop. Got
 logged in, but no love. "video call isn't available right now.."
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 09
 10](Regular_Member_Meeting_2013_09_10)
@@ -35,24 +35,24 @@ was fantastic.
 
 Dan, for continuing to do great laser stuff.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Absent.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Absent, nothing to report from irc.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for September 2013:
 ![](HacDC_Financials_2013_09.pdf "HacDC_Financials_2013_09.pdf"). We
 gained two new members in September: Alex, who was voted in at
 September's meeting, and Brendan, who was voted in in August.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for September:
 ![](HacDC_PA_Projects-2013_09.pdf "HacDC_PA_Projects-2013_09.pdf"). I'm
@@ -60,13 +60,13 @@ declaring a \$500 Project Awesome dividend, with the remaining \$129.54
 of the month's surplus going to our reserves. There are currently 17
 Project Awesome votes.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Nada.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) {#shawn_nock}
+#### [Shawn Nock](User:Nocko)
 
 Absent.
 
@@ -74,9 +74,9 @@ Absent.
 
 Absent.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan: project going wonderfully. Went to NYC for makerfair, talked to
 everyone w/a laser asked about cleaning. They said they had to clean it
@@ -86,24 +86,24 @@ surfaces and larger objects below the unit. Working on new exhaust fan
 and a carbon filter for reducing toxicity of exhaust. David W. is
 helping (funding?) with cabinet.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 No report.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 No report.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-#### Financial Outlook {#financial_outlook}
+#### Financial Outlook
 
 Healthy to say the least. At nearly \$1k and rising, budget is
 sufficient to cover most major equipment failures at HacDC. After
 SUPPLIES budget hits \$1k, further allocation to it should probably be
 reduced to a trickle.
 
-#### Future Plans {#future_plans}
+#### Future Plans
 
 -   Spare hot-end for Prusa Mendel.
 -   Better glass bed for Prusa Mendel with predrilled holes.
@@ -111,11 +111,11 @@ reduced to a trickle.
 -   Possibly new PCB fab supplies, like CNC milling bits.
 -   Possible expansion of parts store, after some clean up at HacDC.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 No report.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Dan
 
@@ -149,7 +149,7 @@ Nov 16 at 1600 Crypto party!
 Despite having been away from HacDC for a bit, I've been rather busy on
 things relevant to it. Pardon the long winded report...
 
-#### Occupancy Sensor {#occupancy_sensor}
+#### Occupancy Sensor
 
 Easily returned to fully operational status, an even more reliable
 solution is imminent.
@@ -188,7 +188,7 @@ This shall not happen to us.
 Important lessons have been learned negotiating the NDA that probably
 should be applied to similar arrangements in the future.
 
-###### Expected Benefits {#expected_benefits}
+###### Expected Benefits
 
 A few hundred dollars, probably soon. Royalty payments, probably much
 more significant.
@@ -197,7 +197,7 @@ more significant.
 
 The project is complex, and we are making excellent progress.
 
-##### Biosignal Amplifier {#biosignal_amplifier}
+##### Biosignal Amplifier
 
 Revised design for 24-bit USB ADC board. This will soon be merged with
 the host board, tidying up the biosignal amplifier, and giving it a USB
@@ -243,7 +243,7 @@ belts).
 
 ![](FlexReplicator-Render.png "FlexReplicator-Render.png"){width="400"}
 
-##### Project EXPANSION {#project_expansion}
+##### Project EXPANSION
 
 We might want to fund new purchases (eg. metal working tools) or
 projects (eg. better laser cutter) to expand HacDC capabilites. Plan to
@@ -252,7 +252,7 @@ propose a project awesome EXPANSION fund for this purpose.
 Would like to see this operate democratically, with proposed
 purchases/projects and votes on the project's wiki page.
 
-##### myDAQ and myDSP {#mydaq_and_mydsp}
+##### myDAQ and myDSP
 
 AFAIK, Ahmed Aden obtained a [myDAQ](http://www.ni.com/mydaq/) and
 [myDSP](http://sine.ni.com/nips/cds/view/p/lang/en/nid/211871) for us
@@ -268,21 +268,21 @@ Unless they were in fact purchased with Eric Miller's own money for his
 own use (and he has repeatedly not answered this question), it seems
 time for them to return to HacDC.
 
-##### PCB Fab Efforts {#pcb_fab_efforts}
+##### PCB Fab Efforts
 
 Have been trying to fabricate professional quality circuit boards, with
 6mils or less isolation widths, and no excess copper. So far, almost
 acceptable results have been achieved using the laser cutter with
 fingernail polish resist and chemical etchant. More still to be done.
 
-##### ToDo Tracker {#todo_tracker}
+##### ToDo Tracker
 
 An experimental project/task management application using web2project
 has been created for HacDC members and guests. Please see [HacDC
 Projects](http://mirage335.dyndns.org/hacdcprojects/), and add anything
 that might benefit HacDC.
 
-##### HacDC Shelves {#hacdc_shelves}
+##### HacDC Shelves
 
 Recommend we allocate \$600 for two of these shelving units, one in each
 room. Also recommend someone besides myself build them (eg. haxwithaxe),
@@ -325,15 +325,15 @@ distribute, get in touch with me. More later. Oh, the emphasis will be
 on 3D printing for museums so if anyone is interested, register at the
 site. It's FREE but seats are limited.
 
-## Old Business {#old_business}
+## Old Business
 
 Nada.
 
-## New Business {#new_business}
+## New Business
 
 Nada.
 
-## New Members {#new_members}
+## New Members
 
 -   Blake - been coming for months, esp. on Mondays for
     MicroControllers, loves it.

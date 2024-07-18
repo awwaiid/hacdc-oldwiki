@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: Tue 09 Aug 2022
 :   Called to order at 7:42 pm by Michelle
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12)
 
 ## Recognition
 
@@ -19,9 +19,9 @@
 -   Michelle, for coordinating / communicating with Security Summit
     folks to smooth over details
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Tayeb has dropped off a parking pass with Gabe
 -   Michelle has not heard back regarding her inquiries into mesh
@@ -42,7 +42,7 @@
 -   Michelle believes she's fixed the problem with the PayPal logo on
     the main site
 
-## New Business {#new_business}
+## New Business
 
 -   New lease: a 2.5% increase of \$22.50 / month resulting in a new
     rent of \$922.50 (\$990.00 next month as "makeup payments")
@@ -75,29 +75,29 @@
     21224](https://www.openstreetmap.org/way/336204256) **Carpooling
     available!**
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   The summary is a bit different this month due to new expenses (see
     last month): a variety of filaments (diameters, colors), silica gel
@@ -109,7 +109,7 @@
     re-extruding, turning old filament into new.
 -   Summaries are archived on the treasurer's Google Drive space.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Getting into the space to work on OctoPrint etc, hasn't happened
     yet.
@@ -127,7 +127,7 @@
     -   [Pi-Hole](https://pi-hole.net/) DNS server? ("**pihole -g**" and
         "**pihole -up**" to keep it up to date.)
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Gabe
 

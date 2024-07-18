@@ -1,7 +1,7 @@
 ***See [AVR Microcontroller Class](AVR_Microcontroller_Class)
 for course content.***
 
-## Five-Part Microcontroller Course {#five_part_microcontroller_course}
+## Five-Part Microcontroller Course
 
 What: A five-part microcontroller course, taking you from zero to hero
 in just 30 days!
@@ -47,7 +47,7 @@ get cool projects working for each.
     failure. Maybe I can think up something sexy to use these methods.
     Maybe not.
 
-### The Kit {#the_kit}
+### The Kit
 
 The class will be based around the ATMega 48 (\$4 in bulk). The basics
 of a programming kit for the AVR chips include: a computer (bring a

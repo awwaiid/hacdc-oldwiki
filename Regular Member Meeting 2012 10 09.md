@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 October 9, 2012
 
@@ -10,23 +10,23 @@ Others Present: Robert
 
 [Quorum](Quorum) met? NOOOOO
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 09
 11](Regular_Member_Meeting_2012_09_11) - No quorum, need to
 do next month.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
-
-absent
-
-### Vice President's Report {#vice_presidents_report}
+### President's Report
 
 absent
 
-### Treasurer's Report {#treasurers_report}
+### Vice President's Report
+
+absent
+
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for Sept 2012:
 ![](HacDC_Financials_2012_09.pdf "HacDC_Financials_2012_09.pdf") We lost
@@ -52,7 +52,7 @@ before). Don't be shy, ask for donations at events, especially if there
 are lots of non-members there. (Haven't deposited yet so not in
 spreadsheet anywhere.)
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Only one project has been proposed - Project LASER - so it got 100% of
 the votes for September. However, our net income (earmarked expenses
@@ -73,7 +73,7 @@ time to check it out - for now still send votes to awesome@hacdc.org.
 
 Car trouble
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -86,9 +86,9 @@ regular Raspberry Pi event? 3D Printing of cases?
 
 absent
 
-## Project Awesome Reports {#project_awesome_reports}
+## Project Awesome Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Have created the [PA_LaserCutter](PA_LaserCutter) project
 page. Looks like Full Spectrum Laser has their new hobby laser product
@@ -97,9 +97,9 @@ in production:
 model I would shoot for at this point but other suggestions are welcome.
 --TimS
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Tim S {#tim_s}
+### Tim S
 
 Meeting with United Cerebral Palsy (UCP). They see a lot of overlap
 between their goals and hackerspaces. Did some brainstorming on ways
@@ -107,22 +107,22 @@ they can reach out to hackers and possibly develop joint projects. They
 would like to have a hackerspace with a focus on accessibility (unlike
 HacDC unfortunately).
 
-### Todd F {#todd_f}
+### Todd F
 
 Interest from DC public library via Kevin Cole on teaching electronics
 to the blind - they have funds for equipment if someone can teach it.
 
-### Tim R {#tim_r}
+### Tim R
 
 DC Drones group has 50 members - all levels of folks.
 <http://www.meetup.com/dc-area-drone-user-group> Has a fly-in coming up
 at a park in Virginia (Willowmere Park, Stafford VA Sun Oct 14 2pm)
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 Robert King - Bio to Info Science, open source fan (Arch Linux). ToddF
 nominated, Lee seconded. Approved by unanimous vote.

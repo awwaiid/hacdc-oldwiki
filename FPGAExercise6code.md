@@ -1,4 +1,4 @@
-## Shift Register {#shift_register}
+## Shift Register
 
     //filename sr.v
     `include "timescale.v"
@@ -26,7 +26,7 @@
                 Q_regs <= #TP {Q_regs[Ndepth-2:0],D};
     endmodule
 
-## Shift Register Testbench {#shift_register_testbench}
+## Shift Register Testbench
 
      
     //
@@ -136,7 +136,7 @@
         
     endmodule
 
-## Linear Feedback Shift Register {#linear_feedback_shift_register}
+## Linear Feedback Shift Register
 
     module lfsr(Q, Q_regs, clk, rst);
         // x^5+x^3+1
@@ -154,7 +154,7 @@
                 Q_regs<= #Tp {Q_regs[3], Q_regs[2], Q_regs[1], Q_regs[0], Q_regs[4]^Q_regs[2]};
     endmodule
 
-## LFSR Testbench {#lfsr_testbench}
+## LFSR Testbench
 
     //
     //  Exercise 6

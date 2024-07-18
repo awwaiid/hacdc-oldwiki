@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: Tuesday 8 February 2022
 :   Called to order: at 7:35 pm by Tayeb
@@ -14,15 +14,15 @@
 
 -   =board member
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
 Michelle - for the new website Kevin - for the wiki
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 1.  Board Member Elections \* - on Mar 8 during regular Monthly Members
     Meeting; decided during Board member meeting we had on Dec 21
@@ -104,7 +104,7 @@ Michelle - for the new website Kevin - for the wiki
     PairsMathGame.com - Phil interested in helping share his invention
     during the Rockville event
 
-## New Business {#new_business}
+## New Business
 
 1.  Wiki-Website Re-Design - the Unified Data Team launched new Wiki and
     new Website for purpose of unifying two platforms, minimizing
@@ -122,39 +122,39 @@ Michelle - for the new website Kevin - for the wiki
     (providing & fixing computers and possibly building furniture out of
     scrap wood"
 
-## New Business {#new_business_1}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
-#### ??? {#section_1}
+#### ???
 
 ## Adjournment
 

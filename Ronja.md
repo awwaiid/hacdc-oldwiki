@@ -1,11 +1,11 @@
 [Ronja Home Page](http://ronja.twibright.com/)
 
-# Things We Like {#things_we_like}
+# Things We Like
 
 -   long distance
 -   high bandwidth
 
-# Why We Can't Use It {#why_we_cant_use_it}
+# Why We Can't Use It
 
 T_T
 

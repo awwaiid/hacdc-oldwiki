@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-06-8 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 June 8, 2010 Meeting called to order at \_7:36\_\_ by \_\_Daniel
 Packer\_\_
@@ -11,39 +11,39 @@ B, Alan M, Alberto, Tim Ball, Martin, Dan B
 
 Others: Erica Kane, Sean Nock, Steven Hamrick, Tim S
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 05
 11](Regular_Member_Meeting_2010_05_11)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Changes in space planning process
 
 -   Include more folks by slowing down process
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Net \~ \$700 income, not all pledges payed
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   Meeting tomorrow at bank, Dan P to join to attempt cancellation of
     POS
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Membership report
     -   Todd and Dan B to audit membership status for every member
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 -   Will in India on voluntourism trip
 -   Katie at work, tending to a spacecraft
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Daniel
 
@@ -69,9 +69,9 @@ Brad B. Meetup.com suggestion and pricing.
 
 Eric Inventory software report.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Proposed designs for meeting room (vote?)
 
@@ -98,7 +98,7 @@ Eric Inventory software report.
 
 None of the above required vote at this time.
 
-## New Members {#new_members}
+## New Members
 
 -   Erica K.
 -   Andrew K.

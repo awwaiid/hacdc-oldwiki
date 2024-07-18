@@ -1,4 +1,4 @@
-# Swapping Materials {#swapping_materials}
+# Swapping Materials
 
 Changing from glass to acrylic or polycarbonate beds is **easy**. **Just
 remember the following:**
@@ -28,7 +28,7 @@ The full print bed stackup is:
 8.  M3 screws and washers. These are bolted directly through mounting
     holes in all other layers, including glass.
 
-# Surface Materials {#surface_materials}
+# Surface Materials
 
 By default, we are using an ordinary glass print surface, which has been
 cut, drilled, and bolted onto the printer. Other surfaces are available,
@@ -49,7 +49,7 @@ glass, and apply as little pressure as possible.** Tighten all the
 screws a quarter rotation at a time, just until the glass stops moving
 downward.
 
-### Ideal Glass Surface {#ideal_glass_surface}
+### Ideal Glass Surface
 
 Pyroceramic Glass, 9" \* 9", Four Mounting Holes. Recommend against the
 [similar bed design
@@ -59,7 +59,7 @@ unnecessarily to thermal stress.
 
 Can be ordered from One Day Glass.
 
-### Ordinary Glass {#ordinary_glass}
+### Ordinary Glass
 
 Ordinary glass can be purchased from a variety of stores, cut to size,
 the drilled with a dremel and the cylindrical diamond abrasion tool.
@@ -95,7 +95,7 @@ as possible. Recommend no more than 45C for PLA.**
 Additionally, plastic surfaces are inherently less rigid than glass,
 particularly if thinner than \~5mm.
 
-### Heavy Acrylic {#heavy_acrylic}
+### Heavy Acrylic
 
 An 8.25mm acrylic sheet has been salvaged from a disassembled LCD
 monitor, and laser cut to fit. At this thickness, rigidity seems to be
@@ -121,24 +121,24 @@ reliable process for realigning this complex system is rather
 complicated, involving a 3D printed and heat-polished leveling mat. It
 is roughly equivalent to using a CNC mill to finish off its own table.
 
-## Step 1 {#step_1}
+## Step 1
 
 Use a CAD program to generate a large rectangular object covering most
 of the print surface **at least three layers high**. This is our
 'leveling mat'.
 
-## Step 2 {#step_2}
+## Step 2
 
 **Disassemble** the print bed down to an **intermediate surface**
 (preferably the hard MDF backing), cover with paper tape. This is the
 print surface for our 'leveling mat'.
 
-## Step 3 {#step_3}
+## Step 3
 
 Carefully **move the Z-axis endstop** to match extruder depth with the
 new print surface.
 
-## Step 4 {#step_4}
+## Step 4
 
 **Abort**! If you have started printing the leveling mat, you probably
 didn't set the Z-axis endstop position well enough. When this happens,
@@ -148,7 +148,7 @@ leveling mat - it may become infeasible to remove.
 Use **PLA material**, and **retry printing** the leveling mat until the
 first layer is clearly adhered to the intermediate surface.
 
-## Step 5 {#step_5}
+## Step 5
 
 There will be some rough areas on the printed mat. **Heat polishing
 solves that.** Bolt the PCB heater on top of this leveling mat, bolt
@@ -160,13 +160,13 @@ Heat to \~90C for 5 minutes, and **have a fire extinguisher handy**.
 Generally, when the underside of the MDF hits 40-50C, heat polishing
 will be complete.
 
-## Step 6 {#step_6}
+## Step 6
 
 Unbolt the heat polishing assembly, and check the leveling mat. Should
 be **silky smooth**, with no bumps larger than 0.05mm. If not, repeat
 Step 5 until it is.
 
-## Step 7 {#step_7}
+## Step 7
 
 **Reassemble** the print bed as it was before, carefully. If lucky, it
 should be possible to keep extruder nozzle aligned to print surface

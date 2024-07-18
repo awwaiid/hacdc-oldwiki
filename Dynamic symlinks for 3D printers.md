@@ -1,11 +1,11 @@
-### Executive Summary {#executive_summary}
+### Executive Summary
 
 From the 3d printing server (reachable from the network via
 pronterhost.local and pronterhost.hacdc.org) 3d printers can be
 referenced by /dev/TAZ, /dev/MINI, and /dev/ROSTOCK. (added by Tom
 9/9/2019)
 
-### The problem {#the_problem}
+### The problem
 
 When powering cycling computers and various USB devices attached to said
 computer, one does not necessarily get the same `/dev/ttyACM...`
@@ -15,7 +15,7 @@ to be explicitly told what to connect to, because each time you want to
 connect to a specific printer you have to do somersaults to determine
 the ACM number du jour for the printer (or other device) you want.
 
-### The solution {#the_solution}
+### The solution
 
 So, on the artist currently known as `pronterhost.local`, as of
 2019.01.21... Julia had previously created

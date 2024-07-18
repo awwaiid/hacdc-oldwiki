@@ -2,7 +2,7 @@
 the 2009-12-08 Member Meeting's agenda (before the meeting) and minutes
 (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 December 8, 2009 Meeting called to order at 7:35 PM by President
 
@@ -14,22 +14,22 @@ Others: Honey
 
 [Quorum](Quorum) Achieved.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Tim C moved to approve. Martin Seconded. Motion carried unanimously.
 
 [Regular Member Meeting Minutes 2009 11
 10](Regular_Member_Meeting_Minutes_2009_11_10)
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 The rent negotiations continue. Nothing has changed since the last
 meeting. We have to re-sign the contract in January, so there's still
 time to discuss terms.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 The treasurer's report was presented as attached. There was some
 discussion about how much of our reserve is from pledgie pledges for the
@@ -38,19 +38,19 @@ software radio. Currently the total donations are \$406.98.
 There was a question about the POS POS that we need to return. It will
 be done tomorrow.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Nothing to report.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Make: Money program details were received last week. There will soon be
 a form on the website where you can subscribe to Make: Magazine through
 HacDC and we'll get 1/2 of your subscription fee.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Tim B {#tim_b}
+### Tim B
 
 timball bought a glue gun and has a receipt for \$12.63
 
@@ -58,7 +58,7 @@ also pants are good!
 
 timball's friend Josh Ruihley wants to buy a Nabaztag
 
-### Ben S {#ben_s}
+### Ben S
 
 Has loaned HacDC, on an ongoing basis, a Shure wireless microphone
 system.
@@ -66,14 +66,14 @@ system.
 He has also donated a Flip-like (although another brand) video camera to
 the space.
 
-### Will G {#will_g}
+### Will G
 
 FPGA workshop is going well - done with theory and on to FPGAs and
 towards projects. There was discussion about having the donated boards
 belong to HacDC and not individual members. There's an effort to build a
 checkin/checkout web app.
 
-### Dan Barlow {#dan_barlow}
+### Dan Barlow
 
 Martin made a nice wooden case for a power supply.
 
@@ -81,11 +81,11 @@ Martin made a nice wooden case for a power supply.
 
 All wired pulled that was usable is now hooked up.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-### Director at-large {#director_at_large}
+### Director at-large
 
 Todd F. was nominated.
 

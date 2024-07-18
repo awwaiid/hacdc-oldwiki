@@ -7,7 +7,7 @@ world", letting you fire up your programmer, compiler, chip, LED, and
 test them all out. You'll learn how to setup and use pins for output,
 and along the way get some exposure to AVR-specific coding practice.
 
-## The Circuit {#the_circuit}
+## The Circuit
 
 Possibly the simplest circuit you can imagine: plug an LED into pins PB4
 and ground. PB4 is going to go the positive leg of the LED to source
@@ -18,7 +18,7 @@ LED (around 100 ohms is good). I've done it both ways -- the AVR will
 drive the LED at \~50mA, which will burn out the LED over the long run,
 but for this demo, it'll be fine.
 
-## The Code {#the_code}
+## The Code
 
     <nowiki>
 

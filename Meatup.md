@@ -1,4 +1,4 @@
-# GrindDC Meetings {#grinddc_meetings}
+# GrindDC Meetings
 
 GrindDC's weekly meetings take place at [HacDC](http://hacdc.org) every
 Thursday evening (rain or shine) and begin at 7:30p. Some atendees

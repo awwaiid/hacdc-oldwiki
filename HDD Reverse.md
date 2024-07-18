@@ -2,7 +2,7 @@ This tutorial follows a series from 'sprites mods'
 [1](https://spritesmods.com/?art=hddhack&page=1) to attempt to reverse
 engineer a hard drive controller board
 
-# JTAG Hookup Process {#jtag_hookup_process}
+# JTAG Hookup Process
 
 The first step is to hook up wires to the JTAG pins of the hard drive
 controller board in question.

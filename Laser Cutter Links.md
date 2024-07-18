@@ -1,8 +1,8 @@
-## Links to Laser Cutter Info {#links_to_laser_cutter_info}
+## Links to Laser Cutter Info
 
 ### Manufacturers
 
-#### Upper-tier Brands {#upper_tier_brands}
+#### Upper-tier Brands
 
 -   <http://www.epiloglaser.com/> (Golden, CO with local reps)
     -   Entry level Zing 16 is \$8K
@@ -13,7 +13,7 @@
     (Austria/Ypsilanti, MI with local reps)
     -   Entry level Speedy 100 is \$18K
 
-#### More affordable {#more_affordable}
+#### More affordable
 
 -   <http://www.omni-cnc.com/products/Laser_Machine_For_Non-Metal/>(
     OMNI, Jinan, China)
@@ -50,17 +50,17 @@
 -   <http://en.shenhuilaser.com/Product.asp?BigClassName=Laser%20Engraving%20Machine>
 -   <http://www.jamiesonlaser.com/> (Litchfield, CT)
 
-### Laser Cutter Forums and Blogs {#laser_cutter_forums_and_blogs}
+### Laser Cutter Forums and Blogs
 
 -   <http://www.cnczone.com/forums/#laser_engraving_cutting_machines>
 -   <http://www.chineselasersupportforum.com/vbul/forum/forum.php>
 -   <http://www.sawmillcreek.org/forumdisplay.php?8-Engravers-Forum>
 
-### Hackerspace Laser Cutter Pages {#hackerspace_laser_cutter_pages}
+### Hackerspace Laser Cutter Pages
 
 -   <http://wiki.acemonstertoys.org/Laser_Cutter>
 
-### Comparison Charts & Spreadsheets {#comparison_charts_spreadsheets}
+### Comparison Charts & Spreadsheets
 
 -   <https://spreadsheets.google.com/pub?key=0ArzfvXpex4x8dHhpMmJINlNMclBjRm9uMmM5RExnVXc&hl=en&output=html>
 -   <https://docs.google.com/spreadsheet/ccc?key=0Ai_FSnJ6DCsUdEpPdDJhM2Y0WUQ5eEw4TzRHMm84SWc&usp=sharing>
@@ -89,7 +89,7 @@
         -   <http://www.stephenhobley.com/blog/2011/04/25/upgrading-a-laser-cutter-from-china-part-two/>
         -   <http://www.stephenhobley.com/blog/2011/05/05/aligning-40-watt-laser-mirrors-without-burning-your-eyeballs-out/>
 
-### Tales of woe {#tales_of_woe}
+### Tales of woe
 
 -   EXLAS/XYZ-tech
     -   <http://www.cnczone.com/forums/exlas_lasers/140399-need_some_help_direction.html>
@@ -108,12 +108,12 @@
     -   <http://www.cnczone.com/forums/general_laser_engraving_cutting_machine_discussion/156159-lc900n_gk_weike_90w_laser_cutter_review.html>
         (laser came with lots of issues)
 
-### Other info {#other_info}
+### Other info
 
 -   <http://www.imajeenyus.com/workshop/20090506_laser_cutter/index.shtml>
     (ventilation and cooling)
 
-### DIY Laser Cutters {#diy_laser_cutters}
+### DIY Laser Cutters
 
 -   Stephen Hobley
     -   <http://www.stephenhobley.com/blog/2012/11/26/new-co2-laser-cutter-engraver/>

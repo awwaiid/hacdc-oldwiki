@@ -15,15 +15,15 @@ more, acting as Incorporators of a corporation under the NON-PROFIT
 CORPORATION ACT (D.C. Code, 2001 edition, Title 29, Chapter 3), adopt
 the following Articles of Incorporation:
 
-## First Article : Name {#first_article_name}
+## First Article : Name
 
 FIRST: The name of the corporation is HACDC.
 
-## Second Article : Period of Duration {#second_article_period_of_duration}
+## Second Article : Period of Duration
 
 SECOND: The period of its duration is perpetual.
 
-## Third Article : Purposes {#third_article_purposes}
+## Third Article : Purposes
 
 THIRD: Said corporation is organized exclusively for charitable,
 educational, and scientific purposes within the meaning of Section
@@ -48,7 +48,7 @@ The Corporation shall have in furtherance of the aforesaid purposes all
 of the powers conferred upon corporations organized pursuant to the
 provisions of the District of Columbia Non-Profit Corporation Act.
 
-## Fourth Article : Provision for Members, Classes, Qualification and Election {#fourth_article_provision_for_members_classes_qualification_and_election}
+## Fourth Article : Provision for Members, Classes, Qualification and Election
 
 FOURTH: The corporation shall have members. The membership shall be
 divided into a voting class and a non-voting class. Only the voting
@@ -56,12 +56,12 @@ class shall have voting privileges. General requirements for all
 memberships and specific requirements for each class shall be specified
 in the bylaws.
 
-## Fifth Article : Directors, Qualifications and Election {#fifth_article_directors_qualifications_and_election}
+## Fifth Article : Directors, Qualifications and Election
 
 FIFTH: Directors must be voting members elected based on provision
 specified in the bylaws.
 
-## Sixth Article : Management, Affairs and Activities and Provision for Dissolution {#sixth_article_management_affairs_and_activities_and_provision_for_dissolution}
+## Sixth Article : Management, Affairs and Activities and Provision for Dissolution
 
 SIXTH: The management, affairs, activities, and concerns of the
 corporation shall be conducted in accordance with its bylaws. The bylaws
@@ -101,14 +101,14 @@ Jurisdiction in the District of Columbia, exclusively for such purposes
 or to such organization or organizations, as said Court shall determine,
 which are organized and operated exclusively for such purposes.
 
-## Seventh Article : Initial Registered Office {#seventh_article_initial_registered_office}
+## Seventh Article : Initial Registered Office
 
 SEVENTH: The address of the initial registered office of the corporation
 is 2020 F Street N.W. Apartment 109, Washington, D.C. 20006, and the
 name of the initial registered agent at such address is Nicholas Farr, a
 resident of the District of Columbia.
 
-## Eighth Article : Names and Address of Members of the Initial Board of Directors {#eighth_article_names_and_address_of_members_of_the_initial_board_of_directors}
+## Eighth Article : Names and Address of Members of the Initial Board of Directors
 
 EIGHTH: The number of directors constituting the initial board of
 directors is six (6), and the names and addresses of the persons who are
@@ -137,7 +137,7 @@ Allison Treman - **{REDACTED FOR PRIVACY REASONS, CONSULT [ PUBLIC
 INSPECTION LOCKER](Public_Inspection_Locker) AT HACDC}**,
 Washington, D.C. 20006
 
-## Ninth Article : Name and Address of Incorporators {#ninth_article_name_and_address_of_incorporators}
+## Ninth Article : Name and Address of Incorporators
 
 NINTH: The name and address of each incorporator are:
 

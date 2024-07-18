@@ -12,9 +12,9 @@ Others Present: Andrew Gillette, Tommy Johnson, Art Coleman
 The C-i-C declared a Quorum was present, and gave a brief overview of
 the official items to address at the meeting.
 
-## New Business {#new_business}
+## New Business
 
-### Board of Director Elections {#board_of_director_elections}
+### Board of Director Elections
 
 Jason nominated Elliot Williams Member 48 seconded. The nomination was
 accepted.
@@ -57,7 +57,7 @@ Tim plans to increase transparency for the finance office.
 No other nominations were offered, so Tim Collins is the Minister of
 Finance.
 
-#### At Large Board of Directors {#at_large_board_of_directors}
+#### At Large Board of Directors
 
 Derek Cooper nominated himself.
 
@@ -77,7 +77,7 @@ Derek seconded the motion.
 
 No one was opposed. Motion carried.
 
-### New Member Approval Discussion {#new_member_approval_discussion}
+### New Member Approval Discussion
 
 Elliot explained the current process, and opened it for discussion.
 
@@ -107,7 +107,7 @@ seconded.
 
 there were no objections.
 
-## HacDC Finances {#hacdc_finances}
+## HacDC Finances
 
 Elliot asked for the finance report report from the outgoing minister of
 finance.
@@ -177,7 +177,7 @@ at a future meeting.
 The general consensus was that no one wanted to be the quartermaster as
 described, so the motion to create the position was tabled.
 
-## 2009 Budget Items {#budget_items}
+## 2009 Budget Items
 
 A discussion about possible budget items for 2009 was suggested.
 Different items included Basement project, 501c3, Tools, Advertising,

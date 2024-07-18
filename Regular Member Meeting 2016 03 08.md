@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 03/08/2016
 :   Called to order at 20:0 pm by Julia Longtin
@@ -21,7 +21,7 @@ Rob Hines Xavier Belanger
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Previous meeting was the Annual 2016 meeting
 <http://wiki.hacdc.org/index.php/Annual_Meeting_2016>
@@ -32,11 +32,11 @@ APPROVED
 
 -   We received a huge unsolicited donation from Lee! Thanks Lee!
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   IT systems have been fine.
 -   Attempted to propose an education computer a couple of times but the
@@ -55,7 +55,7 @@ APPROVED
 -   With Brian Best exiting from St. Stephens church we will need to
     establish a new point of contact.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   I'm the treasurer!
 -   Our regular revenue was \$1,510 in January and \$1,280 in February.
@@ -76,7 +76,7 @@ APPROVED
 -   I filed our tax return with the IRS (a simple 990N postcard,
     submission 10065520160650009925, pending)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I'm in New Delhi. It's probably great. See you next month.
 
@@ -101,7 +101,7 @@ w/r/t the outgoing pile this month; we will keep it open until ahead of
 the next meeting and close it with enough time for everyone to go
 through it then.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 
@@ -148,7 +148,7 @@ in place to better protect our investments.
 
 We are now in a great position to do this right. We should.
 
-## Dungeon Master Report {#dungeon_master_report}
+## Dungeon Master Report
 
 There is a dungeon, and we are working on a rules set for it.
 
@@ -168,19 +168,19 @@ The Optical Table Robot needs a PC, and a new microcontroller to replace
 the one I ripped out of the rostock. It's laser tube is still
 nonfunctional.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Nothing to report.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Funding the classroom web-conference desktop machine fell through, due
 eBay sale closing while other proposals and distractions were under
 consideration. Still expecting to fund this, awaiting new proposals.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 Yaesu International Has shipped our 440 mhz repeater, which will be
 installed in late March, early April. Lee, N4TCW and Gonzo, AI1W have
@@ -191,7 +191,7 @@ Day and JTOT (Jamboree on the air). HacDC Amateur Radio club continues
 to grow. We are sponsoring monthly exam sessions on the second Saturday
 of each month. Visit our online hf transceiver at www.remotehams.com
 
-### Project SEM (Electron Microscope) {#project_sem_electron_microscope}
+### Project SEM (Electron Microscope)
 
 A replacement vacuum gauge has been acquired out of personal member
 funds and is awaiting a day project members are available to install it.
@@ -209,9 +209,9 @@ engineering background that can consistently commit time to the project.
 Engineering schematics are available and we have access to a fully
 functioning SEM plinth of the same model and vintage.
 
-### Project OTR (Optical Table Robot) {#project_otr_optical_table_robot}
+### Project OTR (Optical Table Robot)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Enrique
 
@@ -234,7 +234,7 @@ functioning SEM plinth of the same model and vintage.
 
 ### mirage335
 
-#### SUPPLIES/EXPANSION PA Status {#suppliesexpansion_pa_status}
+#### SUPPLIES/EXPANSION PA Status
 
 ##### Brief
 
@@ -336,27 +336,27 @@ request reallocation to it, or the BoD could be given authority to
 choose the PoC contact for these particular funds much like the Dungeon
 Master.
 
-#### Old Funding Proposals {#old_funding_proposals}
+#### Old Funding Proposals
 
 The two proposals tabled last month were lacking in specific structure,
 intended merely to present a choice where to direct resources. Please
 consider the current EXPANSION allocation instead.
 
-#### Membership Structure {#membership_structure}
+#### Membership Structure
 
 HacDC has one level of membership - keyholding, voting. Most
 hackerspaces don't. Our (euphemistically) unique bylaws make this an
 especially inconvenient situation. What alternatives are palatable to
 our members?
 
-## Old Business {#old_business}
+## Old Business
 
 -   Proposal to allocate \$2,000 for fully recomissioning the
     OpticalTableRobot. (Tabled at the last meeting)
 -   Proposal to allocate \$500 for an off-the-shelf throw-away eBay
     laser cutter. - (Tabled at the last meeting)
 
-## New Business {#new_business}
+## New Business
 
 -   Propose that we allocate \$100 from our general fund for card and a
     gift for Brian, Saint Stephen's departing administrator. We can
@@ -366,7 +366,7 @@ our members?
     that we are paying \$180/yr for
     MeetUp.)[Media:Meetup-2015-8.pdf](Media:Meetup-2015-8.pdf)[Media:Meetup-2016-2.pdf](Media:Meetup-2016-2.pdf)
 
-## New Members {#new_members}
+## New Members
 
 Xavier Belaager
 

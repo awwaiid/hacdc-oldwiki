@@ -22,7 +22,7 @@ Tons of stuff...
 
 See organization.
 
-## Secure Rack {#secure_rack}
+## Secure Rack
 
 We have a rack and servers in the basement.
 

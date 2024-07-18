@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 19:39 pm by Michelle
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_01_10) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_01_10)
 
 ## Recognition
 
@@ -20,11 +20,11 @@
 -   Michelle for sticking with the presidency even after moving, getting
     a new job, etc., etc.
 
-## New Members {#new_members}
+## New Members
 
 -   No new members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Basement clean-out
     -   Lessons learned: When Benning Road says "Electronics and toxic
@@ -60,7 +60,7 @@
     -   Michelle recommends "[General
         Magic](https://www.generalmagicthemovie.com/)" documentary
 
-## New Business {#new_business}
+## New Business
 
 -   Phone system? See last month's minutes
     -   Set up an [Asterisk](https://www.asterisk.org/) server?

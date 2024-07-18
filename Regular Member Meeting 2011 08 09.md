@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-08-09 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 August 9, 2011
 
@@ -14,18 +14,18 @@ Others Present: Sean
 
 [Quorum](Quorum) met? No.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 07
 12](Regular_Member_Meeting_2011_07_12)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report (Tim Slagle) {#treasurers_report_tim_slagle}
+### Treasurer's Report (Tim Slagle)
 
 Here is the July 2011 financial summary:
 <file:HacDC_Financials_July_2011.pdf>
@@ -46,25 +46,25 @@ I found we were paying \$6/mo for a fax service we were no longer using,
 so I cancelled it. We should have a plan for asynchronously receiving
 faxes - Google Voice?
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Growing interest in Byzantium. We did a lot of talking, but not a lot of
 coding at the last sprint.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Toast
 
 Zine-fest happened. Poorly attended.
 
-#### Brad B {#brad_b}
+#### Brad B
 
 A.I. Class coming up in October. We're hosting a study group.
 
 Try to keep the space open more. Have a software night on Thursdays and
 Tuesdays.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Alberto
 
@@ -96,7 +96,7 @@ Quantified Self meeting.
 
 Working on a Mylar envelope for a dirigible.
 
-### Tim S {#tim_s}
+### Tim S
 
 Would like to do an LED lighting project in the classroom. Needs some
 help with carpentry to make it look nice.
@@ -127,11 +127,11 @@ Has been building stuff. We need a show and tell.
         brings hackers to Japan this November, with a bargain of a
         presale price at US\$1337. Check it out.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 Hi, Sean. Sorry, we don't have quorum so we can't vote you in this
 month. Come again next month!

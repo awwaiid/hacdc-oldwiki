@@ -139,7 +139,7 @@
 ```{=html}
 </div>
 ```
-## See also {#see_also}
+## See also
 
 -   For a tour of features, see the [Introduction to
     Wikipedia](Wikipedia:Introduction).

@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date October 12th 2021
 :   Called to order at 7:39pm by Tayeb
@@ -13,18 +13,18 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
 Tristan - for Capture the Flag Ken - for re-introduction to Nation of
 Makers in regards to partnerships
 
-## New Members {#new_members}
+## New Members
 
 Sara-Jayne
 
-## Old Business {#old_business}
+## Old Business
 
 Workspace. TV -- is now working - has been fixed! Workspace. Laser
 Cutter -- we need leads on \<\$2,000 laser cutters (time to broadcast on
@@ -37,7 +37,7 @@ one more email before providing summary at next Monthly Members Meeting.
 PAR Recycle Works (hardware recycling program in Philadelphia) -- Kevin
 talking with Sanjay tomorrow
 
-## New Business {#new_business}
+## New Business
 
 Rocketry. Hobbyist -- Tristan looking for partners in rocketry. Blabber
 is decent resource for this. Courses. Free CAD -- Tristan interested in
@@ -54,31 +54,31 @@ space; DC and the church policy set the rules. Membership. Annual
 Membership Survey -- Michelle has results / exec summary for November's
 MMM.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
 \- Report and updates
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
-#### ??? {#section_1}
+#### ???
 
 ## Adjournment
 

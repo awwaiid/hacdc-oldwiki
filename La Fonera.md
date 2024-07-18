@@ -183,7 +183,7 @@ looks... promising? But it's getting late.
 
 ------------------------------------------------------------------------
 
-### 2018.02.26 {#section_1}
+### 2018.02.26
 
 Looking at the [WiFi
 setup](http://192.168.1.1/cgi-bin/webif/network-wlan.sh) it says that we
@@ -255,7 +255,7 @@ Comment out the last src line:
 
 Bwah-ha-ha!
 
-### 2018.02.28 {#section_2}
+### 2018.02.28
 
 Installing NTP client... Maybe. The web interface says it's installing
 it. (System -\> Settings complained about it not being installed.) It
@@ -300,7 +300,7 @@ page.
 
 ------------------------------------------------------------------------
 
-### 2018.03.01 {#section_3}
+### 2018.03.01
 
 Following the instructions on the afore-mentioned page yields:
 
@@ -326,7 +326,7 @@ The good news: `sysupgrade` exists as a command.
 
 ------------------------------------------------------------------------
 
-### 2018.03.05 {#section_4}
+### 2018.03.05
 
 Time to build from scratch. It looks like the documentation links at the
 bottom [The build system –
@@ -351,7 +351,7 @@ indexed).
     Could not open mtd device: RedBoot config
     Can't open device for writing!
 
-### 2018.03.08 {#section_5}
+### 2018.03.08
 
 We've opened the box... And now to install a TFTP server `atftpd` on one
 of the classroom machines. One dependency: `rlinetd`.
@@ -526,7 +526,7 @@ Now to implement steps 1-6 above:
 
 ------------------------------------------------------------------------
 
-### 2018.03.11 {#section_6}
+### 2018.03.11
 
     RedBoot&gt; ip_address -h 192.168.5.2 -l 192.168.5.22/24
     IP: 192.168.5.22/255.255.255.0, Gateway: 0.0.0.0
@@ -616,7 +616,7 @@ boot.
 Also, for what it's worth, a summary of [RedBoot
 help](RedBoot_help)
 
-### 2018.03.12 {#section_7}
+### 2018.03.12
 
 It is suggested that, in order to permanently enable telnet without
 needing the serial cable, one should wget

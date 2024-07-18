@@ -9,7 +9,7 @@
 
 # Tools
 
-# Picking Victims {#picking_victims}
+# Picking Victims
 
 # Examples
 

@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-12-13 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 December 13, 2011
 
@@ -14,18 +14,18 @@ Others Present: Jackson, Key, Kevin, Tim, Rich, Lee
 
 [Quorum](Quorum) met? YES!
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 11
 08](Regular_Member_Meeting_2011_11_08) Approved.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the November 2011 financial summary:
 <file:HacDC_Financials_Nov_2011.pdf>
@@ -43,23 +43,23 @@ a big say due to all his hard work.
 
 Might put some money towards a laser cutter!
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Had a visitor from a Hackerspace in NC. Proselytized HacDC at a local
 LAN party and met a member of Unallocated Space who was interested in
 starting a mailing list for Mid-Atlantic Hackerspaces.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Toast
 
 #### Martin
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Membership approval needed for audit committee: Bjorn Westergard,
 Jaime/ITechGeek, and Darius Roberts. Once approved they will be given
@@ -72,7 +72,7 @@ to volunteer. Approved
 We will talk about what to do with surplus money online and approve next
 meeting.
 
-## New Members {#new_members}
+## New Members
 
 ### Leon S. Ciereszko III {#leon_s._ciereszko_iii}
 

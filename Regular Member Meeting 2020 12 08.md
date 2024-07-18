@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: December 8th, 2020
 :   Called to order at 7:40 pm by Karen
@@ -11,19 +11,19 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_10_13) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_10_13)
 
 Approved
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 Gabriel Altay -- looking to become a new member, a lot of interaction
 with the wikimedia community and could think of projects relating Karen
 to add a keycode for Gabriel
 
-## Old Business {#old_business}
+## Old Business
 
 -   Tayeb: Keep Meetup updated (members meeting)
 
@@ -72,23 +72,23 @@ to run robotics classes -- let Obi know as well
 
 Tayeb to follow up this Sunday December 13th to start server set up
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Financial Report: Current Balance -- \$5636 We currently have 16 paying
 members, \$870 from dues and an additional \$370 from donations. Rent is
@@ -100,9 +100,9 @@ Ham Radio Club to talk to him so that the insurance can be updated Karen
 to send Matt the email of a member who may be falling off the membership
 rolls
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

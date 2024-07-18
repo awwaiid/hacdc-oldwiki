@@ -1,4 +1,4 @@
-# Where and when {#where_and_when}
+# Where and when
 
 Thursday November 29th, 2012; 1930 @ [HacDC](http://hacdc.org/)
 
@@ -7,15 +7,15 @@ Thursday November 29th, 2012; 1930 @ [HacDC](http://hacdc.org/)
 -   [Nocko](User:Nocko)
 -   Stuart
 
-# New Business {#new_business}
+# New Business
 
-# Old Business {#old_business}
+# Old Business
 
-## Project Updates {#project_updates}
+## Project Updates
 
 ### Wiki
 
-### Physiological Saline {#physiological_saline}
+### Physiological Saline
 
 ### Pacemaker
 

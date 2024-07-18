@@ -12,7 +12,7 @@ use kissattach to bring up the device.
 
 # Installation
 
-## From Source: Ubuntu Karmic and Lucid {#from_source_ubuntu_karmic_and_lucid}
+## From Source: Ubuntu Karmic and Lucid
 
     wget http://www.baycom.org/~tom/ham/soundmodem/soundmodem-0.18.tar.gz
     sudo apt-get install libasound2-dev libxml2-dev libgtk2.0-dev libaudiofile-dev
@@ -26,7 +26,7 @@ Configure it by running (as root) /usr/local/bin/soundmodemconfig. It
 will open a window on your desktop with nothing in it. Click File, New,
 Configuration. Give your configuration a name (I used 'sm0').
 
-## apt-get: Debian and Ubuntu {#apt_get_debian_and_ubuntu}
+## apt-get: Debian and Ubuntu
 
 Debian
 :   Gets you version 0.10 on Lenny, 0.15 on Squeeze (6.0), 0.16 on
@@ -43,15 +43,15 @@ As root do the following
     soundmodemconfig /etc/ax25/soundmodem.conf                           # see below for configs
     soundmodem /etc/ax25/soundmodem.conf -R -M >/dev/null 2>/dev/null &  # this makes an awful noise when it works
 
-## On Fedora {#on_fedora}
+## On Fedora
 
 ???
 
-## Arch Linux {#arch_linux}
+## Arch Linux
 
     sudo packer -S soundmodem ax25-apps ax25-tools
 
-## On Slackware (current?) {#on_slackware_current}
+## On Slackware (current?)
 
     wget http://www.baycom.org/~tom/ham/soundmodem/soundmodem-0.18.tar.gz
 
@@ -70,7 +70,7 @@ As root do the following
 
 # Configuration
 
-## IO Tab {#io_tab}
+## IO Tab
 
 On the I/O tab, choose your sound driver (out of soundcard, file,
 simulation, and alsa, I picked alsa). You'll have to play around with
@@ -86,17 +86,17 @@ just enough EMI to make the circuits act weird as-is. We have a few
 solutions](https://drwho.virtadpt.net/archive/2013/05/31/project-byzantium-milestone-three-in-progress)
 at this time.
 
-## Channel Access Tab {#channel_access_tab}
+## Channel Access Tab
 
 Don't change the settings on the Channel Access tab.
 
-## Channel 0 {#channel_0}
+## Channel 0
 
 Right below the name of your configuration in the tree you will see a
 new entry, Channel 0. If you select it you'll be presented with three
 new tabs on the right.
 
-### Modulator Tab {#modulator_tab}
+### Modulator Tab
 
 The possible values for the Mode selector are Off, fsk, afsk, pam, psk,
 and newqpsk. I picked fsk because it grants the highest effective bit
@@ -104,13 +104,13 @@ rate (9600 bps). The values for Frequency 0 (1200), Frequency 1 (2200),
 and Filter (df9ic/g3ruh) were left set to defaults. Leave Differential
 Encoding checked.
 
-### Demodulator Tab {#demodulator_tab}
+### Demodulator Tab
 
 On the Demodulator tab (which governs decoding audio signals into bits)
 the options are much the same because they match the modulation scheme
 by default. This is what we want.
 
-### Packet IO Tab {#packet_io_tab}
+### Packet IO Tab
 
 On the Packet IO tab, the network/non-serial side of soundmodem is
 configured. Pick an IP address, netmask, and broadcast addres for a
@@ -127,7 +127,7 @@ block which was set aside for amateur radio use. We should probably use
 the private subnet of that, 44.128/16 because it's akin to the RFC-1918
 subnets and is used for experimentation in this area.
 
-### Audio settings {#audio_settings}
+### Audio settings
 
 From alsamixer:
 
@@ -174,7 +174,7 @@ routed over them because there isn't much bandwidth. We'll have to add
 that to our rules. We tried setting up IPv6 addressing on some AX.25
 interfaces and weren't able to.
 
-# Diagnostics, Testing, and Configuration {#diagnostics_testing_and_configuration}
+# Diagnostics, Testing, and Configuration
 
 As root:
 
@@ -232,7 +232,7 @@ protocol thingy. We don't need it?)
 To save your config file, use the File, Quit option. It'll save it
 automagically to /etc/ax25/soundmodem.conf.
 
-# So, how is this supposed to work, anyway? {#so_how_is_this_supposed_to_work_anyway}
+# So, how is this supposed to work, anyway?
 
 ## Assumptions
 
@@ -265,7 +265,7 @@ jack. Alternatively two radios one transmitting only and one receiving
 only (possibly on different channels) such that there is no need for
 drivers or a switching mechanism.
 
-### Hook-up {#hook_up}
+### Hook-up
 
 -   Connect radio speaker to PC mic.
 -   Then connect PC speaker to radio mic.
@@ -290,14 +290,14 @@ and ip to configure it, IPtables to filter traffic, and
 /proc/net/ipv4/\* to tweak it (and set up packet forwarding). IPv6 is
 not currently supported on AX.25 in the linux kernel (\~v3.8.x).
 
-# Successful connection achieved on 2013-06-8 {#successful_connection_achieved_on_2013_06_8}
+# Successful connection achieved on 2013-06-8
 
 I was able to connect two of my laptops together and get them pinging
 each other and transferring files over FTP. Here are some notes on how I
 accomplished it. [Sitwon](User:Sitwon)
 ([talk](User_talk:Sitwon)) 21:33, 18 June 2013 (PDT)
 
-## T520/TH-D72 {#t520th_d72}
+## T520/TH-D72
 
 The first system was the easiest. A ThinkPad T520 running
 Slackware64-current connected to a Kenwood TH-D72. The TH-D72 has a
@@ -319,7 +319,7 @@ Then exit minicom and bring up the interface with kissattach: \`sudo
 (valid) IP address at the end. It will bring up the interface. Now
 you're done with this computer.
 
-## R60/UV-5R {#r60uv_5r}
+## R60/UV-5R
 
 The second system I used was a ThinkPad R60 running Slackware64-current
 connected to a Baofeng UV-5R. In this case, I used soundmodem and a pair
@@ -381,7 +381,7 @@ I'm not entirely sure how best to do that fine-tuning.
 
 Expect the connection to be very slow.
 
-# Other resources {#other_resources}
+# Other resources
 
 -   [Setting your TNC's audio drive
     level](http://www.febo.com/packet/layer-one/transmit.html) (In other

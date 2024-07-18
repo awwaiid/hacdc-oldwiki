@@ -13,6 +13,6 @@
     shaking side to side and instead the outer parts start shaking in
     and out or the whole piece starts turning quickly.
 
-# Actual Purchase List {#actual_purchase_list}
+# Actual Purchase List
 
 [Category:Wishlist](Category:Wishlist)

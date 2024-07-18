@@ -9,9 +9,9 @@ including K-12, as well as higher education and adult students. The
 project is wide in scope and initially is being considered in several
 stages.
 
-# Expected Timeline {#expected_timeline}
+# Expected Timeline
 
-### Phase 1: Development {#phase_1_development}
+### Phase 1: Development
 
 During the development phase, contributors will establish an
 infrastructure for collaboration and begin to brainstorm thoughts about
@@ -19,13 +19,13 @@ how to approach the project. Broad overviews of grade and subject matter
 will begin to be prepared, and some initial courses will be pilot
 tested.
 
-### Phase 2: After school and weekend short courses for teens and adults {#phase_2_after_school_and_weekend_short_courses_for_teens_and_adults}
+### Phase 2: After school and weekend short courses for teens and adults
 
-### Phase 3: Home schooling and Independent Study Lessons {#phase_3_home_schooling_and_independent_study_lessons}
+### Phase 3: Home schooling and Independent Study Lessons
 
-### Phase 4: Charter School {#phase_4_charter_school}
+### Phase 4: Charter School
 
-### Phase 5: Expansion {#phase_5_expansion}
+### Phase 5: Expansion
 
 # Funding
 
@@ -63,7 +63,7 @@ And then, on July 29, 2008, other HacDC members began to discuss
 rudimentary programming technique classes for kids (and adults), and on
 the same day Hacriculum.org was registered and this wiki began.
 
-# Interesting References {#interesting_references}
+# Interesting References
 
 There are many really interesting discussions about what it takes to
 become a hacker. One of the ones that I have shared with many interested

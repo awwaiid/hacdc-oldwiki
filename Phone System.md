@@ -9,7 +9,7 @@ number. [Twilio](https://www.twilio.com) which allows dynamic scripting
 of your phone system through xml pages. [voip.ms](https://www.voip.ms)
 which is our SIP provider.
 
-## Calling HacDC: {#calling_hacdc}
+## Calling HacDC:
 
 If you dial [202-556-HACK](tel:+1-202-556-4225), you will be routed
 through Google Voice to Twilio and connected to our IVR (options below).
@@ -29,13 +29,13 @@ An iNum number can be called from HacDC by dialing as a standard
 international number (instructions below in [Phone System#Twilio IVR
 Menu:](Phone_System#Twilio_IVR_Menu:)).
 
-## Calling from HacDC: {#calling_from_hacdc}
+## Calling from HacDC:
 
-### US/Canadian Numbers: {#uscanadian_numbers}
+### US/Canadian Numbers:
 
 Dial as you normally would.
 
-### International Numbers: {#international_numbers}
+### International Numbers:
 
 International numbers can be dialed using either US standard
 international access (011-country code-number) or European standard
@@ -43,7 +43,7 @@ international access (00-country code-number) If you need access to an
 international number that the phone in HacDC isn't allowing access to,
 contact admin@hacdc.org for help.
 
-### SIP Broker: {#sip_broker}
+### SIP Broker:
 
 voip.ms supports a service called [SIP Broker](http://sipbroker.com/)
 for making connections between SIP providers. To find out if a provider
@@ -52,17 +52,17 @@ Whitepages](http://sipbroker.com/sipbroker/action/providerWhitePages).
 To call a SIP Broker number from HacDC, dial \*\*275-Provider access
 code (including \*)-phone number.
 
-### Speed dials: {#speed_dials}
+### Speed dials:
 
 If a number will be called often or if people require access to a SIP
 URI, the Admin Team can create a speed dial which will be accessible by
 pressing #xx on the phone. voip.ms allows a total of 99 speed dials.
 
-#### Current speed dials: {#current_speed_dials}
+#### Current speed dials:
 
 #01 - Connects to Twilio IVR #02 - Connects to Telephreak.org
 
-## Twilio IVR Menu: {#twilio_ivr_menu}
+## Twilio IVR Menu:
 
 Option 1: Responds back with address and location information. Option 2:
 Responds back with current occupancy status (updated from the occupancy
@@ -73,7 +73,7 @@ Option 0: Leave a voicemail with the notification and link to voicemail
 sent to members@hacdc.org. Option 90: Leave a voicemail with the
 notification and link to voicemail sent only to the HacDC Treasurer.
 
-## Sending an SMS to our Google Voice number: {#sending_an_sms_to_our_google_voice_number}
+## Sending an SMS to our Google Voice number:
 
 Our Google Voice number responds to the following commands via SMS:
 status - Responds back with current occupancy status. location -

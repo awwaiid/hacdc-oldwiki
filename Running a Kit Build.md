@@ -1,4 +1,4 @@
-## Step-by-Step {#step_by_step}
+## Step-by-Step
 
 1.  Pick a kit that people are interested in.
     -   Check out [Kit Building](Kit_Building) for some
@@ -60,7 +60,7 @@
     -   Print on both sides of the paper
     -   Shorten existing directions in some way, or write your own
 
-## Additional Pitfalls {#additional_pitfalls}
+## Additional Pitfalls
 
 -   Don't trust things to work. **Test** it all in advance. That
     includes:

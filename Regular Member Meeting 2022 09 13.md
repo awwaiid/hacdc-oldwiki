@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: September 13, 2022
 :   Called to order at 7:39 pm by Oby
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_08_09) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_08_09)
 
 ## Recognition
 
@@ -19,7 +19,7 @@
     roof access, tightening up the language and accounting for all the
     details.
 
-## Old Business {#old_business}
+## Old Business
 
 -   Oby got involved with [Iffy Books](https://iffybooks.net/) regarding
     their [mesh network
@@ -35,7 +35,7 @@
     unable to find the key. He's been told where the key hides.
 -   Gabe has brought a CanaKit Raspberry Pi for the 3D printers.
 
-## New Business {#new_business}
+## New Business
 
 -   There's been a vote to approve the lease, but as new clauses are
     being negotiated, I's crossed and T's dotted, it may need to be
@@ -51,7 +51,7 @@
     support for the [Marine Corps
     Marathon](https://en.wikipedia.org/wiki/Marine_Corps_Marathon).
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Nothing unexpected.
 -   Last month 20 members. This month 18.

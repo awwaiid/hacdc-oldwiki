@@ -9,14 +9,14 @@ facilitate [project](HacDC_Spaceblimp_6/Projects) funding
 needs and coordinate with the [Project Awesome
 Spaceblimp](PA_Spaceblimp) contact.
 
-# Focus Areas {#focus_areas}
+# Focus Areas
 
 -   [Donations](HacDC_Spaceblimp_6/Projects/Funding#Donations)
 -   [Fundraising](HacDC_Spaceblimp_6/Projects/Funding#Fundraising)
 -   [Grants](HacDC_Spaceblimp_6/Projects/Funding#Grants)
 -   [Project Awesome Spaceblimp](PA_Spaceblimp)
 
-# Team Members {#team_members}
+# Team Members
 
 -   Enrique
 -   [Ethan Waldo](User:Ewaldo)

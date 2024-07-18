@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date December 13, 2016
 :   Called to order at 8:10 pm by Julia
@@ -11,17 +11,17 @@
 
     :   Quorum met? No
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 Ben and Andrew voted in.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Project Awesome Dividend (project funds allocations) may need to be
     changed. The current rule says project funds allocations come from
@@ -41,52 +41,52 @@ Ben and Andrew voted in.
     IT support), Secretary, Treasurer, Director At-Large 1, Director
     At-Large 2.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 The shipping date for the vacuum gauge has been pushed back to January!
 AArgh! We asked for a quote on another gauge and it was twice the cost.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
 Two critical parts for the classroom laser exhaust were designed and 3D
 printed this month. They fit well; the exhaust is now complete and we
 can assemble and tune the laser electronics and other hardware. We also
 need a water cooler solution.
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 We've purchased fresh DNA and RNA to repeat the experiment another 5
 times. I'm also in touch with a researcher at George Washington U. who
 is willing to come give a short talk about his work with CRISPR. However
 the date to put this event together... slips...
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 The SpaceBlimp team had a post-launch meeting to review what went right
 and wrong. We still have video to edit.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Enrique - No cryptoparty interest, really? Come on. What kind of
 hackerspace is this? Let's discuss after the meeting. Julia - The Taz 3D
 printer is now working great! The nozzle is finer than the before, the
 whole head is basically a new upgrade. It is now better than the Mini.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   November was OK, our revenue exceeded normal expenses by about
     \$214. We also spent \$176 on Helium for SpaceBlimp (the invoice was
@@ -102,9 +102,9 @@ whole head is basically a new upgrade. It is now better than the Mini.
     not the breakdown, IMO.
 -   Expect rent to increase for next year as usual.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 

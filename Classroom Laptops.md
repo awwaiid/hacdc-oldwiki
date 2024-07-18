@@ -21,9 +21,9 @@ since most of them don't have batteries nobody walks off with them.
 After almost a year they seem to be doing the job and getting lots of
 use.
 
-## Software (locally installed or remote access) {#software_locally_installed_or_remote_access}
+## Software (locally installed or remote access)
 
-### 3d design {#d_design}
+### 3d design
 
 -   Cura
 -   Meshlab
@@ -50,7 +50,7 @@ use.
 -   Something for email
 -   Printing should be enabled
 
-### Sys utils {#sys_utils}
+### Sys utils
 
 -   tmux ssh vi/vim emacs etc.
 -   Terminator
@@ -58,7 +58,7 @@ use.
 -   most
 -   avahi-utils
 
-### Other HacDC activities {#other_hacdc_activities}
+### Other HacDC activities
 
 Documentation, links, and how-tos on the desktop...
 
@@ -76,7 +76,7 @@ Documentation, links, and how-tos on the desktop...
     on jobs...?
     -   Test above last two for practicality.
 
-## Feature requests {#feature_requests}
+## Feature requests
 
 -   Most recent Arduino suite. \[INO\]
 -   More scripts and or instructions for usability -- 2d printing, 3d

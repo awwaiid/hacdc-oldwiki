@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-02-08 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 February 8, 2011
 
@@ -19,24 +19,24 @@ Others Present:
 
 [Quorum](Quorum) met? Yup.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 01
 11](Regular_Member_Meeting_2011_01_11)
 
 Approved without change.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Absent. Read e-mail in his absence: Annual Meeting on the 23rd.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Absent
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Ordinary Income/Expense
 
@@ -140,11 +140,11 @@ TOTAL LIABILITIES AND EQUITY \$7,309.35
 
 Looks like we can just barely eke out the rest of the rent agreement.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Absent
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Will
 
@@ -186,7 +186,7 @@ not \| 4 \|- \|Only HacDC members \| 1 \|}
     considered for deletion; we should probably update it to prevent
     that
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Brad: Group buy for yo-yos ends tonight, and there will be a
     workshop for yoyos.
@@ -240,11 +240,11 @@ not \| 4 \|- \|Only HacDC members \| 1 \|}
     turn it into a functioning space. She is coming by the space Monday
     night. Also had a talk with the Mayor's office.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-##### Proposed change to the membership process which are defined in the Standing Rules: {#proposed_change_to_the_membership_process_which_are_defined_in_the_standing_rules}
+##### Proposed change to the membership process which are defined in the Standing Rules:
 
 Any member may nominate a qualified person to be a voting member. Any
 eligible person may be elected as a voting member at any regular meeting
@@ -267,7 +267,7 @@ communication that the members of the meeting may understand.
 
 Motion passes unanimously.
 
-### New Members {#new_members}
+### New Members
 
 Both John and Reuben were voted in as members.
 

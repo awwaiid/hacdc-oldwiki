@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 February 12, 2013
 
@@ -10,7 +10,7 @@ Others Present: Phil, Jarett, Dave, Ahmed, Loki
 
 [Quorum](Quorum) met? Yes!
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 01
 08](Regular_Member_Meeting_2013_01_08) Approved.
@@ -19,9 +19,9 @@ Others Present: Phil, Jarett, Dave, Ahmed, Loki
 
 -   Jamie - getting the 3x3 working via marathon phone call to Megapath
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 We had a hangout meeting to brainstorm ideas for increasing involvement
 in the space. We came up with some good ideas. Want people to realize
@@ -32,7 +32,7 @@ easier to add new members and conduct business. Thought about making a
 web app to inventory member expertise (maybe a mobile RPG kind of
 thing?).
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   Did a great job of showing off for Gates Foundation / Beyond Access
     visit
@@ -41,7 +41,7 @@ thing?).
     several HacDC members there
 -   HacDC LUG - Mailing list is setup already: lug@hacdc.org
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for January 2013:
 ![](HacDC_Financials_2013_01.pdf "HacDC_Financials_2013_01.pdf"). We
@@ -59,7 +59,7 @@ acknowledgement letters for 2012 as soon as time permits.
 
 Quorum is 14.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 We had a small surplus so I am able to declare a \$200 Project Awesome
 dividend and add \$122 to our reserves. Here is the Project Awesome
@@ -69,7 +69,7 @@ don't have a lot of votes for Project Awesome projects so if you want
 some say in how money is spent at HacDC please email your vote to
 awesome@hacdc.org!
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   [Anti-Harassment Policy](Anti-Harassment_Policy) and
     [Diversity Statement](Diversity_Statement) are ready to
@@ -80,7 +80,7 @@ awesome@hacdc.org!
     instructors/speakers would be encouraged to read at the beginning of
     public events and classes
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -93,31 +93,31 @@ for free instead of charging \$15.
 
 Not here.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Tim has been busy with non-HacDC-related stuff. Added a bunch of links
 to different laser cutter companies. The first company we were looking
 at sounded like they treated customers like crap. There are many choices
 to be researched. There are candidates for around \$5500.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 -   White House/FEMA presentation
 -   0.3a release soon
 -   Applied for Informsec grant
     [<https://www.informsec.net/techgrants2/>](https://www.informsec.net/techgrants2/)
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Not much happening.
 
-### Project 3DP {#project_3dp}
+### Project 3DP
 
 No report.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Alberto
 
@@ -165,15 +165,15 @@ rest away. Part 2 is historic but not especially useful stuff. Give Dan
 feedback. We'll try to make appropriate policies for next month's annual
 meeting.
 
-## Old Business {#old_business}
+## Old Business
 
 None.
 
-## New Business {#new_business}
+## New Business
 
 None.
 
-## New Members {#new_members}
+## New Members
 
 Jarett does IT stuff in DC for nonprofits and associations, a ham radio
 operator. Wears a tie, but it's okay because it doubles as an antenna.

@@ -6,7 +6,7 @@ been brought up to date with Slackware 13.37 and uses a 2.6.38.8 kernel.
 Porteus can use binary packages from Slackware 13.37 after conversion to
 Porteus' native format.
 
-## Code Repositories {#code_repositories}
+## Code Repositories
 
 [Github page](https://github.com/Byzantium/Byzantium)
 
@@ -134,7 +134,7 @@ MySQL databases for the web apps!
 
 [The Doctor's to-do list](The_Doctor's_to-do_list)
 
-## Packages built for Byzantium {#packages_built_for_byzantium}
+## Packages built for Byzantium
 
 -   babeld - For great mesh routing.
 -   batman-adv - Kernel module which implements mesh routing at OSI
@@ -298,7 +298,7 @@ nodes](Finding_neighboring_mesh_nodes)
 
 [Fully distributed services](Fully_distributed_services)
 
-## Stuff to consider for later {#stuff_to_consider_for_later}
+## Stuff to consider for later
 
 -   Consider adding [Iodine](http://code.kryo.se/iodine/) to Byzantium
     to help tunnel gatewayed traffic onto the Net.

@@ -1,4 +1,4 @@
-### 2024 Policy Proposals {#policy_proposals}
+### 2024 Policy Proposals
 
 `<em>`{=html}[Our annual board-member elections are occurring on
 Tuesday, Mar
@@ -7,7 +7,7 @@ Tuesday, Mar
 Tuesday Mar
 26](https://www.meetup.com/hac-dc/events/299761507/)`</em>`{=html} - - -
 
-## Noisebridge Inspirations {#noisebridge_inspirations}
+## Noisebridge Inspirations
 
 Suggested by Callie Composed by Gabriel
 
@@ -39,7 +39,7 @@ like to highlight for consideration at HacDC,
     You can hack at HacDC as late as you want, but you can not sleep
     here.
 
-## Open Hac Nights {#open_hac_nights}
+## Open Hac Nights
 
 We have a popular open hac night on Mondays. The official hours are from
 7-9. I think we need to make it clear that hosts of this meeting are
@@ -48,7 +48,7 @@ present. IF there are members who want to continue to host guests past 9
 then it is their responsibility to supervise and clean up after those
 guests.
 
-## Permission Required on Recordings {#permission_required_on_recordings}
+## Permission Required on Recordings
 
 Proposed/composed by: Callie
 
@@ -63,7 +63,7 @@ products of labor made by someone else, unless such are agreed upon:
 
 \- - -
 
-## Non Aggression {#non_aggression}
+## Non Aggression
 
 Proposed by: Sven Composed by: Callie
 

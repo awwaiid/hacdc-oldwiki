@@ -64,7 +64,7 @@ Church](St._Stephen_and_the_Incarnation_Episcopal_Church) to
 host the [Dorkbot DC meeting held on May 26.
 2008](http://www.dorkbot.org/dorkbotdc/meetings/20080527.html).
 
-## Alberto's Idea {#albertos_idea}
+## Alberto's Idea
 
 1.  Make:DC conceptualizes projects
 2.  HacDC builds them

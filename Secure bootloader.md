@@ -11,7 +11,7 @@ There are six priorities that this secure AVR bootloader provides:
 5.  Enforced limitations
 6.  Operable with standard tools
 
-## Secure hardware {#secure_hardware}
+## Secure hardware
 
 The Atmel AVR ATmega128 processor has many specific features designed to
 make it very difficult for an attacker to retrieve the firmware image
@@ -23,7 +23,7 @@ reverse engineering examination of the
 ATmega169](http://www.flylogic.net/blog/?p=15). Their conclusion is that
 Atmel makes the most secure microcontrollers on the market.
 
-## Encrypted firmware {#encrypted_firmware}
+## Encrypted firmware
 
 The firmware images that are sent to customers for updates are protected
 with AES128 in CBC chaining mode, approved by the [NSA for classified
@@ -34,7 +34,7 @@ excess of re-implementing the software. This prevents anyone from
 reverse engineering a firmware update since only the signer and the
 device itself are able to decrypt the firmware image.
 
-## Signed firmware {#signed_firmware}
+## Signed firmware
 
 Only approved firmware can be loaded and any modification of the file
 before flashing or after it is inside the device will prevent the system
@@ -56,7 +56,7 @@ well.
 For high-security applications the chip can be configured to do an
 automatic erase of the application if this checksum ever fails.
 
-## Per-device firmware {#per_device_firmware}
+## Per-device firmware
 
 Each device has its own AES128 key and random 16-byte IV, known only to
 the developer and programmed into the secure memory of the Mega128.
@@ -67,7 +67,7 @@ certain features are disabled for export control reasons or for extra
 cost, it is not possible to use a firmware from another customer on the
 one with reduced functionality.
 
-## Enforced limitations {#enforced_limitations}
+## Enforced limitations
 
 Several limitations on device features are possible, such as designating
 a geographic area in which a GPS equiped device will operate or
@@ -77,7 +77,7 @@ also have a key-generation algorithm to generate a one-time key that
 will allow operation over a specified period of time or in a specified
 location.
 
-## Standard tools {#standard_tools}
+## Standard tools
 
 The bootloader speaks the standard
 [AVR109](http://www.atmel.com/dyn/resources/prod_documents/doc1644.pdf)
@@ -89,12 +89,12 @@ format allows holes it does not take much longer than normal serial
 programming to install. The HMAC block also includes the capability bits
 in high memory where they are safe from `SPM` instructions.
 
-# Source code {#source_code}
+# Source code
 
 -   AES code is based on AVR app note 231
 -   <http://www.osresearch.net/~hudson/secload.tar.gz>
 
-## Generating encryption keys {#generating_encryption_keys}
+## Generating encryption keys
 
 The Makefile will generate keys and IV for a given serial number in a
 deterministic fashion. This makes it easy to recover the keys later, if

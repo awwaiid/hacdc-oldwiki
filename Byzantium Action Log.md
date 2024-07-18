@@ -43,7 +43,7 @@ probably rewrite the page after running it through sort occasionally).
         Byzantium and locks it down. It's also extensible enough to
         build new functionality on later.
 
-### 2012 {#section_1}
+### 2012
 
 ```{=mediawiki}
 {{Template:Byzantium}}

@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 April 10, 2012
 
@@ -11,26 +11,26 @@ Others Present: David, Andy, Ebo, Bryce
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 03
 13](Regular_Member_Meeting_2012_03_13)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Not much to report. Approached by Cardoza (re: FIRST Robotics). Looking
 for mentors to rewire gokarts. No news on GMU camp.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Obtained permission from Brian to add a community mesh antenna to the
 roof to join Mt Pleasant mesh network. Looking for ideas for booth at
 HOPE 2012 in the hackerspace village. Also possible mesh networking
 workshop proposed.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for Feb 2012:
 ![](HacDC_Financials_Mar_2012.pdf "HacDC_Financials_Mar_2012.pdf")
@@ -43,11 +43,11 @@ Vistaprint credits to be used for business cards once we have a design.
 Despite these expenditures, we finished March \$76 ahead and are
 maintaining about 4 months' reserve.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Nothing to report.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -59,7 +59,7 @@ weekend of this month at US Science & Engineering Festival.
 
 Had a 15 page paper to write.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Tim Slagle: A lot of work has been done behind the scenes on the HacDC
 wiki. We created a HacDC:wiki mailing list for planning and discussion.
@@ -95,13 +95,13 @@ in Albequerque, New Mexico - Q Lab. Got a hackerspace passport stamp!!
 Martin: Speaker from ARRL coming to speak to HARC meeting tomorrow
 night.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
-### The Doctor {#the_doctor}
+### The Doctor
 
 The Doctor (aka Bryce Lynch) is a long-time regular of HacDC. When he's
 not galavanting around time and space he donates a considerable amount

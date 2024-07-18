@@ -15,7 +15,7 @@ be awarded to students and tallied at the end of the term. Nate's own
 deduction is that the prof found the policy "BS", and being that "MIT"
 was forcing him to spend time on something other than "T"....
 
-## See also {#see_also}
+## See also
 
 -   [MIBS Simplified Rules of Coordinated Consensus through
     Chaos](MIBS_Simplified_Rules_of_Coordinated_Consensus_through_Chaos)

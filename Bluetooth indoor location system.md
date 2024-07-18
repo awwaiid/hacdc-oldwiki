@@ -23,13 +23,13 @@ testing guest captcha
 -   [Nordic](http://www.mouser.com/ProductDetail/Nordic-Semiconductor/nRF51822-QFAB-R7/?qs=sGAEpiMZZMvQqVCO1QUke9rOCiF3q8UDR59ukwBL9d8%3d)
 -   [TI](http://www.mouser.com/ProductDetail/Texas-Instruments/CC2540F128RHAR/?qs=sGAEpiMZZMuReUCzg6bfTFMX9eNsg5flb%2fyNLpDtSPE%3d)
 
-### Front End/BT modules {#front_endbt_modules}
+### Front End/BT modules
 
 -   just as expensive as SOCs
 
 ## Software
 
-### Phone App {#phone_app}
+### Phone App
 
 #### Android
 

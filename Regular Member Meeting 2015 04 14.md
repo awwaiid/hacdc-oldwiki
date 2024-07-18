@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   April 14, 2015
 :   Called to order at 7:40ish by Celeste
@@ -17,7 +17,7 @@
 
     :   Quorum met? Yes. 10.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2015 03
 10](Regular_Member_Meeting_2015_03_10)
@@ -50,9 +50,9 @@
     application and helping out with the Phillips Collection event.
 -   Many others.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   Stickers! (donated)
 -   Bitcamp
@@ -61,7 +61,7 @@
 -   We should look into getting a table at the US National Maker Faire
     (http://nationalmakerfaire.com/)
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 #### Etiquette
 
@@ -73,7 +73,7 @@ than venting personal rage.
 "The Vice President shall be primarily responsible for the information
 systems and communication processes of the corporation..."
 
-##### NetPLC (RFID & Occupancy Sensor) {#netplc_rfid_occupancy_sensor}
+##### NetPLC (RFID & Occupancy Sensor)
 
 System is technically ready, and the old Occupancy Sensor is returning
 valid data again. However, RFID access control has not been physically
@@ -89,7 +89,7 @@ RAM available and 8 cores, this is a significant step up Shimmer.
 
 HacDC server Shimmer has logged 143 days uptime. Ask for an account.
 
-#### 3D Printers {#d_printers}
+#### 3D Printers
 
 LulzBot Mini is extremely user-friendly. Simply turn on the laptop,
 start Cura, load an STL file, select the desired quality/matieral, and
@@ -98,19 +98,19 @@ click print.
 Rostock Max is performing well. New extruder has substantially improved
 performance and reliability.
 
-#### Laser Cutter {#laser_cutter}
+#### Laser Cutter
 
 Have discussed repairs to the laser cutter with Dan Barlow.
 Electrically, we should be good to go. Physically, mounting brackets are
 required, and the easiest approach is to 3D print them. Will work on
 this ASAP.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Travis has resigned to focus on other things. Need a new Treasurer.
 -   Julia has nominated herself for the position.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I haven't been around here long enough to recognize all the members and
 one of the functions of the Secretary is to maintain an updated
@@ -121,7 +121,7 @@ entries.
 
 Submitted proposals on disposal and storage policies.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
@@ -151,23 +151,23 @@ local campaign office of the CFC. Timely help and suggestions from Jamie
 and Katie contributed to our ability to get this done before the
 deadline.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
 -   
 
@@ -373,7 +373,7 @@ Board's allocation decisions can be made by member vote. At least one
 storage space of 2x2x2 ft will be kept empty and made immediately
 available to new members who desire storage space.
 
-## New Business {#new_business}
+## New Business
 
 -   Vote for a BOD Treasurer
 
@@ -393,7 +393,7 @@ votes. See Old Business.**
     devices. ITechGeek is proposing HacDC transfer ownership and control
     of both to the church.
 
-## New Members {#new_members}
+## New Members
 
 Travis is the acting president of MakerBar in Hoboken NJ, lives near NYC
 but frequents DC regularly enough to want to join. Deepak learned about

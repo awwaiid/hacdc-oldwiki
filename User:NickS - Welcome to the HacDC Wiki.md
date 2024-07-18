@@ -25,7 +25,7 @@ mailing lists.
 ```{=html}
 <div style="float:left; width:48%;">
 ```
-### Cool Stuff Going On Right Now {#cool_stuff_going_on_right_now}
+### Cool Stuff Going On Right Now
 
 -   [Byzantium](Byzantium)
 -   [3D Printing](3D_Printing)
@@ -38,7 +38,7 @@ mailing lists.
     stuff, get your license, QSO, test, tinker, learn,... 2nd and 4th
     Wednesdays ...usually from 7:30pm on
 
-### Top Links {#top_links}
+### Top Links
 
 Themes and threads that span across the other categories in the Wiki.
 This is also where we keep things that don't easily fit in other
@@ -51,7 +51,7 @@ categories:
 -   [ Classes](:Category:Classes)
 -   [ Hacker Travel](:Category:Hacker_Travel)
 
-### [HacDC Information](:Category:HacDC_Info) {#hacdc_information}
+### [HacDC Information](:Category:HacDC_Info)
 
 Here is information on HacDC itself: Official documents, policies,
 Member Meeting minutes, etc.
@@ -108,7 +108,7 @@ This calendar pulls events from our official
 feed](http://hacdc.org/ics) is also available, for enjoying our events
 from your favorite calendaring software.
 
-### Past Cool Stuff That Will Happen Again {#past_cool_stuff_that_will_happen_again}
+### Past Cool Stuff That Will Happen Again
 
 -   [ Intro to Visuals for
     Programmers](IntrotoVisualsforProgrammers)
@@ -137,13 +137,13 @@ tools!
 -   [Makerbot](:Category:Makerbot)
 -   [Reprap](:Category:Reprap)
 
-### [Events](:Category:Events) {#events_1}
+### [Events](:Category:Events)
 
 Sometimes HacDC attends fun events to learn and show off our projects!
 
 -   [ShmooCon](:Category:ShmooCon)
 
-### [Useful Information](:Category:Useful_Info) {#useful_information}
+### [Useful Information](:Category:Useful_Info)
 
 Miscellaneous useful information:
 

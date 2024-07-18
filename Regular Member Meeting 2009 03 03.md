@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 March 3, 2009 Meeting called to order at 7:30 PM by Coordinator in
 Chief.
@@ -10,15 +10,15 @@ Non-Members: Ben Bryce
 
 [Quorum](Quorum) determined to be present.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [2009 Annual Meeting Minutes](2009_Annual_Meeting_Minutes)
 were presented. Dan moved to approve. Serge seconded. Motion carried
 with no objections.
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief Report {#coordinator_in_chief_report}
+### Coordinator in Chief Report
 
 Talked with the church. The church expects us to finish, as promised, a
 door entry locking system.
@@ -37,7 +37,7 @@ deal for the future.
 Elliot has agreed to be the formal point of contact for church related
 business.
 
-### Minister of Finance Report {#minister_of_finance_report}
+### Minister of Finance Report
 
 Still scrubbing the membership list. We have a significant portion of
 members who are either behind on dues or of an undetermined status.
@@ -47,18 +47,18 @@ members who are either behind on dues or of an undetermined status.
 The bank accounts have been signed over to Elliot and Tim as of March 3,
 2009.
 
-### Minister of Information Report {#minister_of_information_report}
+### Minister of Information Report
 
 Dealing with the emails that have piled up in the request tracker and
 moderating the mailing lists, so that things are up to date.
 
-### Keeper of the MIBS Report {#keeper_of_the_mibs_report}
+### Keeper of the MIBS Report
 
 Working on a new website for HacDC.
 
-## Consent Agenda {#consent_agenda}
+## Consent Agenda
 
-### Basement Space Update {#basement_space_update}
+### Basement Space Update
 
 Request for money for more Dry-Lock (\$75/5 gal buck. Estimate we need 4
 more, but approved 5 so that we're sure to have enough.)
@@ -81,13 +81,13 @@ until it's done.
 
 Authorization for 5 buckets of Dry-Lock was approved.
 
-### Robert's Rules Discussion {#roberts_rules_discussion}
+### Robert's Rules Discussion
 
 Serge expressed interest in finding out more about them.
 
 Ben told him to google it.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Member 7: Attended [Dorkbot DC](http://dorkbot.org/dorkbotdc). Several
 people seemed interesting in attending HacDC. Member 7 is willing to
@@ -101,11 +101,11 @@ and spoke with lots of other hackerspaces. Attending the [NoVa LUG
 meeting](http://www.novalug.com/) to talk about HacDC. Asked for members
 to send him email about other groups he can address.
 
-## Old Business {#old_business}
+## Old Business
 
 ### Door Entry Project: Discussed in CiC Report. {#door_entry_project_discussed_in_cic_report.}
 
-## New Business {#new_business}
+## New Business
 
 ### Hosting
 
@@ -115,7 +115,7 @@ Tommy's house, with Business FIOS. He's willing to host it for free.
 There was a discussion about whether a VPS account at a real hosting
 company would be better.
 
-### Dues Amnesty {#dues_amnesty}
+### Dues Amnesty
 
 Some "members" have not paid dues for many months, having fallen off the
 automatic subscription system. They weren't reminded by us to make
@@ -132,7 +132,7 @@ good standing. If they don't, they'll no longer be a member.
 Member 7 suggested changing the language to make it clear that we are
 willing to accept the back dues if member's want to pay them.
 
-### Expense Announce List {#expense_announce_list}
+### Expense Announce List
 
 Tim is trying to increase transparency of our financial activities.
 Create a mailing list open only to members, where each expenditure gets

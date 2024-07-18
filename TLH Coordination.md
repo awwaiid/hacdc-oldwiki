@@ -24,7 +24,7 @@ Holiday Inn: 125 West 26th Street (26th between 7th and 6th.) Left on
 
 [HHH Ranch](http://www.hackerhalfwayhouse.org/): 114 Forrest St. #3A
 
-## Going to TLH Schedule {#going_to_tlh_schedule}
+## Going to TLH Schedule
 
   Member Name                             Traveling By    Departure Day   Departure Time   Arrival Time                                                Hotel / Crash Space
   --------------------------------------- --------------- --------------- ---------------- ----------------------------------------------------------- ---------------------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ Holiday Inn: 125 West 26th Street (26th between 7th and 6th.) Left on
   Matt                                    BoltBus         Friday          07:30            11:30                                                       Times Square Hostel
   [Derek](User:Dcooper)        BoltBus         Friday          10:30            14:30                                                       Hotel Penn (Katie's Room)
 
-## Cash Register Schedule {#cash_register_schedule}
+## Cash Register Schedule
 
   Day        Time Block      Cashiers
   ---------- --------------- ----------
@@ -96,7 +96,7 @@ Holiday Inn: 125 West 26th Street (26th between 7th and 6th.) Left on
 
 --[Dcooper](User:Dcooper) 16:57, 16 July 2008 (UTC)
 
-## Events Happening {#events_happening}
+## Events Happening
 
   Event                                                                                                    Location                                                                                                    Day      Start Time   End Time   Who's going?
   -------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------- -------- ------------ ---------- --------------------------------
@@ -107,7 +107,7 @@ Holiday Inn: 125 West 26th Street (26th between 7th and 6th.) Left on
   Globesonic Sound System on the Hudson                                                                    [68th Street on the Hudson River](http://globesonic.com/events.html)                                        Friday   7pm          11pm       Tino
   Metafilter Meetup                                                                                        [mefi thread](http://metatalk.metafilter.com/16418/Anyone-mentions-gibson-they-get-to-buy-a-round#555481)   Sunday   7pm          10pm?      [Bjorn](User:Bjorn)
 
-## Returning to DC {#returning_to_dc}
+## Returning to DC
 
   Member Name                             Traveling By    Departure Day          Departure Time
   --------------------------------------- --------------- ---------------------- -----------------------------------------------------------------

@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date Sat 11 Jun 2022 at 2:30pm
 :   Members present: Michelle, Ken
@@ -26,26 +26,26 @@ Action items:
         there is opening with a tunnel (the tunnel is not part of our
         storage space, was offered to us at one point)
 
-## Workroom: Washroom {#workroom_washroom}
+## Workroom: Washroom
 
 Standing pole lamp (photo)
 
-## Workroom: Entrance/short hallway {#workroom_entranceshort_hallway}
+## Workroom: Entrance/short hallway
 
 Filing cabinet, gray: "HacDC" banners (top drawer) Filing cabinet, gray:
 Raffle tickets, for events (top drawer) Filing cabinet, gray: clear and
 blue disposable glvoes (top drawer)
 
-## Workroom: North {#workroom_north}
+## Workroom: North
 
 Taking two large space Space Blimp boxes into basement For grabs: large
 brown box marked "CRISPR" (everything photographed except the gloves,
 microslides): do we need any slides for the microscopes we're keeping?
 Can donate to Ulisses?
 
-## Workroom: East {#workroom_east}
+## Workroom: East
 
-## Workroom: South {#workroom_south}
+## Workroom: South
 
 Missing 4 (or 7) tabletop computers since Bobby's inventory - intended
 for anyone who comes in to have something to work on. Possibly in
@@ -53,12 +53,12 @@ basement. Tayeb/Kevin/Obi: say to check near A/C - these are in fact
 "laptops" without storage, without batteries and unlikely to have been
 taken
 
-## Workroom: West {#workroom_west}
+## Workroom: West
 
 Saw, electric metal saw - is Bobby's (had his name on it) and "wear
 safety goggles" sign
 
-## Basement: North (same wall as the entrance door) {#basement_north_same_wall_as_the_entrance_door}
+## Basement: North (same wall as the entrance door)
 
 Radon detector (brand: Corintium) - missing Bobby's radon detector which
 was previously on this wall (last seen: Feb 2020)
@@ -66,8 +66,8 @@ was previously on this wall (last seen: Feb 2020)
 (\*) - need to lock physical devices on loan down to the walls or other
 immoveable structure
 
-## Basement: East {#basement_east}
+## Basement: East
 
-## Basement: South {#basement_south}
+## Basement: South
 
-## Basement: West {#basement_west}
+## Basement: West

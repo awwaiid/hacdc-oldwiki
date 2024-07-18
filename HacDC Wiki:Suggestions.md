@@ -3,7 +3,7 @@
 ```
 Suggestions for changes to HacDC wiki. Feel free to add your ideas!
 
-## Incoming Suggestions {#incoming_suggestions}
+## Incoming Suggestions
 
 add DPL
 :   Dynamic Page Listing enables the creation of, well, dynamic search
@@ -69,15 +69,15 @@ CSS - tweak headers
 ```{=html}
 <div style="border:1px solid black; width:600px; padding:1em; margin-left:2em;">
 ```
-## Header 2 {#header_2}
+## Header 2
 
 some text
 
-### Header 3 {#header_3}
+### Header 3
 
 some more text
 
-#### Header 4 {#header_4}
+#### Header 4
 
 yep, even more text
 
@@ -90,7 +90,7 @@ yep, even more text
 
 :   The headers could use more help but maybe this'll do...?
 
-## Not So Successful {#not_so_successful}
+## Not So Successful
 
 Suggestions that either we simply cannot do or will not do. Please
 provide the reason for moving a suggestion to here.

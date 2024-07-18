@@ -1,7 +1,7 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 December 2, 2008\
 Members Present: [Nick](User:Nickfarr), Ash, [Tim
@@ -15,11 +15,11 @@ Others Present: 3 Guests\
 HacDC, 1525 Newton St NW, Washington, DC. (Space)\
 Presiding: [Nick Farr](User:Nickfarr)\
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 (No items submitted in time to meet Consent Agenda Rules)
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 [Coordinator in Chief](Coordinator_in_Chief): Resigned and
 not present
@@ -33,7 +33,7 @@ and not present
 
 [Keeper of the MIBS](Keeper_of_the_MIBS): Not Present.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 One member mentioned he was looking for a job and a discussion emerged
 about a Resume pool. Nick suggested using the wiki to post links to
@@ -63,9 +63,9 @@ her work on the wiki. The Shadow [Keeper of the
 MIBS](Keeper_of_the_MIBS) awarded Katie 1 billion [MIBS
 points](MIBS_points).
 
-## New Business {#new_business}
+## New Business
 
-### Mailing List Policy Discussion {#mailing_list_policy_discussion}
+### Mailing List Policy Discussion
 
 The purpose of [the blabber
 list](http://hacdc.org/mailman/listinfo/blabber_hacdc.org) was
@@ -81,7 +81,7 @@ rules between members and
 [blabber](http://hacdc.org/mailman/listinfo/blabber_hacdc.org), but
 allow it to naturally develop.
 
-### Dorkbot Founders {#dorkbot_founders}
+### Dorkbot Founders
 
 Tim C. moved to grant Alberto and Gareth from [Dorkbot
 DC](http://www.dorkbot.org/dorkbotdc) dues waivers and make them full
@@ -99,7 +99,7 @@ An additional amendment was offered by
 
 The original motion passed without objection.
 
-### [Workshop Configuration](Workshop_Configuration) {#workshop_configuration}
+### [Workshop Configuration](Workshop_Configuration)
 
 [Nick](User:Nickfarr) presented a plan for our new space in a
 workshop configuration, suggesting we use half for metalworking space
@@ -109,7 +109,7 @@ and half for a space to store new acquisitions and take
 Discussion ensued, and it was decided that any plans should go up [on
 the wiki](Workshop_Configuration).
 
-### [Main Space Reconfiguration](Main_Space_Reconfiguration) {#main_space_reconfiguration}
+### [Main Space Reconfiguration](Main_Space_Reconfiguration)
 
 [Nick](User:Nickfarr) suggested removing the loft are,
 putting in two Ikea workbenches there with storage space above. A member
@@ -124,7 +124,7 @@ wiki](Main_Space_Reconfiguration).
 [Nick Farr](User:Nickfarr) also mentioned that he will be
 using Wednesdays to take stuff apart and list it on eBay.
 
-### [A HacDC Christmas](A_HacDC_Christmas) {#a_hacdc_christmas}
+### [A HacDC Christmas](A_HacDC_Christmas)
 
 General consensus seems to be that it seems like there's not much time
 between now and then to actually pull this off.
@@ -133,7 +133,7 @@ Several members mentioned they're in favor of the idea in general, but
 are very worried about the time frame. The issue was tabled for this
 meeting.
 
-### [Tuesday Seminar Series](Tuesday_Seminar_Series) {#tuesday_seminar_series}
+### [Tuesday Seminar Series](Tuesday_Seminar_Series)
 
 We have the auditorium reserved through March on Tuesday nights. We need
 to identify speakers for weekly meetings in 2009. We have speakers lined
@@ -142,20 +142,20 @@ up for the rest of December.
 Members are encouraged to come to Tuesday meetings and publicize the
 seminars wide and far.
 
-### [Data Destruction and Donation Day](Data_Destruction_and_Donation_Day) {#data_destruction_and_donation_day}
+### [Data Destruction and Donation Day](Data_Destruction_and_Donation_Day)
 
 Tentative plans for data destruction day are on the wiki. Tim C. has
 offered his company's services to help erase drives.
 
 Derek offered to take the lead on this and plan an event.
 
-### [Door Entry Project](Door_Entry_Project) {#door_entry_project}
+### [Door Entry Project](Door_Entry_Project)
 
 Elliot met with the church last weekend to propose the front door
 project. He's waiting to hear back from them about approval for the
 project. The time frame for project completion is mid-January.
 
-## New Members {#new_members}
+## New Members
 
 Nick Farr sponsored new member Jason. Elliot sponsored Mark as a new
 member. There were no objections.

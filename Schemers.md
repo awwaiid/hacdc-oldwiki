@@ -12,13 +12,13 @@ Anyone is welcome to attend, normally the meetings are held in person at
 the [HacDC space](http://www.hacdc.org/location/), in the classroom
 area, although if that is booked, we may meet in the sanctuary.
 
-### Meetup Group {#meetup_group}
+### Meetup Group
 
 We keep the master calendar on [the HacDC
 meetup](http://www.meetup.com/hac-dc/events/calendar/) calendar. Please
 RSVP If you plan to attend a session.
 
-### Mailing List {#mailing_list}
+### Mailing List
 
 Students are encouraged to join the [SICP mailing
 list](https://groups.google.com/a/hacdc.org/forum/?fromgroups#!forum/sicp)
@@ -58,7 +58,7 @@ It's also possible to use these tools:
 -   [Lisping](http://slidetocode.com/), a radical new iPad Scheme and
     Clojure programming environment
 
-## Exercise Solutions {#exercise_solutions}
+## Exercise Solutions
 
 Several study group members are posting their solutions online:
 

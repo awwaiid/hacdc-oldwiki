@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-07-12 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 July 12, 2011
 
@@ -15,20 +15,20 @@ Others Present: Greg
 
 [Quorum](Quorum) met? yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 06
 14](Regular_Member_Meeting_2011_06_14)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Nothing.
 
-### Treasurer's Report (Tim Slagle) {#treasurers_report_tim_slagle}
+### Treasurer's Report (Tim Slagle)
 
 I have tracked down all the account info I needed but am still looking
 for some receipts. I downloaded all the 2011 financial info from BB&T
@@ -49,9 +49,9 @@ members.
 I plan to cancel our monthly Quicken Online account (\$10.55/mo) as soon
 as I'm sure my spreadsheets capture enough info to do the annual report.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Toast
 
@@ -63,13 +63,13 @@ as I'm sure my spreadsheets capture enough info to do the annual report.
 ```
 -   Zine fest drew about 10 people
 
-#### Brad B {#brad_b}
+#### Brad B
 
 -   USA.gov asked to share about their data visualization for bit.ly
     hackathon, July 29. (Passed up our venue b/c of our internet
     connection.)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Absent member [Katie](user:katie) says hi from Japan, and
     congrats on the latest spaceblimp launch!
@@ -108,11 +108,11 @@ as I'm sure my spreadsheets capture enough info to do the annual report.
 ```
 -   Pete replaced the belt on the drill press
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

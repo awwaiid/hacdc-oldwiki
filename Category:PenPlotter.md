@@ -1,6 +1,6 @@
 HP Draft Pro Plus
 
-# Current Machine Status {#current_machine_status}
+# Current Machine Status
 
 Operational, with dedicated laptop. Run 'sudo plot.sh
 `<filename>`{=html}' to convert and transfer postscript vector files.
@@ -34,7 +34,7 @@ paper can be handled, of course.
 See mirage335 at HacDC's IRC channel. If he is around and not to busy,
 Dan Barlow is the plotter's owner, and an expert in all trades.
 
-# Please Avoid {#please_avoid}
+# Please Avoid
 
 Plotter is Dan Barlow's property, not HacDC. He will be quite
 disappointed if it is damaged. Additionally, it has been a great public
@@ -56,7 +56,7 @@ questions than to cause damage.
 
 <https://github.com/HacDC/PenPlotDriver>
 
-# Future Improvements {#future_improvements}
+# Future Improvements
 
 -   Single-mode 405nm 1W UV [BDR-209 laser
     diode](https://sites.google.com/site/dtrlpf/home/diodes/bdr-209-405nm-16x-diodes)

@@ -2,14 +2,14 @@
 
 ## Local
 
-### 1230 S Capitol Street SE, Washington, DC 20003 {#s_capitol_street_se_washington_dc_20003}
+### 1230 S Capitol Street SE, Washington, DC 20003
 
 ![](StorageMetroRoute.jpg "StorageMetroRoute.jpg"){width="200"}
 
 Metro accessible, simple route and easy walk. Upstairs access by
 elevator. \$221/mo 10' x 15' \$185/mo 10' x 10'
 
-### 2308 Chillum Road, Hyattsville, MD 20782 {#chillum_road_hyattsville_md_20782}
+### 2308 Chillum Road, Hyattsville, MD 20782
 
 Metro accessible before dark ('trail' officially closes after dark).
 Upstairs access by elevator. \$206/mo 10' x 15' \$135/mo 10' x 10'

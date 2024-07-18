@@ -67,7 +67,7 @@ drop of sweat I shed on behalf of HacDC is insulted by this proposal.
 
 (moved from original discussion page)
 
-## Reasons for Opposition {#reasons_for_opposition}
+## Reasons for Opposition
 
 -   I think this idea sucks!
 

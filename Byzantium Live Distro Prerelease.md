@@ -1,4 +1,4 @@
-## Prerelease Process {#prerelease_process}
+## Prerelease Process
 
 **DRAFT** On this page we have a list of things that need to happen
 between the **final** build and the publishing of software or
@@ -7,7 +7,7 @@ all items are required to be satisfied for an individual build before
 being placed in another part of the project or before publishing the
 project.
 
-### Build Environment {#build_environment}
+### Build Environment
 
 -   manifest check - make sure what you think is there is actually
     there. manifest files (with name `<scope>`{=html}.manifest) are
@@ -17,7 +17,7 @@ project.
         **make manifest** or **make test** or something like that.
 -   ?other sanity checks?
 
-### Runtime Environment {#runtime_environment}
+### Runtime Environment
 
 -   for each package/major feature set a checklist must be made that
     will reasonably ensure the software is behaving as expected.
@@ -49,7 +49,7 @@ project.
         should use paths with the expectation that the script will be
         run from an arbitrary directory.
 
-### Human Environment {#human_environment}
+### Human Environment
 
 -   2 day cool down period between building and publishing
 -   No .iso image goes out without being PGP signed against key

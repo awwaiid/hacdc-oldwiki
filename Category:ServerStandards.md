@@ -16,20 +16,20 @@ Examples:
 Unless required all local timezones should be set to EST/EDT aka US
 Eastern Time.
 
-# User Created & Ephemeral {#user_created_ephemeral}
+# User Created & Ephemeral
 
-## Naming Conventions {#naming_conventions}
+## Naming Conventions
 
 See server specific rules below. If there are none for your machine use
 `<username>`{=html}-`<use>`{=html}-`<increment>`{=html}. Examples:
 
 -   haxwithaxe-example-0
 
-## Timezone {#timezone_1}
+## Timezone
 
 See Permanent rules for timezone
 
-# Server Specific Rules {#server_specific_rules}
+# Server Specific Rules
 
 -   [HacDC-shared-m335-1](HacDC-shared-m335-1-standards)
 

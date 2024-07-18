@@ -1,6 +1,6 @@
 Placeholder...
 
-## Verilog Define Statements {#verilog_define_statements}
+## Verilog Define Statements
 
 Verilog provides a text macro substitution facility. This may be useful
 for defining constants, opcodes, or with conditional compilation. To
@@ -74,11 +74,11 @@ Likewise, conditional compilation of code is possible
 
     endmodule
 
-## Verilog Events {#verilog_events}
+## Verilog Events
 
 Lorem Ipsum
 
-## Verilog Tasks {#verilog_tasks}
+## Verilog Tasks
 
 Lorem Ipsum
 

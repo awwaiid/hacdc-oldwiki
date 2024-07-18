@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date Tue 12 Jul 2022
 :   Called to order at 7:35 pm by Michelle
@@ -11,7 +11,7 @@
 
     :   Quorum met? **YES**
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_06_14) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_06_14)
 
 -   Approved
 
@@ -23,9 +23,9 @@
     July 28th, 2022) and a \$500 donation to HacDC from the summit
     organizers.
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   The [Persistence of Vision (POV) Bike Light
     Project](https://lab64.stanford.edu/bike-light-pov) event scheduled
@@ -65,7 +65,7 @@
         purchase.
 -   Matt brought filters and dropped them off in the space.
 
-## New Business {#new_business}
+## New Business
 
 -   Kevin is now acting as secretary (and flying blind)
 -   **Mesh Networking Project**
@@ -120,29 +120,29 @@
 -   The PayPal logo on the home page is blocked by some ad blockers.
     Michelle will fix / provide non-blocked link.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   20 members down from 21 as a result of Tayeb moving out of the area.
 -   Michelle is now making the donation that Tayeb made.
@@ -150,9 +150,9 @@
 -   Next month will show expenses for the newly approved containers,
     dessicant, filaments, etc.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Gabe
 

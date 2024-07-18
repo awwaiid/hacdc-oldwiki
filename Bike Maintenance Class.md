@@ -4,7 +4,7 @@ stands will be provided. If you can't, don't worry, each class will have
 relevant demo bikes and components on hand. Tools will be limited so
 bring in your own if you have them.
 
-## Lesson Overviews {#lesson_overviews}
+## Lesson Overviews
 
 -   [Week 1, Introduction and Flat
     Repair](Bike_Maintenance_Class:_Week_1,_Introduction_and_Flat_Repair)
@@ -13,7 +13,7 @@ bring in your own if you have them.
 -   [Week 3, Drivetrain and
     Shifting](Bike_Maintenance_Class:_Week_3)
 
-## Online Resources {#online_resources}
+## Online Resources
 
 [Sheldon Brown](http://www.sheldonbrown.com/) - More than you'll ever
 want to know about bikes. [Park Tool Repair
@@ -22,7 +22,7 @@ company with great, straight forward how-to's.
 [WABA](http://www.waba.org/) - Washington Area Bicycle Association.
 Awesome people, awesome resource.
 
-## Offline Resources {#offline_resources}
+## Offline Resources
 
 Your local bike shop! Go support them!
 

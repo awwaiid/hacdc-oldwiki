@@ -1,4 +1,4 @@
-## Hard Drive Reprogramming {#hard_drive_reprogramming}
+## Hard Drive Reprogramming
 
 For this project, we are taking the controller board from standard hard
 disk drives and repurposing them as RAM. Each controller board typically

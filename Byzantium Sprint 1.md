@@ -38,7 +38,7 @@ protocol](http://lists.alioth.debian.org/pipermail/babel-users/2008-August/00015
 protocol](http://lists.alioth.debian.org/pipermail/babel-users/2008-August/000156.html)
 [Tweaking BATMAN-adv](http://www.open-mesh.org/wiki/batman-adv/Tweaking)
 
-### Distributed DNS {#distributed_dns}
+### Distributed DNS
 
 see [this](Byzantium_Distributed_DNS)
 

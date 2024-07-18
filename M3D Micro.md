@@ -15,7 +15,7 @@ When the printer is power-cycled, the firmware starts up in **bootloader
 mode** and will not receive gcode commands. To enable the printer, use
 `m33-manager` (check software section) to switch it to firmware mode.
 
-## Extruder Config {#extruder_config}
+## Extruder Config
 
 -   **Printer type:** Custom FDM Printer
 -   **Nozzle size:** 0.35mm
@@ -23,7 +23,7 @@ mode** and will not receive gcode commands. To enable the printer, use
 -   **G-code flavor:** RepRap
 -   **Retraction length:** 2mm (important!)
 
-## Start G-code {#start_g_code}
+## Start G-code
 
     G28; set home position
     M106 S255; turn on fans
@@ -34,7 +34,7 @@ mode** and will not receive gcode commands. To enable the printer, use
     G1 F600 X40 Y104 E10.0;
     G92 E0;
 
-## End G-code {#end_g_code}
+## End G-code
 
     G91; relative positioning
     G1 E-0.5 F300; release pressure
@@ -53,17 +53,17 @@ mode** and will not receive gcode commands. To enable the printer, use
 You can use `pronsole` or `m33-manager` to run these gcode commands
 directly.
 
-## Printer calibration {#printer_calibration}
+## Printer calibration
 
     G30; calibrate bed depth
     G32; calibrate bed tilt
 
-## Insert new filament {#insert_new_filament}
+## Insert new filament
 
     M104 S200; turn on the extruder
     G1 F100 E100; pull in new plastic
 
-## Replacing filament {#replacing_filament}
+## Replacing filament
 
     M104 S200; turn on the extruder
     G1 F60 E60; soften up plastic
@@ -72,7 +72,7 @@ directly.
 
 # Software
 
-## M33 Manager {#m33_manager}
+## M33 Manager
 
 **Github:**
 <https://github.com/donovan6000/iMe/tree/master/M33%20Manager>\
@@ -82,7 +82,7 @@ directly.
 and
 [Windows](https://raw.githubusercontent.com/donovan6000/iMe/master/M33%20Manager/M33%20Manager%20Windows.zip).
 
-## Stock M3D Drivers (only historical) {#stock_m3d_drivers_only_historical}
+## Stock M3D Drivers (only historical)
 
 **Website:** <https://support.printm3d.com/892707-M3D-Micro-Downloads>\
 **Documentation:**

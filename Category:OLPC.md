@@ -1,6 +1,6 @@
 **This is a central page for OLPC related info and projects.**
 
-## How Tos {#how_tos}
+## How Tos
 
 [Soundmodem](OLPCSoundmodem) on the OLPC
 [DebXO](OLPCDebXO) on the OLPC [build a custom

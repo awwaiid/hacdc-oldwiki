@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   September 08, 2015
 :   Called to order at 7:52 pm by Celeste
@@ -12,7 +12,7 @@
 
     :   Quorum met? Yes 11 of 32 members present.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2015 08
 11](Regular_Member_Meeting_2015_08_11)
@@ -22,11 +22,11 @@
 Ethan W. for an offer of scanning electron microscope spare parts.
 Danish for helping Ethan move a second Cambridge Stereoscan SEM.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 All four Purple Martins fleged. Probably headed to South America by now,
 if not there already. [Photos
@@ -39,7 +39,7 @@ upgraded with compatible custom metal plates. Progress documented at
 [Aleph Objects'
 forum](https://forum.lulzbot.com/viewtopic.php?f=16&t=2559&start=20).
 
-#### Alternative Office Space {#alternative_office_space}
+#### Alternative Office Space
 
 Recommend we do not take the office space down the hall. We would be
 better off retaining one of the existing spaces, with access to
@@ -59,7 +59,7 @@ little of the classroom space.
 This can be done one workstation at a time, gradually moving equipment
 and freeing up space. CAD models should be available soon.
 
-#### IT Admin {#it_admin}
+#### IT Admin
 
 HacDC servers suffered some downtime, due to external power failure
 exceeding UPS capabilities. Shell/VPS servers Starlight/Shimmer are
@@ -72,13 +72,13 @@ A ToDo/Wishlist category has been added to the wiki. The old wishlist
 page was perpetually obsolete, hopefully a category page linked to user
 pages, projects, etc, will be easier to maintain.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Income from memberships for August: \$1500 Donations: \$150
 
 paypal balance: \$1341.66 Dwolla balance: \$890 bank balance: \$6853.39
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Not much to report; mostly the proposals. We generally need more
 members. 32 members, a third of which aren't really active, is not
@@ -86,19 +86,19 @@ enongh. HacDC doesn't really work without active members teaching
 classes and helping out. We're becoming overreliant on Juri for 3D
 Thursdays, Web Scraping, Treasurer, etc.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Four Raspberry Pi's have been purchased, to be expensed soon. At least
 two are immediately planned for dedication to HacDC 3D printers.
@@ -109,7 +109,7 @@ Planning further repairs and upgrades, likely including the following.
 -   Hard disks may be needed, either for NAS capacity upgrades, or RAID
     redundancy.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 No expenditures this month.
 
@@ -120,17 +120,17 @@ We could upgrade to this outstanding mitre saw someday:
 Lumber may be needed for custom furniture in the classroom. Funding this
 through EXPANSION is a possibility.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
 -   Pending: Proposal for a list of special tool custodians and list of
     authorized users (eg CNC, Laser Cutter, Lathe, etc).
 -   Pending: CryptoParty 2015?
 
-## New Business {#new_business}
+## New Business
 
 Proposal 1a: HacDC may sublet the classroom to other corporations during
 the hours of 7am to 5:30pm, Monday thru Friday. HacDC authorizes the
@@ -184,7 +184,7 @@ Upon further discussion there was general sense that the 3D Printing and
 HARC station would stay in the upstairs classroom, the woodworking,
 metalworking and laser cutter would move to the basement.
 
-## New Members {#new_members}
+## New Members
 
 Dylan J. welcomed by unanimous vote of all members present
 

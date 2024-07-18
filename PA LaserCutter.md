@@ -1,4 +1,4 @@
-### Project Summary {#project_summary}
+### Project Summary
 
 Project Code
 :   LASER
@@ -23,7 +23,7 @@ License or IP status
     to everyone with the proper training. Objects will be created on it
     from design files that can have their own license terms.
 
-### Additional Info {#additional_info}
+### Additional Info
 
 We currently have \$1500 earmarked for the laser cutter: \$1000 from the
 church for Martin's intercom wiring, and \$500 from a joint WPA/HacDC

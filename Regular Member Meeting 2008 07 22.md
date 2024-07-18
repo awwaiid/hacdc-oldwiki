@@ -8,7 +8,7 @@ Called to order @ 7:33
 
 People should be bopped, often.
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 [Andrew](User:Q): Training: Eliot, and him september
 microcontroller meeting, AVR - setup 2 mailing list, [microcontroller
@@ -39,7 +39,7 @@ Richard Bewley:
 
 Working on administrative things, coordination, food.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Asked about training, would be nice to have a wiki page for
     training.
@@ -98,7 +98,7 @@ Derek - Has LCD monitors, invited lots of people to come visit us.
     -   Sunday, big dinner and acknowledge people, such as Yhenn. Pot
         Luck dinner.
 
-## Personal Member Storage Area {#personal_member_storage_area}
+## Personal Member Storage Area
 
 2 alcoves outside, ask [Nate](User:Myself) if there's some
 way to make that a personal member storage area.

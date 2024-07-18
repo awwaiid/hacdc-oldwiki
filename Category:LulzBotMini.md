@@ -1,22 +1,22 @@
 HacDC's LulzBot Mini 3D Printer.
 [thumb\|upright=4\|right](File:LulzBotMini.jpg)
 
-## Current Machine Status {#current_machine_status}
+## Current Machine Status
 
 Operational --[Nostromo](User:Nostromo)
 ([talk](User_talk:Nostromo)) 18:51, 12 April 2015 (PDT)
 
-## General Info {#general_info}
+## General Info
 
 Model: LulzBot Mini
 
-## Printing Procedures {#printing_procedures}
+## Printing Procedures
 
 ***Everything below this is just a boilerplate copy of the cube wiki and
 doesn't apply until I edit it***--[Nostromo](User:Nostromo)
 ([talk](User_talk:Nostromo)) 15:44, 11 February 2015 (PST)
 
-### 3D File Preparation {#d_file_preparation}
+### 3D File Preparation
 
 The LulzBot Mini uses custom slicer software (Cura) to convert a ".stl"
 files to a ".gcode" file which is what the LulzBot Mini printer
@@ -42,7 +42,7 @@ understands.
 5.  File/Print to complipe the gcode and sent to the Cura Control
     Program
 
-### Powering on the LulzBot Mini {#powering_on_the_lulzbot_mini}
+### Powering on the LulzBot Mini
 
 1.  Make sure the LulzBot Mini is on it's marks on the table (Beside the
     shelf next to the door etc..)
@@ -53,16 +53,16 @@ understands.
         you have directions to feed your robot on how to turn on the
         LulzBot ;-).
 
-### Before You Start The Print!! {#before_you_start_the_print}
+### Before You Start The Print!!
 
-#### Prep the Print Bed (IMPORTANT) {#prep_the_print_bed_important}
+#### Prep the Print Bed (IMPORTANT)
 
 -   For PLA/ABS/HIPS just clean the bed using an alcohol swab (Should be
     one in the LulzBot Mini Kit)
 -   For more exotic filaments you may have to apply PVA Glue Stic (Refer
     to the manual)
 
-### Start the Print {#start_the_print}
+### Start the Print
 
 1.  The Cura Control interface (Target looking thing) should have come
     up when you hit print in the Cura Slicer
@@ -70,13 +70,13 @@ understands.
     -   Don't worry about setting the temps etc.. That is handled
         automatically by the slicer.
 
-### Monitoring the Print {#monitoring_the_print}
+### Monitoring the Print
 
 Now that the Mini has started printing it's important to keep an eye on
 it. If at any time you see an issue please cancel the print by hitting
 the "Motors Off" button on Cura control interface.
 
-### Removing the Print from the Build Plate {#removing_the_print_from_the_build_plate}
+### Removing the Print from the Build Plate
 
 You're almost done now it's time for the last step. Removing the print
 from the build plate.
@@ -91,7 +91,7 @@ from the build plate.
         remove the part by sliding it under and carefully prying it
         loose (careful not to scratch the build platform).
 
-### Please Clean up for Others {#please_clean_up_for_others}
+### Please Clean up for Others
 
 Please do the following procedure so the next person can use the machine
 
@@ -99,12 +99,12 @@ Please do the following procedure so the next person can use the machine
 -   Turn off the printer
 -   Turn off and stow the laptop
 
-### Operators Log {#operators_log}
+### Operators Log
 
 Please provide feedback on our print in the operators log for this
 printer [Mini_Operators_Log](Mini_Operators_Log)
 
-## Bed Leveling {#bed_leveling}
+## Bed Leveling
 
 *LulzBot Mini does this automatically YAY!!*
 

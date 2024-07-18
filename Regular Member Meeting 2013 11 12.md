@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   November 12, 2013
 :   Called to order at 2005 by Ben
@@ -21,7 +21,7 @@ Online: Kevin, Christine, Phil, Jamie, Lee
 
 Nope.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 10
 08](Regular_Member_Meeting_2013_10_08)
@@ -44,21 +44,21 @@ Nope.
 -   **nootroope aka. Alberto** - Hosting a class at HacDC for CAD
     modeling and 3D printing, two highly important skills. Awesome!
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   Byzantium grant is over, mostly. Submitted final report. Response
     yesterday: website down, re-org going on, they say it'll be back.
 -   Trying to get some corporate sponsorship from work.
 -   Brad is leaving this weekend, party at the Derby on Friday
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 From Doc, desktop going to crash cart. From juri, 1U nice server being
 put to use.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for October 2013:
 ![](HacDC_Financials_2013_10.pdf "HacDC_Financials_2013_10.pdf"). We
@@ -66,27 +66,27 @@ gained Blake, Justin, and Zach, who were all voted in last month. We
 lost The Doc to San Francisco, Jason Fox to Argentina, and R. Mark
 Adams, PhD, to Cambridge.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for October:
 ![](HacDC_PA_Projects-2013_10.pdf "HacDC_PA_Projects-2013_10.pdf"). I'm
 able to declare a \$1000 dividend and add \$284.54 to our un-earmarked
 reserves. There were 17 votes, unchanged from the previous month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 A big thank you to Alberto for answering lots of incoming queries from
 info@hacdc.org! ..and teaching and repping us!
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) {#shawn_nock}
+#### [Shawn Nock](User:Nocko)
 
 #### Reuven
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan: Larger objects can now be placed under the laser. Added 5" lens,
 looking at adding another focal length, already has money.
@@ -94,7 +94,7 @@ looking at adding another focal length, already has money.
 about a 100w source in addition to the current source? Do people want to
 cut through materials that the current source isn't adequate for?
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Porting Byz over to Wifi Pineapple mk5. It has 2 transceivers and its
 hardware is largely linux friendly with fairly beefy hardware for a
@@ -105,7 +105,7 @@ Found some bugs, addressing them.
 Some ideas that got pushed back during the grant are starting to receive
 attention. Expect a new build not too far into the new year.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 I've been busy with other activities at HacDC, but would like to help
 organize a kit build early next year. Presently going over options and
@@ -117,9 +117,9 @@ O'Reilly](http://shop.oreilly.com/product/0636920028161.do) due out in
 December. I expect a copy soon and will go over it with these goals in
 mind!
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-#### Financial Outlook {#financial_outlook}
+#### Financial Outlook
 
 At \>\$1.4k, we have a sufficient reserve to make major repairs
 (\~\$300) to 3D printer, CNC mill, and laser cutter simultaneously.
@@ -127,14 +127,14 @@ At \>\$1.4k, we have a sufficient reserve to make major repairs
 Recommend members who voted for SUPPLIES to change at least 80% of that
 vote to EXPANSION.
 
-#### Recent Purchases {#recent_purchases}
+#### Recent Purchases
 
 -   Spare Prusa Mendel hot-end (\$87.00).
 -   Laser cutter upgrade materials (\$18.19).
 -   Small plastic containers. Useful as storage for small parts, solder
     paste tools, or laser cutter stock (\$13.72).
 
-#### Prusa Mendel {#prusa_mendel}
+#### Prusa Mendel
 
 Ordered waterjet laser cut custom glass bed. Unfortunately, it cracked
 on installation, so I have **eaten the \>\$68 cost** :'(. Continuing
@@ -145,7 +145,7 @@ glass on the printer.
 For anyone interested, [One Day Glass](http://www.onedayglass.com/) does
 offer excellent service.
 
-#### Future Plans {#future_plans}
+#### Future Plans
 
 More white PLA plastic will be ordered soon.
 
@@ -153,13 +153,13 @@ After cleanup at HacDC, can consider improving generic supplies like
 mill stock, electronic components, laser cutter stock, and hardware (ie.
 screws).
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Newly proposed, general description on the
 [PA_EXPANSION](http://wiki.hacdc.org/index.php/Category:PA_EXPANSION)
 wiki page.
 
-#### Simplified Mission Statement {#simplified_mission_statement}
+#### Simplified Mission Statement
 
 We might want to fund new purchases (eg. metal working tools) or
 projects (eg. better laser cutter) to expand HacDC capabilites.
@@ -179,14 +179,14 @@ appreciate.
 Light discussion on how EXPANSION is different than SUPPLIES. No
 lingering questions.
 
-#### Buy/Build Policy {#buybuild_policy}
+#### Buy/Build Policy
 
 Some preference will be given to equipment which is already available as
 commercial-off-the-shelf (COTS), already constructed, or constructed
 from available materials (eg. Mouser parts, 3D printed brackets, etc).
 Longer term projects may be funded less readily.
 
-#### Important Dislcaimer {#important_dislcaimer}
+#### Important Dislcaimer
 
 -   **This is a fairly general purpose fund. Members voting for it are
     strongly encouraged to participate by watching the Project
@@ -202,11 +202,11 @@ Longer term projects may be funded less readily.
 -   Some tools on this list are necessarily expensive, I do not intend
     to absorb all failed expenditures.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 Wants to suspend until network infrastructure issues are addressed.
 
-### Project BADGES {#project_badges}
+### Project BADGES
 
 Doing background research and at the point now where ready to present to
 others. [Here's a
@@ -216,7 +216,7 @@ summary](http://facilitatingchange.org/2013/11/badges-for-development/)
 Sec's note: group says this isn't an official PA yet. Notice needs to be
 sent to member's list describing it. Christine says she understands.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Martin
 
@@ -255,7 +255,7 @@ suggested.
 
 -   Hax: talked with Brian, small heating pad seems to be the solution.
 
-#### Occupancy Sensor {#occupancy_sensor}
+#### Occupancy Sensor
 
 False indications (bounce) occurred Sunday night, however, normal
 functionality returned in the morning. Probably due to low temperatures
@@ -275,7 +275,7 @@ their own technology. Important lessons have been learned negotiating
 the NDA that probably should be applied to similar arrangements in the
 future.
 
-###### Expected Benefits {#expected_benefits}
+###### Expected Benefits
 
 A few hundred dollars, probably soon. Royalty payments, probably much
 more significant.
@@ -285,7 +285,7 @@ more significant.
 More progress. Will give more information with permission. Has eaten far
 more of my time than expected lately.
 
-##### Biosignal Amplifier {#biosignal_amplifier}
+##### Biosignal Amplifier
 
 USB 24bit ADC merged with host board and built. Medically isolated RECOM
 power supplies integrated. Batteries and soundcards eliminated, proper
@@ -333,7 +333,7 @@ threaded rod, timing belts).
 
 ![](FlexReplicator-Render.png "FlexReplicator-Render.png"){width="400"}
 
-##### myDAQ and myDSP {#mydaq_and_mydsp}
+##### myDAQ and myDSP
 
 Ahmed Aden bought us a [myDAQ](http://www.ni.com/mydaq/) and
 [myDSP](http://sine.ni.com/nips/cds/view/p/lang/en/nid/211871) for us
@@ -351,19 +351,19 @@ agree the request needs to be polite.
 
 That said, I am deeply disappointed in Eric Miller's conduct.
 
-##### PCB Fab Efforts {#pcb_fab_efforts}
+##### PCB Fab Efforts
 
 A variety of approaches have been tried to fabricate professional
 quality circuit boards on the laser cutter. All have failed, and the CNC
 mill remains superior. Our CO2 laser is just not suitable for this kind
 of work.
 
-##### ToDo Tracker {#todo_tracker}
+##### ToDo Tracker
 
 Please see [HacDC Projects](http://mirage335.dyndns.org/hacdcprojects/),
 and add anything that might benefit HacDC.
 
-##### HacDC Shelves {#hacdc_shelves}
+##### HacDC Shelves
 
 **Recommend we allocate \$600 for two of these shelving units, one in
 each room**. Also recommend someone besides myself build them (eg.
@@ -389,23 +389,23 @@ model, BOM, and simulation results.
 ![](BasementShelves-Render.png "BasementShelves-Render.png"){width="800"}
 ![](BasementShelves-Results-Stress.png "BasementShelves-Results-Stress.png"){width="800"}
 
-##### Corporate Membership {#corporate_membership}
+##### Corporate Membership
 
 At least two organizations are interested in corporate membership.
 Perhaps we should put together a policy on this, focused on keeping
 financial gains high enough to justify any risks. A supplementary remote
 or RFID entry system might also be helpful.
 
-### David W {#david_w}
+### David W
 
 F3 robot arm went to UMD at Robotics center, being used by student for
 project.
 
-## Old Business {#old_business}
+## Old Business
 
 n/a
 
-## New Business {#new_business}
+## New Business
 
 ### Shelves
 
@@ -413,9 +413,9 @@ n/a
 
 -   Quorum not met, could not vote.
 
-### Honorary Memberships {#honorary_memberships}
+### Honorary Memberships
 
-#### The Doctor {#the_doctor}
+#### The Doctor
 
 The Doctor is one of the founding members of Project Byzantium and one
 of the largest contributors to the project. He has made numerous other
@@ -423,7 +423,7 @@ contributions including donating time and equipment to improve the
 space, and helping us to network with other individuals and
 organizations with shared interests.
 
-#### Bradford Barr {#bradford_barr}
+#### Bradford Barr
 
 Former President of HacDC. He is also headed off the SF. Brad has been a
 long-time supporter of HacDC's mission. He donated a lot of time to
@@ -434,7 +434,7 @@ of topics from Python to lockpicking to yo-yos.
 
 Long time member and contributor to the space.
 
-## New Members {#new_members}
+## New Members
 
 None.
 

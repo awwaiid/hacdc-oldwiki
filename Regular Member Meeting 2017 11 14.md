@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 8:00 pm by Julia Longtin
@@ -11,42 +11,42 @@
 
     :   Quorum met? No
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
 ken, for getting us in contact with the city.
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 remind nancy about disclaimer.
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
 4.7 torr. rebuilding the imaging board. re-greased and re-installed a
 seal. python serial is almost working. scanned all the docs except the
 PCB.
 
-### Project Optical Table Robot (OTR) -Julia {#project_optical_table_robot_otr__julia}
+### Project Optical Table Robot (OTR) -Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
+### Project CRISPR -Enrique
 
 Nothing to report. We have not gotten back to The ODIN's offer to send
 free new supplies.
 
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project SpaceBlimp -Enrique
 
 We motivated the Rockville Makerspace to have Spaceblimp meetings with
 us. We've had two meetings (Nancy, Sam). They have licensed radio
@@ -66,14 +66,14 @@ return it after the aborted launch in August. I'd rather donate the
 rental cost for now but will try to return and ask about purchasing it
 in person. (Enrique)
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project Media Outreach - Matt
 
 This project is orphaned as Matt does not want to lead it. Nic may be
 taking this over.
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project IT Infrastructure - Tom
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Ken has invited Marvin Gay, Community Outreach Coordinator, for
     **Safer, Stronger DC** (Office of Neighborhood Saftey and
@@ -100,17 +100,17 @@ taking this over.
     should serve as a guide for how to write custom Python code to
     monitor the SEM.
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

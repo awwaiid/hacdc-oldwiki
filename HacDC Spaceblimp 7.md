@@ -1,6 +1,6 @@
 ![ 800px ](_Sb7_peak.jpg " 800px ")
 
-# Flight Summary {#flight_summary}
+# Flight Summary
 
 ![ 750px ](_Sb7_flight_path.jpg " 750px ")
 
@@ -21,7 +21,7 @@
 
 ------------------------------------------------------------------------
 
-# Project Description & Status {#project_description_status}
+# Project Description & Status
 
 SpaceBlimp 7 was designed as a community project driven by independent
 specialists from DC (Nancy C. Wolfson-Project Manager), Maryland, and
@@ -61,7 +61,7 @@ Unallocated Space [2](https://www.unallocatedspace.org/).
 COMING SOON: -Technical, Logistical, Educational and Outreach Results.
 -The Story Behind the Spaceblimp 7 -Photo Galery
 
-# Project Goals {#project_goals}
+# Project Goals
 
 Baseline **technical goals** are the safe and successful launch,
 tracking and recovery of a stratospheric balloon and its payloads. These
@@ -91,7 +91,7 @@ near-space. This kind of self-directed educational approach uses
 students own natural curiosity and motivation to increase engagement and
 their sense of ownership of the resulting project.
 
-# Flight Summary {#flight_summary_1}
+# Flight Summary
 
 After two weather-related postponements, launch took place on Saturday
 April 14, 2018, at Strasburg VA. Spaceblimp 7 was launched from Shopping
@@ -123,7 +123,7 @@ Outreach Manager Rockville RSC: Sam C, Technical Manager Rockville RSC:
 David D, Logistics and Outreach Manager Unallocated Space: Buddy,
 Technical and Logistics Manager
 
-# Environmental Data {#environmental_data}
+# Environmental Data
 
 A nearly-complete record of sensor measurements was obtained from the
 Raspberry Pi Pimoroni Enviro PHAT sensor board. These divided into two
@@ -238,7 +238,7 @@ momentarily running after a reboot.
 
 ![](Sb7Delay_ftime.png "Sb7Delay_ftime.png")
 
-# Accelerometer Data {#accelerometer_data}
+# Accelerometer Data
 
 The ascent phase was gentle with excursions of +/- 0.2g. There's no
 indication of an acceleration anomaly just prior to the glitch. The
@@ -266,7 +266,7 @@ First 'Zero-G' Data: 0.1g at 17:12:19.1 UTC.\*\*
 -   -   Note the the sequence is 1.07, 1.75, 1.70, -0.06, 0.10g in a
         span of 0.6 seconds.
 
-# System Logs {#system_logs}
+# System Logs
 
 **Useful Links** Working documents on Google Drive:
 [3](https://drive.google.com/open?id=1Lw55HiaDk5GbLUFwuXcTWeM44eYJ7sq1)

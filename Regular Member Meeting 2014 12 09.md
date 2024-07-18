@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   December 9, 2014
 :   Called to order at 19:34 by Dan B.
@@ -17,7 +17,7 @@
 
     :   Quorum met? Yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 11
 18](Regular_Member_Meeting_2014_11_18)
@@ -31,9 +31,9 @@
 -   Lee Ciereszko - License plate proceeds and other donations to
     HAMRADIO.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 We have cards for the security guards, please sign them.
 
@@ -44,7 +44,7 @@ We've had some debate over how to approach HacDC's funding and
 financing. "I want everyone to think about one thing that they
 personally can do to help HacDC generate revenue."
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   I should have some green tomato jam for people to try tonight
     -   Forgot to bring it tonight.
@@ -71,7 +71,7 @@ personally can do to help HacDC generate revenue."
     -   The front table isn't a good place to leave random things it's
         supposed to be there to display **our** propaganda.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for November 2014:
 ![](HacDC_Financials_2014_11.pdf "HacDC_Financials_2014_11.pdf"). We
@@ -83,7 +83,7 @@ Combined Federal Campaign of the National Capital
 Area](http://cfcnca.org/charities-federations/charity-applications/2015-application-info),
 which will provide an easy way for federal workers to donate to us.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for November:
 ![](HacDC_PA_Projects-2014_11.pdf "HacDC_PA_Projects-2014_11.pdf"). We
@@ -92,11 +92,11 @@ this month. :( In accordance with [Project Awesome
 Rules](Project_Awesome_Rules), Project SPACECAM was canceled
 and its \$50 balance returned to our unallocated reserves.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Nothing special to report.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Travis
 
@@ -108,13 +108,13 @@ for member use. 2x3 foot build area.
 
 Nothing to report.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Haven't done anything, because busy with the robots.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 -   work has begun on a new type of system
     -   inorder to meet the needs of the many developers who have wanted
@@ -126,23 +126,23 @@ Haven't done anything, because busy with the robots.
 -   Will seek written permission to move the remaining grant funds into
     the general fund.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 No news due to busy-ness.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Still conservative. SEM filament expense reimbursed.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Still conservative.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 No update.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Mirage?
 
@@ -215,18 +215,18 @@ between members and between us and the church.
     20:36 < Hunterkll> been putting a lot of effort into gear acquisition on all of our parts (A-KO, ITG, Hax, me, etc) so we can start making things work 
                        smoother and less breaky and annoying
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 ### Camilla
 
 Been in DC for a year, walks dogs. Big fan of Linux. Interested in user
 interface stuff. Mirage sponsors, Phil seconds. Membership approved.
 
-### Randy Brown {#randy_brown}
+### Randy Brown
 
 Visited a year ago. Very impressed with the stuff we do (3d printers,
 laser cutter). Interested in exploring what HacDC is about. Not sure

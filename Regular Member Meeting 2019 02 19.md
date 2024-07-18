@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: February 19 2019
 :   Called to order at 7.30 pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Y
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -21,11 +21,11 @@ community technology project Kevin for hard work on Taz James for
 volunteering to fix laser cutter Dan plans to lend a 3d printer (woo
 hoo) NOT FOR HACKING
 
-## New Members {#new_members}
+## New Members
 
 Noah, maybe?
 
-## Old Business {#old_business}
+## Old Business
 
 IRC Bot hosted by ITechGeek - Kevin will take control if he receives
 info on taking control. Failing that, it's not being used so the
@@ -42,7 +42,7 @@ are considered valuable by consensus
 
 Video cameras for the space - tabled for after the clean up
 
-## New Business {#new_business}
+## New Business
 
 Suggestions from Bobby:
 
@@ -56,31 +56,31 @@ James: willing to stand for election as Treasurer
 
 Dave: 6-8 weeks lead time on a fundraiser like in a bar
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-\- Report and updates
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project SpaceBlimp -Enrique
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+\- Report and updates
 
-## Member Reports {#member_reports}
+### Project Media Outreach - Matt
+
+### Project IT Infrastructure - Tom
+
+## Member Reports
 
 -   The evolution of the Lulzbot TAZ 1.0 continues apace: EEPROM
     settings have been enabled, which means that the machine is now both
@@ -90,9 +90,9 @@ Dave: 6-8 weeks lead time on a fundraiser like in a bar
     millimeter) is still an arcane, occult, dark art. --
     [Ubuntourist](User:Ubuntourist)
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
 State of HacDC - last meeting before the annual bod election meeting
 Rent is now 1591/month as long as we clear out half of the basement
@@ -115,9 +115,9 @@ wifi, can still vote but not a meetup organizer
 
 Meetup idea - silk screen workshop (TBD) with Dan
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 As has been mentioned before, we continue to have regular membership
 cover about 3/4 of the rent, and we have had several donations over the
@@ -131,9 +131,9 @@ In concurrence with the president, we are considering a new
 membership/donation tier. We are also set to file taxes to maintain our
 status as a 501c3 coming this March.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

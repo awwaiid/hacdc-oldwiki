@@ -31,7 +31,7 @@ to stick one's hand in hazardous places.
 3.  Please clean up the mill area and place tooling back into the mill
     toolbox under the bench.
 
-# Please Avoid {#please_avoid}
+# Please Avoid
 
 -   Obviously, don't put your hands in hazardous places.
 -   Stay with the mill unless you really know what \_all\_ the risks

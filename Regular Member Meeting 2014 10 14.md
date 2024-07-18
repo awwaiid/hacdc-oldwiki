@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   October 14, 2014
 :   Called to order at \_7:50\_ by \_Dan Barlow\_
@@ -17,7 +17,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 09
 09](Regular_Member_Meeting_2014_09_09)
@@ -42,16 +42,16 @@
 ```
 -   Cleanup Participants - Anyone who helped cleanup the space.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Bugging Dan about the laser cutter actually makes it harder for him to
 work on the laser cutter. Lay off for a while.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for September 2014:
 ![](HacDC_Financials_2014_09.pdf "HacDC_Financials_2014_09.pdf"). We
@@ -59,14 +59,14 @@ didn't gain any new members. We lost Andrew Harris and Mike Chelen. We
 have 41 dues-paying members in good standing, 7 dues-waived members, and
 2 members who are behind on dues.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for September:
 ![](HacDC_PA_Projects-2014_09.pdf "HacDC_PA_Projects-2014_09.pdf"). We
 continue to have to dip into savings to pay our rent, so no dividend
 this month. :(
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I put up new bathroom signs. I got a bunch of new keys cut. I got in a
 new handle for the Pirate bathroom, it just needs to get installed.
@@ -74,7 +74,7 @@ new handle for the Pirate bathroom, it just needs to get installed.
 We're still working on the HackDC issue. We've retained legal counsel to
 help us. HackDC seems unresponsive to our attempts at a discussion.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 Tokutek approached the BoD about using the space for a meetup and I
 volunteered to coordinate with them. The event was planned for 10/13,
@@ -90,28 +90,28 @@ announcement of their arrival.
 
 --Zack
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 No significant progress this month.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 No expenditures this month. SEM filament has been ordered, and may be
 reimbursed soon.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Would be nice if we had more funding.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -155,15 +155,15 @@ printers, the plotter, scanners, and more. Clearing shelves and floor
 space will create opportunities to deploy these tools, giving members
 more opportunities to accomplish projects.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Approve up to \$300 for a new minifridge.
 
 Julia is going to donate a new minifridge.
 
-## New Members {#new_members}
+## New Members
 
 Don - Does HAM radio, wants to learn other stuff. Recommended by Lee.
 Approved.

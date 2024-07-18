@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: September 8th, 2020
 :   Called to order at 7:35 pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_08_18) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_08_18)
 
 Approved
 
@@ -21,11 +21,11 @@ John Pancoast for facilitating the lock change and interfacing with Mike
 
 Don Jones for acquiring the new lock for HacDC
 
-## New Members {#new_members}
+## New Members
 
 No new members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Tayeb: Successful HacDC Software Defined Radio meetup! Going to
     continue on September 23rd, this time by posting ahead of time all
@@ -50,7 +50,7 @@ No new members
     St Stephens. Ethan Waldo volunteered to help fix this, Don and Mike
     were able to work to fix this so it should work now
 
-## New Business {#new_business}
+## New Business
 
 -   Karen and John to meet and install the new HacDC door lock, and then
     email the membership with the new information to access the space
@@ -71,21 +71,21 @@ No new members
     HacDC members? Tayeb volunteers himself to try initial setup of the
     servers
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Financial Report: Current Balance -- \$4036 We currently have 17 paying
 members, \$930 from dues and an additional \$390 from donations. Rent is
@@ -100,9 +100,9 @@ Products: \$1,000,000
 HacDC Amateur Radio Club to itemize the costs of their equipment to add
 to the insurance.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

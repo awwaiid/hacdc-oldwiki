@@ -1,7 +1,7 @@
 ```{=mediawiki}
 {{Obsolete}}
 ```
-## Desired Features {#desired_features}
+## Desired Features
 
 -   RSS feeds
     -   recent changes

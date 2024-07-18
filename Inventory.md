@@ -5,13 +5,13 @@ This page has not been maintained. For parts, supplies, tools and
 equipment, check here first:
 <http://wiki.hacdc.org/index.php/Category:Inventory>
 
-## Outgoing Objects {#outgoing_objects}
+## Outgoing Objects
 
 [Batch III](Batch_III)
 
 ## Equipment
 
-### Power Tools {#power_tools}
+### Power Tools
 
 -   Table Saw
 -   Soldering Irons
@@ -21,7 +21,7 @@ equipment, check here first:
 -   Circular Saw
 -   Manually controlled milling machine
 
-### Hand Tools {#hand_tools}
+### Hand Tools
 
 -   Screwdrivers
 -   Hammers
@@ -63,11 +63,11 @@ equipment, check here first:
 -   Mice
 -   Keyboards
 
-### Other Capital Assets {#other_capital_assets}
+### Other Capital Assets
 
 -   MAME cabinet (does this belong to the space or to Toast and Co?)
 
-## Parts & Supplies {#parts_supplies}
+## Parts & Supplies
 
 -   Audio Cables
 -   Ethernet Cables
@@ -76,7 +76,7 @@ equipment, check here first:
 -   Power Converters/Chargers
 -   [Integrated Circuits](Integrated_Circuits)
 
-## Other Assets in the Community {#other_assets_in_the_community}
+## Other Assets in the Community
 
 ### Skills
 
@@ -84,7 +84,7 @@ equipment, check here first:
 
 #### Chemistry
 
-#### Technical Writing/Documentation {#technical_writingdocumentation}
+#### Technical Writing/Documentation
 
 #### Programming
 
@@ -107,9 +107,9 @@ equipment, check here first:
 
 [Dcooper](User:Dcooper) 03:47, 6 May 2008 (UTC)
 
-### Hardware available for "the right project" {#hardware_available_for_the_right_project}
+### Hardware available for "the right project"
 
-#### Test Equipment {#test_equipment}
+#### Test Equipment
 
 This machinery may require some training and mentoring to use
 effectively.
@@ -120,7 +120,7 @@ effectively.
 -   TTC T-berd T-1/ISDN communications test set
     [Ashfixit](User:Ashfixit)
 
-#### Power Tools {#power_tools_1}
+#### Power Tools
 
 -   Drill [Joncamfield](User:Joncamfield)
 -   Dremel 4000 + attachments + dremel drill press (holder)
@@ -130,7 +130,7 @@ effectively.
 -   Orange Heat gun. (chicago electric?)
     [MikeEME](User:MikeEME)
 
-#### Hand Tools {#hand_tools_1}
+#### Hand Tools
 
 -   Axe/sledge hammer combo (large, and also safety hazard)
     [Joncamfield](User:Joncamfield)
@@ -138,9 +138,9 @@ effectively.
     [Joncamfield](User:Joncamfield)
 -   Machete [Joncamfield](User:Joncamfield)
 
-#### Furniture {#furniture_1}
+#### Furniture
 
-#### Computers {#computers_1}
+#### Computers
 
 -   Complete Desktop Systems
     -   2 AMD
@@ -176,7 +176,7 @@ effectively.
 -   **the** red phone ... yes that kind of red phone. no dial just a
     blinking light.
 
-#### Basement Shelves {#basement_shelves}
+#### Basement Shelves
 
 -   SEM (Electron Microscope) Parts & Supplies - A1
 -   Laser Cutter supplies - A1
@@ -230,7 +230,7 @@ effectively.
 -   Function Generator, Noise Generator - K3
 -   Function Generator 2 MHz - K3
 
-#### Tools on Loan {#tools_on_loan}
+#### Tools on Loan
 
 -   Hammer drill - Bobby
 -   Miter saw - Bobby

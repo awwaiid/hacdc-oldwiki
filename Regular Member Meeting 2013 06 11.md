@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   June 11, 2013
 :   Called to order at 1950 by Ben.
@@ -9,7 +9,7 @@
 
     :   Quorum met? Yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 05
 14](Regular_Member_Meeting_2013_05_14) Approved. [Regular
@@ -18,22 +18,22 @@ Also approved.
 
 ## Recognition
 
-### Mirage335 & Dan Barlow {#mirage335_dan_barlow}
+### Mirage335 & Dan Barlow
 
 Thank you so much for helping the Project Byzantium crew with the
 troublesome PTT circuit.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Busy with Bzyantium.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Ditto.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for May 2013:
 ![](HacDC_Financials_2013_05.pdf "HacDC_Financials_2013_05.pdf"). We
@@ -49,7 +49,7 @@ the grant need to be pre-approved (over some minimum amount) by members,
 or the board, or some other set of people? I suggest deciding we make
 this an item of New Business.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 We had a surplus so I am able to declare a \$300 Project Awesome
 dividend and add \$143.94 to our reserves. Here is the Project Awesome
@@ -57,21 +57,21 @@ spreadsheet for May:
 ![](HacDC_PA_Projects-2013_05.pdf "HacDC_PA_Projects-2013_05.pdf").
 There are still 16 votes, with no changes in voting since last month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 All is quiet.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) (unable to attend) {#shawn_nock_unable_to_attend}
+#### [Shawn Nock](User:Nocko) (unable to attend)
 
 #### Reuven
 
 Looked into inventory tracking, depreciation, etc.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Laser arrived. Need to clear space.. metal lockers will be relocated in
 the same room. All are asked to empty their stuff from the locker.
@@ -85,12 +85,12 @@ together makes it easier to get the really nifty materials.
 No one should operate it until they pass a laser safety training course
 and are signed off. More info later.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Some issues with push-to-talk circuits. Big help from down under with
 software! Milestone coming up this Friday.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Kitbuild coming up 16 July: DangerShield. Students should buy their own
 soldering supplies.
@@ -100,11 +100,11 @@ Need to reimburse Tim S. for soldering irons: \~\$300. (since it's over
 
 -   members approved reimbursement.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-#### 3D Printers {#d_printers}
+#### 3D Printers
 
-##### Prusa Mendel {#prusa_mendel}
+##### Prusa Mendel
 
 Easy fire-and-forget operation. Stable and efficient. Essential spare
 parts available.
@@ -112,7 +112,7 @@ parts available.
 Please read [:Category:PrusaMendel](:Category:PrusaMendel) if
 you haven't used the printer in a while.
 
-##### Cupcake Makerbot {#cupcake_makerbot}
+##### Cupcake Makerbot
 
 Crated, awaiting pickup by owner or repair. Really, this machine is
 limiting, very difficult to use, no longer needed to repair the Prusa
@@ -137,11 +137,11 @@ situations.
 
 \$83.76 Receipts mentioned last month have been reimbursed.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 Needs a project contact! (no report)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -157,7 +157,7 @@ waves](http://dl.dropbox.com/u/2757918/documentation/Mirage335BiosignalAmp/08-Al
 are cleanly detected when users close their eyes. Further improvements
 are focused on comfort (ie. sponge electrodes).
 
-#### HacDC Licensing Policy {#hacdc_licensing_policy}
+#### HacDC Licensing Policy
 
 Added "by default" to make the policy less restrictive. However, the
 article might still conflict with other licenses used at HacDC
@@ -165,7 +165,7 @@ article might still conflict with other licenses used at HacDC
 be better if the distinction between website content and HacDC
 hardware/software projects was made explicitly.
 
-#### Optical Table {#optical_table}
+#### Optical Table
 
 At some (unknown - mirage335 is unavailable this weekend) date, help may
 be needed to bring the optical table to HacDC. It is still awaiting the
@@ -199,7 +199,7 @@ F3 and make a Hac presence.. looking for at least one other to help out.
 Put up a white board and cork board. Asking if in gathering donations
 are storage items of interest? Members say yes.
 
-## Old Business {#old_business}
+## Old Business
 
 -   [Privacy Policy](Privacy_Policy) is put forward for
     member vote as officially adopted policy. Notification was sent to
@@ -238,12 +238,12 @@ Permalink:
 
 Permalink: <http://wiki.hacdc.org/index.php?title=Shop_Rules&oldid=9342>
 
-## New Business {#new_business}
+## New Business
 
 ISC grant: Looking for approval to reimburse funds spent prior to grant
 money arriving. Member voted to approve grant.
 
-## New Members {#new_members}
+## New Members
 
 1 visitor, Edward. 1 returning member, Nick
 

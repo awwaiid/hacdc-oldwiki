@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date April 12th, 2016
 :   Called to order at 8:10 pm by tom
@@ -11,19 +11,19 @@
 
     :   Quorum met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Approved
 
 ## Recognition
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Income exceeded expenses by about \$400, but discretionary project
     spending put us \$350 in the red for March overall.
@@ -54,7 +54,7 @@ Approved
 
 [Media:http://wiki.hacdc.org/index.php/File:2016-April-Report.pdf](Media:http://wiki.hacdc.org/index.php/File:2016-April-Report.pdf)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Hi, I'm back from India. I announced the outgoing pile two weeks ago and
 it's there for perusal tonight if anyone wants to have a look at it
@@ -79,7 +79,7 @@ can provide some historical context for the wiki.
 
 That's all I've had the time to address this month.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 
@@ -110,19 +110,19 @@ thorough explanation as to why this deployment is needed and appropriate
 would be rather long to include here. Please consult with senior members
 of the admin team for technical details, justifications, and commentary.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Bought a cellular modem shield for a RasPi, this should provide backup
 telecommand/reboot of core IT infrastructure.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Also, Ethan is evaluating Julia Longtin's proposed computer platform for
 HacDC use.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 For the Ham Radio club, we have started our YouTube video series on
 amateur radio topics. We are planning our participation in the DC MS
@@ -130,20 +130,20 @@ walk this month. We have guest speakers at our club meeting. Our
 repeater is up and functional as well, and our remote access to our
 radio station is working out well.
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
 Bought microcontrollers, bought a horrible cheap laser cutter but we
 have it.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 Susan Meckley's voting membership was approved.
 

@@ -8,7 +8,7 @@ theory, etc.
 Page maintained by [User:Obscurite](User:Obscurite) who is
 working on his own ECG equipment. Enjoy.
 
-## PARTS for higher-precision version(s) {#parts_for_higher_precision_versions}
+## PARTS for higher-precision version(s)
 
 -   Instrumentation Amplifiers (not sure why these are priced so
     differently)
@@ -22,7 +22,7 @@ working on his own ECG equipment. Enjoy.
         [AD624AD](http://parts.digikey.com/1/parts/453660-ic-amp-inst-25mhz-prec-ln-16cdip-ad624ad.html)
 -   Better op amp - OP97 (need to review data sheet)
 
-## PARTS for basic version(s) {#parts_for_basic_versions}
+## PARTS for basic version(s)
 
 -   LM358 (dual opamp) or LM324 (quad opamp), or LF353 (which is pin
     compatible)
@@ -33,7 +33,7 @@ working on his own ECG equipment. Enjoy.
 -   electrodes (soldered pennies, medical electrodes, etc)
 -   diodes (1N4001)
 
-## Microcontrollers and FPGAs {#microcontrollers_and_fpgas}
+## Microcontrollers and FPGAs
 
 -   Atmel atmega168/328 has onboard ADC
 -   Xilinx Spartan3E dev board has built in ADC

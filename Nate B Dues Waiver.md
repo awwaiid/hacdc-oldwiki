@@ -39,7 +39,7 @@ overall economic sacrifice in coming to DC from the Detroit, MI area in
 addition to making HacDC effectively a full time job for two weeks sets
 the golden standard for work in lieu of dues.
 
-## Nate B's Biography {#nate_bs_biography}
+## Nate B's Biography
 
 Nate has been active in the community for 12 years, primarily through
 the Michigan 2600 group. Nate's first contribution to HacDC was printing

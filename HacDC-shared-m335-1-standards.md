@@ -21,14 +21,14 @@ HacDC-shared-m335-1.hacdc.org
 
 ## Virtual
 
-### Hostnames {#hostnames_1}
+### Hostnames
 
 mirage335-1
 
 -   mirage335 - Local username.
 -   1 - Unique machine identifier.
 
-### FQDNs {#fqdns_1}
+### FQDNs
 
 m335-1.HacDC-shared-m335-1.hacdc.org
 

@@ -24,7 +24,7 @@ their permission. Photographers shall explicitly state they intend to
 photograph before taking any pictures and gain the permission of those
 being photographed.
 
-## Publishing on the wiki and public data {#publishing_on_the_wiki_and_public_data}
+## Publishing on the wiki and public data
 
 Simply visiting the web site does not expose your identity publicly (but
 see [private logging](#Private_logging) below).
@@ -33,7 +33,7 @@ When you edit any page in the wiki, **you are publishing a document**.
 This is a public act, and you are identified publicly with that edit as
 its author.
 
-### Identification of an author {#identification_of_an_author}
+### Identification of an author
 
 When you publish a page in the wiki, you may be logged in or not.
 
@@ -94,7 +94,7 @@ share them and to change them frequently. No one shall knowingly expose
 the password of another user to public release either directly or
 indirectly.
 
-## Private logging {#private_logging}
+## Private logging
 
 Every time you visit a web page, you send a lot of information to the
 web server. Most web servers routinely maintain access logs with a
@@ -115,7 +115,7 @@ wiki, including the suspected use of malicious "sockpuppets" (duplicate
 accounts), vandalism, harassment of other users, or disruption of the
 wiki.
 
-### Policy on release of data derived from page logs {#policy_on_release_of_data_derived_from_page_logs}
+### Policy on release of data derived from page logs
 
 HacDC will generally only release log data:
 
@@ -135,7 +135,7 @@ HacDC will generally only release log data:
 HacDC policy should not permit public distribution of such information
 under any circumstances, except as described above.
 
-## Sharing information with third parties {#sharing_information_with_third_parties}
+## Sharing information with third parties
 
 See our [Licensing Policy](Licensing_Policy) for how created
 content is handled by HacDC.
@@ -144,15 +144,15 @@ HacDC will not sell or share private information, such as email
 addresses, with third parties, unless you agree to release this
 information, or it is required by law to release the information.
 
-## Security of information {#security_of_information}
+## Security of information
 
 HacDC makes no guarantee against unauthorized access to any information
 you provide. This information may be available to anyone with access to
 the servers.
 
-## E-mail, mailing lists and IRC {#e_mail_mailing_lists_and_irc}
+## E-mail, mailing lists and IRC
 
-### E-mail {#e_mail}
+### E-mail
 
 You may provide your e-mail address in your Preferences and enable other
 logged-in users to send email to you through the wiki. Your address will
@@ -168,7 +168,7 @@ preferences.
 You can remove your email address from your preferences at any time to
 prevent it being used.
 
-### Mailing lists {#mailing_lists}
+### Mailing lists
 
 If you subscribe to one of HacDC's mailing lists, your address may be
 exposed to any other subscriber. The list archives of most of HacDC's
@@ -177,7 +177,7 @@ The list archives are also archived by Gmane and other services. Mails
 are usually not deleted or modified, but it may be done in extreme
 cases.
 
-### Information email addresses {#information_email_addresses}
+### Information email addresses
 
 Mail sent to HacDC is not publicly visible, but may be visible to a
 group of HacDC members. By sending a mail to a \@hacdc.org address, your
@@ -194,13 +194,13 @@ HacDC reserves the right to keep logs of conversations within any IRC
 channels it designates. Different channels have different policies on
 whether logs may be published.
 
-## User data {#user_data}
+## User data
 
 Data on users, such as the times at which they edited and the number of
 edits they have made are publicly available via "user contributions"
 lists, and in aggregated forms published by other users.
 
-### Removal of user accounts {#removal_of_user_accounts}
+### Removal of user accounts
 
 Once created, user accounts will not be removed. It may be possible for
 a username to be changed (depending on the policies of your local wiki).
@@ -209,7 +209,7 @@ HacDC does not guarantee that a name will be changed on request.
 Whether specific user information is deleted is dependant on the
 deletion policies of the project that contains the information.
 
-## Deletion of content {#deletion_of_content}
+## Deletion of content
 
 Removing text from HacDC's wiki or blog does not permanently delete it.
 In normal articles, anyone can look at a previous version and see what

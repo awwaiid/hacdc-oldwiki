@@ -17,9 +17,9 @@ about commercially available or locally-made biomaterials. Continuing
 efforts will be focused on using this data to evaluate and refine these
 materials for safe human implantation.
 
-# Proposed Materials {#proposed_materials}
+# Proposed Materials
 
-## Plastics / Polymers {#plastics_polymers}
+## Plastics / Polymers
 
 -   [Epoxy Resin](Epoxy_Resin)
 -   [PVC](Polyvinyl_chloride)
@@ -35,7 +35,7 @@ materials for safe human implantation.
 -   [Cobalt-Chromium Alloys](CoCr)
 -   [Titanium](Ti)
 
-# Testing Proceedures / Equipment {#testing_proceedures_equipment}
+# Testing Proceedures / Equipment
 
 -   [Physiological Saline Testing](PhysiologicalSaline)
 -   [Cytotoxicity Testing](Cytotoxicity)

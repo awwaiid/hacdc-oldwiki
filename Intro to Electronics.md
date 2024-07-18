@@ -36,7 +36,7 @@ students; my goal would be to keep the cost per student at \$25 or less
 
 ## Syllabus
 
-### Week 1: Getting familiar with components {#week_1_getting_familiar_with_components}
+### Week 1: Getting familiar with components
 
 **Goal:** Light an LED with AA batteries and an on-off switch
 
@@ -103,7 +103,7 @@ Explanations:
         2012)](Media:Intro_to_Electronics-Week1-0-LED.svg)
         -   Moment of truth: Turn it on!
 
-### Week 2: Test equipment {#week_2_test_equipment}
+### Week 2: Test equipment
 
 **Goal:** Build a power supply
 
@@ -167,7 +167,7 @@ Explanations:
     -   **Hands-on:** Look at regulator's output waveform
         -   Vary load and see what happens!
 
-### Week 3: Optoelectronics {#week_3_optoelectronics}
+### Week 3: Optoelectronics
 
 **Goal:** Build a night light (Many thanks to
 [EMSL](http://www.evilmadscientist.com/article.php/nightlight))
@@ -230,7 +230,7 @@ Explanations:
         -   Could have been done with a normal transistor, too
         -   Way less useful that way
 
-### Week 4: Oscillators — and the venerable 555 {#week_4_oscillators_and_the_venerable_555}
+### Week 4: Oscillators — and the venerable 555
 
 **Goal:** Build a 555 circuit to blink an LED
 
@@ -275,7 +275,7 @@ Explanations:
         2012)](Media:Intro_to_Electronics-Week4-2-555-potentiometer.svg))
         -   Change its resistance and watch what happens!
 
-### Week 5: Digital logic {#week_5_digital_logic}
+### Week 5: Digital logic
 
 **Goal:** Build a Larson scanner (Schematic (more or less) from
 [EMSL](http://www.evilmadscientist.com/article.php/CylonOLantern))
@@ -330,7 +330,7 @@ Explanations:
         2012)](Media:Intro_to_Electronics-Week5-2-Larson.svg))
         -   Watch the lights scan back and forth
 
-### Week 6: Soldering {#week_6_soldering}
+### Week 6: Soldering
 
 **Goal:** Solder [Week 5's
 project](Intro_to_Electronics#Week_5:_Digital_logic) on a
@@ -368,7 +368,7 @@ Explanations:
     -   Prototyping board, layout tools, etching (chemical and
         mechanical)
 
-## Bill of materials {#bill_of_materials}
+## Bill of materials
 
 Pricing assumes 25 kits with no special discounts (e.g., [Adafruit
 hackerspace
@@ -400,7 +400,7 @@ person).
     -   Alkaline AA x4 (\$33.48 for 100-pack:
         [Amazon](http://www.amazon.com/Duracell-Coppertop-MN1500-Batteries-Count/dp/B006W9QIM2/))
 
-### Things we could make ourselves {#things_we_could_make_ourselves}
+### Things we could make ourselves
 
 -   Assorted breadboard jumpers
     -   We could cut these ourselves to reduce cost, assuming we have

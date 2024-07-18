@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: July 14th, 2020
 :   Called to order at 7:54 pm by Karen
@@ -12,23 +12,23 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_06_09) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_06_09)
 
 Approved
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 No new members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Matt: PPE manufacturing with 3D printers still useful, dropping them
     off at local community clinics (big hospitals are doing mostly
     alright now).
 
-## New Business {#new_business}
+## New Business
 
 -   Potential partners with Mount Pleasant Library
 
@@ -69,17 +69,17 @@ No new members
 -   Potential for restarting movie-night: streaming or watching
     simultaneously
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
 We have a written agreement with the church to pay a reduced rent due to
 our inability to access the space. We are expected to pay \$732 per
@@ -96,9 +96,9 @@ The rent reduction is not to be considered permanent, it is only
 temporary until the space reopens. However, the level it returns to will
 be reduced from \$1646.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Financial Report: Current Balance -- \$3832.78 We currently have 18
 paying members, \$950 from dues and an additional \$150 from donations.
@@ -110,9 +110,9 @@ to be filed. Karen and Matt will figure out how to to give Matt Power of
 Attorney on behalf of HacDC and make sure that we don't need to do
 anything additional for filing.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

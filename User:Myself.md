@@ -14,7 +14,7 @@ Detroit, but got involved in
 now](https://www.i3detroit.org/wiki/In_the_Media). HacDC members are
 welcome to swing by and meet us, if you're in the area.
 
-## Experience and expertise {#experience_and_expertise}
+## Experience and expertise
 
 -   Telecomm
     -   Central-office installation practices
@@ -44,7 +44,7 @@ welcome to swing by and meet us, if you're in the area.
 -   High expectations
 -   Gravity
 
-## Favorite stuff {#favorite_stuff}
+## Favorite stuff
 
 -   My bookmarks: <http://del.icio.us/myself248/>
 

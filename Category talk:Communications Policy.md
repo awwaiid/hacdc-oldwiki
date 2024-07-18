@@ -11,7 +11,7 @@ the team, without reading all the posts --phf
 I agree too. So, who can make this update? -
 [Katie](User:Katie) 18:22, 29 July 2008 (UTC)
 
-## project mailing lists {#project_mailing_lists}
+## project mailing lists
 
 Right now the statement, "Each ongoing project must have an e-mail
 address associated with it" isn't being enforced. Do we want to

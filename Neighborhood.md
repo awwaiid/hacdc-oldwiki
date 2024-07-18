@@ -1,8 +1,8 @@
-## HacDC Location {#hacdc_location}
+## HacDC Location
 
 See [GettingHere](GettingHere).
 
-## Local spots near HacDC {#local_spots_near_hacdc}
+## Local spots near HacDC
 
 [foodler](http://www.foodler.com/) includes several restaurants in
 delivery and takeout range of HacDC; their group order feature looks

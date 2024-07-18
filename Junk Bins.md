@@ -1,4 +1,4 @@
-## Junk Bins (Proposed) {#junk_bins_proposed}
+## Junk Bins (Proposed)
 
 -   Level 1 - aka "1 week bin"
     -   When an item(s) is placed in the Level 1 bin, it (or its

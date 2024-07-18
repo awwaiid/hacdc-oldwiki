@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   January 14, 2014
 :   Called to order at 1947 by Katie
@@ -17,7 +17,7 @@ Butch, and missed 3
 
     :   Quorum met? YES!! Finally
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 11
 12](Regular_Member_Meeting_2013_11_12)
@@ -59,13 +59,13 @@ and 3DP!
 -   Various members on the mailing list for constructive criticism
     regarding the new shelves.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -Not present.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   influenza ftl
 -   minivna extension purchased
@@ -73,7 +73,7 @@ and 3DP!
 -   heard a journalist on the kojo show (wamu) casually refer to hackers
     in a good way.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for December 2013:
 ![](HacDC_Financials_2013_12.pdf "HacDC_Financials_2013_12.pdf"). One
@@ -83,14 +83,14 @@ Several members haven't paid their dues for a couple of months, and
 since they've been unresponsive over e-mail it's unclear whether they
 intend to resign.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for December:
 ![](HacDC_PA_Projects-2013_12.pdf "HacDC_PA_Projects-2013_12.pdf"). I'm
 able to declare a \$200 dividend and add \$132.29 to our un-earmarked
 reserves. There were 16 votes, unchanged from the previous month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Reduced wiki users from \~140k to 1.1k (bots, bots, and damned bots).
 Verified that all wiki software is updated.
@@ -101,9 +101,9 @@ Verified that all wiki software is updated.
 
 .. though I'll probably pick up anything on Blabber
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) {#shawn_nock}
+#### [Shawn Nock](User:Nocko)
 
 Moved down South. Relinquishing membership and therefore directorship.
 
@@ -111,16 +111,16 @@ Moved down South. Relinquishing membership and therefore directorship.
 
 -no report
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan: Made a snowflake with the laser cutter for security guard. ..well
 appreciated. Various acrylic sheets available for use for the laser
 cutter. Suggested donations marked, but not required. If you don't care
 about color, use clear, it's cheapest. Red is the most expensive.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 -   We are currently scattered all across North America.
 -   We have joined a group working on disaster relief networking with a
@@ -128,20 +128,20 @@ about color, use clear, it's cheapest. Red is the most expensive.
     people. The group consists of people from commotion wireless and a
     few other projects, and has been organized by Geeks Without Bounds.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 No planned kit builds but gearing up to have one in the Spring. Work is
 too damn high, until then. - Alberto
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Healthy and stable at \~\$1.4k.
 
-#### Recent Purchases {#recent_purchases}
+#### Recent Purchases
 
 -   Glass sheets for Prusa Mendel.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Only \$145 after two months. At this rate, it will take another three
 months to buy a vertical bandsaw.
@@ -149,7 +149,7 @@ months to buy a vertical bandsaw.
 If you are holding one of the 3.783 votes for SUPPLIES, **please
 consider voting for EXPANSION instead**.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 Modest improvements made. Using personal 4G which helps with the hangout
 connection. Discussion of placement of cameras in the classroom. How
@@ -159,7 +159,7 @@ structural things, just mount via strap. Wants long usb cables, say 25
 feet or more. Wants to mount the projector David W. donated to ceiling..
 no objection. May want to buy Pineapple things that Byzantium uses.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Alberto
 
@@ -172,7 +172,7 @@ get someone who will run a AVR Programming workshop as well.
 
 ### mirage335
 
-#### Prusa Mendel 3D Printer {#prusa_mendel_3d_printer}
+#### Prusa Mendel 3D Printer
 
 Finally, the machine is stable, reliable, and producing high quality
 results, down to **75 microns**. Improvements include:
@@ -187,7 +187,7 @@ results, down to **75 microns**. Improvements include:
 
 No further downtime is expected.
 
-#### Photolithography PCB Fab {#photolithography_pcb_fab}
+#### Photolithography PCB Fab
 
 Have literally attempted every reasonable PCB fab technique, including
 etching spraypaint with our CO2 laser cutter, laser-printer toner
@@ -206,7 +206,7 @@ regions. Fused lines are due to printed photomask quality.
 Chemically etched copper. Note the high-quality edges on the large pads.
 Uneven and lost traces are due to manual cleanup attempt.
 
-#### HacDC UV Laser Cutter {#hacdc_uv_laser_cutter}
+#### HacDC UV Laser Cutter
 
 The CO2 laser cutter does not add any particularly novel functionality
 to HacDC. Lacking precision, it is only useful where a shopbot would
@@ -224,7 +224,7 @@ Of course, a 2W UV laser raises some safety concerns, so only trained
 individuals should use that with the appropriate safety equipment (just
 like any other laser cutter).
 
-#### MiniVNA Extender {#minivna_extender}
+#### MiniVNA Extender
 
 Thanks to haxwithaxe confirming the order, we now have an 1.5GHz
 extender for our vector network analyzer en route. This enables UHF
@@ -243,7 +243,7 @@ Also, a modular pallet-and-rail will be used for the optics this time.
 The prototype frame that has been taking up space in the workshop is no
 longer useful, and was disassembled for that reason.
 
-#### Flex Replicator {#flex_replicator}
+#### Flex Replicator
 
 Multi-tool desktop factory platform. CNC Mill, Laser Cutter, 3D printer,
 and more, all simultaneously.
@@ -257,7 +257,7 @@ own within the month.
 Open-source, hosted on
 [github](https://github.com/mirage335/FlexReplicator) .
 
-#### Optical Table CNC {#optical_table_cnc}
+#### Optical Table CNC
 
 We have been recently donated about \$1k worth of large aluminum
 extrusions. We now have the resources to build full gantry on the
@@ -284,7 +284,7 @@ work, and we are prepared for even more in the next few weeks.
 
 Stay tuned!
 
-##### Biosignal Amplifier {#biosignal_amplifier}
+##### Biosignal Amplifier
 
 BiosignalProcessor host/driver software under development, hosted on
 [github](https://github.com/mirage335/BiosignalProcessor) . Help
@@ -301,14 +301,14 @@ Host driver software is therefore nearly finished. Once libsndfile has
 been integrated properly, users will have an ultra-high-performance
 two-channel 'plug-and-play' USB ECG/EMG/EEG.
 
-##### Thursday Meetings {#thursday_meetings}
+##### Thursday Meetings
 
 The Thursday biohacking meetings have been getting quiet, but the core
 members still occasionally drop by and express interest. With the
 biosignal amplifier nearly finished, and hopefully more tools deployed
 at HacDC, we should be able to resume other projects.
 
-#### Basement Shelves & Cleanup {#basement_shelves_cleanup}
+#### Basement Shelves & Cleanup
 
 Members are encouraged to discuss floor plan options with mirage335
 after the meeting.
@@ -328,7 +328,7 @@ the amount of items being stored here and the clean up efforts.
 Discussion wasn't making progress and will continue after the member
 meeting.
 
-##### The Debate {#the_debate}
+##### The Debate
 
 Despite a full CAD model, lengthy comment period, and general consensus
 that the shelves should be built, all well in advance of their
@@ -379,7 +379,7 @@ Since some concerns have been raised about placing more than a metric
 ton on wheels, this should probably be done only if members absolutely
 insist on pushing the shelves against a wall.
 
-##### Floor Plans {#floor_plans}
+##### Floor Plans
 
 <https://github.com/HacDC/FloorPlan/raw/master/FloorPlans/BasementBackRoom/BasementBackRoom_ShelvesAsideLeft.pdf>
 
@@ -392,7 +392,7 @@ intended to be shared with both rooms in the basement. At any time,
 members could push the carts out of whichever room is most in use, or
 perhaps even temporarily outside.
 
-##### Policy Changes {#policy_changes}
+##### Policy Changes
 
 Some have objected to HacDC storing anything at all, and others have
 proposed unduly bureaucratic processes. While this probably is not a
@@ -412,7 +412,7 @@ Features include:
 However, since there is still a lot of debate over this policy, I
 suggest it not be voted on yet.
 
-#### Occupancy Sensor {#occupancy_sensor}
+#### Occupancy Sensor
 
 The hardware and firmware at HacDC are still working, but eryc's server
 no longer is. We need a new server to accept and publish the data.
@@ -421,7 +421,7 @@ In the long term, a [new occupancy sensor based on the raspberry
 pi](https://github.com/mirage335/EasyPLC) will replace the existing
 system
 
-#### WYSE Terminals {#wyse_terminals}
+#### WYSE Terminals
 
 Created persistent USB stick image for the WYSE terminals, documented at
 [Linux_on_Wyse_Winterm_S10_Thin_Clients](Linux_on_Wyse_Winterm_S10_Thin_Clients).
@@ -434,14 +434,14 @@ Request the additional 30 units mentioned by David Whiteis make it to
 HacDC. Planning to deploy these at HacDC as thin clients for a high-end
 server.
 
-#### myDAQ and myDSP {#mydaq_and_mydsp}
+#### myDAQ and myDSP
 
 Special thanks to Ahmed Aden for making a special trip to bring the
 myDAQ and myDSP back to us.
 
-## Old Business {#old_business}
+## Old Business
 
-### From [December agenda](Regular_Member_Meeting_2013_12_10) {#from_december_agenda}
+### From [December agenda](Regular_Member_Meeting_2013_12_10)
 
 -   Zack purchased materials for basement shelves, and should now be
     reimbursed up to \$400 (exact receipt value is not known to
@@ -479,12 +479,12 @@ from Firefox, PGP, and much more that I missed..
 Presented a hologram he made with a ruby laser.. large, highly detailed,
 no blur since it's a 20ns exposure.
 
-### Honorary Memberships {#honorary_memberships}
+### Honorary Memberships
 
 -   Motion to offer Hon. Memberships to the following was
     `<b>`{=html}Approved`</b>`{=html} by member vote.
 
-#### The Doctor {#the_doctor}
+#### The Doctor
 
 The Doctor is one of the founding members of Project Byzantium and one
 of the largest contributors to the project. He has made numerous other
@@ -492,7 +492,7 @@ contributions including donating time and equipment to improve the
 space, and helping us to network with other individuals and
 organizations with shared interests.
 
-#### Bradford Barr {#bradford_barr}
+#### Bradford Barr
 
 Former President of HacDC. He is also headed off the SF. Brad has been a
 long-time supporter of HacDC's mission. He donated a lot of time to
@@ -503,9 +503,9 @@ of topics from Python to lockpicking to yo-yos.
 
 Long time member and contributor to the space.
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 Abraham - just started taking electronics course and wants more
 exposure, especially to robotics.

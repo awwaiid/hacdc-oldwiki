@@ -4,7 +4,7 @@ what subset of our inventory is for sale? -
 
 Fiat. [Myself](User:Myself) 06:41, 30 July 2008 (UTC)
 
-## We don't need hookup wire! {#we_dont_need_hookup_wire}
+## We don't need hookup wire!
 
 TC, you might not have noticed that, on my last visit, I brought down
 two sizable hanks of telco wire. One bunch is 24AWG, one bunch is 22AWG.

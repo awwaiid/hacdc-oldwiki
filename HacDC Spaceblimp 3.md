@@ -31,7 +31,7 @@ And then, recovery:
 -   [Camera two: land
     again](http://gallery.jbwa.net/SpaceBlimp/SB3/Camera2/?g2_page=63)
 
-## The Dataz! (Telemetry) {#the_dataz_telemetry}
+## The Dataz! (Telemetry)
 
 -   Accelerometer data. Unfortunately, it looks like there was a bug in
     the code and the second half of the data overwrote the first.
@@ -40,7 +40,7 @@ And then, recovery:
     landing. [Media:AccelerometerDumpfile 2010-11-13
     18-24-41.csv.gz](Media:AccelerometerDumpfile_2010-11-13_18-24-41.csv.gz)
 
-## Launch Details {#launch_details}
+## Launch Details
 
 **PLEASE NOTE - NEW DATE!**
 
@@ -101,7 +101,7 @@ And then, recovery:
 |                                  | ray counter                      |
 +----------------------------------+----------------------------------+
 
-## Help Wanted: {#help_wanted}
+## Help Wanted:
 
 If you spot something you can handle or wish to learn about, we'd love
 to have your help. (Seriously, meeting more people like
@@ -120,7 +120,7 @@ to have your help. (Seriously, meeting more people like
 -   Vacuum test Geiger counter
 -   New software for additional sensors (add small μC?)
 
-### Contact Info: {#contact_info}
+### Contact Info:
 
 If you would like to help, contact spaceblimp@hacdc.org.
 

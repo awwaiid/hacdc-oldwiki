@@ -10,9 +10,9 @@ plan to test device bio-proofing in saline solutions.
 
 \
 
-### Phosphate Buffered Saline (PBS) {#phosphate_buffered_saline_pbs}
+### Phosphate Buffered Saline (PBS)
 
-#### Overview {#overview_1}
+#### Overview
 
 There are plenty of resources out there that provide a pretty good
 overview of the basics of Phosphate Buffered Saline. It's safe to
@@ -20,7 +20,7 @@ consider it one of the very valuable workhorses of life science labs.
 It's completely compatible with cell cultures and it's relatively easy
 to make and handle.
 
-#### Example Formulation Materials (1 liter) {#example_formulation_materials_1_liter}
+#### Example Formulation Materials (1 liter)
 
 -   sodium chloride (8 g)
 -   potassium chloride (0.2 g)
@@ -31,7 +31,7 @@ to make and handle.
 There are other formulations available if, for example, we want to do a
 batch of 10X PBS to store and dilute as needed.
 
-#### Additional Materials Required {#additional_materials_required}
+#### Additional Materials Required
 
 -   a good balance to weigh the materials on
 -   glassware for measurement and storage
@@ -40,14 +40,14 @@ batch of 10X PBS to store and dilute as needed.
         [buy](https://www.sparkfun.com/products/10972), or
         [build](http://www.66pacific.com/ph/simplest_ph.aspx)?
 
-#### Storage Requirements {#storage_requirements}
+#### Storage Requirements
 
 If the solution isn't going to be used soon after making it, it should
 be stored refrigerated and sealed securely to keep it sterile. When
 removing it from storage, it should probably be checked for
 precipitation (especially if it's something like a 10X concentration).
 
-#### Possible Vendors {#possible_vendors}
+#### Possible Vendors
 
 If sourcing the materials and tools needed turns out to be a hassle
 there is always the possibility of purchasing the solution in liquid

@@ -1,4 +1,4 @@
-## This is the user page for Hexjunkie {#this_is_the_user_page_for_hexjunkie}
+## This is the user page for Hexjunkie
 
 Included in this page you will find all of the projects that I have been
 involved with since coming into contact with HacDC.

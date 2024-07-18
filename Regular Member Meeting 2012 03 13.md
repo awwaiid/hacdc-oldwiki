@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 March 13, 2012
 
@@ -11,24 +11,24 @@ Others Present:
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Annual
 Meeting](http://wiki.hacdc.org/index.php/Annual_Meeting_2012%7C2012)
 approved
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Organizing classes. Continuing outreach and external affairs.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 More outreach. Attended Broadband Bridge technology fair. Handed out
 stickers and flyers and met a bunch of people.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for Feb 2012:
 ![](HacDC_Financials_Feb_2012.pdf "HacDC_Financials_Feb_2012.pdf")
@@ -42,14 +42,14 @@ Despite the reduction in member dues and donations we finished February
 \~\$400 ahead. We have about 4 months of reserve at our current level of
 expenses, but some of that will be spent on goodies.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Migrated website from Drupal to Wordpress (Thanks Alberto!). Please
 contact admin team for access to post new content! (remember to use
 categories and multimedia is a plus) Also looking for project write-ups
 to add to Projects page. Feedback is always welcome.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -71,7 +71,7 @@ collaboration
 -   Open Street Map
 -   leading classes
 
-## Member Reports {#member_reports}
+## Member Reports
 
 **Brad** Went to New America Foundation and talked about space capsules,
 and all kinds of hackish things. Attracted a lot of attention and
@@ -114,9 +114,9 @@ info. Vendors donating boards, etc.
 **Ben** Unallocated Space in Severn,MD is having a LAN party on March
 24th and BBQ during the day. Burgers and video games. Come on by!
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 ### Passed
 
@@ -145,7 +145,7 @@ people will be easy.
 
 -   13 for, 1 opposed
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

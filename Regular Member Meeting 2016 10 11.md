@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   October 11, 2016
 :   Called to order at 8:17 pm by Julia Longtin
@@ -12,7 +12,7 @@
 
     :   Quorum met? yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 <http://wiki.hacdc.org/index.php/Regular_Member_Meeting_2016_08_09>
 (Vote: renewal of HSTS MOU)
@@ -27,13 +27,13 @@
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 *Zach and Ankeet were both elected to membership*
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Julia would like reimbursement of \$19.01 from reserves for two 32GB
     USB Flash drives; receipt already provided.
@@ -80,56 +80,56 @@
     account managed by the admin team and set it up for auto-pay on the
     HacDC credit card.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Nothing to report, though, as always, some expenditures by members may
 be eligible for reimbursement.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Nothing to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 The vacuum gauge has been ordered and might be here by the next members
 meeting.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 We are launching this weekend and invite any and all to come out to
 Strasberg for the event at 10am on Saturday. We will take a haitus for a
 couple of months before we resume talking about the next Spaceblimp
 launch for the early spring;.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Nothing to report, no current commitments attended to. That may change
 soon, we'll see.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Please update your PA preferences; we have a roughly \$600 surplus this
 month to split up thanks to Accelebrate. Otherwise we're up \$200/mo
 over rent, which is not terrible. General Reserves have slowly increased
 to \$7k and another about \$5k is earmarked to projects.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 -   Starlight and Nebula are fully operational. Please request accounts.
 -   A lot of technology is getting developed, especially towards the

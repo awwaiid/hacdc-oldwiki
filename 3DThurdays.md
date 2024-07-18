@@ -1,9 +1,9 @@
-# 3D Printer Thurdays {#d_printer_thurdays}
+# 3D Printer Thurdays
 
 Every Thursday from 6pm - 10pm a group of 3D printer enthusiasts meet to
 work on the 3D printers and print stuff. Drop by and check it out.
 
-## Our current efforts include: {#our_current_efforts_include}
+## Our current efforts include:
 
 -   Upgrading the Prusa Mendel to a Mendel 3
 -   Extruder Improvements for the Rostock Max V2

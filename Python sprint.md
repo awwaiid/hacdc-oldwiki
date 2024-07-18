@@ -1,4 +1,4 @@
-## What's planned {#whats_planned}
+## What's planned
 
 Are you a Python programmer who wants to learn about how Python is
 developed and to make the upcoming Python 2.6 release better? Join us
@@ -15,7 +15,7 @@ questions about bugfixing or general Python queries.
 For more information about how bug days work, see [the Python wiki's bug
 day page](http://wiki.python.org/moin/PythonBugDay).
 
-## Date/time and location {#datetime_and_location}
+## Date/time and location
 
 Saturday May 10 2008, noon - 4PM at the HacDC space.
 
@@ -23,7 +23,7 @@ Address: the HacDC space at 1525 Newton St NW, Washington DC 20010 USA
 (Near corner of 16th and Newton NW). See <http://www.hacdc.org> for
 maps.
 
-## Who's coming {#whos_coming}
+## Who's coming
 
 -   Andrew Kuchling
 -   Alex Clark
@@ -31,7 +31,7 @@ maps.
 -   Add your name here
 -   Add your name here
 
-## Want an introductory talk? {#want_an_introductory_talk}
+## Want an introductory talk?
 
 If enough people are interested, I can present a short (10-15) minute
 introductory talk. It would probably be a greatly shortened and updated
@@ -44,7 +44,7 @@ little past noon; let's say 12:30PM.
 
 -   Alex Clark
 
-## What to bring {#what_to_bring}
+## What to bring
 
 -   A laptop with wireless and a development environment (compiler,
     Subversion, your favorite editor).

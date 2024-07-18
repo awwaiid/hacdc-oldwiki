@@ -1,4 +1,4 @@
-## How to Update This Page Manually - *OBSOLETE* {#how_to_update_this_page_manually___obsolete}
+## How to Update This Page Manually - *OBSOLETE*
 
 Please copy one of the blocks below into the Live section. For the
 curious, the
@@ -33,7 +33,7 @@ Important!
 
     Signed: ~~~
 
-### Opening Soon {#opening_soon}
+### Opening Soon
 
     HacDC is currently: <onlyinclude>About to be opened! (as of ~~~~~)</onlyinclude>
 

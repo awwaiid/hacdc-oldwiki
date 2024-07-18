@@ -8,7 +8,7 @@ used to plan and coordinate the launch. This may also involve in situ
 analysis in the air and on the ground. This team will also primarily be
 responsible for delivering tracking payload(s).
 
-# Team Members {#team_members}
+# Team Members
 
 -   Derk
 -   Ethan M
@@ -16,7 +16,7 @@ responsible for delivering tracking payload(s).
 -   Nick
 -   Samarth
 
-# Flight Prediction {#flight_prediction}
+# Flight Prediction
 
 -   [Cambridge University predictor](http://predict.habhub.org/)
 -   [U of Michigan

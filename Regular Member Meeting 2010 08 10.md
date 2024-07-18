@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-08-10 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 August 10, 2010 Meeting called to order at 7:36 by Daniel
 
@@ -12,7 +12,7 @@ Others Present: adam bradshaw, pete edworthy, Ben "Pirate" and Chris
 
 Quorum Met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 **Note:** Dan Barlow has to update last meetings minutes to fix some
 things that are missing.
@@ -20,13 +20,13 @@ things that are missing.
 [Regular Member Meeting 2010 07
 13](Regular_Member_Meeting_2010_07_13)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 We have a new server now.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
     HacDC Transaction Detail by Account July 2010
 
@@ -107,13 +107,13 @@ We have a new server now.
     Total Equity     $8,429.34
     TOTAL LIABILITIES AND EQUITY     $8,429.34
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Something shady with the POS? VP lost his wallet.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 William: Is really happy to be back from India. Had a lot of fun
 painting HacDC.
@@ -122,7 +122,7 @@ Katie: Will be emailing all on the guest lists and asking them to join.
 Movie night sometime soon. Will require laptop to drive video. Contact
 her for details.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Andy
 
@@ -167,20 +167,20 @@ her for details.
     it, let Dan know.
     -   Call for sysadmins present.
 
-## Old Business {#old_business}
+## Old Business
 
-### Parts Store {#parts_store}
+### Parts Store
 
 Budget has been approved, but there isn't consensus yet.
 
-### Nonprofit Paperwork Filing {#nonprofit_paperwork_filing}
+### Nonprofit Paperwork Filing
 
 Still in limbo. Redbeard following up every few days. Remains
 unassigned; will be fast-tracked once it's assigned.
 
-## New Business {#new_business}
+## New Business
 
-### marketing meeting - August 24 {#marketing_meeting___august_24}
+### marketing meeting - August 24
 
 -   House warming party
     -   Submit any proposals to blabber. Pumping Station did a "geek
@@ -194,7 +194,7 @@ unassigned; will be fast-tracked once it's assigned.
     town-hall action-oriented. Like a work sprint for programmatic
     things.
 
-### setup new voip service {#setup_new_voip_service}
+### setup new voip service
 
 we can get voip service for \$1/mo (plus \$.01/min incoming calls) from
 voip.ms (same as we're using now, Jason's account) and transfer the
@@ -211,7 +211,7 @@ fix when the phone goes out.
 -   Daniel moves to approve \$50/yr budget. William Seconds. Motion
     passes.
 
-### Clear internet "booster" {#clear_internet_booster}
+### Clear internet "booster"
 
 The internet access at the church is a T1 (1.544 sync) plus DSL (1.544
 async) being shared now with a computer lab downstairs and 14 other
@@ -228,7 +228,7 @@ modem).
 
 **No vote required at this time**
 
-### Modern Device JeeNode kit order {#modern_device_jeenode_kit_order}
+### Modern Device JeeNode kit order
 
 There is currently interest in the JeeNode, an AVR-based Arduino clone
 with a built-in multi-node radio.
@@ -281,14 +281,14 @@ for acknowledgement and links in the project writeups and publicity.
 
 **No vote required, guidance can be dealt with on-list**
 
-## New Members {#new_members}
+## New Members
 
-### Pete Edworthy {#pete_edworthy}
+### Pete Edworthy
 
 Software/marketing/networking nerd in small companies. Electronics for
 sanity. Nominated by: Timball Seconded by: Multiple **Passed**
 
-### Ben the Pirate (arr) {#ben_the_pirate_arr}
+### Ben the Pirate (arr)
 
 Not quite as cool. Also does software work OS \*nix. Esoteric languages.
 Nominated by: Redbeard Seconded by: Arc **Welcome**

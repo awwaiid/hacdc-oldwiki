@@ -1,4 +1,4 @@
-## Compile and install Babel {#compile_and_install_babel}
+## Compile and install Babel
 
 Download babeld and ahcpd. Standard "make && sudo make install".
 
@@ -8,7 +8,7 @@ this info
     make LDLIBS=''
     make install
 
-## Setup ad-Hoc network {#setup_ad_hoc_network}
+## Setup ad-Hoc network
 
 1.  Disable NetworkManager
     1.  Right click on NetworkManager applet, un-check "Enable
@@ -27,7 +27,7 @@ this info
 
 5.  # ifconfig wlan0 up
 
-## Setup Babel {#setup_babel}
+## Setup Babel
 
 1.  # babeld -D wlan0
 

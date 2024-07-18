@@ -62,15 +62,15 @@ maintaining anonymity when communicating about socially sensitive
 information, such as health issues or whistleblowing. Learn more about
 who uses Tor.
 
-# Hard Drive Encryption {#hard_drive_encryption}
+# Hard Drive Encryption
 
-## Truecrypt (Windows drive encryption) {#truecrypt_windows_drive_encryption}
+## Truecrypt (Windows drive encryption)
 
 How to encrypted your system drive (Windows boot drive) on Windows using
 Truecrypt:
 <http://www.maximumpc.com/article/howtos/how_to_encrypt_your_entire_hard_drive_the_easy_way_using_truecrypt>
 
-# Suggested Software: {#suggested_software}
+# Suggested Software:
 
 Software usable under multiple operating systems is normally listed
 under each operating system.
@@ -79,7 +79,7 @@ Note about Truecrypt-No complete audit has been done yet, people are
 currently collecting funds for a full audit -
 <http://istruecryptauditedyet.com/>
 
-## GPG Key IDs: {#gpg_key_ids}
+## GPG Key IDs:
 
 These are GPG Key IDs which can be obtained from keyservers.
 
@@ -92,7 +92,7 @@ These are GPG Key IDs which can be obtained from keyservers.
   GPGTools                                     00D026C4
   Enigmail                                     9369CDF3
 
-## OS independent (Normally bootable iso images): {#os_independent_normally_bootable_iso_images}
+## OS independent (Normally bootable iso images):
 
   Program:                                     Desc:                               URL:                        Why?
   -------------------------------------------- ----------------------------------- --------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -105,7 +105,7 @@ mailing list
 how (make sure to include which operating system you are running when
 asking for help).
 
-## Linux and other Unix variants: {#linux_and_other_unix_variants}
+## Linux and other Unix variants:
 
   Program:             Desc:                                                URL:
   -------------------- ---------------------------------------------------- -------------------------------------------------------------
@@ -123,7 +123,7 @@ asking for help).
   GPG4Win              GPG front-end for Windows                            <http://www.gpg4win.org/download.html>
   eraser               Secure Delete                                        <http://eraser.heidi.ie/>
 
-## Mac OS: {#mac_os}
+## Mac OS:
 
   Program:             Desc:                                                URL:
   -------------------- ---------------------------------------------------- -------------------------------------------------------------
@@ -148,7 +148,7 @@ asking for help).
   Ghostery   Blocks web analytics agents (web bugs, JavaScript)   <https://www.ghostery.com/>
   ---------- ---------------------------------------------------- -----------------------------
 
-## Web Browser Plugins: {#web_browser_plugins}
+## Web Browser Plugins:
 
 ### Safari:
 
@@ -188,13 +188,13 @@ asking for help).
   Ghostery       Blocks web analytics agents (web bugs, JavaScript)                     <https://www.ghostery.com/>
   Adblock Plus   Detects and blocks advertisements (images, JavaScript, Java applets)   <https://adblockplus.org/>
 
-### Internet Explorer: {#internet_explorer}
+### Internet Explorer:
 
   Lastpass   Password manager                                     <https://lastpass.com>
   ---------- ---------------------------------------------------- -----------------------------
   Ghostery   Blocks web analytics agents (web bugs, JavaScript)   <https://www.ghostery.com/>
 
-## Non web browser plugins: {#non_web_browser_plugins}
+## Non web browser plugins:
 
 ### Thunderbird:
 
@@ -219,7 +219,7 @@ asking for help).
   Intro level guide to Internet Security       <http://qz.com/120946/the-complete-guide-to-not-being-that-idiot-who-got-the-company-hacked/>   A guide for non-technical denizens of the Internet on how not to be low-hanging fruit for hackers.
   How the Heartbleed Bug Works                 <https://xkcd.com/1354/>                                                                        Nice illustration of how Heartbleed worked to give layfolk an idea of how some of these exploits happen and how client/server systems negotiate a connection.
 
-## TOR: {#tor_1}
+## TOR:
 
   Site:         URL:                                                     Notes:
   ------------- -------------------------------------------------------- --------------------------------------

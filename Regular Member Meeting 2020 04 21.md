@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: April 21st, 2020
 :   Called to order at 7:30 pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_02_11) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2020_02_11)
 
 Approved
 
@@ -20,16 +20,16 @@ Approved
 -   Matt for 3D printing 40 face shields using his home printer and
     taking them to a hospital drop-off site
 
-## New Members {#new_members}
+## New Members
 
 No new members
 
-## Old Business {#old_business}
+## Old Business
 
 -   Spring cleaning (but not gear cleaning) has begun. Clean those
     springs!
 
-## New Business {#new_business}
+## New Business
 
 -   Discussing options for 3D printing if people are interested in
     aiding in the production of face shields. Places are currently
@@ -42,21 +42,21 @@ No new members
 -   Tayeb will start the deep learning online course soon and it will be
     managed entirely online this time, allowing more people to join
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Current balance is \$5597. We are in the black for the last two months
 because we haven't yet paid rent in April or March. We are net +3567 in
@@ -70,9 +70,9 @@ between a one-time donation and a member. We want to be able to see if
 we are losing members when we make the case to the church that we're
 looking for a break on the rent
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 ## Adjournment
 

@@ -1,7 +1,7 @@
 [Bike Maintenance Class:](Bike_Maintenance_Class) Week 2,
 Basic Fit, Component Materials, and Brake System
 
-## Judging Bike Fit: Stand Over Height {#judging_bike_fit_stand_over_height}
+## Judging Bike Fit: Stand Over Height
 
 Finding a bike that fits correctly is important, but its also is mostly
 about personal preference. So what should you look at?\
@@ -18,7 +18,7 @@ This will tell you if a bike fits you most of the time. While there are
 other components to bike fit, most of them are adjustments, which we
 will cover later in this class.
 
-## Frame Materials {#frame_materials}
+## Frame Materials
 
 Bikes frames are made out of three types of material:
 
@@ -51,9 +51,9 @@ Bikes frames are made out of three types of material:
 in the center of the tube than at the ends, taking pounds of the weight
 off a frame and providing a more comfortable ride.
 
-## Saddle and Cockpit Set-Up {#saddle_and_cockpit_set_up}
+## Saddle and Cockpit Set-Up
 
-### Saddle Height and Position {#saddle_height_and_position}
+### Saddle Height and Position
 
 -   **Level**
 
@@ -80,7 +80,7 @@ px](saddleheight.jpg " 200 px")
 When in the saddle, with the peddles at 3 and 9 o'clock, the front of
 your leading knee should be plumb with the peddles spindle.
 
-### Handlebar/Stem Position {#handlebarstem_position}
+### Handlebar/Stem Position
 
 Seeing as you can have anything from drop bars to 5" risers on a bike,
 this is mostly personal preference. Just make sure you knees aren't
@@ -88,7 +88,7 @@ going to hit the bars when your taking a sharp corner. A more upright
 position gives you better visibility while a lower position will make
 you more aerodynamic.
 
-### Cockpit Set-up {#cockpit_set_up}
+### Cockpit Set-up
 
 All of this is personal preference, but here's a starting point.
 
@@ -97,28 +97,28 @@ All of this is personal preference, but here's a starting point.
 
 ## Breaks
 
-### System Overview/Styles {#system_overviewstyles}
+### System Overview/Styles
 
-#### Pull Ratio {#pull_ratio}
+#### Pull Ratio
 
-#### Mountain vs Road Cables {#mountain_vs_road_cables}
+#### Mountain vs Road Cables
 
-#### Calliper, Cantilever, and Linear Pull {#calliper_cantilever_and_linear_pull}
+#### Calliper, Cantilever, and Linear Pull
 
-##### Quick Release {#quick_release}
+##### Quick Release
 
 ===Replacing Cable and Housing
 
-#### What's the Difference Between Break Housing and Shift Housing {#whats_the_difference_between_break_housing_and_shift_housing}
+#### What's the Difference Between Break Housing and Shift Housing
 
-#### Measuring and Cutting Housing {#measuring_and_cutting_housing}
+#### Measuring and Cutting Housing
 
-#### Installing Brake Cable {#installing_brake_cable}
+#### Installing Brake Cable
 
-### Replacing Brake Pads {#replacing_brake_pads}
+### Replacing Brake Pads
 
-#### Styles of Pads {#styles_of_pads}
+#### Styles of Pads
 
-## Overview, adjusting, and installing pads {#overview_adjusting_and_installing_pads}
+## Overview, adjusting, and installing pads
 
 [Category:Bike_Maintenance_Class](Category:Bike_Maintenance_Class)

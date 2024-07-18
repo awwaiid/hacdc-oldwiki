@@ -6,7 +6,7 @@ Standing rules, in conjunction with our [Bylaws](Bylaws),
 provide for the day-to-day operation of HacDC. They may be amended by a
 TBD process.
 
-## Procedures for Inducting New Members {#procedures_for_inducting_new_members}
+## Procedures for Inducting New Members
 
 *(This Standing Rule was unanimously adopted at the 2/8/2011 Member
 Meeting - TMS)*
@@ -43,7 +43,7 @@ What the previous bylaws said:
     Board of Directors. Payment of dues may be waived for any other
     reason only by voting members at a duly called meeting.
 
-## Membership Restoration for Suspended Voting Members {#membership_restoration_for_suspended_voting_members}
+## Membership Restoration for Suspended Voting Members
 
 What the previous bylaws said:
 
@@ -52,7 +52,7 @@ What the previous bylaws said:
     month beyond the end of the suspension period, or upon the granting
     of a dues waiver as outlined in Section 4.
 
-## Regular Meetings {#regular_meetings}
+## Regular Meetings
 
 What the previous bylaws said:
 
@@ -74,7 +74,7 @@ Meeting](2009_Annual_Meeting_Minutes):
     meeting an "informal non-voting meeting" where no business may be
     conducted. Elliot seconded. … The motion carried.
 
-## Rules of Order {#rules_of_order}
+## Rules of Order
 
 What the previous bylaws said:
 

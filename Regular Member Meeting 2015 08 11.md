@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   August 11, 2015
 :   Called to order at 7:54pm by Enrique
@@ -11,7 +11,7 @@
 
     :   Quorum met? No.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2015 07
 14](Regular_Member_Meeting_2015_07_14)
@@ -23,11 +23,11 @@
 -   Don J. for hosting two Introduction to Soldering classes, which
     attracted 8 and TBD new guests.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Biohacking. Saved four Purple Martin hatchlings, stapling wire mesh
 around their nest as a much needed mechanical support. All four have
@@ -40,9 +40,9 @@ Forums](https://forum.lulzbot.com/viewtopic.php?f=16&t=2454).
 Last month has been busy. Still hoping to spend a couple weeks fixing
 things up at HacDC soon.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Half a dozen people have signed up and paid the \$25 ticket for the
     upcoming TOOOL lockpicking class, Sept 12th.
@@ -56,7 +56,7 @@ things up at HacDC soon.
     other nearby locations (eg other churches) with suitable spaces for
     large events. We should reach out to them about availability.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Don
 
@@ -75,25 +75,25 @@ things up at HacDC soon.
 
 #### Phil
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project SUPPLIES {#project_supplies}
-
-No expenditures this month.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 No expenditures this month.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
 
-## Member Reports {#member_reports}
+No expenditures this month.
 
-## Old Business {#old_business}
+### Project HAMRADIO
+
+## Member Reports
+
+## Old Business
 
 -   Pending: Proposal for a list of special tool custodians and list of
     authorized users (eg CNC, Laser Cutter, Lathe, etc).
@@ -102,9 +102,9 @@ No expenditures this month.
     marijuana-free, independent of St. Stephen's and DC policies.
 -   Pending: CryptoParty 2015?
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 Evan S. voted in by all members present.
 

@@ -1,11 +1,11 @@
 ```{=mediawiki}
 {{RevisionNeeded}}
 ```
-## Donating Money {#donating_money}
+## Donating Money
 
 www.hacdc.org/support
 
-## Donating Stuff {#donating_stuff}
+## Donating Stuff
 
 We're always on the lookout for donations. Put what you've got to good
 use! Donate it to HacDC!

@@ -1,4 +1,4 @@
-### [ In the Space (Resources)](:Category:In_the_Space) {#in_the_space_resources}
+### [ In the Space (Resources)](:Category:In_the_Space)
 
 `<strong>`{=html}\< All our supplies and physical resources. Space and
 room diagrams. \>`</strong>`{=html}

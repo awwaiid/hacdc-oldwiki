@@ -8,7 +8,7 @@ Wiki admin contact point?
 :   Thanks, David Mc → [Gatohaus](User:Gatohaus) 14:14, 9
     November 2010 (UTC)
 
-## Page protection {#page_protection}
+## Page protection
 
 Thanks for protecting [HacDC Multi-touch
 device](HacDC_Multi-touch_device). Any idea why that one page

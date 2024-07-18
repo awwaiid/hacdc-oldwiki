@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   September 9, 2014
 :   Called to order at 7:45\_\_\_\_\_\_ by \_\_\_\_\_\_Dan Barlow
@@ -21,7 +21,7 @@ Phil mem enrique member Online Plasma and Agave hax and ITG gatohaus
 
     :   Quorum met? yes!
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 08
 12](Regular_Member_Meeting_2014_08_12)
@@ -32,13 +32,13 @@ Phil mem enrique member Online Plasma and Agave hax and ITG gatohaus
 -   Julia "juri" Longtin - Bringing much needed funding to HacDC
     equipment.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-#### Admin Team {#admin_team}
+#### Admin Team
 
 -   CAT6 has been run for several things around the space.
     -   -   3D printer station machine (the cube is directly under the
@@ -81,7 +81,7 @@ Phil mem enrique member Online Plasma and Agave hax and ITG gatohaus
     the basement it got too please email
     [admin@hacdc.org](mailto:admin@hacdc.org?subject=found%20network%20switch).
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for August 2014:
 ![](HacDC_Financials_2014_08.pdf "HacDC_Financials_2014_08.pdf"). We
@@ -90,14 +90,14 @@ Duque, Elizabeth Smith, Dan Koestler, and Bjorn Westergard. We have 44
 dues-paying members in good standing, 7 dues-waived members, and 2
 members who are behind on dues.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for August:
 ![](HacDC_PA_Projects-2014_08.pdf "HacDC_PA_Projects-2014_08.pdf"). We
 continue to have to dip into savings to pay our rent, so no dividend
 this month. :(
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I purchased a house this past Wednesday, so I'm busy and not at HacDC
 tonight.
@@ -124,13 +124,13 @@ If there's anything else, you can call me up, but my phone currently
 gets no service in my new basement so don't be offended if I don't pick
 up, it probably means my phone didn't ring.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 We basically blew off yet another sprint last month because I was busy
 with the Crab-B-Q. (By the way, you can totally cook crabs in a smoker.)
@@ -138,24 +138,24 @@ with the Crab-B-Q. (By the way, you can totally cook crabs in a smoker.)
 We are slacking and we really need to pull it together soon. I'm just
 having trouble making time for things.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Project KITBUILD's shepherd has been out of commission all Summer but
 hopes to be able to get something together in late October or November.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Have a \~\$50 receipt for various screws purchased from Fastenal, mostly
 for the optical table.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 For lack of incoming funding, the project coordinator (mirage335) feels
 that any purchase made from these funds must be well planned.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -169,11 +169,11 @@ FlexReplicator, thanks to the free table and extrusions.
 Julia Longtin has successfully sought investors, and plans to use the
 robot to manufacture large car parts.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 Jared Nielsen Gary approved
 

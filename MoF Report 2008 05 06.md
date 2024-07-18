@@ -1,8 +1,8 @@
 Random factoid: Our NAICS Code is 813410
 
-# Financial Statements {#financial_statements}
+# Financial Statements
 
-## Statement of Financial Position {#statement_of_financial_position}
+## Statement of Financial Position
 
   -------------------------------- ------------------ ---------------- ------------
   **Assets**                       **Unrestricted**   **Restricted**   **Total**
@@ -24,7 +24,7 @@ Random factoid: Our NAICS Code is 813410
                                                                        
   -------------------------------- ------------------ ---------------- ------------
 
-## Statement of Financial Position {#statement_of_financial_position_1}
+## Statement of Financial Position
 
   ----------------------------------------- ------------------ ---------------- ------------
                                             **Unrestricted**   **Restricted**   **Total**
@@ -49,7 +49,7 @@ Random factoid: Our NAICS Code is 813410
                                                                                 
   ----------------------------------------- ------------------ ---------------- ------------
 
-## 5 Largest Receipts (Since Last Report) {#largest_receipts_since_last_report}
+## 5 Largest Receipts (Since Last Report)
 
   ------------------------------------------------------- ------------
   University of Advancing Technology (Grant)              \$1,337.00
@@ -60,7 +60,7 @@ Random factoid: Our NAICS Code is 813410
                                                           
   ------------------------------------------------------- ------------
 
-## 5 Largest Expenditures (Since Last Report) {#largest_expenditures_since_last_report}
+## 5 Largest Expenditures (Since Last Report)
 
   ---------------------------------------- ----------
   Rent (April)                             \$850.00
@@ -73,7 +73,7 @@ Random factoid: Our NAICS Code is 813410
 
 # Budget
 
-## Membership Dues {#membership_dues}
+## Membership Dues
 
 The general proposal under discussion is \$42/month for 2008 with waiver
 procedure as drafted in the Bylaws. PayPal cleared us today, so we can
@@ -87,7 +87,7 @@ members.
 Of course, anyone will be encouraged to [donate](Donation)
 more. Everything beyond \$42 is tax deductible.
 
-## Budget Principles Proposal {#budget_principles_proposal}
+## Budget Principles Proposal
 
 -   Our Monthly Expenses (Rent, Insurance, Internet, Basic Supplies)
     shall remain under a fixed amount per month to be fully fundable by
@@ -98,9 +98,9 @@ more. Everything beyond \$42 is tax deductible.
     sale of recycled equipment, etc (and not restricted to a cause)
     should go towards group-wide goals approved at a meeting
 
-## Budget Proposals {#budget_proposals}
+## Budget Proposals
 
-### HiDeUS (High Density Unit of Shelving) - \$500 {#hideus_high_density_unit_of_shelving___500}
+### HiDeUS (High Density Unit of Shelving) - \$500
 
 I authorized a budget of \$400 for the initial construction. I propose a
 budget of \$500.00 for finishing off the shelf, however, we need to

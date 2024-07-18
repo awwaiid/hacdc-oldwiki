@@ -27,7 +27,7 @@ SUN:
     space.
 -   9:00pmish? Discussion and planning for the next sprint
 
-### Stuff to bring (proposed) {#stuff_to_bring_proposed}
+### Stuff to bring (proposed)
 
 -   FMRS/GMRS radios that you wouldn't mind hacking.
 -   Childrens' walkie-talkies. [User:Drwho](User:Drwho) knows
@@ -109,7 +109,7 @@ in-between CB channels 1-13
         field.](http://www.qbjnet.com/packet.html#soundmodem)
 -   Read up on [AX.25](AX.25).
 
-### Goals (proposed) {#goals_proposed}
+### Goals (proposed)
 
 -   Optimize for hackability. Could your average geek build a few of
     these using junk around zir house and deploy them in an emergency
@@ -140,12 +140,12 @@ in-between CB channels 1-13
         before connectivity breaks down?
         -   to be determined
 
-### Apps running on Windbringer (laptop/node) to prove functionality {#apps_running_on_windbringer_laptopnode_to_prove_functionality}
+### Apps running on Windbringer (laptop/node) to prove functionality
 
 -   [status.net v0.9.6](http://status.net/open-source)
 -   [Mediawiki](http://www.mediawiki.org/wiki/MediaWiki)
 
-### Lessons Learned {#lessons_learned}
+### Lessons Learned
 
 -   "how hard can it be" ... oops :(
     -   very. soundmodem is finicky and creates unstable connections 20%

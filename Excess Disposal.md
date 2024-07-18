@@ -1,6 +1,6 @@
 **Not yet official HacDC policy until approved at a monthly meeting.**
 
-# Donation Rules {#donation_rules}
+# Donation Rules
 
 Donations must be labeled with the names of donor(s) and member(s)
 accepting them. Donors and accepting members have authority to, and are
@@ -21,7 +21,7 @@ expected to manage the donation consistent with the following:
 New donations not handled in a manner consistent with the above should
 be **disposed of immediately**.
 
-# Disposal Rules {#disposal_rules}
+# Disposal Rules
 
 -   Expiration on the going-out pile is a point of no return. Retrieval
     from a dumpster and return to HacDC is explicitly forbidden.
@@ -32,7 +32,7 @@ be **disposed of immediately**.
 
 Materials violating these rules should be **disposed of immediately**.
 
-# Space Use Rules {#space_use_rules}
+# Space Use Rules
 
 ## Everywhere
 
@@ -45,7 +45,7 @@ Materials violating these rules should be **disposed of immediately**.
 -   Arrangement of back room will reasonably permit secondary use as
     class room or meeting space.
 
-## Unshared Member Storage {#unshared_member_storage}
+## Unshared Member Storage
 
 Limited to 3 cubic feet (3' \* 1'), must be clearly labeled with contact
 information, and must fit on a shelf.
@@ -58,7 +58,7 @@ information, and must fit on a shelf.
 -   Back room arrangement must permit temporary storage for at least 3
     front-room workstations.
 
-## Unshared Member Storage {#unshared_member_storage_1}
+## Unshared Member Storage
 
 Limited to 27 cubic feet (3' \* 3' \* 3'), must be clearly labeled with
 contact information, and must fit on a shelf.
@@ -66,7 +66,7 @@ contact information, and must fit on a shelf.
 HacDC BoD may change the rules or authorize corrective actions,
 including "Emergency Disposal".
 
-# Relevant to HacDC Criteria {#relevant_to_hacdc_criteria}
+# Relevant to HacDC Criteria
 
 HacDC's goals include education, research, and engineering.
 
@@ -103,7 +103,7 @@ identify valuable components likely to be inside.
 ```
 -   Lee Ciereszko (Radio Communications and CCTV Equipment Expert)
 
-# Going out Pile {#going_out_pile}
+# Going out Pile
 
 Designated going out pile is in the basement. Anything put on the right
 side of that pile has a lifetime of **two weeks**, at which time it may
@@ -125,7 +125,7 @@ this pile except in dire need.
 **Members are welcome to bid on unexpired items, return unexpired items
 to service or storage at HacDC, or take expired items.**
 
-# Emergency Disposal {#emergency_disposal}
+# Emergency Disposal
 
 When at least half the HacDC floor space and work areas are unusable due
 to improper resource storage, the going-out pile expiration period may
@@ -160,7 +160,7 @@ on the test cart, etc), and are set in the following table:
 
 **Members are welcome to revise this table as necessary.**
 
-# Disposal Methods {#disposal_methods}
+# Disposal Methods
 
 Unwanted donations, expired items on the going out pile, or items
 declared unwanted at an official meeting should be disposed of ASAP as
@@ -183,7 +183,7 @@ out of the waste stream.
 Ham fests (amateur radio conventions) are an excellent opportunity to
 obtain cash for junk. Proceeds should go to HacDC.
 
-## Take Home by Member {#take_home_by_member}
+## Take Home by Member
 
 Members may take an undesired item home, so long as the purpose is not
 to sell the item{s) for personal gain.
@@ -199,7 +199,7 @@ authorities is acceptable, including without limitation:
 -   E-waste and hazardous materials should be properly recycled or
     processed.
 
-## Local Electronics Recycling Resources {#local_electronics_recycling_resources}
+## Local Electronics Recycling Resources
 
 The [DC Department of Public Works](http://www.dpw.dc.gov) offers a
 free, weekly electronics recycling drop-off service at the Benning Road
@@ -234,7 +234,7 @@ Lee](http://www.hacdc.org/pipermail/blabber/2009-August/001563.html):
 > \[<http://dpw.dc.gov/dpw/cwp/view,A,1202,Q,517961,dpwNav>,\|34219\|.asp
 > Hours are listed here.\]
 
-# Conflict Resolution {#conflict_resolution}
+# Conflict Resolution
 
 By majority vote, HacDC members may declare items unwanted at an
 official meeting. These items should then be disposed of immediately,

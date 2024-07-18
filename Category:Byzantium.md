@@ -1,4 +1,4 @@
-## THIS PAGE IS DEPRECATED {#this_page_is_deprecated}
+## THIS PAGE IS DEPRECATED
 
 **The contents of this HacDC Byzantium wiki are considered deprecated,
 they are preserved for historic purposes only. For the most up-to-date
@@ -26,7 +26,7 @@ it immediately due to a major bug in the 10 January 2012 release! This
 is critical!** [Where to download
 Byzantium.](Downloading_Byzantium)
 
-## Project Goals {#project_goals}
+## Project Goals
 
 The goal of Project Byzantium is to develop a communication system by
 which users can connect to each other and share information in the
@@ -75,7 +75,7 @@ been replaced with the [Action Log](Byzantium_Action_Log)
 since the sprints have become slightly less structured as we delve into
 the minutia of the project.
 
-## Presentations and PR {#presentations_and_pr}
+## Presentations and PR
 
 [Ben and the Doctor will be presenting at
 NOVALUG!](http://www.novalug.org/node/176) - 14 May 2011 [The Doctor

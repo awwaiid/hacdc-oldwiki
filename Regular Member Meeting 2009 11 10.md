@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 November 10, 2009 Meeting called to order at 7:40 PM by President
 
@@ -9,26 +9,26 @@ Others: [User:NikolasCo](User:NikolasCo), James
 
 [Quorum](Quorum) determined to be present.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Absence of [quorum](quorum) prevented October 2009 meeting,
 so the [September 2009 meeting
 minutes](http://hacdc.org/wiki/september-09-meeting-minutes) were
 presented and approved without objection.
 
-## Consent Agenda {#consent_agenda}
+## Consent Agenda
 
 There were no items in tonight's consent agenda.
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Elliot reported that our lease with the church is up for renewal in
 January, and he will be discussing the potential terms with the parish
 coordinator soon.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 TC reported that in October 2009, 30 members paid dues via Paypal, and 2
 Friends of HacDC donated via Payal. Checks went out for rent, Martin's
@@ -37,16 +37,16 @@ stickers. We're still paying \$100/month for a POS lease that we want to
 end ASAP. As of Nov 10th, HacDC has \$3568 in checking and \$75
 deposited with paypal and \$800 in transit from paypal.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 The design and printing of quartersheets is on hold while we consider
 alternative physical spaces over the next few months.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 The secretary was absent due to H1N1. :(
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Dan Barlow reported that a friend his from New Jersey donated some
 aluminum and plastic boxes (now in the basement) that could be used for
@@ -65,7 +65,7 @@ mapping party in about a week an a half.
 Dave reports that there's now a wifi access point in the sanctuary –
 will see about getting port turned on.
 
-## Old Business {#old_business}
+## Old Business
 
 (The below items probably don't belong in this section because they're
 not items to be voted on.)
@@ -88,7 +88,7 @@ affixed to the back of our door, and there appear to be enough. The
 signature pages for later amendments do not appear to be in the space;
 will check with the secretary when he's feeling better.
 
-## New Business {#new_business}
+## New Business
 
 Prospective new member [User:NikolasCo](User:NikolasCo)
 introduced himself, was nominated for membership, and was unanimously

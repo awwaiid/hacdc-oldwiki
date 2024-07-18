@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 April 9, 2013 Called to order at `<s>`{=html}1930`</s>`{=html}
 `<s>`{=html}1948`</s>`{=html} `<s>`{=html}1958`</s>`{=html} 2008 !!
@@ -7,19 +7,19 @@ Martin, Phil, David Mc, Eric, Katie, Andrew
 
 [Quorum](Quorum) is met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Annual Meeting 2013](Annual_Meeting_2013)
 
 ## Recognition
 
-## Director Reports {#director_reports}
+## Director Reports
 
 Annual
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   Draft: [Shop Rules](Shop_Rules)
 -   Call for **certification standards** for the more dangerous tools
@@ -34,7 +34,7 @@ Annual
         -   [Welder](Certification_Welder)
         -   [Deathstar](Certification_Deathstar)
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for March 2013:
 ![](HacDC_Financials_2013_03.pdf "HacDC_Financials_2013_03.pdf"). We
@@ -50,7 +50,7 @@ with the IRS.
 
 Quorum remains at 14.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 We had a surplus so I am able to declare a \$600 Project Awesome
 dividend and add \$64 to our reserves. Here is the Project Awesome
@@ -61,22 +61,22 @@ eleven votes total. Note that project contacts must be members, so any
 project whose contact leaves or transitions from member to friend status
 must appoint a new contact.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Working out Secretary's duties, trying to determine current rules for
 tracking member list and announcing meetings. Otherwise nothing new to
 report. [Gatohaus](User:Gatohaus) 10:40, 8 April 2013 (PDT)
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 Lot of awesome bio-hacking stuff going on. Encouraging Mirage to demo in
 DC in 4 weeks. Dev kits for Nordic something something coming in.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 -   ISC Grant:
     -   Meetings (semiweekly hangouts/meatspace)
@@ -88,9 +88,9 @@ DC in 4 weeks. Dev kits for Nordic something something coming in.
 
 Need to start implementing inventory system for new hardware coming in.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
-### Project 3DP {#project_3dp}
+### Project 3DP
 
 Justin Myers purchased 2lbs of PLA plastic. This will probably last a
 few months. In the long run, many types of supplies are needed at HacDC.
@@ -104,22 +104,22 @@ monthly members meeting for supplies (existing process).
 Funding general supplies sooner rather than later is important to move
 forward at HacDC.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 David W on T43's for classes. All should have Ubuntu or Win XP for
 consistency's sake.
 
-## Old Business {#old_business}
+## Old Business
 
 none
 
-## New Business {#new_business}
+## New Business
 
-### Reimburse Justin for PLA {#reimburse_justin_for_pla}
+### Reimburse Justin for PLA
 
 Allocate \$52.14 to reimburse Justin for PLA purchase.
 
-### Buy FSLaser 5th Gen Laser Cutter {#buy_fslaser_5th_gen_laser_cutter}
+### Buy FSLaser 5th Gen Laser Cutter
 
 Propose to approve purchase of FSLaser 5th Gen Hobby Laser for \$3809.
 This includes shipping+insurance, and the \$150 air compressor and
@@ -140,7 +140,7 @@ probably Dan)
     of the Proposed Standing Rules for voting on at next month's
     meeting.
 
-## New Members {#new_members}
+## New Members
 
 -   Shawn
     -   Majority approval of membership obtained.

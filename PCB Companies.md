@@ -127,7 +127,7 @@ should not be taken as an endorsement by the group.
 
 \
 
-#### Small Batch Assembly {#small_batch_assembly}
+#### Small Batch Assembly
 
   -------------- -----------------------------------------------------------------
   **Address:**   c/o NoVa Labs, 1881-G Metro Center Drive, Reston, VA 20190, USA
@@ -138,7 +138,7 @@ should not be taken as an endorsement by the group.
 
 \
 
-#### TIC Technology Information Corporation {#tic_technology_information_corporation}
+#### TIC Technology Information Corporation
 
   ------------------ --------------------------------------------------------------
   **Address:**       19566 Club House Road,Montgomery Village, Maryland 20886 USA
@@ -162,7 +162,7 @@ should not be taken as an endorsement by the group.
 
 \
 
-#### NOD Electronics {#nod_electronics}
+#### NOD Electronics
 
   ------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Address:**       F/3, Block 3, #20-8 Huanxi West Road, Dongpu Town, Tianhe District, Guangzhou, China

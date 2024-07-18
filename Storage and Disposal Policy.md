@@ -1,4 +1,4 @@
-# Disposal Policy (Approved at 2015-04 meeting) {#disposal_policy_approved_at_2015_04_meeting}
+# Disposal Policy (Approved at 2015-04 meeting)
 
 Storage shall include a clearly labeled “Outgoing” shelf area and a
 clearly labeled “Trash” shelf area. The Outgoing area shall be
@@ -31,7 +31,7 @@ property, the Board of Directors may vote to document, declare and
 announce an Emergency Disposal Week and shorten the minimum
 advertisement period of Outgoing to 3 days for that week.
 
-# Storage Policy (Approved at 2015-04 meeting) {#storage_policy_approved_at_2015_04_meeting}
+# Storage Policy (Approved at 2015-04 meeting)
 
 This policy shall take effect at the June 2015 members' meeting.
 

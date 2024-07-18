@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at Michelle pm by 19:36
@@ -12,14 +12,14 @@
 
     :   Quorum met? Y
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_02_14) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2023_02_14)
 
 ## Recognition
 
 -   Gabe and Daniel for researching alternative Internet hosting
 -   Karen for past donations
 
-## New Members {#new_members}
+## New Members
 
 -   Jared and Matthew M.
 -   Jared's got a background in mechanical engineering. Along with
@@ -32,7 +32,7 @@
     hosting sesssions on its use at the space. Also does home
     automation, etc. Lives close.
 
-## Old Business {#old_business}
+## Old Business
 
 -   The phone: Again a vote for an old-school hardwired landline.
     -   Brian suggests connecting to smart phones to create a phone tree
@@ -82,7 +82,7 @@
     -   Announcements will be sent to various destinations seeing if we
         want to make a coordinated group trek to the event.
 
-## New Business {#new_business}
+## New Business
 
 -   Board elections
     -   [Bylaws: Board of
@@ -137,15 +137,15 @@
         group at the church that pays for their own connection.
     -   Tentative testing: **APPROVED**
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Finances are healthy though they could use work:
     -   Bitcoin which was lost was found thanks to Tayeb
@@ -157,9 +157,9 @@
     -   Need seven or eight more members in order to become more solidly
         stable and possibly grow the coffers.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Gabe
 

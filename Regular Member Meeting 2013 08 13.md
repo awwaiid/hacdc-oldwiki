@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   August 13, 2013
 :   Called to order at 1950 by Ben.
@@ -10,7 +10,7 @@
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 07
 09](Regular_Member_Meeting_2013_07_09)
@@ -29,13 +29,13 @@
 -   ITG and Shawn S - for spearheading the next cryptoparty organization
 -   haxwithaxe - Prototype frame for DIY HacDC projector.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Nothing interesting, excited about the laser.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   working on the de-datacenter machine. got harddrives, need to
     install them.
@@ -44,7 +44,7 @@ Nothing interesting, excited about the laser.
 -   website performance is getting better
 -   planning for wired network inside the space
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for July 2013:
 ![](HacDC_Financials_2013_07.pdf "HacDC_Financials_2013_07.pdf"). We
@@ -55,7 +55,7 @@ members last month but have yet to pay dues; four other members are
 delinquent on dues. Graham C., Timothy R., and Nicolas J. (Loki) left.
 Six people (members and non-members) made non-dues donations.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Since we only had a surplus of \$109.64, I am adding that entire amount
 to our reserves and declining to declare a Project Awesome dividend for
@@ -67,13 +67,13 @@ Dan mentioned that the Laser project will have money left over. Suggest
 that money could be put towards a good projector for the space. If
 members want more laser-related bits, please talk with Dan ASAP.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Nothing to report.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) {#shawn_nock}
+#### [Shawn Nock](User:Nocko)
 
 Not present.
 
@@ -81,21 +81,21 @@ Not present.
 
 Nothing to report.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan: an evacuation fan issue arose, still fine for plexiglas, more smoky
 materials may be a problem. Working on a solution. Laser will eventually
 go into a cabinet with lock and keys. At which point it'll be done.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Ben: next step minor release, done. plan on handing out usb keys. Final
 report being worked on, which will complete obligations for grant! More,
 post-grant, work is being planned.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 The first HacDC Summer School 2013 session doubled as a Project Kitbuild
 session. The new soldering supplies were inaugurated and (mostly) work
@@ -104,7 +104,7 @@ and Shawn W for their help that evening. Photos from Katie B linked from
 the blog post:
 <http://www.hacdc.org/2013/08/summer-school-2013-underway/>
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Total expenditure: \~\$120
 
@@ -131,16 +131,16 @@ Total expenditure: \~\$120
 -   Building up organized list on the wiki. Please feel free to edit.
     See: <http://wiki.hacdc.org/index.php/Category:PA_SUPPLIES> FIXME
 
-#### Requests for Commentary {#requests_for_commentary}
+#### Requests for Commentary
 
 -   **Large plastic buckets.** Are these within the PA_SUPPLIES project
     scope? If so, cleanup efforts need them urgently.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 No report?
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -151,7 +151,7 @@ No report?
 Looking promising. Progress has been made, negotiations are still in
 progress, may give further details later.
 
-##### Biosignal Amplifier {#biosignal_amplifier}
+##### Biosignal Amplifier
 
 More comfortable headgear and 24bit ADC final assembly underway. These
 last upgrades promise plug-and-play usability.
@@ -192,7 +192,7 @@ Barlow. ![](ProjectorDesign.png "ProjectorDesign.png"){width="500"}
     source (light intensity testing) and Fresnel lens stacking.
 -   Prototyping frame (excessively large for future-proofing).
 
-###### Equipment Requests {#equipment_requests}
+###### Equipment Requests
 
 A high-power visible spectrum (ie. Ar/Kr) laser would trivialize this
 project.
@@ -206,7 +206,7 @@ Bought, working, and draining to the outside. Steam pipe opening sealed.
 
 Basement is now dry, and temperature is far cooler (around 78F).
 
-### Alberto - HacDC Summer School 2013 {#alberto___hacdc_summer_school_2013}
+### Alberto - HacDC Summer School 2013
 
 This class series was a great success by several metrics. Alberto
 believes that it could form the middle of a 4-month-long HacDC Semester
@@ -226,15 +226,15 @@ helping make it possible for me to do this, and an extra-special thanks
 to Julia L for providing emergency projector provisioning for the last
 session!!!
 
-### Dan - getting rid of stuff {#dan___getting_rid_of_stuff}
+### Dan - getting rid of stuff
 
 Metal shelves are being used to get rid of a large batch of stuff.
 
-### Katie - sample laser etchings! {#katie___sample_laser_etchings}
+### Katie - sample laser etchings!
 
 Katie made etchings on the laser cutter. Samples passed around.
 
-### David W {#david_w}
+### David W
 
 Brought a vacuum pump for a member to borrow. Has \~30 Wyse thin
 clients.. if anyone wants 'em. His work \*may\* wish to open a fab lab,
@@ -245,15 +245,15 @@ please contact him if interested.
 Has an Oculus Rift, invites others to get together with him and create
 something cool, 1.5 week deadline, \[missed details\].
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Asking for approval of \$300 for DIY projector.
 
 :   Member approved, 3 dissented.
 
-## New Members {#new_members}
+## New Members
 
 The following were nominated and voted in (woot!!):
 

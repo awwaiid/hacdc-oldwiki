@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   February 11, 2014
 :   Called to order at 2011 by Ben.
@@ -16,14 +16,14 @@
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 01
 14](Regular_Member_Meeting_2014_01_14)
 
 ## Recognition
 
-### Martin Rothfield {#martin_rothfield}
+### Martin Rothfield
 
 I would like to recognize Martin's years of contributions to HacDC from
 its inception until his regrettable resignation. During the early days,
@@ -44,9 +44,9 @@ going to miss his energy around the space. Thank you, Martin. -- Alberto
 -   Dan Barlow for help with photolithography research.
 -   ITechGeek for replacing the occupancy sensor server-side software.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 The BOD voted to accept the donation of a Scanning Electron Microscope
 (SEM). We have not yet worked out the details of how we will take
@@ -65,12 +65,12 @@ Last month I visited FouLab in Montreal. They converted a refrigerator
 into a keggorator with 4 taps, all serving different hackerspace
 homebrews. We need some HacDC homebrew!
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Router fixed (Thanks Julia)! Church server replaced. Want to wire the
 space with cat-5e to lower funkiness with wifi connectivity.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for January 2014:
 ![](HacDC_Financials_2014_01.pdf "HacDC_Financials_2014_01.pdf"). In the
@@ -80,14 +80,14 @@ Zach Walls, Jarett DeAngelis, Erica Kane, and Robert King. We have one
 new member, Abe. Including dues-paying, dues-waived, and
 behind-on-dues-but-repaying members, we have 57 members.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for January:
 ![](HacDC_PA_Projects-2014_01.pdf "HacDC_PA_Projects-2014_01.pdf").
 Since we have a negative surplus for the first time since December 2012,
 I cannot justify declaring a Project Awesome dividend for the month.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Calendar of non-HacDC events. <http://jbwa.net/HacDC.php>
     `<ITG Comments>`{=html}If people like, I'll move it over to the
@@ -99,15 +99,15 @@ I cannot justify declaring a Project Awesome dividend for the month.
     for response is Friday, don't know what this really is.
 -   Don't leave empty food containers in the space.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### ???
 
 #### Reuven
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan: bought 4x8' sheets of acrylic for people to use. Donations
 suggested, not required. Please tell Dan what other colors you'd like to
@@ -115,13 +115,13 @@ have. Also, tried experiment with acrylic cement which seemed to go
 well. Ask him for more details. Pointer guide laser will be repaired,
 \~\$80. Improvements on ventilation made.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Almost have a working build system. RasPi port is going well. Talked
 with FouLab about using Babble protocol. Momentum is good, progress
 being made.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Nothing new to report. Kitbuild continues to plan for a way to combine
 resources with another initiative. Recent talk about running an ongoing
@@ -129,18 +129,18 @@ basic microcontroller curriculum on Mondays may offer an opportunity to
 have a kit build before the advent of the HacDC Summer School 2014
 session.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Authorized \~\$100 reimbursement for shelf lighting. Funds are generally
 healthy and stable at \~\$1.3k .
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 We could purchase a low cost vertical bandsaw for \~\$150, instead of
 waiting for the \$300 some have suggested may be needed. Expect this to
 be as functional as the last one. Any interest?
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 Kevin: New box for meeting A/V. Google has changed things in Hangouts
 recently. Currently tethering off his phone, which works well. We should
@@ -148,9 +148,9 @@ consider how we'd like to do this in the future, perhaps ppl volunteer
 their bandwidth, but there should be dedicated network access for
 meetings. Please don't touch the A/V machine if it's on.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### David Mc {#david_mc}
+### David Mc
 
 Working on lighting for the new shelves in the basement. Have lights,
 tweaking mounting.. need help finding **efficient** power supplies: 10 x
@@ -164,12 +164,12 @@ Current policy requires 3 months for us to get rid of things. Would like
 to change to something, at least temporarily, to get rid of stuff
 faster.
 
-#### Prusa Mendel 3D Printer {#prusa_mendel_3d_printer}
+#### Prusa Mendel 3D Printer
 
 Seems to be holding together... finally. Resolution remains at 75
 microns.
 
-#### Photolithography PCB Fab {#photolithography_pcb_fab}
+#### Photolithography PCB Fab
 
 SUCCESS! We can now make high-resolution professional quality PCBs at
 HacDC.
@@ -181,11 +181,11 @@ Fully tested, working, and documented. See
 
 Still need just one more Giant Fresnel Lens.
 
-#### Flex Replicator {#flex_replicator}
+#### Flex Replicator
 
 Same as last time. Nearly complete.
 
-#### Optical Table CNC {#optical_table_cnc}
+#### Optical Table CNC
 
 Still urgently stalled by the HacDC cleanup.
 
@@ -196,7 +196,7 @@ Still urgently stalled by the HacDC cleanup.
 Video demo was given last week. Continuing to bring a real medical
 product with genuine humanitarian benefits to market.
 
-##### Biosignal Amplifier {#biosignal_amplifier}
+##### Biosignal Amplifier
 
 SUCCESS! Detailed usage information is available:
 <http://wiki.hacdc.org/index.php/Category:BiosignalAmplifier>
@@ -221,19 +221,19 @@ thanks to the following for enthusiasm and prototype funding:
 -   The Real Plato
 -   Logan Scheel
 
-##### Policy Changes {#policy_changes}
+##### Policy Changes
 
 More changes have been made to the proposed
 [ExcessDisposal](ExcessDisposal) policy. However, since there
 is still a lot of debate over this policy, I suggest it not be voted on
 yet.
 
-#### Occupancy Sensor {#occupancy_sensor}
+#### Occupancy Sensor
 
 Back online, thanks to ITechGeek rebuilding the server-side software to
 bring the data to the outside world.
 
-#### WYSE Terminals {#wyse_terminals}
+#### WYSE Terminals
 
 Would still like to see the remaining 30 units delivered at HacDC. They
 will be well used, by HacDC members and/or classes.
@@ -241,14 +241,14 @@ will be well used, by HacDC members and/or classes.
 Additionally, a machine at HacDC has been identified with 16GB RAM
 compatibility.
 
-#### New QTH {#new_qth}
+#### New QTH
 
 Zip code 20132. Should be able to offer HacDC a new RF viewpoint soon.
 
 Presently relying cellular connectivity for internet access. Limited
 GB/mo. Should be resolved soon.
 
-#### Request for Expedient Disposal {#request_for_expedient_disposal}
+#### Request for Expedient Disposal
 
 As it stands now, HacDC policy requires **THREE MONTHS** to dispose of
 items on the going-out pile. Would appreciate temporary authorization
@@ -256,9 +256,9 @@ for myself and Dan Barlow to remove going-out pile items on a three day
 rotation instead. We have a lot of junk to clear out, much of which has
 been unearthed as desired items were moved to the new shelves.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Provide Martin a keyholding honorary (nonpaying) membership.
 
@@ -270,7 +270,7 @@ the next regular meeting using the applicable process outlined in
 Authorize mirage335 and Dan Barlow to remove going-out pile items on a
 three day rotation.
 
-## New Members {#new_members}
+## New Members
 
 -   Elizabeth: Interested in the creative side of things and working
     with other groups.

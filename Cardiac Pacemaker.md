@@ -16,7 +16,7 @@ Implant is early in the design phase.
 
 # Goals
 
-## Inductive Power {#inductive_power}
+## Inductive Power
 
 Inductive power is a core feature that will be implemented in all future
 designs for primary power or recharging of implanted power supply.
@@ -27,7 +27,7 @@ The pacemaker test platform should implement:
 -   inductive power only operation (without battery)
 -   easily replaced inductors
 
-## Small Size / Inexpensive {#small_size_inexpensive}
+## Small Size / Inexpensive
 
 To accomplish the [biomaterials](:Category:Biomaterials)
 testing goals the pacemaker reference implant will need to be small in

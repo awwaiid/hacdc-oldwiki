@@ -1,7 +1,7 @@
 `{{TOCright}}`{=mediawiki} ![Before and after, same
 exposure\|right](Shelf_lights_v0.9.gif "Before and after, same exposure|right")
 
-## LED Lighting {#led_lighting}
+## LED Lighting
 
 Feb 2014: LED strips have been added to the underside of each shelf by
 [Gatohaus](User:Gatohaus)
@@ -21,16 +21,16 @@ partially attached by their adhesive tape which won't really fail until
 they're warm for a while. When they do fail, reattach them with a hot
 glue gun. That seems (fingers crossed) to be permanent.
 
-### `<u>`{=html}Lessons Learned`</u>`{=html} {#lessons_learned}
+### `<u>`{=html}Lessons Learned`</u>`{=html}
 
-#### Strip Choice {#strip_choice}
+#### Strip Choice
 
 SMD 3528's were also tested (the strip remains in use on the shelves).
 The 5050's were the same price (\~\$12) at about the same efficiency but
 allow for a higher maximum brightness (and greater power draw of
 course).
 
-#### Adhering the strips {#adhering_the_strips}
+#### Adhering the strips
 
 The tape adhesive that comes on the strips works very poorly on OSB
 (shelving material used). They'll hold while the lights are off, but
@@ -45,7 +45,7 @@ misses would occur probably smashing some of the LED components.
 
 In the end a simple hot glue gun seems to have worked.
 
-#### Wiring & Power {#wiring_power}
+#### Wiring & Power
 
 In hindsight it would have been better to mount the strips with more of
 the connecting leads sticking out at the end. The leads can easily be
@@ -71,7 +71,7 @@ of a load. So I added *another* computer power supply (\~5A) to help
 out. Seems to be stable. Need help either repairing the original ATX
 supply or finding something else.
 
-### `<u>`{=html}Things to Improve`</u>`{=html} {#things_to_improve}
+### `<u>`{=html}Things to Improve`</u>`{=html}
 
 In general I'm not exactly proud of the wiring. It's solid and safe, but
 not quite pretty. If someone wishes to redo this work, please do!

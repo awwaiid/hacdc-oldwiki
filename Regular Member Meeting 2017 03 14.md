@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:47 pm by Tom
@@ -11,7 +11,7 @@
 
     :   Quorum met? no
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 <http://wiki.hacdc.org/index.php/Regular_Member_Meeting_2017_02_14>
 
@@ -39,11 +39,11 @@
 
 -   James has arrived 20:08 with a homemade pie!
 
-## New Members {#new_members}
+## New Members
 
 `   No new members this month.`
 
-## Old Business {#old_business}
+## Old Business
 
 -   Bylaws amendment proposal (unless it was already voted on?): Change
     the threshold for future bylaws amendments from "more than three
@@ -72,7 +72,7 @@ Ken has something RE: Fiscal Sponsorship.
 
 `   Would like us to have membership vote on delegating BOD to evaluate and approve on a case-by-case basis any opportunities for funding in this way. Tabled for next month.`
 
-## New Business {#new_business}
+## New Business
 
 `   [20:08] ``<fugitive_at_larg>`{=html}` Coming up: Scientist's March on Washington, vs. Conservation X? Or some such? (Smithsonian Institute, right?)`\
 `   [20:08] ``<juri_>`{=html}` yepyep.`\
@@ -93,25 +93,25 @@ Ken has something RE: Fiscal Sponsorship.
 `   [20:38] ``<fugitive_at_larg>`{=html}` `[`https://www.marchforscience.com/`](https://www.marchforscience.com/)\
 `   [20:38] ``<fugitive_at_larg>`{=html}` Scientists March on Washington`
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
-
-Nothing to report.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 Nothing to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
+
+Nothing to report.
+
+### Project HAMRADIO
 
 Julia left an SDR on the desk.
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 Vacuum sensor is online now, pinout problem resolved.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
 New belts are ready for the big OTR.
 
@@ -120,21 +120,21 @@ New vacuum nozzle designed, printed attached.
 Square vent adapter is in a final draft, ready-to-distribute and use in
 production form.
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 No report.
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 No report.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 I am working on creating various VM appliances for in-house use:
 
@@ -151,11 +151,11 @@ are kind of bulky
 -   A full-height patch panel
 -   A single-poster server rack
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

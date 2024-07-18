@@ -10,7 +10,7 @@ on a Part and Line Item basis. You can follow along using [the complete
 1023 form](http://www.irs.gov/pub/irs-pdf/f1023.pdf), or check out the
 [1023 form instructions](http://www.irs.gov/pub/irs-pdf/i1023.pdf).
 
-## Issues of note {#issues_of_note}
+## Issues of note
 
 -   We should complete our Bylaws amendments before submitting this
     application. (See Part II, Line 5)
@@ -29,7 +29,7 @@ on a Part and Line Item basis. You can follow along using [the complete
 -   We should determine whether or not HacDC will make grants or
     distributions. (See Part VIII, Question 13)
 
-## Sections to note {#sections_to_note}
+## Sections to note
 
 The "difficult" sections will be noted here. These are the ones that
 require real thought as opposed to simple plugging away of information
@@ -37,7 +37,7 @@ require real thought as opposed to simple plugging away of information
 -   [ Part
     IV](Form_1023_Draft#Part_IV:_Narrative_Description_of_Your_Activities)
 
-## Part I : Identification of Applicant {#part_i_identification_of_applicant}
+## Part I : Identification of Applicant
 
 1.  Full name of organization (exactly as it appears in your organizing
     document): **HacDC**
@@ -66,7 +66,7 @@ require real thought as opposed to simple plugging away of information
     [here](http://mblr.dc.gov/corp/lookup/status.asp?id=53073)*
 12. Were you formed under the laws of a foreign country?: **No**
 
-## Part II : Organizational Structure {#part_ii_organizational_structure}
+## Part II : Organizational Structure
 
 We are a Not for Profit corporation organized in the District of
 Columbia, organized specifically to become a 501(c)(3).
@@ -79,7 +79,7 @@ Columbia, organized specifically to become a 501(c)(3).
 5.  Have you adopted bylaws?: **Yes** *Note: We should complete all
     proposed bylaws amendments before submitting this application.*
 
-## Part III : Required Provisions in Your Organizing Document {#part_iii_required_provisions_in_your_organizing_document}
+## Part III : Required Provisions in Your Organizing Document
 
 We have all the required language in our [Articles of
 Incorporation](Articles_of_Incorporation)
@@ -91,7 +91,7 @@ Incorporation](Articles_of_Incorporation)
     organization, your remaining assets...: **Yes [ Sixth
     Article](Articles_of_Incorporation##Sixth_Article_:_Management.2C_Affairs_and_Activities_and_Provision_for_Dissolution)**
 
-## Part IV: Narrative Description of Your Activities {#part_iv_narrative_description_of_your_activities}
+## Part IV: Narrative Description of Your Activities
 
 This is the part of the application that will require the most
 discussion among our members. We may choose to attach our Annual Report,
@@ -103,7 +103,7 @@ device for HacDC. [Here's a good
 example](http://www.carnegie.org/pdf/CCNY-AR08-18.pdf) of an Annual
 Report from the Carnegie Foundation
 
-### Instructions from the application {#instructions_from_the_application}
+### Instructions from the application
 
 Using an attachment, describe your **past, present, and planned
 activities in a narrative**. If you believe that you have already
@@ -117,7 +117,7 @@ Therefore, your narrative description of activities should be thorough
 and accurate. Refer to the instructions for information that must be
 included in your description.
 
-### Instructions from the form instructions {#instructions_from_the_form_instructions}
+### Instructions from the form instructions
 
 For each past, present, or planned activity, include information that
 answers the following questions:
@@ -134,7 +134,7 @@ answers the following questions:
 If you have a website, you may attach a paper copy of to support your
 narrative description of activities
 
-### Sample Activity: Microcontroller Mondays {#sample_activity_microcontroller_mondays}
+### Sample Activity: Microcontroller Mondays
 
 Note: This is by no means complete, this is just to give an example of a
 good description of the activity. The same information may be presented
@@ -177,7 +177,7 @@ answered.
     and donations. Those participating in mentorship and research
     activities do so as volunteers.
 
-## Part V : Compensation and Other Financial Arrangements With Your Officers, Directors, Trustees, Employees, and Independent Contractors {#part_v_compensation_and_other_financial_arrangements_with_your_officers_directors_trustees_employees_and_independent_contractors}
+## Part V : Compensation and Other Financial Arrangements With Your Officers, Directors, Trustees, Employees, and Independent Contractors
 
 HacDC has no paid staff, officers, volunteers, etc. As such, this clause
 should present no issue to us, though we may want to adopt policies
@@ -250,7 +250,7 @@ Bylaws revision.
     officers, etc. we should consult with an attorney to draft these
     policies.*
 
-## Part VI: Your Members and Other Individuals and Organizations That Receive Benefits From You {#part_vi_your_members_and_other_individuals_and_organizations_that_receive_benefits_from_you}
+## Part VI: Your Members and Other Individuals and Organizations That Receive Benefits From You
 
 This is a very sticky part of the application. What HacDC does and how
 it relates to other organizations will need to be documented in
@@ -312,7 +312,7 @@ clear on this, but it is important to clearly document this as such.
     employees or highest compensated independent contractors listed in
     Part V, lines 1a, 1b, and 1c? **No**
 
-## Part VII: Your History {#part_vii_your_history}
+## Part VII: Your History
 
 These are relatively simple and straightforward.
 
@@ -328,7 +328,7 @@ These are relatively simple and straightforward.
     the end of the month in which you were legally formed? **NO** *As
     long as we complete this application by May of 2010, we're OK.*
 
-## Part VIII: Your Specific Activities {#part_viii_your_specific_activities}
+## Part VIII: Your Specific Activities
 
 These are relatively straightforward questions that shouldn't pose too
 much difficulty. In answering specifically, we should attempt to keep
@@ -583,7 +583,7 @@ Question 10.
     including grants for travel, study, or other similar purposes?
     **No**
 
-## Part IX : Financial Data {#part_ix_financial_data}
+## Part IX : Financial Data
 
 This information is fairly straightforward. Using the UCOA, the
 applicable statements for the financial year ended December 31, 2008 and
@@ -594,7 +594,7 @@ The balance sheet is for the tax year ended December 31. This will have
 substantially changed as of the time of filing, and the statement at the
 time of filing.
 
-## Part X: Public Charity Status {#part_x_public_charity_status}
+## Part X: Public Charity Status
 
 HacDC is a Public Charity by virtue of the fact that it receives "broad
 public support" from many different sources in the public. A Private
@@ -702,7 +702,7 @@ status as a Public Charity.
     unusual. **No.** *This would be if HacDC received a windfall grant
     that would wreck the 1/3rd formula.*
 
-## Part XI: User Fee Information {#part_xi_user_fee_information}
+## Part XI: User Fee Information
 
 Unfortunately, HacDC does not qualify for the reduced user fee. The
 application will cost \$750.

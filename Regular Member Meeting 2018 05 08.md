@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date May 8, 2018
 :   Called to order at 7:45 pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Motion to approve Tayeb, second Tom, approved
 
@@ -28,11 +28,11 @@ Julia and Kevin represented HacDC at the March for Science
 
 Kevin and Nic attended a meeting of the District Maker Collective
 
-## New Members {#new_members}
+## New Members
 
 Dave wants to join - Tom moved, Tayeb seconded, general acclamation
 
-## Old Business {#old_business}
+## Old Business
 
 Offer of a loan of tools by Bobby, including a 12-ton jack. Need to
 create a storage space/work space for them first. Metal saw, circular
@@ -41,9 +41,9 @@ area near the laser cutter, set up a work area, maybe with a vacuum to
 keep laser cutter from getting too much dust in it. Make sure the space
 is safe.
 
-## New Business {#new_business}
+## New Business
 
-### Capitol Hill Maker Faire {#capitol_hill_maker_faire}
+### Capitol Hill Maker Faire
 
 -   Call participants: Trey, Tom, Ken and Kevin
 -   Faire Date: June 12
@@ -78,49 +78,49 @@ is safe.
 -   Congressional Maker Caucus is composed of "about 20"
     Congress-things, and is "very bipartisan"
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
 Interest, no activity
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project SpaceBlimp -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project Media Outreach - Matt
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project IT Infrastructure - Tom
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
 I received a lot of good feedback on a code of conduct/rules of the road
 at the last member meeting/bod meeting but have made no further
 progress. Good suggestions from a visiting maker from Orlando for forms
 (jot forms).
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 `   20:44 < hacdc-meeting-op> installed a duplexer and ordered a ram module upgrade for the hp printer`\
 `   20:44 < hacdc-meeting-op> openwrt router for classroom on archer C7`
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 More slow recollection of past dues. With the retroactive dues paid by
 several members, we more or less broke even this month.
@@ -137,9 +137,9 @@ Vote to reimburse Julia for the IPS monitor and the little red wagon
 (\$185) passes. Vote to reimburse Tayeb for 10 HacDC keys (\$25.71)
 passes.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

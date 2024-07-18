@@ -1,13 +1,13 @@
 # Draft
 
-## What should you donate? {#what_should_you_donate}
+## What should you donate?
 
 -   Yes, if you see it on our WishList
 -   Always ask before bringing in a donation as we have limited space
     and cannot dispose of items in a speedy manner due to our disposal
     policy. We can help you find a home for anything we can't take.
 
-### if it is a computer {#if_it_is_a_computer}
+### if it is a computer
 
 -   No if it:
     -   was made before dinosaurs walked the earth
@@ -28,7 +28,7 @@
     -   If it is a laptop: goto [laptop
         section](#If_It_Is_A_Laptop)
 
-#### If It Is A Server {#if_it_is_a_server}
+#### If It Is A Server
 
 -   No if it:
     -   sounds like a commercial air liner taking off (we can't have
@@ -41,7 +41,7 @@
     -   has multiple core and or sockets
     -   has lots of ram slots (preferably with \>2GB of ram in them)
 
-#### If It Is A Laptop {#if_it_is_a_laptop}
+#### If It Is A Laptop
 
 -   No if:
     -   it has no power supply
@@ -55,13 +55,13 @@
 -   Yes if:
     -   it works but has no screen, keyboard, or mouse
 
-### Cell Phones {#cell_phones}
+### Cell Phones
 
-#### Smart Phones {#smart_phones}
+#### Smart Phones
 
 -   Yes
 
-#### Dumb Phones {#dumb_phones}
+#### Dumb Phones
 
 -   No if (see our list of
     [charities](Alt_Donation_Charities) in the area that
@@ -109,7 +109,7 @@ that we can't take can go. When the donation arrives at the space each
 item should be labeled with a date of arrival and put where it belongs.
 A member can help you find where that is.
 
-#### Give Aways {#give_aways}
+#### Give Aways
 
 If you would like to just give away free stuff please label each item
 with the date it entered HacDC and that it is a "Give Away" so we can

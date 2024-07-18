@@ -5,7 +5,7 @@
 
 Here we'll track progress and ideas for the hacdc.org redesign!
 
-## Info Architecture / Design Priorities {#info_architecture_design_priorities}
+## Info Architecture / Design Priorities
 
 Top Level Nav
 
@@ -27,9 +27,9 @@ Secondary Priorities
 -   Disseminate knowledge, information, resources
 -   Encourage collaboration at HacDC and in community
 
-## Information to publish {#information_to_publish}
+## Information to publish
 
-### Static Information {#static_information}
+### Static Information
 
 -   Logistics / Contact
     -   E-contact info (Facebook, Twitter, G-phone, IRC, Mailing lists)
@@ -50,7 +50,7 @@ Secondary Priorities
 ```
 -   Donate page
 
-### Dynamic Information {#dynamic_information}
+### Dynamic Information
 
 -   Fund raising campaigns
     -   Specific funds for equipment, events, projects, expenses
@@ -97,19 +97,19 @@ Secondary Priorities
         expertise, projects, how to contact)
     -   Ping authors of nodes that haven't been updated (projects, etc)
 
-## Integration and Single Sign-on {#integration_and_single_sign_on}
+## Integration and Single Sign-on
 
 -   Use open-ID as a short term SSO solution
 -   Look to LDAP as a long term ideal solution for web+system account
     management of user groups, permissions
 -   Anyone can write an app in any platform if they implement Open-ID
 
-## How to extend website for sub groups {#how_to_extend_website_for_sub_groups}
+## How to extend website for sub groups
 
 -   Groups may need their own sub-site functions. (How to do this. Maybe
     a drupal page like for projects? also how not to let this go stale?)
 
-## Brainstorming/Ideas (from long ago) {#brainstormingideas_from_long_ago}
+## Brainstorming/Ideas (from long ago)
 
 My list of potential improvements (that I can recall off the top of my
 head) is something like:
@@ -148,7 +148,7 @@ URLs it detects from IRC and then have the website suck those up into a
 "what people are discussing" block on the site. Would need a way to
 filter/remove undesirable content (maybe moderated?)
 
-## Drupal Themes {#drupal_themes}
+## Drupal Themes
 
 Orange:
 
@@ -165,7 +165,7 @@ Elements:
 -   nice elegant layout
 -   <http://drupal.org/project/elements_theme>
 
-## Inspiration from other sites {#inspiration_from_other_sites}
+## Inspiration from other sites
 
 -   AlphaOneLabs.com
     -   Great slider with images from recent events

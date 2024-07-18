@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   June 13, 2017
 :   Called to order at 8:20 pm by Enrique
@@ -11,7 +11,7 @@
 
     :   Quorum met? No, 6/7 (28 members).
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -21,9 +21,9 @@
 -   Julia has had full-house open-house events twice a week for several
     weeks.
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   We have 12 signatures on the bylaws amendment pettition, out of
     about 28 members. We've still to email the petition to members or
@@ -46,7 +46,7 @@
 
 <http://wiki.hacdc.org/index.php/File:HacDC-FiscalSponsorship.pdf>
 
-## New Business {#new_business}
+## New Business
 
 -   Shirts. Enrique drew up, ordered and paid for t-shirts with the
     HacDC logo but I'd like to just sell them to HacDC rather than sell
@@ -112,9 +112,9 @@
     promoting ourselves and connecting with the YMCA. Will post details
     on Blabber.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 No expenses yet.
 
@@ -123,7 +123,7 @@ wall anchors are needed for the basement. Around the Taig CNC mill, a
 plexiglass sheet should be available to limit mess. A small folding
 table would also be nice to have around the Taig CNC mill.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 No expenses yet.
 
@@ -133,9 +133,9 @@ with support for use as an impact wrench providing around 150ft.lbs.
 torque. Recommend CLPK250-181L for its uniquely compact assortment of
 essential features and power.
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 -   No time. I'm just the figurehead project point-of-contact but have
     no time to work on this myself. The SEM is ready to test but I'd
@@ -145,18 +145,18 @@ essential features and power.
     yes, there might be a gauge/interlock problem. If no, there's a
     vacuum leak to find and fix.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 -   We purchased and received a refill kit with fresh (live) E.Coli
     HME63 bacteria, DNA, RNA, supplies, etc.
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 -   There discussions of a meeting but it did not happen I think.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Enrique - I put together and purchased a bunch of shirts with the HacDC
 logo; they were \$10 each for the unisex one, \$15 each for the women's
@@ -175,13 +175,13 @@ putting out any output and I haven't had time to troubleshoot it. If we
 manage to get it up again I'll bring the Oculus back, otherwise
 whatever.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   We received our tax-exemption letter from the DC Office of Taxation,
     similar to the IRS 501c3 determination letter, which HacDC had
@@ -230,9 +230,9 @@ whatever.
 -   Project Awesome Statement Jan-May 2017:
     <http://wiki.hacdc.org/images/a/aa/HacDC_2017-5_Projects.pdf>
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 

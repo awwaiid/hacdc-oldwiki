@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:45pm pm by Tom
@@ -12,7 +12,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 February and March meeting minutes approved.
 
@@ -24,11 +24,11 @@ February and March meeting minutes approved.
     print to raspberry.local I think.
 -   Kevin: fixed (unjammed) Nicks' Ultimaker and the Mini again.
 
-## New Members {#new_members}
+## New Members
 
 Sanjay voted in as new member.
 
-## Old Business {#old_business}
+## Old Business
 
 -   Ken's proposal that members confide in and authorize the Board to
     seek legal counsel and other administrative support to explore
@@ -52,7 +52,7 @@ Sanjay voted in as new member.
     other available means." (from October) **Proposal PASSED by 8 in
     favor.**
 
-## New Business {#new_business}
+## New Business
 
 -   We have a lot of non-free (paid) events on our MeetUp schedule now -
     2 or 3 a week. They are software education events, which are in-line
@@ -95,19 +95,19 @@ week member meeting and get our members to vote on it. In the meantime,
 I would love to discuss your questions. **Proposal PASSED by 1 opposed,
 8 in favor.**
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
-
-Nothing to report.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 Nothing to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+Nothing to report.
+
+### Project HAMRADIO
+
+### Project Electron Microscope (SEM)
 
 -   Nothing to report. We should schedule one night if only to check the
     vacuum pressure. It would be nice if someone else who's done this
@@ -121,12 +121,12 @@ Nothing to report.
 -   I'll start taking this on during Microcontroller Mondays, but again,
     expect little progress, and lots of training other people -Julia
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
 No progress this month. I (julia) have been out sick a lot, and working
 on increasing our 3D printer count from 3 to 4.
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 -   Nothing to report; trying to schedule the next meeting. Maybe next
     week (it takes 2 consecutive nights to do it). The plan is to
@@ -135,14 +135,14 @@ on increasing our 3D printer count from 3 to 4.
     contamination (other species). We do have a water bath now that
     should make things much easier.
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 -   Nothing to report. Not sure if the jet stream is in the right
     position yet but nobody has resumed any discussion of Spaceblimp 7.
     I have a 'science payload' idea and parts but don't really have time
     to take the project lead. -Enrique
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Enrique: Went to a Metasploit workshop from the Beltway Hackers
     MeetUp group and am convincing them to host a similar free hands-on
@@ -153,9 +153,9 @@ on increasing our 3D printer count from 3 to 4.
     Nevertheless I'll be here Friday 21st and the HAM club is looking to
     contact them to assist with communications also to little avail.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Sick. Broken. Getting better!
 
@@ -169,14 +169,14 @@ MicrocontrollerMonday on the SEM, and 3DThursday on the OTR.
 bobby's radio shack boxes are done, and being printed as printer time is
 available.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 I've had some moderately busy days at PC Rebuilds/Hardware \[Des\]pair.
 Still needs a better name. Sad Sundays?
 
 `    to be filled`
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Funding is stable; we have over six months of reserves and total
     balances around \$12k. I'd love to upload files to this someday...
@@ -207,9 +207,9 @@ Still needs a better name. Sad Sundays?
 -   Help wanted: Our Dwolla button is broken, so we are paying a few
     bucks a month more PayPal fees.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

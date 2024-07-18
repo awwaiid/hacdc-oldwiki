@@ -2,16 +2,16 @@
 script that can be read at HacDC events to encourage non-members to
 donate toward the space's continued existence.*
 
-# Why donate? {#why_donate}
+# Why donate?
 
-## HacDC is awesome {#hacdc_is_awesome}
+## HacDC is awesome
 
-## HacDC needs money to continue doing awesome {#hacdc_needs_money_to_continue_doing_awesome}
+## HacDC needs money to continue doing awesome
 
 HacDC needs about \$90/day to cover rent and other basic monthly
 expenses. We don't charge fees (above the cost of materials) for classes
 and events because we want them to be accessible to everyone.
 
-# How to donate {#how_to_donate}
+# How to donate
 
 cash, Paypal, Dwolla, QR codes mention tax deductibility

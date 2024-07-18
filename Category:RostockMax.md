@@ -1,18 +1,18 @@
 Using the [Rostock MAX](http://reprap.org/wiki/Rostock_MAX)
 
-# Current Machine Status {#current_machine_status}
+# Current Machine Status
 
 Functional, but with sizing issues. Items printed on it are not quite
 the right size, and adjusting the bed height causes PROBLEMS. the bed is
 NOT heated.
 
-# General Info {#general_info}
+# General Info
 
 Model: SeeMeCNC Rostock MAX V2
 
 # Operation
 
-## Patching Cura {#patching_cura}
+## Patching Cura
 
 As of 2018.11.29, there is a bug in the Lulzbot edition of Cura
 installed on the classroom laptops that prevents it from working
@@ -29,7 +29,7 @@ properly with the RostockMax. To fix it, edit
 Newer versions require capabilities that the old classroom machines
 cannot master.**
 
-## Set Up {#set_up}
+## Set Up
 
 In order to use the 3D printer, you will need to make sure the computer
 has the correct firmware to work with the 3D printer. In this case the
@@ -81,7 +81,7 @@ cord was plugged in, the screen worked and the turny knob worked.
 
 g-codes to type into pronterface <http://reprap.org/wiki/G-code>
 
-## Firing Up {#firing_up}
+## Firing Up
 
 1.  Go through the [routine maintenance
     list](#Routine_Maintenance_-_ALWAYS_CHECK) as necessary,
@@ -91,7 +91,7 @@ g-codes to type into pronterface <http://reprap.org/wiki/G-code>
     [Pronterface](https://github.com/kliment/Printrun/blob/master/README.md).
     Start heating the glass bed if you don't want to wait later.
 
-## File Preparation {#file_preparation}
+## File Preparation
 
 1.  Load an STL model onto the dedicated laptop for printing. If you
     haven't made one, download one from
@@ -132,9 +132,9 @@ g-codes to type into pronterface <http://reprap.org/wiki/G-code>
     ABS, 230-250degC extrusion and 140degC heatbed temperatures may be
     normal.
 
-# Routine Maintenance - ALWAYS CHECK {#routine_maintenance___always_check}
+# Routine Maintenance - ALWAYS CHECK
 
-## FIRE HAZARDS {#fire_hazards}
+## FIRE HAZARDS
 
 -   Leaving the printer operating unattended is not recommended,
     especially for new users unfamiliar with the technology. We do not
@@ -144,7 +144,7 @@ g-codes to type into pronterface <http://reprap.org/wiki/G-code>
 -   Watch the machine closely during startup, at the beginning of jobs,
     and other critical times, when uncontrolled heating might occur.
 
-## Bed Cleaning {#bed_cleaning}
+## Bed Cleaning
 
 -   Bare glass bed must be extremely clean. If bed is level to within
     0.15mm, and plastic is not sticking, it needs cleaning. Windex,
@@ -159,7 +159,7 @@ g-codes to type into pronterface <http://reprap.org/wiki/G-code>
 
 ## Leveling
 
-### Tips {#tips_1}
+### Tips
 
 -   Specialized G-Code is needed test nozzle height at each tower, as
     documented in the manual.
@@ -242,7 +242,7 @@ screws and free-floating PCB heaters used on most 3D printers, it still
 takes practice. Newcommers considering these steps should contact
 experts like juri and mirage335 at HacDC's IRC channel.
 
-# Please Avoid {#please_avoid}
+# Please Avoid
 
 You are adding to the workload on a shared machine. Please be gentle.
 
@@ -286,7 +286,7 @@ rules.
 
 # Improvements
 
-## 24v PSU {#v_psu}
+## 24v PSU
 
 Design files are stored at HacDC's github repository.
 <https://github.com/HacDC/RostockMax/tree/master/PSU>

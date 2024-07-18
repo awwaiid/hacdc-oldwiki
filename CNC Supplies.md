@@ -1,11 +1,11 @@
 # Bits
 
-## PCB Isolation Routing {#pcb_isolation_routing}
+## PCB Isolation Routing
 
 -   [\<0.01" End Mill (PCB
     Cutter)](http://www.amazon.com/dp/B0083KMIYA/ref=biss_dp_t_asn)
 
-## PCB Drill/Milling {#pcb_drillmilling}
+## PCB Drill/Milling
 
 -   [23mil diameter End Mill, suitable for milldrilling
     holes](http://www.amazon.com/dp/B000N4A8X2/ref=biss_dp_t_asn)

@@ -58,7 +58,7 @@ Opens command line of running VM `<name>`{=html} .
 ``\
 `sudo /usr/sbin/vzctl enter <name>`
 
-## Root (Admin) {#root_admin}
+## Root (Admin)
 
 ### hostedOpenVZ
 
@@ -113,7 +113,7 @@ existing iptables rules were saved. Edit /etc/iptables/rules.v4 .
 -   Hostname - HacDC-shared-m335-1
 -   FQDN - HacDC-shared-m335-1.hacdc.org
 
-# Redundancy (RAID) {#redundancy_raid}
+# Redundancy (RAID)
 
 None yet, keep backups. Nonetheless, hard disk is kept cool, so the
 server should have a long life ahead of it.
@@ -205,7 +205,7 @@ bandwidth use where possible, particularly for web servers.
     subnet and will call mirage335, juri\_, or other admin team members
     to resolve the issue (no one will be happy).
 
-# Special Services {#special_services}
+# Special Services
 
 ## HTTP/HTTPs
 
@@ -257,14 +257,14 @@ HacDC-shared-m335-1.router.hacdc.org
 
 ## Virtual
 
-### Hostnames {#hostnames_1}
+### Hostnames
 
 mirage335-1
 
 -   mirage335 - Local username.
 -   1 - Unique machine identifier.
 
-### FQDNs {#fqdns_1}
+### FQDNs
 
 mirage335-1.HacDC-shared-m335-1.router.hacdc.org
 
@@ -274,7 +274,7 @@ EST/EDT aka US Eastern, America/NewYork, or "Eastern"
 
 # Workarounds
 
-## SSH KeepAlive {#ssh_keepalive}
+## SSH KeepAlive
 
 Due to limited bandwidth, SSH sessions may freeze. To prevent this,
 consider the following to configuration, appended to client-side

@@ -2,7 +2,7 @@ Archive of Materials from the HacDC FPGA Workshop
 
 ------------------------------------------------------------------------
 
-### Discussion Materials {#discussion_materials}
+### Discussion Materials
 
 +-------+--------------+--------------+--------------+--------------+
 | Week  | Date         | Topics       | Exercise     | Soluti       |
@@ -219,7 +219,7 @@ Archive of Materials from the HacDC FPGA Workshop
 
 \
 
-### Videos of Discussions {#videos_of_discussions}
+### Videos of Discussions
 
 The videos are mpeg4 video with aac audio\
 {\| border="1" \| Week \| Video Links \| Notes \|- \|1 \| [Part

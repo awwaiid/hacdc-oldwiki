@@ -16,7 +16,7 @@ sometimes get pretty opinionated and obstinate about thorny issues AND
 tend to ramble on at length. **This process is designed to bring drama
 down to a manageable level**."
 
-## The Basic Ideas: {#the_basic_ideas}
+## The Basic Ideas:
 
 -   Keep meetings as short as possible
     -   Keep everyone informed
@@ -42,7 +42,7 @@ down to a manageable level**."
         until you can.
     -   When solutions keeps being postponed, the majority rules.
 
-## Before the meeting {#before_the_meeting}
+## Before the meeting
 
 1.  If you are working on something cool, bring your elevator pitch!
     -   Let everyone at the meeting know about it!
@@ -72,7 +72,7 @@ down to a manageable level**."
     a meeting, but may be added at any meeting by any member--provided
     what the issue to be discussed and how to resolve it is clear.
 
-## The Meeting Agenda {#the_meeting_agenda}
+## The Meeting Agenda
 
 Each meeting should have an agenda. The cut-off time for addition to or
 revision of the the agenda's items is 11:59 PM on the Saturday preceding
@@ -120,7 +120,7 @@ V. New Business: These are the issues from the consent agenda that were pulled o
 
 VI\. Adjournment: No meeting should last more than 60 minutes, especially if it starts at 19:30. In a perfect meeting, all business can be wrapped up in two minutes, allowing more time for showing off and collaborating on cool projects.
 
-## Meeting Procedures {#meeting_procedures}
+## Meeting Procedures
 
 One person speaks at a time
 
@@ -189,7 +189,7 @@ Ask for a vote.
 -   The alternative with the highest votes wins and the meeting moves
     on.
 
-## Meeting Process {#meeting_process}
+## Meeting Process
 
 At the scheduled time, if people are generally ready, the Coordinator in
 Chief will start the meeting by saying, "Get comfortable and get quiet,

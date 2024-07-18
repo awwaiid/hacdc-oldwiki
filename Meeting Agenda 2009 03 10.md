@@ -1,20 +1,20 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 :   March 10, 2009
 :   7:30 p.m. to 8:30 p.m.
 :   HacDC, 1525 Newton St NW, Washington, DC
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 See [Regular Member Meeting Minutes 2009 03
 03](Regular_Member_Meeting_Minutes_2009_03_03).
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
-### Items from the Annual Meeting {#items_from_the_annual_meeting}
+### Items from the Annual Meeting
 
 -   Approve Robert's Rules of Order Newly Revised as our official
     meeting protocol.
@@ -47,7 +47,7 @@ See [Regular Member Meeting Minutes 2009 03
         until 3/4 of the membership has signed on.
         [Ben](User:Ben)
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 -   [Coordinator-in-Chief](Coordinator-in-Chief)
 -   [Minister of Finance](Minister_of_Finance)
@@ -56,18 +56,18 @@ See [Regular Member Meeting Minutes 2009 03
     -   After the meeting will be working on the Drupal site testbed, if
         anyone's interested
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   PR Coordinator Status
     -   NoVALUG meeting
     -   Plan for future
 
-## Old Business {#old_business}
+## Old Business
 
 -   Basement space update
 -   Door entry project status
 
-## New Business {#new_business}
+## New Business
 
 Vote in new At-Large Board Member
 

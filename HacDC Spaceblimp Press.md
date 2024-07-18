@@ -1,4 +1,4 @@
-### Email from Heather Goss (8/25/10) {#email_from_heather_goss_82510}
+### Email from Heather Goss (8/25/10)
 
 (DCist, <http://dcist.com/profile/dcist_heather/posts>)
 
@@ -147,7 +147,7 @@ please send along any helpful links (I've got the ones to HacDC,
 Hackerspace, and the Flickr page), as well as a short bio describing you
 and anyone else who responds. Thanks!"
 
-### Some quotes from the number crunching {#some_quotes_from_the_number_crunching}
+### Some quotes from the number crunching
 
 From an email dated 8/21/10:
 

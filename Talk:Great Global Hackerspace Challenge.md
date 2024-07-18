@@ -1,6 +1,6 @@
 # Emails!
 
-## First Email - From Mark @ Agent Silverfox --[Redbeard](User:Redbeard) 01:45, 22 March 2011 (UTC) {#first_email___from_mark_agent_silverfox___redbeard_0145_22_march_2011_utc}
+## First Email - From Mark @ Agent Silverfox --[Redbeard](User:Redbeard) 01:45, 22 March 2011 (UTC)
 
 Hi there,
 

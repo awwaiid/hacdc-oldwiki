@@ -1,4 +1,4 @@
-## Sports Briefs: Feeling Supersonic {#sports_briefs_feeling_supersonic}
+## Sports Briefs: Feeling Supersonic
 
 So your canine needs something great put on to video game? Lot less
 Nebraska defeats, those four teams had been combined record of 42-3. The

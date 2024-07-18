@@ -1,4 +1,4 @@
-### Direct Installation (Ubuntu version) {#direct_installation_ubuntu_version}
+### Direct Installation (Ubuntu version)
 
 --- Gtkwave ---
 
@@ -35,7 +35,7 @@ you'll want to compile it by hand.
     have your usual development tools at your fingertips. (Emacs and
     Gedit have sweet colorization modes for verilog.)
 
-### Direct Installation (Mac OSX Version) {#direct_installation_mac_osx_version}
+### Direct Installation (Mac OSX Version)
 
 Spartan instructions follow...
 

@@ -3,7 +3,7 @@
 ```
 ![ 800px ](_Sb6_peak.jpg " 800px ")
 
-# Flight Summary {#flight_summary}
+# Flight Summary
 
 ![](_Sb6_flight_path.jpg "_Sb6_flight_path.jpg")
 
@@ -24,13 +24,13 @@
 
 ------------------------------------------------------------------------
 
-# Upward Facing Camera {#upward_facing_camera}
+# Upward Facing Camera
 
 This flight's payload featured an upward facing camera to gain a better
 understanding of what goes on with the balloon, rigging, and parachute
 during the flight.
 
-##### Balloon Expansion {#balloon_expansion}
+##### Balloon Expansion
 
 The balloon's diameter at the burst altitude is 3.43 times its diameter
 at the launch altitude. Assuming the balloon is a sphere with a 1 meter
@@ -42,13 +42,13 @@ launch volume.
 
 ![](_Sb6_balloon_size_comparison.jpg "_Sb6_balloon_size_comparison.jpg"){width="720"}
 
-##### Balloon Burst {#balloon_burst}
+##### Balloon Burst
 
 ------------------------------------------------------------------------
 
 ![](_Sb6_burst.gif "_Sb6_burst.gif")
 
-# Current Mission {#current_mission}
+# Current Mission
 
 Since [Global Space Balloon Challenge 2016
 (GSBC)](https://www.balloonchallenge.org) just ended, there is no better
@@ -70,7 +70,7 @@ radio operators, project developers, crafts people, decorators,
 coordinators, outreach specialists and educators. However, no one with
 helping hands or a willingness to learn will be turned away.
 
-# [Current Projects](HacDC_Spaceblimp_6/Projects) {#current_projects}
+# [Current Projects](HacDC_Spaceblimp_6/Projects)
 
 ```{=mediawiki}
 {{:HacDC_Spaceblimp_6/Projects}}

@@ -1,4 +1,4 @@
-## HacDC Feb 6th Preliminary Party Plans {#hacdc_feb_6th_preliminary_party_plans}
+## HacDC Feb 6th Preliminary Party Plans
 
 The runtime of the event will take place from 10pm and I believe a run
 time of ending at 3:30 or 4am should be sufficient for cleanup and
@@ -33,7 +33,7 @@ One Overall rover and running in case any area gets swamped.\
 |  04:00 - end  |     at the pews      | [???](User:???)/[???](User:???) | door security | [???](User:???)/[???](User:???) | stage help | [???](User:???) | VIP area | [???](User:???) | bar area | [???](User:???) | HacDC area | [???](User:???) | other errands | [Eric Michaud](User:Eric_Michaud)/[Astera](User:Astera) |
 | the day after | cleaning up the mess |     [Eric Michaud](User:Eric_Michaud)      |               |              [???](User:???)               |            | [???](User:???) |          | [???](User:???) |          | [???](User:???) |            | [???](User:???) |               |                          [???](User:???)                           |
 
-#### Non-Security {#non_security}
+#### Non-Security
 
 `<s>`{=html}Two non security people should be running the Bar, or based
 on the amount of people rushing it One.`</s>`{=html}\
@@ -72,7 +72,7 @@ We are planning on having the DJ's play in “front” of the altar
 area to the side and`</s>`{=html} have the Two security personel walking
 back and forth to make sure people don't mess with the areas.
 
-### Technical Equipment Desired {#technical_equipment_desired}
+### Technical Equipment Desired
 
 -   Three (3) Video Projectors & tables or mounting for each projector
 -   One (1) Dozen trash barrels along with cleaning suppliles
@@ -122,7 +122,7 @@ DJ Keith Myers aka CMOS
 
 DJ HSO
 
-### Other IMPORTANT details {#other_important_details}
+### Other IMPORTANT details
 
 I do not know based on current photos which religious  ornamentation 
 will be covered or need to be covered but Nick will make everyone aware
@@ -132,7 +132,7 @@ I was made aware that we have full setup for cleanup after the fact. But
 if not if we can have who is also going to stay after for cleanup, that
 would be wonderful. I am staying until the job is done.
 
-### Projects to Possibly show in the Auditorium {#projects_to_possibly_show_in_the_auditorium}
+### Projects to Possibly show in the Auditorium
 
 Travis Goodspeed and Josh Gourneau, Belt Buckle with LED's -
 <http://www.radiantmachines.com/party-mode-belt-buckle/>

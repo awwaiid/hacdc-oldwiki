@@ -8,7 +8,7 @@ Inspection Locker](Public_Inspection_Locker).
 
 (Note: As of 4/10/08 these pages are still being edited and discussed.)
 
-## The Core Policy Concept : C4K {#the_core_policy_concept_c4k}
+## The Core Policy Concept : C4K
 
 Our core policy concept is **Command, Control, Communications,
 *Collaboration*, and *Khaos***. While we are very serious about

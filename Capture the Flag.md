@@ -1,4 +1,4 @@
-## Build-A-CTF {#build_a_ctf}
+## Build-A-CTF
 
 Join us to create unique hacking CTF competitions meeting **every Sunday
 at the HacDC Space**. Sign up for events at

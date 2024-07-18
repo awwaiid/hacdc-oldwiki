@@ -70,21 +70,21 @@ A portion of the Annual Meeting is devoted to the election of new Board
 of Directors, as set forth in the bylaws. The following people have
 expressed an interest in running for a position:
 
-### Coordinator in Chief / President {#coordinator_in_chief_president}
+### Coordinator in Chief / President
 
 -   Elliot Williams
 
-### Minister of Information / Vice President {#minister_of_information_vice_president}
+### Minister of Information / Vice President
 
-### Keeper of the MIBS / Secretary {#keeper_of_the_mibs_secretary}
+### Keeper of the MIBS / Secretary
 
 -   [Ben](User:Ben)
 
-### Minister of Finance / Treasurer {#minister_of_finance_treasurer}
+### Minister of Finance / Treasurer
 
 -   Tim C.
 
-### Two At-large Board Members {#two_at_large_board_members}
+### Two At-large Board Members
 
 (Apparently, we need these.
 [1](http://wiki.hacdc.org/index.php?title=Bylaws#Section_1:_Role.2C_Size.2C_Term_and_Compensation)

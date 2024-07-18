@@ -103,7 +103,7 @@ print with. Please use ABS only if there is a specific need for it.
 :   Suitable for moderately high-temperature applications like coffee
     mugs, outdoor fixtures, and certain 3D printer components.
 
-# Extra Maintenance {#extra_maintenance}
+# Extra Maintenance
 
 ## Malfunction
 
@@ -115,7 +115,7 @@ print with. Please use ABS only if there is a specific need for it.
 -   Replace linear bearings if they are grinding, slipping laterally, or
     otherwise ruined.
 
-## Replacing filament/changing spools {#replacing_filamentchanging_spools}
+## Replacing filament/changing spools
 
 1.  Turn on the printer, open pronterface, and connect to the printer.
 2.  If there is filament sticking out of the top of the extruder, you'll
@@ -158,9 +158,9 @@ print with. Please use ABS only if there is a specific need for it.
     slightly more level along the X-axis than the Y-axis due to a minor
     design flaw.
 
-# Slic3r Settings {#slic3r_settings}
+# Slic3r Settings
 
-## Print Settings {#print_settings}
+## Print Settings
 
 ### Cheap
 
@@ -187,7 +187,7 @@ temperature to 167C may improve bridging but requires slowing down print
 speed, reduces quality, weakens printout, and may significantly increase
 extruder wear.
 
-## Printer Settings {#printer_settings}
+## Printer Settings
 
 Leave at "HacDC" unless you feel they need debugging.
 
@@ -216,7 +216,7 @@ there, and issue a pull request. Failing these options, email blabber.
     funds.
 -   Others.
 
-# Technical Specs {#technical_specs}
+# Technical Specs
 
 This Prusa is fitted with the following:
 
@@ -231,19 +231,19 @@ For FW reference on steps per axis: (80, 80, 2560, 855) {X, Y, Z, E},
 this is also assuming 1/16th microstepping and 9/47 gears. Old extruder
 used 666.67steps/mm.
 
-# To Do {#to_do}
+# To Do
 
 -   Tune trimpots on motor drivers
 -   Print spare parts.
 -   Experiment with higher supply voltages.
 
-# Known Bugs {#known_bugs}
+# Known Bugs
 
 -   Model holes will print the wrong size. The proper way to manage this
     is by keeping about 0.25mm per wall or 0.5mm diameter clearance in
     CAD models.
 
-# Additional Resources {#additional_resources}
+# Additional Resources
 
 -   "Slic3r is Nicer - Part 1 - Settings and Extruder Calibration"
     <http://richrap.blogspot.co.uk/2012/01/slic3r-is-nicer-part-1-settings-and.html>

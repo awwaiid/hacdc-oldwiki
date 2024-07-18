@@ -6,7 +6,7 @@ our meetings held since introducing the charter members. As
 authorize budgets, etc. it is vital that we solve this problem so we go
 back to having meetings with binding resolutions.
 
-## Potential Solutions {#potential_solutions}
+## Potential Solutions
 
 -   Amending the Bylaws to lower [quorum](quorum) to 25%
     -   Pros:

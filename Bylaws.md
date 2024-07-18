@@ -8,9 +8,9 @@ Amendments are handled as specified in Article VII: Amendments
 These Bylaws were approved by the incorporators on May 17, 2008 after
 consulting with prospective charter members.
 
-## Article I: Why We Exist {#article_i_why_we_exist}
+## Article I: Why We Exist
 
-### Section 1: General Purposes {#section_1_general_purposes}
+### Section 1: General Purposes
 
 Said corporation is organized exclusively for charitable, educational,
 and scientific purposes within the meaning of Section 501(c)(3) of the
@@ -18,7 +18,7 @@ Internal Revenue Code, or the corresponding section of any future
 federal tax code. The mission of the corporation is to improve the world
 by creatively rethinking technology.
 
-### Section 2: Specific Purposes {#section_2_specific_purposes}
+### Section 2: Specific Purposes
 
 Subject to and within the limits of Section 1, the corporation shall:
 
@@ -32,32 +32,32 @@ Subject to and within the limits of Section 1, the corporation shall:
     teach others.
 -   Recruit and develop talented members dedicated to these purposes.
 
-## Article II: Who We Are {#article_ii_who_we_are}
+## Article II: Who We Are
 
-### Section 1: Designation of Membership Class {#section_1_designation_of_membership_class}
+### Section 1: Designation of Membership Class
 
 HacDC has a single membership class with voting rights.
 
-### Section 2: Voting Membership Class Qualifications {#section_2_voting_membership_class_qualifications}
+### Section 2: Voting Membership Class Qualifications
 
 Any person who supports the purposes laid out in Article I of these
 bylaws is qualified to become a member.
 
-### Section 3: Voting Membership Class Election {#section_3_voting_membership_class_election}
+### Section 3: Voting Membership Class Election
 
 The [standing rules](Standing_Rules) shall specify procedures
 for inducting new members. For purposes of these bylaws, all persons
 listed as initial directors on the Articles of Incorporation shall be
 considered the initial voting members.
 
-### Section 4: Voting Membership Dues {#section_4_voting_membership_dues}
+### Section 4: Voting Membership Dues
 
 The amount, payment period, due date and acceptable methods for
 collection of dues shall be reviewed each year at the annual meeting,
 and shall be specified in the [standing
 rules](Standing_Rules).
 
-### Section 5: Voting Membership Rights and Responsibilities {#section_5_voting_membership_rights_and_responsibilities}
+### Section 5: Voting Membership Rights and Responsibilities
 
 Each voting member shall have an equal right to voice their opinion and
 vote their preference or abstain from voting in the affairs of the
@@ -69,7 +69,7 @@ address, contact information, and preference for electronic receipt of
 communications. Each voting member is responsible for continuing to
 support the purposes of the corporation.
 
-### Section 6: Voting Membership Resignation and Termination {#section_6_voting_membership_resignation_and_termination}
+### Section 6: Voting Membership Resignation and Termination
 
 *The paragraph in italics below was accepted in [January
 2017](Annual_Meeting_2017#Bylaws_Amendments).*
@@ -93,14 +93,14 @@ re-suspended by the Board of Directors for the same actions or
 incidents. Explanation of such suspensions must be submitted
 electronically to all members.*
 
-## Article III: How we meet {#article_iii_how_we_meet}
+## Article III: How we meet
 
-### Section 1: Regular Meetings {#section_1_regular_meetings}
+### Section 1: Regular Meetings
 
 Regular meetings of voting members shall be held as designated in the
 [standing rules](Standing_Rules).
 
-### Section 2: Annual Meetings {#section_2_annual_meetings}
+### Section 2: Annual Meetings
 
 An annual meeting of all members shall take place sometime in January,
 February or March. The President shall select the date, time and place
@@ -116,7 +116,7 @@ of the corporation, receive reports on the activities of the
 corporation, approve the budget and determine the direction of the
 corporation in the coming year.
 
-### Section 3: Special Meetings {#section_3_special_meetings}
+### Section 3: Special Meetings
 
 A petition presented to all voting members and approved by one half
 (1/2) of voting members may call a special meeting. Such a petition must
@@ -124,27 +124,27 @@ include the date, time, place and agenda of the special meeting.
 Notification of the result of the petition shall be presented to all
 members prior to the meeting.
 
-### Section 4: Quorum {#section_4_quorum}
+### Section 4: Quorum
 
 At a duly called meeting, at least 25% (one quarter) of the entire
 voting membership shall constitute a quorum.
 
 This value was lowered from 50% by Bylaws Amendment 1: Revise Quorum.
 
-### Section 5: Voting {#section_5_voting}
+### Section 5: Voting
 
 When a quorum is present, all issues, except when otherwise specified in
 these bylaws, shall be decided by affirmative vote of more than 50% (one
 half) of the voting members present.
 
-### Section 6: Conduct of Meetings {#section_6_conduct_of_meetings}
+### Section 6: Conduct of Meetings
 
 The conduct of all meetings shall follow the rules of order as specified
 in the [standing rules](Standing_Rules).
 
-## Article IV: The Officers {#article_iv_the_officers}
+## Article IV: The Officers
 
-### Section 1: Role, Number, Qualification, Term and Compensation {#section_1_role_number_qualification_term_and_compensation}
+### Section 1: Role, Number, Qualification, Term and Compensation
 
 There shall be four officers, a President, a Vice President, a Secretary
 and a Treasurer. Each officer must be a voting member and each officer
@@ -154,27 +154,27 @@ terms. No officer shall be compensated for their service as an officer,
 though the corporation may provide insurance and indemnity for officers
 as allowed by law.
 
-### Section 2: Duties of the President {#section_2_duties_of_the_president}
+### Section 2: Duties of the President
 
 The President shall preside over all meetings or designate an alternate,
 attempt to achieve consensus in all decision-making, ensure the
 membership is informed of all relevant issues, and serve other duties of
 a President as required by law or custom.
 
-### Section 3: Duties of the Vice President {#section_3_duties_of_the_vice_president}
+### Section 3: Duties of the Vice President
 
 The Vice President shall be primarily responsible for the information
 systems and communication processes of the corporation and serve all
 other duties of a Vice President as required by law or custom, including
 acting when the President is unable or unwilling to act.
 
-### Section 4: [Duties of the Secretary](Duties_of_the_Secretary) {#section_4_duties_of_the_secretary}
+### Section 4: [Duties of the Secretary](Duties_of_the_Secretary)
 
 The Secretary shall be responsible for maintaining membership and
 corporate records and for serving all other duties of a Secretary as
 required by law or custom.
 
-### Section 5: Duties of the Treasurer {#section_5_duties_of_the_treasurer}
+### Section 5: Duties of the Treasurer
 
 The Treasurer shall serve as custodian of corporate funds, collect dues,
 present a financial report at each regular and annual meeting, assist in
@@ -182,7 +182,7 @@ the preparation of the budget, make financial information available to
 members and the public, and serve all other duties of a Treasurer as
 required by law or custom.
 
-### Section 6: Duties of the Officers as whole to provide an Annual Report {#section_6_duties_of_the_officers_as_whole_to_provide_an_annual_report}
+### Section 6: Duties of the Officers as whole to provide an Annual Report
 
 The Officers must provide an annual report. The report shall chronicle
 the activities of the corporation, including specific narratives on the
@@ -190,15 +190,15 @@ corporation's work, the corporation's annual financial statements,
 relevant legal filings, and relevant copies of the organization's
 district and federal tax returns.
 
-### Section 7: Officers are Directors {#section_7_officers_are_directors}
+### Section 7: Officers are Directors
 
 The Officers shall also serve as bona-fide directors on the Board of
 Directors. Election, resignation, removal and vacancies of the Officers
 are handled in accordance with procedures laid out in Article V.
 
-## Article V: The Board of Directors {#article_v_the_board_of_directors}
+## Article V: The Board of Directors
 
-### Section 1: Role, Size, Term and Compensation {#section_1_role_size_term_and_compensation}
+### Section 1: Role, Size, Term and Compensation
 
 The board of directors shall consist of the four Officers as defined in
 Article IV and two at-large directors, all of whom are considered
@@ -210,7 +210,7 @@ director may be compensated for their service as a board member, though
 the corporation may provide insurance and indemnity for board members as
 allowed by law.
 
-### Section 2: Meetings {#section_2_meetings}
+### Section 2: Meetings
 
 The Board of Directors shall meet when necessary, provided all voting
 members receive notice sent electronically at least five business days
@@ -226,7 +226,7 @@ the registered office and electronically distributed to members within
 48 hours. Minutes shall be considered approved when signed by all board
 members in attendance.
 
-### Section 3: Elections {#section_3_elections}
+### Section 3: Elections
 
 Each member present shall be given an opportunity to be a candidate for
 each officer position and each at-large director position on the board.
@@ -239,18 +239,18 @@ more than two members are candidates for at-large director, each voting
 member present shall rank the candidates. The two candidates obtaining
 the highest preferences from voting members present shall be elected.
 
-### Section 4: Quorum {#section_4_quorum_1}
+### Section 4: Quorum
 
 Two-thirds of board members at a duly called board member meeting shall
 constitute a quorum.
 
-### Section 5: Voting {#section_5_voting_1}
+### Section 5: Voting
 
 All issues, except when otherwise specified in these bylaws, shall be
 decided by affirmative vote of more than half of the directors present
 at a duly held meeting.
 
-### Section 6: Resignation, Termination and Vacancies {#section_6_resignation_termination_and_vacancies}
+### Section 6: Resignation, Termination and Vacancies
 
 Any officer or director may resign by filing a written or electronic
 resignation with the Secretary or two other board members. An officer or
@@ -259,7 +259,7 @@ signed by more than two-thirds (2/3rds) of the voting membership.
 Vacancies on the board shall be filled at the next regular meeting using
 the applicable process outlined in Section 3.
 
-## Article VI: Committees {#article_vi_committees}
+## Article VI: Committees
 
 On or before September 30, the members shall nominate and approve an
 audit committee consisting of three voting members who are not members
@@ -269,7 +269,7 @@ rights to the affairs and documentation of the corporation. No audit
 committee shall be convened if the corporation has fewer than nine
 voting members.
 
-## Article VII: Amendments {#article_vii_amendments}
+## Article VII: Amendments
 
 These bylaws may be amended only when an amendment proposal petition is
 approved at a membership meeting and signed by more than three quarters

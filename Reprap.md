@@ -14,7 +14,7 @@ make it more reliable.
 If you're using the RepRap, please note what you've done in the [RepRap
 Operator's Log](RepRap_Operator's_Log).
 
-## Log into norbert: {#log_into_norbert}
+## Log into norbert:
 
 norbert is the computer under the reprap. It runs FreeBSD, and lurks on
 that little wired network on the cart at 192.168.0.47. Plan A is to
@@ -23,7 +23,7 @@ for the passwd. Plan B, if someone has killed norbert, is to ssh in,
 start the VNC server, and then proceed to plan A. The vnc server can be
 started with " vncserver -depth 24 -geometry 1024x768"
 
-## To render an STL file to gcode: {#to_render_an_stl_file_to_gcode}
+## To render an STL file to gcode:
 
 Get your stl file onto norbert with scp or something, then type the
 command:
@@ -43,20 +43,20 @@ in G0. This is a workaround for a bug in the firmware.)
 I do not recommend bringing in pre-rendered gcode, skeinforge has
 approximately 3 billion parameters, and I have tweaked a few of them.
 
-## The Incantation of Calibration {#the_incantation_of_calibration}
+## The Incantation of Calibration
 
 This procedure has been tested... but /only/ this procedure. If you try
 to do things out of order, all bets are off. That may involve restarting
 from the beginning.
 
-### Replace any mangled blue tape {#replace_any_mangled_blue_tape}
+### Replace any mangled blue tape
 
 The platen is covered with blue tape, to improve the plastic's ability
 to stick to it. Replace any excessively mangled parts. Make sure you use
 the right flavor of tape, there is a slightly darker much slicker blue
 tape which does not work.
 
-### Turn it on {#turn_it_on}
+### Turn it on
 
 Shove the extruder into the corner of the platen labeled "origin C1"
 
@@ -75,7 +75,7 @@ You should now have a prompt which looks like `>`. Enter "?" for help.
 If you use the g command to send straight gcode, type
 control-right-square-bracket and then c to get back to the `>` prompt.
 
-### Adjust the platen, so its co-planer with the extruder {#adjust_the_platen_so_its_co_planer_with_the_extruder}
+### Adjust the platen, so its co-planer with the extruder
 
 Type "c2"
 
@@ -114,7 +114,7 @@ should be OK.
 
 Repeat as necessary.
 
-### Load the Gcode, and fine-adjust the Z {#load_the_gcode_and_fine_adjust_the_z}
+### Load the Gcode, and fine-adjust the Z
 
 type "c"
 
@@ -135,7 +135,7 @@ mushed down onto the platen "right".
 
 Scrape off the plastic, and repeat until you're satisfied.
 
-### And the monkey presses the button {#and_the_monkey_presses_the_button}
+### And the monkey presses the button
 
 Cross your fingers and type "t"
 
@@ -158,7 +158,7 @@ The X axis is the "inner most" one. The Y axis then moves the X axis
 back and forth. The Z axis should be obvious... The reprap tends to shed
 parts as it runs. Don't leave it unattended.
 
-### To recompile the firmware {#to_recompile_the_firmware}
+### To recompile the firmware
 
 `cd /usr/home/norbert/reprap/arduino-0017 ./arduino`
 
@@ -183,7 +183,7 @@ signature.
 
 Retry until it succeeds...
 
-### If the extruder doesn't extrude {#if_the_extruder_doesnt_extrude}
+### If the extruder doesn't extrude
 
 First, is it warmed up? Make sure it is before trying to run it.
 
@@ -197,12 +197,12 @@ where its going into the extruder, so the gear gets to chew on an
 undamaged area. It will then start moving again, and you can let go of
 the plastic.
 
-## Local Modifications {#local_modifications}
+## Local Modifications
 
 We doused all the sliding rods with 3 in one oil, and polished them with
 a scrunge.
 
-### X axis belt tensioner {#x_axis_belt_tensioner}
+### X axis belt tensioner
 
 We cable-tied the end of the timing belt to a bolt, then passed that
 bolt through the side of the carriage, and tightened nuts to tension the
@@ -211,7 +211,7 @@ direction.
 
 <http://www.bobdbob.com/~tjohnson/lab/20100706/thumbs/meddscn6017.jpg.jpg>
 
-### X axis replacement pulleys {#x_axis_replacement_pulleys}
+### X axis replacement pulleys
 
 We also enlarged the slots the timing belt passes through. Every once in
 a while, slack in the belt and vibration would allow the teeth of the
@@ -220,7 +220,7 @@ stalled, and the datum is lost.
 
 <http://www.bobdbob.com/~tjohnson/lab/20100706/thumbs/meddscn6015.jpg.jpg>
 
-### Y Axis belt tensioner {#y_axis_belt_tensioner}
+### Y Axis belt tensioner
 
 Lever contraption, with a spring, to tension the belt on the inside, as
 opposed to a pulley pressing on the back of the belt. That is apparently
@@ -228,7 +228,7 @@ extremely sub-optimal.
 
 <http://www.bobdbob.com/~tjohnson/lab/20100706/thumbs/meddscn6022.jpg.jpg>
 
-### Z axis {#z_axis}
+### Z axis
 
 We removed a bunch of parts to reduce jambing, and then added retaining
 rings to fix the Z axis traveling nuts, instead of just sitting on them
@@ -240,7 +240,7 @@ and hoping gravity is sufficient. (Its not...)
 
 <http://www.bobdbob.com/~tjohnson/lab/20100706/thumbs/meddscn6021.jpg.jpg>
 
-### Extruder cantilever reinforcement {#extruder_cantilever_reinforcement}
+### Extruder cantilever reinforcement
 
 We cemented an extra piece of plexiglass onto the bottom of the
 extruder's cantilever, making it significantly more rigid.

@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 August 14, 2012
 
@@ -11,19 +11,19 @@ Others Present: Sharad, Nick
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2012 07
 10](Regular_Member_Meeting_2012_07_10)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Lots of random contact to BOD list. Looking forward to PR work (now have
 access to all external HacDC media).
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 #### Byzantium
 
@@ -43,7 +43,7 @@ We are discussing mesh interoperabilty with several other groups and we
 may be attending a summit in Barcelona to present our proposals to a
 broader audience and begin the process of building a standard.
 
-#### Columbia Heights/Mount Pleasant Community Wireless Network {#columbia_heightsmount_pleasant_community_wireless_network}
+#### Columbia Heights/Mount Pleasant Community Wireless Network
 
 Preston has given me a new firmware update for the router when he was
 here yesterday. We would have run the update already but I managed to
@@ -58,11 +58,11 @@ community/mesh-centric web apps.
 
 I switched to Dwolla. It's fun, it's easy. Everyone should do it!
 
-#### The Elements of Computing Systems {#the_elements_of_computing_systems}
+#### The Elements of Computing Systems
 
 I'm planning to run this again this fall. Hopefully with FPGAs!
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for July 2012:
 ![](HacDC_Financials_2012_07.pdf "HacDC_Financials_2012_07.pdf") We had
@@ -80,7 +80,7 @@ again.
 
 Quorum stays at 14 considering the members who have dropped in August.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Martin
 
@@ -91,9 +91,9 @@ from ARRL. Space blimps scheduled for launch this year!
 
 Leaving. :( Resigned due to impropriety (actually just moving).
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### [HOPE9](http://www.hopenumbernine.net/) attendees' reports {#hope9_attendees_reports}
+### [HOPE9](http://www.hopenumbernine.net/) attendees' reports
 
 #### haxwithaxe
 
@@ -103,7 +103,7 @@ Leaving. :( Resigned due to impropriety (actually just moving).
     reader/tracker
 -   Carry your ear plugs ... tinnitus sucks :(
 
-### haxwithaxe/The Doctor/Ben/Redbeard {#haxwithaxethe_doctorbenredbeard}
+### haxwithaxe/The Doctor/Ben/Redbeard
 
 The epic journey and the magic fairy-god-occupiers
 
@@ -132,23 +132,23 @@ site!
 Went on sabbatical to Stime in Amsterdam. Looking to collaborate on
 musical projects/max msp.
 
-### Martin {#martin_1}
+### Martin
 
 Raspberry Pi road show! Sept 26th!!
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Reimburse Ben for the purchase of the Byzantium CDs (appoved)
 
-## New Members {#new_members}
+## New Members
 
-## Sharad (approved) {#sharad_approved}
+## Sharad (approved)
 
 Electrician! :)
 
-## Nick (approved) {#nick_approved}
+## Nick (approved)
 
 We all know Nick!
 

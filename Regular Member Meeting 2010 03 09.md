@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-03-09 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 March 9, 2010 Meeting called to order at 7:38 by That Elliot Guy
 
@@ -11,21 +11,21 @@ Others:
 
 [Quorum](Quorum)
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 01
 12](Regular_Member_Meeting_2010_01_12)
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   Church Lease / Basement Issues
 -   [Annual Meeting](Bylaws#Section_2:_Annual_Meetings) date
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   [TheNextHOPE](TheNextHOPE) planning
 -   Whatever happened to the [Great Internet Migratory Box of
@@ -42,9 +42,9 @@ Others:
     on Saturday, 24 April?
 -   Hackerspaces Near Space entry
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Daniel P.
 
@@ -59,7 +59,7 @@ Alberto
 
 -   Dupont Circle Underground update
 
-## Old Business {#old_business}
+## Old Business
 
 0x0501c3
 
@@ -70,7 +70,7 @@ Alberto
 Gov](http://mblr.dc.gov/corp/lookup/status.asp?id=53073) (Revoked as of
 --[NikolasCo](User:NikolasCo) 00:22, 10 March 2010 (UTC))
 
-## New Business {#new_business}
+## New Business
 
 Get a new phone for the space (http://olehphone.com/ was the previous
 provider courtesy of serge).

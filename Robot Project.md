@@ -1,4 +1,4 @@
-### Selected Robot Kit {#selected_robot_kit}
+### Selected Robot Kit
 
 -   [Red Hat Co.Lab Robot Kit](https://www.sparkfun.com/products/16424)
     -   [Red Hat Co.Lab Robot Kit GitHub
@@ -14,7 +14,7 @@
         List](Robot_Project_2021_Parts_List)
     -   [Robot Project 2021 Notes](Robot_Project_2021_Notes)
 
-### Course Outline {#course_outline}
+### Course Outline
 
 -   Week 1: "Hello World" with the bare micro:bit, and blinking an LED,
     reading a sensor
@@ -36,7 +36,7 @@
     -   Tayeb
 -   Week 8: Your ideas!!
 
-### Course Content Repository {#course_content_repository}
+### Course Content Repository
 
 -   <https://codeberg.org/HacDC/HacDCRoboticsClass>
 

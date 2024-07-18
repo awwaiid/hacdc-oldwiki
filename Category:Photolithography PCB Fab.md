@@ -3,7 +3,7 @@
 When the 10mil isolation paths offered by CNC Milling are insufficient,
 photolithography becomes the PCB fabrication method of choice.
 
-# Large Boards {#large_boards}
+# Large Boards
 
 For large boards, note the following:
 
@@ -17,7 +17,7 @@ For large boards, note the following:
 -   Avoid placing UV light sources in extreme proximity to the board.
     Doing so may unevenly expose some regions.
 
-# PCB Design {#pcb_design}
+# PCB Design
 
 Recommend gEDA. Project template with CNC Mill and gerber export scripts
 available on [github](https://github.com/mirage335/gEDA_Template).
@@ -27,7 +27,7 @@ subfolder](https://github.com/mirage335/gedaProduction/tree/master/hacdcPhotoLit
 of the [gedaProduction
 repository](https://github.com/mirage335/gedaProduction).
 
-# Design Rules {#design_rules}
+# Design Rules
 
 Recommend at least the following tolerances:
 
@@ -155,7 +155,7 @@ Many thanks to:
 
 -   Dan Barlow
 
-# Research Underway {#research_underway}
+# Research Underway
 
 -   Better photodeveloper. The MG Chemicals product works reasonably
     well thus far, but may not include sodium silicate.
@@ -189,7 +189,7 @@ Many thanks to:
     <http://www.marwynandjohn.org.uk/GM8OTI/projopticalpcb/projopticalpcb.html>
     .
 
-## Full-Scale Process {#full_scale_process}
+## Full-Scale Process
 
 Professional PCB fabs manufacture upwards of dozens of PCBs per hour,
 with resulting boards ready for rapid solderpaste stencil based PCB
@@ -197,7 +197,7 @@ assembly. Efforts are underway to implement required DLP projection and
 spray tank equipment for at least part of this process, a description of
 which follows:
 
-### Dual-Layer Boards {#dual_layer_boards}
+### Dual-Layer Boards
 
 #### Templates
 
@@ -206,7 +206,7 @@ which follows:
 2.  Predrilling if dual pre-aligned DLP projection is not available.
 3.  UV **photoexposure**, high contrast, using DLP projection.
 
-#### Photo-Patterning {#photo_patterning}
+#### Photo-Patterning
 
 1.  Warm **photodevelopment** bath (exposes desired copper).
 2.  **Rinse** spray (pH should be neutral -\<1.5).
@@ -231,14 +231,14 @@ which follows:
     leaves bare copper.
 9.  **Rinse** spray (pH should be neutral -\<1.5).
 
-### Multilayer Boards {#multilayer_boards}
+### Multilayer Boards
 
 Similar to dual-layer boards. However, interior layers are processed
 first as two sided PCBs, with exterior processing and through-hole
 plating taking place after inter-layer bonding. Preferably, drilling
 also takes place after inter-layer bonding.
 
-#### Templates {#templates_1}
+#### Templates
 
 1.  Positive presensitzed board, negative artwork (dark regions cover
     desired copper), *single-sided for exterior layers*, *double-sided
@@ -250,7 +250,7 @@ also takes place after inter-layer bonding.
     also be predrilled. Beware separately predrilled layers may fail to
     electrically connect in multilayer boards.
 
-#### Photo-Patterning (All Layers) {#photo_patterning_all_layers}
+#### Photo-Patterning (All Layers)
 
 1.  UV **photoexposure**, high contrast, using DLP projection.
 2.  Warm **photodevelopment** bath (exposes desired copper).
@@ -259,7 +259,7 @@ also takes place after inter-layer bonding.
 All layers should now have correctly developed/patterned photoresist on
 bare thin copper.
 
-#### Interior Processing {#interior_processing}
+#### Interior Processing
 
 1.  Recirculated **electroplating** bath (adds copper everywhere, except
     holes). Requires specialized copper plating solution
@@ -286,7 +286,7 @@ copper.
 Completed interior layers are now buried, with exterior layers still
 holding developed/patterned photoresist on bare thin copper.
 
-#### Exterior Layers & Through-Holes {#exterior_layers_through_holes}
+#### Exterior Layers & Through-Holes
 
 1.  Via/hole **drilling**, ideally now instead of predrilling.
 2.  **Conductive coating**, to activate through-holes
@@ -320,7 +320,7 @@ Completely optional, but easy with the tools and supplies within arm's
 reach. Laminate top and bottom copper with two layers of dry film
 resist, photoexpose, and develop.
 
-### Expensive Components {#expensive_components}
+### Expensive Components
 
 -   3 \* \$90 - SHURflo Industrial Pump Model #2088-594-154 114V
     Corrosion Resistant Pumps (Electroplating, etching, tin stripping
@@ -342,7 +342,7 @@ achieved.
 Higher resolution, lower-cost microscopic projection systems for
 mounting on RepRap type machines are also underway.
 
-### Environmental Concerns {#environmental_concerns}
+### Environmental Concerns
 
 Cupric Chloride (typically the green stuff) should be used as the
 etchant, as it can be recharged completely with atmospheric oxygen and

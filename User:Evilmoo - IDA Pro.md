@@ -1,4 +1,4 @@
-## Before We Start {#before_we_start}
+## Before We Start
 
 Things you need to know going in:
 
@@ -42,7 +42,7 @@ The .ZIP file contents look like this:
 `--------          -------  ---                            -------`\
 `  553056           314741  43%                            6 files`
 
-## Process the Boot Sector {#process_the_boot_sector}
+## Process the Boot Sector
 
 We will concentrate on Disk 1 to begin with, since it is the boot disk.
 It is an .ATR file, so we need to remove the first 16 bytes to convert

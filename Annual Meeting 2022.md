@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 `   Date: Tuesday, March 8`\
 `   Location: HacDC`
@@ -44,7 +44,7 @@ Meeting called to order at
 
 `   Yes`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 Approved
 
@@ -53,9 +53,9 @@ Approved
 Michelle - initiative taking, leadership All Members - getting out of
 the red
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Tayeb: initial goal to reopen to the public, however we have regular
 online meetings (Online Project Night, Microfabrication, FreeCAD). In
@@ -63,15 +63,15 @@ the future, would like regular meetings of some sort and continue and
 move to "hybrid." Next steps: verify (and fix) tools/equipment and
 prepare space for use.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Financial Report: Current Balance -- \$11,572.80 We currently have 18
 paying members, \$870 from dues and an additional \$148.16 from
 donations. Rent is \$900 for February, total expenses are \$957.57
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 1.  HacDC WorkRoom Safety & Security:
     1.  Waiver. [Hold harmless
@@ -91,30 +91,30 @@ donations. Rent is \$900 for February, total expenses are \$957.57
         an emergency response group. There is also CERT training given
         by the city
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Ken
 
 #### Kevin
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project SEM {#project_sem}
+### Project SEM
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 1.  Need to build an (high-level) inventory list that is public-facing.
     Should include dates.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
 1.  Wiki-Website Re-Design - the Unified Data Team launched new Wiki and
     new Website for purpose of unifying two platforms, minimizing
@@ -136,12 +136,12 @@ donations. Rent is \$900 for February, total expenses are \$957.57
     (providing & fixing computers and possibly building furniture out of
     scrap wood"
 
-### Bylaws Amendments {#bylaws_amendments}
+### Bylaws Amendments
 
 -   No bylaws amendments (\<-- carry over to next Old Business...several
     board members like this)
 
-## New Business {#new_business}
+## New Business
 
 1.  **Workspace Opening Up** - status update. Church common areas still
     requires masks. Inside workroom: members welcome to not wear masks
@@ -205,7 +205,7 @@ donations. Rent is \$900 for February, total expenses are \$957.57
         behind security person's desk); there is also a CNC computer
         which should still work with the CNC mill
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Slate of Candidates -- Michelle Savage: President, Obioma Anomnachi:
 Vice-President, Tayeb Zaidi: Secretary, Matt Stafford: Treasurer, John
@@ -222,7 +222,7 @@ as follows:
 
 `   At large seats: ''Gabriel Altay and John Pancoast ran unopposed`
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

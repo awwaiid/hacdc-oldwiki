@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-03-08 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 March 8, 2011
 
@@ -16,16 +16,16 @@ Others Present: Puja Waldo Dennis Martin
 
 Yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 02
 08](Regular_Member_Meeting_2011_02_08)
 
 Read and approved.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Annual meeting couple weeks ago, board elections. The new board has been
 working. Submitted response to inter-hackerspace challenge put out by
@@ -33,14 +33,14 @@ Mitch -- challenge is to build educational equip. Since the 501c3,
 written a bunch of letters to donors. Got \$200 from John Howard. Set up
 computers for Linux labs.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Lots of awesome going on. Very happy. There's been projects going on
 nearly every night and day, with some nights overbooked. AVR class, 3D
 bots, and Space Blimp were all going on last night. Other classes every
 other night. Yay!
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Todd, in his absence, put up the treasurer's report. Thanks Todd.
 
@@ -73,13 +73,13 @@ CHECK CARD RECURRING PYMT \$10.55
 02/02/2011 POS LINODE.COM 02-02 609-593-7103 NJ 1703 BB&T CHECK CARD
 PURCHASE \$37.45
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Absent.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### Will G {#will_g}
+#### Will G
 
 Mark Adams started his science blogging again on the site. Xaq has
 ponied up for blogging stuff within the space. Talking to Think Geek for
@@ -87,12 +87,12 @@ offering a banner ad, and redesigning the page. GW's electronics
 donation came through -- we have 8 new oscilloscopes, frequency
 counters, function generators, etc.
 
-#### Brad B {#brad_b}
+#### Brad B
 
 Talking with Meetup about the 501c3 and getting free. Sent out the
 Board's to-do list. Got everyone yo-yoing.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Xaq: Starting up blogging in space. Maybe a "meet the hacker"
     column. Been on a reprap quest to make a Prusa Mendel -- have
@@ -137,9 +137,9 @@ Board's to-do list. Got everyone yo-yoing.
     general. Not sure if he should do "intro to programming" for art
     people or "intro to art" for programming people.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Martin from Freeshell wanted to know if the local group could have
     meetings here.
@@ -159,7 +159,7 @@ Board's to-do list. Got everyone yo-yoing.
     thinking of having a party for the raffle. Might be time for an open
     house.
 
-### New Members {#new_members}
+### New Members
 
 -   Lawrence nominated in his absence.
 

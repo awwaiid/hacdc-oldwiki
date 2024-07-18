@@ -4,7 +4,7 @@ never programed before in their lives. Our external P2PU site is
 make sure to add yourself to the mailing list
 [here](https://groups.google.com/a/hacdc.org/group/prog101).
 
-## Pre class HW {#pre_class_hw}
+## Pre class HW
 
 For the class we will be using python and pygame. Instructions on how to
 install them on your operating system of choice can be found below.
@@ -36,7 +36,7 @@ You can get the presentation slides, code, and other material from this
 wiki OR live from the [class
 repository](https://github.com/3lawsafe/HacDC-Intro-to-Programming)
 
-## Class 0 {#class_0}
+## Class 0
 
 **Covers**: Some history. IDLE and Python. Primitive data types.
 Statements and expressions. Hello World! Turtle Graphics **Slides**:
@@ -45,7 +45,7 @@ code**: ![](Turtle_demo.py "Turtle_demo.py")
 ![](Wrapper_turtle.py "Wrapper_turtle.py") **Homework**: Draw a pretty
 picture using the turtle graphics.
 
-## Class 1 {#class_1}
+## Class 1
 
 **Covers**: Program control. If statements. For loops. While loops.
 Pygame drawing. **Slides**: ![](Class_1.pdf "Class_1.pdf") **Workshop**:
@@ -56,7 +56,7 @@ animation using your new looping and pygame drawing skills. Sign up for
 the email list, and introduce your self. Include a link to your GitHub
 repository.
 
-## Class 2 {#class_2}
+## Class 2
 
 **Covers**: Functions. Common data structures. Pygame events.
 **Slides**: ![](Class_2.pdf "Class_2.pdf") **Workshop**: Pong code with
@@ -65,7 +65,7 @@ functions! Quick event demo. **Demo code**: Check the repo!
 animation you had interactive using the new event or I/O stuff. Try and
 make your previous code use functions.
 
-## Class 3 {#class_3}
+## Class 3
 
 **Covers**: Classes. Modules and Packages. **Slides**:
 ![](Class_3.pdf "Class_3.pdf") **Workshop**: Sprite demo! Pong with
@@ -75,7 +75,7 @@ module. Try making a few objects for your interactive animation. Extend
 the sprite so there's more than one sprite on screen and they're
 keyboard controlled.
 
-## Class 4 {#class_4}
+## Class 4
 
 **Covers**: Some stuff from the standard library. Pyserial too!
 **Slides**: ![](Class_4.pdf "Class_4.pdf") **Workshop**: A bunch of
@@ -84,7 +84,7 @@ least one of the libraries presented in class in your own code. Two
 different datasets are being provided, try and visualize the data using
 pygame.
 
-## Class 5 {#class_5}
+## Class 5
 
 **Covers**: Tidbits we didn't cover during the other classes. Exceptions
 handling. List/dict comprehensions. Lambdas, filters, maps and reduce.

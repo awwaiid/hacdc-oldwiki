@@ -1,18 +1,18 @@
 HacDC's Cube 3D Printer. IS GONE as of 2016.
 [thumb\|upright=4\|right](File:Cube.jpg)
 
-## Current Machine Status {#current_machine_status}
+## Current Machine Status
 
 Cube printer has been officially moved out of HacDC. Currently living at
 Makersmiths, recommissioning is underway. Please direct requests
 regarding this machine to [Mirage335](User:Mirage335)
 ([talk](User_talk:Mirage335)).
 
-## General Info {#general_info}
+## General Info
 
 Model: 3D Systems Cube 2ND Generation
 
-## Printing Procedures {#printing_procedures}
+## Printing Procedures
 
 ***Instructions are mostly complete but there are still gaps. If this is
 your 1st print with this machine you may want to ask one of the 3D
@@ -20,7 +20,7 @@ printer folks for help (We're usually around on Thursday
 evenings).***--[Nostromo](User:Nostromo)
 ([talk](User_talk:Nostromo)) 15:44, 11 February 2015 (PST)
 
-### 3D File Preparation {#d_file_preparation}
+### 3D File Preparation
 
 The cube uses proprietary slicer software to convert a ".stl" file to a
 ".cube" file which is what the cube printer understands.
@@ -55,7 +55,7 @@ the longest amount of time.
 At this point a .cube file has been generated and you're ready to move
 on to the next step.
 
-### Powering on the Cube {#powering_on_the_cube}
+### Powering on the Cube
 
 1.  Make sure the Cube is located on a level surface and the filament
     feed tube isn't being bent (By a shelf etc..)
@@ -63,7 +63,7 @@ on to the next step.
 3.  Press the button just below the screen (Screen should wake up)
 4.  You're almost ready to print
 
-### Before You Start The Print!! {#before_you_start_the_print}
+### Before You Start The Print!!
 
 Make sure you have the following items:
 
@@ -71,7 +71,7 @@ Make sure you have the following items:
 -   Tweezers (Need this to remove the extruder drippings just before the
     print starts)
 
-#### Prep the Print Bed (IMPORTANT) {#prep_the_print_bed_important}
+#### Prep the Print Bed (IMPORTANT)
 
 1.  Remove the glass build plate from the cube (Held on with a magnet so
     it should just pop off)
@@ -92,7 +92,7 @@ Make sure you have the following items:
         plate
     -   Best place for the clips are on the right side (Front and Back)
 
-### Start the Print {#start_the_print}
+### Start the Print
 
 1.  Eject the USB Key marked "Cube Firmware" from the Laptop and attach
     to the cube on the right hand side
@@ -110,7 +110,7 @@ Make sure you have the following items:
     it's about to start printing
 8.  Now watch the magic begin :-)
 
-### Monitoring the Print {#monitoring_the_print}
+### Monitoring the Print
 
 Now that the cube has started printing it's important to keep an eye on
 it. If at any time you see an issue please cancel the print by hitting
@@ -129,7 +129,7 @@ worthy:
 -   When the print finishes please turn off the printer *(Hold down the
     button until the cube powers off)*
 
-### Removing the Print from the Build Plate {#removing_the_print_from_the_build_plate}
+### Removing the Print from the Build Plate
 
 You're almost done now it's time for the last step. Removing the print
 from the build plate.
@@ -144,7 +144,7 @@ from the build plate.
     (Without breaking the part)
 -   Use a utility knife to GENTLY get under the part and pop it off.
 
-### Please Clean up for Others {#please_clean_up_for_others}
+### Please Clean up for Others
 
 Please do the following procedure so the next person can use the machine
 
@@ -156,12 +156,12 @@ Please do the following procedure so the next person can use the machine
 -   If you we're happy with your experience please consider putting a
     buck or 2 in the tip jar :-)
 
-### Operators Log {#operators_log}
+### Operators Log
 
 Please provide feedback on our print in the operators log for this
 printer [Cube_Operators_Log](Cube_Operators_Log)
 
-## Bed Leveling {#bed_leveling}
+## Bed Leveling
 
 *I level the bed once a week so you really shouldn't need to do this
 procedure*
@@ -172,14 +172,14 @@ procedure*
 -   You should feel a slight bit of resistance when moving the card
     in-between the bed and extruder.
 
-## Z Axis Height Adjustment {#z_axis_height_adjustment}
+## Z Axis Height Adjustment
 
 This should allow a index/business card to slide freely underneath it
 without feeling like it's dragging.
 
 ## Notes
 
-### Refilling the Cartridge {#refilling_the_cartridge}
+### Refilling the Cartridge
 
 The cartridge is a 2 part circular container for the filament. It is
 held together with 2 snapping clips. Gently depress them to separate the
@@ -190,9 +190,9 @@ tube. Carefully snap the hemispheres back together with roughly 7cm out
 of the "exit". Be mindful of the guides on the inside of the cartridge
 when snapping together. Will post a video later
 
-### Resetting A Cartridge To Full {#resetting_a_cartridge_to_full}
+### Resetting A Cartridge To Full
 
-#### Normal Cartridge Operation {#normal_cartridge_operation}
+#### Normal Cartridge Operation
 
 *This is just for some insight so you can see what we're going to do*
 
@@ -203,7 +203,7 @@ when snapping together. Will post a video later
 3.  **'After Print**' Printer subtracts the amount of filament used and
     writes it back to the cartridge.
 
-#### Reset Cartridge Hack {#reset_cartridge_hack}
+#### Reset Cartridge Hack
 
 Resetting the cartridge means writing the full/nearly full cartridge
 capacity back to the empty cartridge. Essentially resetting the empty
@@ -231,20 +231,20 @@ cartridge.
 8.  Now check the "Cartridge Status" and you should have a reset
     cartridge.
 
-### Wifi Doesn't Work {#wifi_doesnt_work}
+### Wifi Doesn't Work
 
 We had to restore an old firmware to enable us to use our own filament
 and as a result the Wifi access doesn't work. Your better off just
 transferring the .cube file to the usb key and printing via the LCD
 menu.
 
-### Hacks that Make This Thing Work {#hacks_that_make_this_thing_work}
+### Hacks that Make This Thing Work
 
 Firmware is hacked to ignore filament cartridge life (aka you can refill
 cartridges) It is important that the firmware is not altered upgraded or
 borked.
 
-### Firmware Updates {#firmware_updates}
+### Firmware Updates
 
 Please don't because we'll lose the hack that lets us refill the
 filament.

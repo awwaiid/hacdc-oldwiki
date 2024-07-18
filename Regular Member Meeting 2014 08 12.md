@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   August 12, 2014
 :   Called to order at \_\_8:02\_\_\_ by Dan Barlow
@@ -16,7 +16,7 @@
 
     :   Quorum met? Yes.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 07
 08](Regular_Member_Meeting_2014_07_08)
@@ -35,9 +35,9 @@ in favor, motion passes.
 
 ## Recognition
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Call to action: We need more emotional awareness in the space. Be aware
 of not just ourselves but others. How are others feeling, are they
@@ -45,7 +45,7 @@ uncomfortable, are they being made uncomfortable? We need to make sure
 people have a good experience, because they have a long memory for bad
 experiences.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   Reminders
     -   LABELS!
@@ -68,7 +68,7 @@ experiences.
     -   the basement may have a server in it by the time the meeting
         starts
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for July 2014:
 ![](HacDC_Financials_2014_07.pdf "HacDC_Financials_2014_07.pdf"). We
@@ -77,14 +77,14 @@ gained Ed O'Brien as a new member and regained founder Andrew Righter
 43 dues-paying members in good standing, 7 dues-waived members, and 4
 members who are behind on dues.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for July:
 ![](HacDC_PA_Projects-2014_07.pdf "HacDC_PA_Projects-2014_07.pdf"). We
 continue to have to dip into savings to pay our rent, so no dividend
 this month. :(
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Still haven't gotten the paperwork sorted for the SEM. I know I'm
 dropping the ball here, I'll get it worked out by tax time or you can
@@ -110,11 +110,11 @@ I will take another load to the dump.
 Signs for the bathrooms. Do we need to have a vote on this? No vote
 needed.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Laser is used up, need a new tube. The Laser tube is a consumable which
 we will need to replace every couple of years.
@@ -125,7 +125,7 @@ vaporizing, then it will stop vaporizing even on successive passes.
 We're going to buy a new tube (with matching power supply). New tube
 will be twice as powerful.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Not much news in terms of recent development. We have radios installed
 on the roof. Frank Sanborn (FEMA) is adapting ByzPi for use monitoring
@@ -134,23 +134,23 @@ performance on the grant, they're going to get us feedback from users in
 crisis zones (like Ukraine and Syria). Lots of plans on paper, but the
 team is still distracted with other responsibilities.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 No news. Had to take personal time off. Hope to pick up in the Fall.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Bought some screws for our optical table. More importantly, we are now
 down to a \$849.12 balance. As before, this continued loss of funding is
 undesirable and somewhat unexpected given recent publicity campaigns.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Considering a chop saw, still not sure what to buy.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -165,9 +165,9 @@ Platform design complete, awaiting construction.
 
 ![](FlexReplicator.png "FlexReplicator.png"){width="200"}
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Mirage proposes the following amendment to the [Standing
 Rules](Standing_Rules):
@@ -187,7 +187,7 @@ Authorize Dan Barlow to spend available Project Laser funds for repairs,
 replacement parts, and upgrades. 7 present vote in favor. 3 remote vote
 in favor. 10 in favor, motion passes.
 
-## New Members {#new_members}
+## New Members
 
 Enrique Cobas: Voted in.
 

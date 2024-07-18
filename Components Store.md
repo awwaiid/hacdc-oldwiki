@@ -16,7 +16,7 @@ and pay DC sales tax. So, think of the parts as office supplies that we
 have stocked. If you use something, please donate an appropriate amount
 to the tip jar.
 
-### Large Parts (Dept 4) {#large_parts_dept_4}
+### Large Parts (Dept 4)
 
   Item                        Supplier   our cost   retail price
   --------------------------- ---------- ---------- --------------
@@ -28,7 +28,7 @@ to the tip jar.
   XBee Adapter                Adafruit   \$10       \$15
   XBee Module                 Adafruit   \$23       \$25
 
-### Small Parts {#small_parts}
+### Small Parts
 
   Component                                              Supplier                               partno                 our cost                retail price      [ department](cash_register)
   ------------------------------------------------------ -------------------------------------- ---------------------- ----------------------- ----------------- -----------------------------------------
@@ -123,7 +123,7 @@ to the tip jar.
   All-in-one USB memory reader                           DealExtreme                            sku.2708               4.87                    5.00              15
                                                                                                                                                                  
 
-### Proposed Additional Inventory {#proposed_additional_inventory}
+### Proposed Additional Inventory
 
   Component                                                                    Supplier                      partno                                                                     our cost     retail price   department   QTY Desired
   ---------------------------------------------------------------------------- ----------------------------- -------------------------------------------------------------------------- ------------ -------------- ------------ -------------

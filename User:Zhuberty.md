@@ -1,6 +1,6 @@
 ![](We_are_borg.jpg "We_are_borg.jpg")
 
-# About My Interests {#about_my_interests}
+# About My Interests
 
 I started flirting with Python in 2011 (I remember the joy in
 successfully executing my first Fibonacci function). I taught myself
@@ -22,17 +22,17 @@ that HacDC provides for us like-minded individuals.
 \>\>\>May we all seek to unravel the world around us and learn from
 mankind's greatest achievements
 
-# Quick Links {#quick_links}
+# Quick Links
 
 [Vim Cheeet Sheeet](http://vim.rtorr.com/) [Intro to AVR
 Microcontrollers](https://courses.cs.washington.edu/courses/cse466/03au/pdfs/lectures/L2-3-AVR.PDF)
 
-# Wiki To-Do {#wiki_to_do}
+# Wiki To-Do
 
 Add link: <https://www.mediawiki.org/wiki/Help:Formatting> Add File:
 <https://s1i2f3.files.wordpress.com/2014/03/prusa-i2-build-manual-compressed.pdf>
 
-# Personal Projects {#personal_projects}
+# Personal Projects
 
 3D Printer - Started
 
@@ -52,6 +52,6 @@ Boxing Timer - Not Started Parametric Speakers - Not started
 English Language Plain-Text Encryption Project Wall-Mounted
 Blue-Tooth-Enabled Meters for visualizing live data fluctation
 
-# My Salvage {#my_salvage}
+# My Salvage
 
 ![](Projector_salvage.jpg "Projector_salvage.jpg")

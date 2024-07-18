@@ -1,4 +1,4 @@
-### Ash Gokhale {#ash_gokhale}
+### Ash Gokhale
 
 -- ash@hacdc.org -- 202 841 8399
 

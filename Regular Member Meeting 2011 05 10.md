@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-05-10 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 May 10, 2011
 
@@ -14,14 +14,14 @@ Others Present: Adam, Eric
 
 [Quorum](Quorum) met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 04
 12](Regular_Member_Meeting_2011_04_12) Approved.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Upcoming events:
 
@@ -51,7 +51,7 @@ Fundraising Opportunities:
 
 We're getting a full-blown copy of Eagle
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 GGHC was fun. Not a turning-point clicker, has a knob. Wireless
 focus-group controllers. (Also Pong controllers.)
@@ -64,7 +64,7 @@ Kickstarter to fund the recordings.
 Elliot talked to (Church) Brian and we might be able to negotiate lower
 rent.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
     Membership:
 
@@ -109,17 +109,17 @@ rent.
 
 We're doing better, but we need to keep working at it.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 TECS is going well, we've covered the hard parts.
 
 Project Byzantium got some press and we're doing a talk at NOVALUG
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### Will G {#will_g}
+#### Will G
 
-#### Brad B {#brad_b}
+#### Brad B
 
 Talking to a Realtor about finding a new space. Comes highly
 recommended.
@@ -127,7 +127,7 @@ recommended.
 Going to teach a Python class. We'd like to get it recorded. Thursday
 nights starting on the 19th.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Toast
 
@@ -165,24 +165,24 @@ Handed out pamphlets to college alumni about Hackerspaces.
 
 Thinking of starting a music class towards the end of June.
 
-## Old Business {#old_business}
+## Old Business
 
 Kickstarter? We need stuff to give out. Stickers, printed skulls, Univac
 parts.
 
-## New Business {#new_business}
+## New Business
 
 Will? Will G. is resigning from his position as Director at Large. We
 will have an election for his vacated position next month.
 
-## New Members {#new_members}
+## New Members
 
 ### Adam
 
 Found out through Meet-up site. Audio/video dork, software guy. Wants to
 hangout, participate, watch/learn. Nom: Redbeard, Second: TC voted in
 
-### Reuven Cohen {#reuven_cohen}
+### Reuven Cohen
 
 Long time hanger-on. Does IT work for an NGO. Working on an Engineering
 degree. Nom: Ben, Second: Toast voted in
@@ -193,7 +193,7 @@ Works with computers. Likes taking things apart and almost putting them
 back together. Going to build a MAME cabinet soon. Nom: Brad, Second:
 Martin voted in
 
-## Space Discussion {#space_discussion}
+## Space Discussion
 
 Elliot started initial discussions about rent discussion. Brad started
 looking for new space with a Realtor.

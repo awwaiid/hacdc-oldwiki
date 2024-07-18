@@ -14,7 +14,7 @@ Manual](https://download.lulzbot.com/TAZ/1.0/documentation/current/LulzBot_TAZ-U
 and the 80-page [RAMBo 1.1B User's
 Manual](https://download.lulzbot.com/TAZ/6.0/production_parts/electronics/RAMBo/docs/RAMBo-1.1b-user-manual.pdf)).
 
-## Determining which version of the TAZ and connecting to it {#determining_which_version_of_the_taz_and_connecting_to_it}
+## Determining which version of the TAZ and connecting to it
 
 The “newest” addition to our collection of 3D printers is actually the
 oldest: The Lulzbot TAZ is actually, a Lulzbot TAZ 1.0 (according to the
@@ -51,7 +51,7 @@ ESTEPS settings via, IMHO, a method fraught with inaccuracy by trying to
 [manually calibrate using the OHAI
 instructions](https://ohai.lulzbot.com/project/extruder_calibration/calibration/).
 
-## Adding a dynamic symlink to the TAZ… {#adding_a_dynamic_symlink_to_the_taz}
+## Adding a dynamic symlink to the TAZ…
 
 After massaging the OS with the procedures listed in [Dynamic symlinks
 for 3D printers](Dynamic_symlinks_for_3D_printers) we see:
@@ -78,7 +78,7 @@ Note the details on the firmware. Namely:
 -   Last Updated: **2013-03-06** \| Author: **LulzBot**
 -   Compiled: **Apr 17 2015**
 
-## Fixing Arduino {#fixing_arduino}
+## Fixing Arduino
 
 The Arduino IDE complains
 
@@ -196,7 +196,7 @@ Gah! This is maddening! Apparently, now Arduino is out of date... again.
     export PATH=$PATH:/opt/bin
     ^D
 
-## Calibrating the TAZ {#calibrating_the_taz}
+## Calibrating the TAZ
 
     $ pronsole
     WARNING:root:Could not setup DBus for sleep inhibition: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
@@ -240,7 +240,7 @@ to be “close enough” but the ESTEPS value is still unknown.
 
 BTW, Bobby says the **Y** calibration is **0.24 mm per step**.
 
-## Fun with Firmware Flashing {#fun_with_firmware_flashing}
+## Fun with Firmware Flashing
 
 Downloading all the firmware:
 
@@ -301,7 +301,7 @@ PrintrBot's firmware... (Under Arch Linux, I have both the
 [`dfu-programmer`](https://dfu-programmer.github.io/) and
 [`dfu-util`](http://dfu-util.sourceforge.net/) packages installed.)
 
-## Preparation (additional installs and "research") {#preparation_additional_installs_and_research}
+## Preparation (additional installs and "research")
 
 -   First:
 
@@ -428,7 +428,7 @@ sanity):
     M851 Z-1.43
     MINI PC&gt;
 
-## Upgrading the Arduino IDE {#upgrading_the_arduino_ide}
+## Upgrading the Arduino IDE
 
 The MatterHackers article “[How To Successfully Flash Your 3D Printer’s
 Firmware](https://www.matterhackers.com/news/how-to-successfully-flash-your-3d-printers-firmware)”
@@ -672,7 +672,7 @@ Success!
 
 ------------------------------------------------------------------------
 
-## Miscellaneous e-mail {#miscellaneous_e_mail}
+## Miscellaneous e-mail
 
 From: Julia Longtin \<julia.longtin@gmail.com\> Date: Fri, Jan 18, 2019
 at 8:27 AM
@@ -835,7 +835,7 @@ Very helpful-looking!
 
 ------------------------------------------------------------------------
 
-## TAZ stepper motors {#taz_stepper_motors}
+## TAZ stepper motors
 
 I **think** we have [NEMA 17 stepper
 motors](https://www.lulzbot.com/store/parts/nema-17-stepper-motor). The

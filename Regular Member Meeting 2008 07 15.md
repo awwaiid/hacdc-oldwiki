@@ -12,7 +12,7 @@ These are the minutes of the Regular Member Meeting held on July 15,
 -   Location: HacDC, 1525 Newton St NW, Washington DC, 20010, USA
 -   Presiding: Andrew Righer, Coordinator in Chief
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 -   The [ June 17 Meeting
     Minutes](Regular_Member_Meeting_Minutes_2008_06_17) were
@@ -21,7 +21,7 @@ These are the minutes of the Regular Member Meeting held on July 15,
     Minutes](Regular_Member_Meeting_Minutes_2008_06_24) were
     approved.
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 -   [ Approve Amendment To Bylaws to Lower
     Quorum](Bylaws_Amendment_1:_Revise_Quorum)
@@ -29,30 +29,30 @@ These are the minutes of the Regular Member Meeting held on July 15,
 Petition to amend bylaws still needs to be signed by several more
 members to pass.
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief {#coordinator_in_chief}
+### Coordinator in Chief
 
 Encourages people to get active members, such as Microcontroller
 Mondays. Call to setup new projects and ideas.
 
-### Ministry of Finance {#ministry_of_finance}
+### Ministry of Finance
 
 29 Members are Active and have paid June dues, therefore we require 15
 for quorum 5 Members were suspended on July 1 for lack of payment of
 dues 6 Members are pending approval
 
-### Keeper of the MIBS {#keeper_of_the_mibs}
+### Keeper of the MIBS
 
-### Minister of Information {#minister_of_information}
+### Minister of Information
 
 Needs people to help, see mailing list.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
-### Approval of New Members {#approval_of_new_members}
+### Approval of New Members
 
 Tim C. :
 
@@ -62,6 +62,6 @@ Rattle :
 
 With no objections, Rattle became our 41st member.
 
-## New Business {#new_business}
+## New Business
 
 [Category:Meeting_Minutes](Category:Meeting_Minutes)

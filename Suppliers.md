@@ -1,4 +1,4 @@
-## Purpose of this page {#purpose_of_this_page}
+## Purpose of this page
 
 List of suppliers for various materials and items and user reviews.
 
@@ -6,14 +6,14 @@ Please add new suppliers and user comment lines (with attribution /
 date) Suppliers can be rated by in the user comment lines. Convention is
 \[1\] = worst, \[5\] = best
 
-## See also {#see_also}
+## See also
 
 [Pumping Station: One's Sources
 page](http://wiki.pumpingstationone.org/index.php/Sources)
 
 ## Electronics, Robotics, CNC... {#electronics_robotics_cnc...}
 
-### Local Distributors {#local_distributors}
+### Local Distributors
 
 (See **LOCAL** tag for other local businesses in subsequent sections)
 
@@ -63,7 +63,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
         of PC components. Wall of cables. Gaithersburg, MD and Fairfax,
         VA (martin 12/31/09)
 
-### Large Suppliers {#large_suppliers}
+### Large Suppliers
 
 -   [Waytek](http://www.waytekwire.com)
     -   Waytek has been supplying high quality electrical wiring
@@ -150,7 +150,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
         ([talk](User_talk:Mirage335)) 20:03, 17 September
         2015 (PDT)
 
-### LEDs, Lighting {#leds_lighting}
+### LEDs, Lighting
 
 -   [Hebei (China)](http://ledz.com/) LEDs only
     -   \[5\] Best prices on LEDs I've found - but does have a \$199
@@ -243,7 +243,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
 -   [Halted Electronic Supply](http://www.halted.com/)
     -   Bay area surplus (from Mark Adams via Alden 02/28/12)
 
-### Microcontroller, development boards, modules {#microcontroller_development_boards_modules}
+### Microcontroller, development boards, modules
 
 -   [Modern Device](http://www.moderndevice.com/)
     -   These guys have pretty good arduino clones, the Bare-Bones-Board
@@ -309,7 +309,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
     -   Some really cool USB control and sensing components (alden
         9/11/11 (safety third))
 
-### Hobby CNC {#hobby_cnc}
+### Hobby CNC
 
 (see also Machine Tools Sales section)
 
@@ -341,7 +341,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
         ([talk](User_talk:Mirage335)) 19:37, 15 August 2015
         (PDT)
 
-### Audio-Video {#audio_video}
+### Audio-Video
 
 -   [Monoprice](http://www.monoprice.com/)
     -   \[5\] Wide variety of audio/visual/networking cables and
@@ -372,7 +372,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
     -   \[4\] Good prices on USB cables (and they have short ones),
         other networks, cables and HW. (alden 4/5/10)
 
-### Automobile Electronics - rugged, DC powered & small format PCs and parts {#automobile_electronics___rugged_dc_powered_small_format_pcs_and_parts}
+### Automobile Electronics - rugged, DC powered & small format PCs and parts
 
 -   [Short Circuit](http://www.short-circuit.com/)
 
@@ -436,7 +436,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
 -   [PEI Genesis](https://www.peigenesis.com/)
     -   Custom connector & cable solutions for harsh environments.
 
-## G33k Out Shop Sites {#g33k_out_shop_sites}
+## G33k Out Shop Sites
 
 -   [Think Geek](http://www.thinkgeek.com/)
     -   Name says it all - weird and wonderful stuff of every variety!
@@ -498,9 +498,9 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
         ([talk](User_talk:Mirage335)) 07:12, 21 July 2014
         (PDT)
 
-## Mechanical Parts & Fabrication {#mechanical_parts_fabrication}
+## Mechanical Parts & Fabrication
 
-### Parts & Materials {#parts_materials}
+### Parts & Materials
 
 -   [McMaster-Carr](http://www.mcmaster.com/)
     -   Very complete line of mechanical parts. Good service. Pricing
@@ -564,7 +564,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
     -   \[?\] Metric bolts and machine screws with \$7.50 flatrate
         shipping and no minimum order (James 4/12/17)
 
-### Machine Tools Sales {#machine_tools_sales}
+### Machine Tools Sales
 
 -   [Enco](http://Use-Enco.com)
     -   \[3\] Very complete source for machine tooling, can be
@@ -820,7 +820,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
 
 ## Wood
 
-### Plywood and Sheet Goods {#plywood_and_sheet_goods}
+### Plywood and Sheet Goods
 
 -   [Allied Plywood](http://samsccs.service.com/catalogs/AandM/)
     **LOCAL**
@@ -834,7 +834,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
     -   \[4\] Large selection of sheet goods - hardwood plywwod, exotic
         lumber, millwork. Fredrick, MD (martin 3/11/10)
 
-### Exotic Lumber {#exotic_lumber}
+### Exotic Lumber
 
 -   [Vienna Hardwoods](http://viennahardwood.com/) **LOCAL**
     -   \[4\] There are many really great hardwood outlets in the area.
@@ -842,7 +842,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
         reasonable price so I don't have a reason to go further. Exotic
         lumber, veneer, flooring. (martin 12/29/09)
 
-### Construction Lumber {#construction_lumber}
+### Construction Lumber
 
 -   [T W Perry](http://www.twperry.com) **LOCAL**
     -   \[4\] Building/construction supplies. Quality lumber, sheet
@@ -851,7 +851,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
         Baltimore, Chevy Chase, and Gaithersburg, MD, Leesburg and
         Springfield, VA (martin 12/29/09)
 
-### Woodworking Tools and Supplies {#woodworking_tools_and_supplies}
+### Woodworking Tools and Supplies
 
 -   [Woodcraft](http://www.woodcraft.com/) **LOCAL**
     -   \[3\] Hand and power tools, exotic lumber, fasteners, blades,
@@ -860,7 +860,7 @@ page](http://wiki.pumpingstationone.org/index.php/Sources)
         Rockville & Baltimore, MD, Springfield & Leesburg, VA (martin
         3/11/10)
 
-## Printed Circuit Boards; Fab, Supplies, Assembly {#printed_circuit_boards_fab_supplies_assembly}
+## Printed Circuit Boards; Fab, Supplies, Assembly
 
 -   [Copper Clad PCB ebay
     Seller](http://shop.ebay.com/amt33461/m.html?_nkw=&_armrs=1&_from=&_ipg=&_trksid=p3686)

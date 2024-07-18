@@ -19,7 +19,7 @@ next session too.
 
 Next class: Aug 11 at 7:30 PM.
 
-## Silly Bus {#silly_bus}
+## Silly Bus
 
 -   Thermionic emission: From the lightbulb to the pentode.
 -   Fundamental circuits and coupling
@@ -44,7 +44,7 @@ Next class: Aug 11 at 7:30 PM.
 ```
 -   What is the real secret to great sound?
 
-### Laboratory Supplies {#laboratory_supplies}
+### Laboratory Supplies
 
 [cheap demo
 pre-amp](http://www.bottlehead.com/store.php?crn=220&rn=438&action=show_detail)
@@ -63,7 +63,7 @@ you need a physical copy.
 
 3S4 \<\<\< absolutely required, this is the tube we're using.
 
-### Suggested Reading {#suggested_reading}
+### Suggested Reading
 
 Radiotron Designer's Handbook 4th ed. \[www.pmillett.com\] Might have
 one lying around.

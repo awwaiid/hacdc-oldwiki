@@ -1,6 +1,6 @@
 Homework/Verilog Coding problems
 
-## An Upcounter design {#an_upcounter_design}
+## An Upcounter design
 
 An upcounter can be made with 3 elements - DFFs, XOR and AND gates.
 
@@ -42,7 +42,7 @@ We change the equations to add an enable signal.
 Write verilog code to implement a counter like this and use a testbench
 to simulate the design. I would do 4 or 8 bits wide.
 
-## Shift Registers {#shift_registers}
+## Shift Registers
 
 The LFSR is built on the idea of a shift register. This is constructed
 by taking the output of a DFF and connecting it directly to the input on
@@ -85,7 +85,7 @@ below shows the operation of the shift register.
 I recommend coding up a shift register and simulate it in order to see
 the shift register in action.
 
-## Linear Feedback shift register {#linear_feedback_shift_register}
+## Linear Feedback shift register
 
 A LSFR is a shift register, but the data shifted into the register is
 actually a linear combination of the data currently in the register.

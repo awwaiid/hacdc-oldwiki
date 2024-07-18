@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-12-14 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 December 14, 2010 Meeting called to order at 8pm by Timball (VP,
 acting).
@@ -15,24 +15,24 @@ Others Present: Jeremy B Francois
 
 [Quorum](Quorum) met? Probably.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 11
 09](Regular_Member_Meeting_2010_11_09)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 -   We've been assigned an IRS agent, signifying that our 501c3
     application is well under way.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   Vincent Gray administration contacts -- searching for space at
     better rates. Dupont underground is likely dead.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   We're adding members. We're around 42 paying members in November.
 
@@ -100,11 +100,11 @@ Funds 0.00 Total Other Current Assets \$2,667.17 Total Current Assets
 \$7,077.03 Other Assets Rent Security Deposits 850.00 Total Other Assets
 \$850.00 TOTAL ASSETS \$7,927.03 TOTAL LIABILITIES AND EQUITY \$7,927.03
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Dan Barlow de-membered himself. We will miss him.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### William
 
@@ -133,7 +133,7 @@ for him.)
 -   Tea ceremony went very well. Around two dozen people attended.
     Scones and clotted cream.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   (Martin) Alberto and Martin have been working on a kickstarter
     proposal. Should we run a project or as a nebulous fill-out-the-shop
@@ -157,12 +157,12 @@ for him.)
     meeting. Read up on FIRST if you don't know. Need for mentors in
     urban DC.
 
-## Old Business {#old_business}
+## Old Business
 
 -   Proposal to limit discussion of official HacDC business with the
     church to the board. Motion passed.
 
-## New Business {#new_business}
+## New Business
 
 -   [ShmooCon Sleepover and
     Streaming](ShmooCon_Sleepover_and_Streaming) (Chris
@@ -174,7 +174,7 @@ for him.)
 -   Proposal to approve holiday gift of \$100 to our excellent security
     guard. Motion passed.
 
-### New Members {#new_members}
+### New Members
 
 -   Francois T
 

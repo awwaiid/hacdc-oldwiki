@@ -1,31 +1,31 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 :   April 14, 2009
 :   7:30 p.m. to 8:30 p.m.
 :   HacDC, 1525 Newton St NW, Washington, DC
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 See [Regular Member Meeting Minutes 2009 03
 10](Regular_Member_Meeting_Minutes_2009_03_10).
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 -   [Coordinator-in-Chief](Coordinator-in-Chief)
 -   [Minister of Finance](Minister_of_Finance)
 -   [Minister of Information](Minister_of_Information)
 -   [Keeper of The MIBS](Keeper_of_The_MIBS)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Serge Wroclawski - PR
 
-## Old Business {#old_business}
+## Old Business
 
 -   [RobotFest](http://www.robotfest.com/) Call for Volunteers and
     Projects (Ben Stanfield)
@@ -35,7 +35,7 @@ Serge Wroclawski - PR
 -   Tuesday Night Seminar Series (Elliot Williams)
 -   Bylaws Change (Serge Wroclawski)
 
-## New Business {#new_business}
+## New Business
 
 -   Technology Transfer and Public Funding Vehicles (Andrew Gillette)
 -   Unveiling/Call for Help of new HacDC Website (Ben Stanfield)

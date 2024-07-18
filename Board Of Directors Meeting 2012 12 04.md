@@ -1,10 +1,10 @@
-### Time And Location {#time_and_location}
+### Time And Location
 
 Virtual meeting using Google+ hangout, 7-9pm on 4 Dec 2012
 
 Present: Andy (until his battery died), Ben, Eric, Katie, Martin, Tim
 
-### Discussion Topics {#discussion_topics}
+### Discussion Topics
 
 1.  Remote voting:
     1.  Only during member meeting on the issues raised during the
@@ -36,7 +36,7 @@ Present: Andy (until his battery died), Ben, Eric, Katie, Martin, Tim
         1.  We should be able to find text online
         2.  Katie volunteered to prepare draft
 
-### Meeting Adjourned {#meeting_adjourned}
+### Meeting Adjourned
 
 Meeting Adjourned 8:53pm
 

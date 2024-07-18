@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 2023-12-12
 :   Called to order at 7:36 pm by Obioma
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes, 5/4
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_10_10)
 
 By Obioma and Callie
 
@@ -24,9 +24,9 @@ By Obioma and Callie
 -   Callie rearranged near the back wall and basement, also unearthed
     and then broke the iMac.
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   YouTube account is up!
 -   LAN party is going
@@ -34,7 +34,7 @@ By Obioma and Callie
 -   IIIP printer uses 1.75mm PLA
 -   Ultimaker has retooling supplies
 
-## New Business {#new_business}
+## New Business
 
 -   Aure: Add LEDs on all the shelves upstairs, programmable and can add
     animations
@@ -63,15 +63,15 @@ By Obioma and Callie
 
 Aure recommends adding sound insulation to the server room door.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 <https://docs.google.com/presentation/d/1kUVLk-W-ucot2dKl6sHOHRT6G7WfO2aNcLfJzJNJKCo/edit?usp=sharing>
 
@@ -84,7 +84,7 @@ Aure recommends adding sound insulation to the server room door.
 -   Church is going to be redoing the lease pricing in the new year
     (mainly common spaces)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 -   Upcoming "Rebuild HacDC.org" schedule on meetup.com; proposed
     language:
@@ -105,11 +105,11 @@ sensor back online.
 Plus, hardly anyone has seen the hackerspace in the morning sun. Rise
 and shine. \`\`\`
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Michelle
 
-#### Don / Brian {#don_brian}
+#### Don / Brian
 
 ## Adjournment
 

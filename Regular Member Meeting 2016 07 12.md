@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:46 pm by Enrique
@@ -14,15 +14,15 @@
 
         :   yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Vote to approve standing rules as written. *(Vote to approve Article
 V[1](http://wiki.hacdc.org/index.php/Standing_Rules#Article_V:_Materiel)
@@ -40,11 +40,11 @@ these new standing rules. *(Vote passed)*
 Vote to approve any and all votes which may have been taken under an
 improperly defined quorum. *(Vote Passed)*
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Have web conferencing working but we are in serious need of a decent
 room mic solution. I need to test compatibility with a suggested
@@ -54,7 +54,7 @@ project and other documentation. IT systems have been running smoothly
 with no firewall crashing issues so no need to replace hardware
 currently.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 I've been out of town, so this may be a short report. Also because I
 left town, we paid July rent early, and I forgot to bill a handful of
@@ -62,7 +62,7 @@ members for June, so the June balance looks lower than usual but it's
 temporary. Sorry to anyone who gets billed twice in July to make up for
 it.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 I have mentioned in previous meetings that I reviewed the standing
 rules.
@@ -138,7 +138,7 @@ always welcome to work with each other and bring changes to our standing
 rules through the e-mail list, or any other venue, to be voted on in our
 monthly meetings.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Mike
 
@@ -147,17 +147,17 @@ monthly meetings.
 -   Starlight server needs a magnetic fan bracket.
 -   Design work towards the OTR is going well.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
-
-Nothing to report.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 Nothing to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
+
+Nothing to report.
+
+### Project HAMRADIO
 
 ham radio report when you need it is.... HacDC Amateur Radio Club makes
 22 contacts from Presidents Park in front of the White House June 18th.
@@ -169,13 +169,13 @@ details. Look for us September 25 at the Silver Spring Maker Faire. We
 are saving our project awsome money and seeking donations for a new hf
 antenna system and 1.5 kw amplifier. We need \$7000.00.
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+### Project Electron Microscope (SEM)
 
 Need to verify last distribution can afford vacuum sensor.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 Nancy and I attended the BUGSS Microbiology Bootcamp and learned some
 hands-on techniques for DNA extraction, introduction, etc. The exercise
@@ -185,7 +185,7 @@ bacteria. Have not received the CRISPR DIY kit yet, which should be
 arriving soon. Still taking donations for anyone who would like to help
 out.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ## Adjournment
 

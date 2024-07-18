@@ -38,7 +38,7 @@ git repository for work so far is at
 [gitweb view of
 above](http://git.cluephone.com/git/gitweb.cgi?p=atari8/spaceinvaders)
 
-## Getting Started {#getting_started}
+## Getting Started
 
 prerequisites
 

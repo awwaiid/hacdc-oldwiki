@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:42 pm by Obioma
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes.
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_07_12)
 
 Oby moves to approve, Gabe seconds.
 
@@ -21,11 +21,11 @@ Calli and Gabe for running a speaker session. Ori: Relocated the
 amplifier to where the microwave was. Makes the server rack much easier
 to manage and move.
 
-## New Members {#new_members}
+## New Members
 
 None.
 
-## Old Business {#old_business}
+## Old Business
 
 Movie night 2: Space Sweepers should happen on 8/19 or 8/20.
 
@@ -39,7 +39,7 @@ audience.
 Phil's printer can be kept in the space, Oby can keep responsibility.
 Should be space in the basement.
 
-## New Business {#new_business}
+## New Business
 
 Laser cutter moving to the basement. Move or place a second soldering
 desk in basement.
@@ -76,7 +76,7 @@ should be scoped to speakers, for consent & privacy concerns.
 Some kind of commemorative marker for our speakers who help bring people
 to our space and encourage a bigger audience.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Barely net positive. Big thanks to our donations! Obioma, Tristan,
 Michelle, Tayeb.
@@ -86,13 +86,13 @@ dues-paying members list.
 
 Looking for someone to step up for treasurer's duties.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Michelle
 
-#### Don / Brian {#don_brian}
+#### Don / Brian
 
 ## Adjournment
 

@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 January 28th, 2017 at 4pm
 
@@ -30,7 +30,7 @@ Others Present:
 
 `   yes`
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -69,17 +69,17 @@ participated in 16 radio contests and 22 National Park on the Air
 events, including the National Monument and Presidents Park(White
 House). We purchased and installed a 440mhz repeater.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 `   nice LED lights`
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 `   not present`
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   See the January meeting minutes for numbers. We have about 7-8
     months of full operating expenses in reserve but we're close to
@@ -95,11 +95,11 @@ House). We purchased and installed a 440mhz repeater.
     tax-exempt, we may get fined for not filing returns as expected. We
     should clear that up before looking at grants.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 `   I was Secretary and a member of the BOD this past year.`
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Matt
 
@@ -108,31 +108,31 @@ next year we can grow and do really awesome things.
 
 #### Mike
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
-### Project SEM {#project_sem}
+### Project SEM
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
 Nobody bothered to form a committee so there's no report. All financial
 statements including receipts for all purchases are at the space, in the
 BOD locker, treasurer's folder. The Dwolla statements include member
 names, the rest don't. -Enrique
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Old Business {#old_business}
+## Old Business
 
 `   The bylaws amendment has enough signatures to consider.`\
 `   The bylaws amendment below passed by unanimous acclamation.`
 
-### Bylaws Amendments {#bylaws_amendments}
+### Bylaws Amendments
 
 -   Proposed Amendment to Bylaws Article II, Section 6: Add "*For
     substantial cause, the Board of Directors may indefinitely suspend a
@@ -147,12 +147,12 @@ names, the rest don't. -Enrique
     amendment must be signed by 3/4ths of all members before it is
     adopted)
 
-## New Business {#new_business}
+## New Business
 
 -   Group Photo. The group photo we have is ANCIENT. Literally 90% of
     those people are gone. New photo is years overdue.
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 
@@ -168,7 +168,7 @@ Results of the elections are as follows:
 `   At large seats: ''Andrew, Mirage, and Kevin stand for at large seats.`\
 `   Mirage and Kevin won the ranked choice vote.`
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

@@ -6,7 +6,7 @@
 These team members will be responsible for delivering one or more
 payloads that use sensors for measurement.
 
-# Team Members {#team_members}
+# Team Members
 
 -   Ethan M
 -   [Ethan Waldo](User:Ewaldo) (tentative)

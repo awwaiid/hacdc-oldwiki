@@ -15,12 +15,12 @@ We may use this wiki page to document what we have learned about the
 robot, what projects are proposed, planned or implemented, and more
 videos of the machine in action.
 
-## Moving and stacking stuff: {#moving_and_stacking_stuff}
+## Moving and stacking stuff:
 
 Grabbing dominoes from a stack, setting them up to tumble over in a row:
 <http://www.youtube.com/watch?v=-UzOfwHeV5k>
 
-## Videoing stuff: {#videoing_stuff}
+## Videoing stuff:
 
 Holding a video camera in the gripper, and filming while in motion:
 <http://www.youtube.com/watch?v=2GDsFChduiI> That second video gives a
@@ -58,13 +58,13 @@ elaborate flowing path, and then had someone who was a hotshot at flying
 miniature RC helicopters fly a pattern that kept it in front of the
 lens, that would make an amazing video.
 
-## 3D printing, or subtractive CNC machining: {#d_printing_or_subtractive_cnc_machining}
+## 3D printing, or subtractive CNC machining:
 
 We have talked about mounting a plastic extruder, Dremel router, or
 cutting laser on the tool post, but we have not done any of this yet.
 Will it be you that drives this project?
 
-## More on Maker Tech Tuesdays: {#more_on_maker_tech_tuesdays}
+## More on Maker Tech Tuesdays:
 
 For several months the F3 robot was at Chas Colburn's place, before it
 was loaned to the University of Maryland.

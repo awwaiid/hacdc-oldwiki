@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date: October 11, 2022
 :   Called to order at 7:34 pm by Michelle
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_09_13) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_09_13)
 
 -   Approved!
 
@@ -19,9 +19,9 @@
 
 -   New member, Chris, for testing and moving servers from the basement
 
-## New Members {#new_members}
+## New Members
 
-## Old Business {#old_business}
+## Old Business
 
 -   15 to 20 folks attended Gabe's [Machine Learning by
     Doing](https://www.meetup.com/hac-dc/events/qfvkxsydcnbjb/) session.
@@ -36,7 +36,7 @@
     access, etc.
 -   Looks like Tristan has been busy
 
-## New Business {#new_business}
+## New Business
 
 -   New server! Thanks Chris!
     -   Bottom of the rack next to the Ham Radio station
@@ -98,21 +98,21 @@
     passes
     -   Drill-press holes into the hard drives
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Matt attended the [East Coast RepRap
     Festival](http://eastcoastreprapfestival.com/)
@@ -125,13 +125,13 @@
     -   Matt's planning to attend
         [MERF](https://www.facebook.com/midwestreprapfest/)
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   From September 13 to October 11
 -   \$231 checks deposited today. We're in the black.
@@ -141,9 +141,9 @@
     own company and has gotten busy
 -   19 members but probably actually 18 with Mario gone
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Gabe
 

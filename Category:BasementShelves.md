@@ -3,7 +3,7 @@
 -   Some of the nearby ceiling wiring may be live. Don't touch.
 -   Screws and splinters.
 
-# FIRE SAFETY {#fire_safety}
+# FIRE SAFETY
 
 Anything that can set the shelves or their contents on fire is not
 allowed.
@@ -44,6 +44,6 @@ Please consider the following to ease HacDC cleanup efforts:
 
 ## Floor
 
-## First Shelf {#first_shelf}
+## First Shelf
 
 [Category:Inventory](Category:Inventory)

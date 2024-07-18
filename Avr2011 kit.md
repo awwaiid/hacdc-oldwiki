@@ -1,4 +1,4 @@
-### Kit Contents {#kit_contents}
+### Kit Contents
 
 You will need:
 
@@ -12,7 +12,7 @@ backward-power protection (optional, but certainly won't hurt)
 
 (D'oh! I left the AVR out of the photo. You should have one.)
 
-### A Brief Tour of the Board {#a_brief_tour_of_the_board}
+### A Brief Tour of the Board
 
 Before you start assembling anything, have a look at the printed circuit
 board.
@@ -64,7 +64,7 @@ it.
 And those white areas? They're for writing your initials on. Or notes.
 Tiny, little notes.
 
-### Assembling the Kit {#assembling_the_kit}
+### Assembling the Kit
 
 0\) If you're new at soldering (or even if you're not) go spend seven
 minutes with [the best soldering video
@@ -148,7 +148,7 @@ up the battery (black wire to GND).
 10\) You should now be ready to flash in your first program. Hooray.
 From here on it's (mostly) firmware!
 
-### Adding the Light Sensor for Class 2 (ADC) {#adding_the_light_sensor_for_class_2_adc}
+### Adding the Light Sensor for Class 2 (ADC)
 
 For the light sensor, you're creating a voltage divider with the
 photoresistor and two legs of the potentiometer used as a variable
@@ -178,7 +178,7 @@ it up to \_just\_ max out in full light works well -- you'll see that
 it'll get down to one or two bars when you cover the cell with your
 hand. You're done!
 
-### Schematics, etc {#schematics_etc}
+### Schematics, etc
 
 If you'd like to make yourself a class-board, the attached Eagle files
 should get you started.

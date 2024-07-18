@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 2024-04-09
 :   Called to order at 7:44 pm by Obi
@@ -18,7 +18,7 @@
 
     :   Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2024_03_12) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2024_03_12)
 
 Obi Approved, Gabe Seconded
 
@@ -26,11 +26,11 @@ Obi Approved, Gabe Seconded
 
 Liz by Obi for General 3D Printer Wizardry!
 
-## New Members {#new_members}
+## New Members
 
 Kyle Titus-Glover, Voted in!
 
-## Old Business {#old_business}
+## Old Business
 
 May make a purchase proposal areas - prior to this our options have been
 Discord or the dry erase.
@@ -52,7 +52,7 @@ Sven's community help ideas:
 
 -   Recycle/remake scooter batteries - Side project?
 
-## New Business {#new_business}
+## New Business
 
 Policy in place for using dangerous equipment:
 

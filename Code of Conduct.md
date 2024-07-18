@@ -1,4 +1,4 @@
-# DRAFT: Code of Conduct for HacDC {#draft_code_of_conduct_for_hacdc}
+# DRAFT: Code of Conduct for HacDC
 
 ### Introduction
 
@@ -16,7 +16,7 @@ All members and guests must follow the code of conduct. HacDC directors
 and members may intervene to stop prohibited activities and behaviors
 and temporarily expel anyone who violates the code of conduct.
 
-### Behavior Rules {#behavior_rules}
+### Behavior Rules
 
 **Do:**
 
@@ -40,7 +40,7 @@ and temporarily expel anyone who violates the code of conduct.
     -   security violations
     -   physical violence
 
-### Safety Rules {#safety_rules}
+### Safety Rules
 
 Everyone – members and guests – must sign a liability waiver.
 

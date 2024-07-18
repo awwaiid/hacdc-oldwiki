@@ -28,7 +28,7 @@ documentation. The prerequisites are:
 -   and, of course, the One True Editor. ;-) Actually, I may write a
     Python program to automate the editing.
 
-## Stupid pet tricks with OpenSCAD {#stupid_pet_tricks_with_openscad}
+## Stupid pet tricks with OpenSCAD
 
 -   These next three lines import and flatten the STL. The result can be
     exported as SVG, DFX, or any of several other formats. I saved the

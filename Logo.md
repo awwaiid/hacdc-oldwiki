@@ -14,7 +14,7 @@ github](https://github.com/HacDC/Logo).**
     -   the "HAC" part is scaled x\*1.0889332 y\*0.91832998
     -   the "DC" part is scaled x\*1.3575506 y\*0.73662079
 
-### Size & Shape {#size_shape}
+### Size & Shape
 
 -   Proportional sizes and positions of the components
 
@@ -22,13 +22,13 @@ github](https://github.com/HacDC/Logo).**
 
 -   1 color (default is black) and white
 
-## Nautilus/DC Flag graphic only {#nautilusdc_flag_graphic_only}
+## Nautilus/DC Flag graphic only
 
 [:File:Hacdc.svg](:File:Hacdc.svg)
 
 [:File:Hacdc.eps](:File:Hacdc.eps)
 
-## Nautilus/DC Flag graphic with text {#nautilusdc_flag_graphic_with_text}
+## Nautilus/DC Flag graphic with text
 
 [:File:Hacdc.withtext.svg](:File:Hacdc.withtext.svg)
 

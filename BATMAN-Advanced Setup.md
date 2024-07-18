@@ -1,11 +1,11 @@
-## Compile and install BATMAN-Advanced {#compile_and_install_batman_advanced}
+## Compile and install BATMAN-Advanced
 
 Download batman-adv and batctl. Standard "make && sudo make install".
 
 If no interface "wlan0" exists, check for a different wireless interface
 using 'ifconfig -a'
 
-## Setup ad-Hoc network {#setup_ad_hoc_network}
+## Setup ad-Hoc network
 
 1.  Disable NetworkManager
     1.  Right-click on NetworkManager applet, un-check "Enable
@@ -24,7 +24,7 @@ using 'ifconfig -a'
 
 5.  # ifconfig wlan0 up
 
-## Setup BATMAN-Advanced {#setup_batman_advanced}
+## Setup BATMAN-Advanced
 
 In the unpacked 'batman-adv' directory:
 
@@ -52,7 +52,7 @@ In the batctl directory:
     5.  Avahi/zeroconf
     6.  IPv6
 
-## Testing BATMAN-Advanced {#testing_batman_advanced}
+## Testing BATMAN-Advanced
 
 Display local table of known peers (by MAC address of node):
 

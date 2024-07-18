@@ -46,7 +46,7 @@ with more success: I attribute the success to using slightly more force
 and a lot less speed (and a lot more patience) when manually rotating
 the large gear in either direction.
 
-## Self-reporting {#self_reporting}
+## Self-reporting
 
 Upon connecting, the Lulzbot Mini reported:
 

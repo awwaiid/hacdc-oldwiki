@@ -102,13 +102,13 @@ execute your NGC file, and carefully observe the results step by step.
 Practicing on air this way greatly reduces the risk of making coasters
 or damaging the mill.
 
-### Copper Clad Board {#copper_clad_board}
+### Copper Clad Board
 
 Ideally, we are milling isolation paths between PCB traces on a copper
 clad board. These boards can be obtained at RadioShack, and other
 places.
 
-### Correct Bit {#correct_bit}
+### Correct Bit
 
 -   The above millproect file is intended for our 0.01" end mill. That
     bit is relatively expensive, so try not to break it.
@@ -133,7 +133,7 @@ places.
 -   If even higher-quality or double-layer boards are required (eg. fine
     pitch SMT), photolithography becomes more effective.
 
-### Multiple Passes {#multiple_passes}
+### Multiple Passes
 
 Setting "zwork = 0" and using a spade bit allows extremely fine
 isolation paths to be developed after multiple passes. This technique is

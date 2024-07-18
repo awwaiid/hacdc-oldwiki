@@ -10,7 +10,7 @@ payloads are expected to communicate needs, constraints, and
 expectations. Final constraints and designs will be approved by the
 Spaceblimp group at large.
 
-# Team Members {#team_members}
+# Team Members
 
 -   Derk
 -   Ethan M

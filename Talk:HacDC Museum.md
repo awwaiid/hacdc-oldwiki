@@ -26,7 +26,7 @@ guys](http://www.officemuseum.com/stapler_gallery_stapleless.htm).
     long way from that, but it's something to consider.
     [Ben](User:Ben) 19:10, 11 June 2008 (UTC)
 
-## Name Controversy {#name_controversy}
+## Name Controversy
 
 There's been some debate about whether to name the collection after our
 first large benefactor, and whether to identify objects in the
@@ -76,7 +76,7 @@ Those **opposed** to naming the collection after the benefactor
 
 -   [Myself](User:Myself) 18:27, 13 June 2008 (UTC)
 
-### Discussion Relating to Name Controversy {#discussion_relating_to_name_controversy}
+### Discussion Relating to Name Controversy
 
 -   I think we can be selective about what we put in the "official"
     museum collection, but there is other interesting, amusing

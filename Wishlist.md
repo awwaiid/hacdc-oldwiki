@@ -11,7 +11,7 @@ by HacDC, please add it to [Inventory](Inventory)!
 
 ## Equipment
 
-### Power Tools {#power_tools}
+### Power Tools
 
 -   Drill bits
 -   Drill press hold down clamp
@@ -19,7 +19,7 @@ by HacDC, please add it to [Inventory](Inventory)!
 -   Mill & lathe tooling
 -   Laser cutter
 
-### Hand Tools {#hand_tools}
+### Hand Tools
 
 -   Screwdrivers
 -   Hammers / mallets
@@ -30,7 +30,7 @@ by HacDC, please add it to [Inventory](Inventory)!
 -   Clamps
 -   Pana-Vise
 
-### Test Equipment {#test_equipment}
+### Test Equipment
 
 -   Vector Network Analyzer like the
     [MiniVNA](http://miniradiosolutions.com/minivna-pro).
@@ -55,7 +55,7 @@ by HacDC, please add it to [Inventory](Inventory)!
 -   Shelves
 -   Plastic bins and boxes
 
-## Parts & Supplies {#parts_supplies}
+## Parts & Supplies
 
 ### Parts
 

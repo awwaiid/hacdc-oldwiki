@@ -31,13 +31,13 @@ software.
 -   [Mach3](http://www.machsupport.com/) - The software used to
     translate G Code into electrical pulses which can be used by a mill.
 
-# Getting Started {#getting_started}
+# Getting Started
 
 To initially get started with the CNC mill, it's helpful to have a basic
 grasp of G Code. How better to get started with this than to begin
 playing.
 
-## Turning on the Mill {#turning_on_the_mill}
+## Turning on the Mill
 
 When turning on the mill there are three primary "light switch" style
 switches which should be turned on. The first is on the back of the
@@ -61,11 +61,11 @@ EMC2 is running. This will ensure that the parallel port is in the
 appropriate state according to the configuration file to keep all motors
 off by default.
 
-## Starting Mach3 {#starting_mach3}
+## Starting Mach3
 
 This can be done by using the icon on the desktop.
 
-## Spindle control and Emergency Stop {#spindle_control_and_emergency_stop}
+## Spindle control and Emergency Stop
 
 If the tooling is clear of all obstacles, you can press *F5* to toggle
 the spindle motor on and off.
@@ -77,9 +77,9 @@ note that the axis can still move after the switch is thrown. Pressing
 You'll see the *Reset* button blink, and the status line at the bottom
 will read "E-Stop Triggered, press reset...".
 
-## Making our first motions {#making_our_first_motions}
+## Making our first motions
 
-### Jog Controls {#jog_controls}
+### Jog Controls
 
 To start, we're going to use the "jog" functions to move the milling
 cutter around and get a feel for what is "positive" and "negative" on
@@ -109,14 +109,14 @@ were moving the milling cutter around, you'll notice that the
 coordinates are displayed in the main window. This is where you can
 quickly survey where your tooling is located.
 
-### Obligatory Setup {#obligatory_setup}
+### Obligatory Setup
 
 Sometimes the *Reset* button in Mach3 will be flashing. This usually
 means that you exceeded the movement limits or speed of the mill and the
 controller has signaled Mach3 to stop. Often clicking reset is enough to
 clear this error.
 
-### Mill Controller Crash {#mill_controller_crash}
+### Mill Controller Crash
 
 Sometimes the controller will crash, this is usually evidenced by
 *Reset* complaining that it cannot clear a limit. It will offer a button
@@ -127,7 +127,7 @@ this*, you should try turning off and on the mill controller using the
 switch on the rear, lower-right side. Clicking *Reset* again should
 clear the trouble.
 
-### Advanced Manual Control - MDI (Manual Data Input) {#advanced_manual_control___mdi_manual_data_input}
+### Advanced Manual Control - MDI (Manual Data Input)
 
 Click on the MDI tab in the main Mach3 screen to the MDI Controls
 section. Within this section (the line next to input) we can type in
@@ -224,7 +224,7 @@ Fun math bits... run that command again and note the "distance to go" or
 plotting our 1 inch diameter circle (2 \* 0.5 X offset). This should be
 a predictable [result](http://en.wikipedia.org/wiki/Pi)
 
-# Tool Changing {#tool_changing}
+# Tool Changing
 
 Use a wrench to gently remove the chuck. Check the toolbox beneath the
 mill for different bits and other things as required.
@@ -232,7 +232,7 @@ mill for different bits and other things as required.
 Little force should be required to tighten the chuck; it has been said
 that finger-tight is often sufficient.
 
-# When you're done {#when_youre_done}
+# When you're done
 
 Please cleanup the mill area and place tooling back into the mill
 toolbox under the bench.

@@ -1,11 +1,11 @@
-## Intranet Server {#intranet_server}
+## Intranet Server
 
 ### Overview
 
 An Intranet server provides an on-site platform for interfacing
 HacDC-specific devices or scripts or files.
 
-#### High Level Requirements {#high_level_requirements}
+#### High Level Requirements
 
 -   All HacDC members will have an account
 -   Private Knowledge Base "For HacDC members eyes only"
@@ -14,9 +14,9 @@ HacDC-specific devices or scripts or files.
     device](HacDC_Multi-touch_device)
 -   Platform for interfacing remote-sensing devices
 
-#### Detailed Requirements {#detailed_requirements}
+#### Detailed Requirements
 
-##### Operating System {#operating_system}
+##### Operating System
 
 -   Slackware 12.1 Disk 1
 -   Slackware 12.1 Disk 2
@@ -24,7 +24,7 @@ HacDC-specific devices or scripts or files.
 
 <http://www.slackware.com/getslack/>
 
-##### Package Management {#package_management}
+##### Package Management
 
 -   Swaret
 
@@ -32,11 +32,11 @@ HacDC-specific devices or scripts or files.
 
 -   Full Installation of all Slacware 12.1 packages
 
-##### 3rd Party Software {#rd_party_software}
+##### 3rd Party Software
 
 -   Wagn 0.9.1
 
-#### Testing Resources {#testing_resources}
+#### Testing Resources
 
 ##### Equipment
 
@@ -45,7 +45,7 @@ HacDC-specific devices or scripts or files.
 -   PS2 Mouse
 -   Laptop with web browser
 
-#### Test Plan {#test_plan}
+#### Test Plan
 
 TBD
 
@@ -53,13 +53,13 @@ TBD
 
 n/a
 
-#### Human Resources {#human_resources}
+#### Human Resources
 
 -   Lead Engineer: [RBD](User:Rdegraci)
 -   System Admin: [RBD](User:Rdegraci)
 -   Backup Admin: [RBD](User:Rdegraci)
 
-#### Task Partitioning {#task_partitioning}
+#### Task Partitioning
 
 -   Partition storage
 -   Install and configure OS
@@ -95,11 +95,11 @@ Assume 4 hour days.
 
 TBD
 
-#### Component Testing {#component_testing}
+#### Component Testing
 
 n/a
 
-#### Integration Testing {#integration_testing}
+#### Integration Testing
 
 n/a
 

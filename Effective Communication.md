@@ -4,11 +4,11 @@ act as more of a guideline for how we communicate. Everyone can improve
 their communication skills, which are vital not only to our work within
 HacDC, but in our careers and relationships as well.
 
-## Within The Group {#within_the_group}
+## Within The Group
 
 Show respect!
 
-## With the Outside World {#with_the_outside_world}
+## With the Outside World
 
 Show respect!
 

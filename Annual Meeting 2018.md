@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 `   Date: 2018.13.10 (March 10, 2018)`\
 `   Location: HacDC`
@@ -49,28 +49,28 @@ Meeting called to order at
 `   Enrique was Treasurer, thank you. Julia was President. Mirage is also an outgoing 3-year veteran of BoD.`\
 `   Thanks to all 3 for your service. Tom did good work as VP.`
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 `   President is present but incommunicado.`
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 `   I lost our IT admin contract. Been working on various infrastructure projects like the printer, classroom TV,`\
 `   basement TV, videoconferencing, etc. Would like to continue my work as VP and help grow and improve our`\
 `   organization over the next year.`
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 `   Did a bunch of legwork and treasurer stuff, helped us be square with the government.`
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 `   Nic is happy to be a member of HacDC over the past year, has found HacDC to be a valuable community to be a`\
 `   member of. Has been Secretary for a few months, but has been away on international travel.`
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Matt
 
@@ -120,9 +120,9 @@ In lesser news, I've been:
 -   kept the tunes going a la [Radio
     Paradise](https://www.radioparadise.com/)
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SPACEBLIMP {#project_spaceblimp}
+### Project SPACEBLIMP
 
 We postponed our March 3-4 launch due to winds out in Strasburg, despite
 everything being ready to go otherwise. Sad! We're currently deciding on
@@ -132,11 +132,11 @@ name Hackers SLS (Space Lunch System) and plan to launch another
 Spaceblimp for that competition in later April (not to far away).
 Enrique
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
 Nobody bothered to form a committee so there's no report.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Enrique - This year I hosted events on Lockpicking (TOOOL came),
 Software Defined Radio, Cryptocurrencies and the Metasploit Workshop put
@@ -144,7 +144,7 @@ on by Beltway Hackers. Also lots of Spaceblimp meetings, especially
 lately. Spaceblimp 7 was postponed from the Eclipse date to early 2018
 and just postponed again due to weather but we're ready to go very soon.
 
-### Bylaws Amendments {#bylaws_amendments}
+### Bylaws Amendments
 
 "Bylaws amendment proposal: Change the threshold for future bylaws
 amendments from "more than three quarters (3/4ths) of voting members,"
@@ -156,9 +156,9 @@ means produce no response, all other available means." (petition
 approved April 2017)
 <http://wiki.hacdc.org/index.php/Regular_Member_Meeting_2017_04_11>)
 
-## New Business {#new_business}
+## New Business
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 

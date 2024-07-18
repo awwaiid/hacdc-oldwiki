@@ -10,7 +10,7 @@ From the HacDC Bylaws, Article III, Section 2:
     approve the budget and determine the direction of corporation in the
     coming year.*
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 February 9th, 2016 (postponed from January 23)
 
@@ -20,7 +20,7 @@ Members Present: Ethan W., Matthew H., Julia L., Michael C., Nick S.,
 Phil S., Tom I., Bill B., Don J. Sumter T., Kevin C., Pat B., Shawn W.
 Others Present: [Quorum](Quorum) met? YES
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -47,11 +47,11 @@ Others Present: [Quorum](Quorum) met? YES
     Maker Faire. So for all the hardships and frustrations we've had
     this year, thank you to everyone who makes HacDC awesome.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Ok, so I have been too hot under the collar about this lately, so I'll
 step back from leading the charge. Please give some thought to improving
@@ -81,7 +81,7 @@ the latter case, it would make sense to liquidate assets that will not
 be used, such as the OpticalTableRobot, extra electronics test
 equipment, high-voltage transformers, etc.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   Dwolla ballance: \$5,030.00
 -   Paypal ballance: \$5,140.66
@@ -93,36 +93,36 @@ equipment, high-voltage transformers, etc.
 -   January Income from membership dues: \$1500
 -   January donations: \$190
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 (Will update before meeting)
 
 -   We have 34 members in good standing. Quorum is 9, majority 18 and
     two-thirds is 23.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Phil
 
 #### Don
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project HAMRADIO {#project_hamradio}
+### Project HAMRADIO
 
 Putting up a repeater; will coordinate with HacDC next year when Don
 moves to Uganda.
 
-### Project SEM {#project_sem}
+### Project SEM
 
 Nothing much to report, bought a penning gauge.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Anticipating minor IT services related expenses, including \$20 for VoIP
 services.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Approved an \~\$215 computer purchase to reinstate classroom web
 conferencing and presentation functionality.
@@ -131,12 +131,12 @@ Some proposals for funding structures are already served by this fund.
 Please consider working within the democratic, yet efficient, Project
 Awesome framework.
 
-## Audit Committee Report {#audit_committee_report}
+## Audit Committee Report
 
 The Committee will update the members on progress thus far and discuss
 the plan forward.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Enrique. Hosted two Introduction to Linux nights. Attendance was
     very sparse though; maybe 7 people total. Also Kerbal Space Program.
@@ -147,9 +147,9 @@ the plan forward.
     few volunteers fixed the TV! I made a video. If people like it maybe
     it'll be online.
 
-## Old Business {#old_business}
+## Old Business
 
-### Membership Dues Waiver for EdTechDMV / Representative {#membership_dues_waiver_for_edtechdmv_representative}
+### Membership Dues Waiver for EdTechDMV / Representative
 
 -   Old problem, new example: An outside organization wants to use HacDC
     facilities during business hours. The organization is EdTechDMV, an
@@ -161,7 +161,7 @@ the plan forward.
     the pros and cons? If we do, how would we give EdTechDMV access to
     the classroom when members are not available?
 
-### Bylaws Amendment {#bylaws_amendment}
+### Bylaws Amendment
 
 -   Proposed Amendment to Bylaws Article II, Section 6: Add "*For
     substantial cause, the Board of Directors may indefinitely suspend a
@@ -176,7 +176,7 @@ the plan forward.
     amendment must be signed by 3/4ths of all members before it is
     adopted)
 
-### Restrict Workshop and Tool Access {#restrict_workshop_and_tool_access}
+### Restrict Workshop and Tool Access
 
 -   Approve a *non-binding resolution* that access to the workshop in
     the basement should be restricted to HacDC members who have
@@ -211,7 +211,7 @@ as the first Dungeon Master.
 -   Approve \$500 for an off-the-shelf throw-away eBay laser cutter. -
     This was Tabled.
 
-## New Business {#new_business}
+## New Business
 
 -   Colloboratively discuss, consider, and adopt policy reforms to
     protect volunteer contributions to the basement/shop areas.
@@ -224,7 +224,7 @@ as the first Dungeon Master.
     vote on whether to continue requiring \$60. - This was temporarily
     approved for the month.
 
-## Board of Directors Elections {#board_of_directors_elections}
+## Board of Directors Elections
 
 Results of the elections are as follows:
 
@@ -232,7 +232,7 @@ Results of the elections are as follows:
 
 Julia Longtin
 
-### Vice-President {#vice_president}
+### Vice-President
 
 Ethan Waldo
 
@@ -244,13 +244,13 @@ Enrique Cobas
 
 Tom Iddings
 
-### At-Large Directors (two) {#at_large_directors_two}
+### At-Large Directors (two)
 
 Michael Chelen
 
 Matthew Hines (mirage335)
 
-## New Members {#new_members}
+## New Members
 
 John P.
 

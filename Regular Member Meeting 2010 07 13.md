@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2010-07-13 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 July 13, 2010 Meeting called to order at \_\_\_ by \_\_\_\_
 
@@ -9,16 +9,16 @@ Members Present:
 
 Others Present:
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2010 06
 08](Regular_Member_Meeting_2010_06_08)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 HacDC Transaction Detail by Account
 
@@ -105,13 +105,13 @@ Net Income \$ -767.34
 
 Total Liabilities and Equity as of June 30 \$ 8,953.99
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### Tim Slagle, Adafruit.com and tax issues {#tim_slagle_adafruit.com_and_tax_issues}
 
@@ -212,15 +212,15 @@ list.
 
 --Tim
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   Lathe commitments
 -   Tool policy
 -   House warming party / Raffle
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

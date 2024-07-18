@@ -3,12 +3,12 @@
 1.  make a simple multimedia-centric wiki
 2.  make a library for use within HacDC controlled networks
 
-## The Wiki {#the_wiki}
+## The Wiki
 
 -   so far: [slightly modified
     couchit](https://github.com/haxwithaxe/couchit)
 
-## The Library {#the_library}
+## The Library
 
 ### Questions
 

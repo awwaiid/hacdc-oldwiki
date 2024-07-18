@@ -1,4 +1,4 @@
-### Project Summary {#project_summary}
+### Project Summary
 
 Project Code
 :   KITBUILD
@@ -19,7 +19,7 @@ Links To Other Project Pages
 License or IP status
 :   (N/A)
 
-### Additional Info {#additional_info}
+### Additional Info
 
 Holding electronic kit-building workshops is a nice way to teach people
 about soldering and electronics and bring new people into the space.

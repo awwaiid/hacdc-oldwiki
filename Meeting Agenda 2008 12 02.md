@@ -1,32 +1,32 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 :   December 2, 2008
 :   7:30
 :   HacDC, 1525 Newton St NW, Washington, DC. (Space)
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 (Table approval of prior meeting minutes / actions)
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 (No items submitted in time to meet Consent Agenda Rules)
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 -   Coordinator-in-Chief (Acting): Nick Farr
 -   Ministry of Finance: Nick Farr
 -   Ministry of Information: (Vacant)
 -   Ministry of The MIBS: Richard Bewley
 
-## Member Reports {#member_reports}
+## Member Reports
 
 (One minute per member who wishes to give a quick report)
 
-## Old Business {#old_business}
+## Old Business
 
 -   Notification that the [ Bylaws
     Amendment](Bylaws_Amendment_1:_Revise_Quorum) has been
@@ -36,7 +36,7 @@
     -   Gareth Branwyn, Dorkbot Co-Overlord
     -   Alberto Gaitán, Dorkbot Co-Overlord
 
-## New Business {#new_business}
+## New Business
 
 -   Elections, as per [Article V Section III of HacDC
     Bylaws](Bylaws#Section_3:_Elections)

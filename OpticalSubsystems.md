@@ -34,7 +34,7 @@ Variety of 2" optical axis laser mounting hardware in progress.
 
 Generic mounting hardware.
 
-## Tilt and Roll Platform {#tilt_and_roll_platform}
+## Tilt and Roll Platform
 
 Even if we could afford them, commercial systems are too expensive to
 permanently dedicate to completed projects (\~\$500). Instead, we will
@@ -43,7 +43,7 @@ same as the adjustable bed used by many 3D printers.
 
 # Elements
 
-## Spatial Filter {#spatial_filter}
+## Spatial Filter
 
 Work in progress for 2" optical axis modules, with varying diameter
 pinholes.
@@ -97,7 +97,7 @@ By default, these standards conform to the "Small" standard under
   Series60       30.8mm        28x38mm   2mm            
                                                         
 
-#### Mounting Holes {#mounting_holes}
+#### Mounting Holes
 
 Tolerances intended for well-calibrated 3D printers.
 
@@ -123,7 +123,7 @@ Tolerances intended for well-calibrated 3D printers.
 -   Hole size - 5.5mm .
 -   Hole spacing - 20.25mm .
 
-#### Optical Table Axis Heights {#optical_table_axis_heights}
+#### Optical Table Axis Heights
 
 Standard axis heights are based upon typical hardware for 1" grid
 optical tables. Mounts for other arrangements, such as a 20series
@@ -141,7 +141,7 @@ otherwise.
   ExtraLarge     13in/330.2mm   310.2mm           Accommodates modest Fresnel lenses.
                                                   
 
-#### Optical Cage Square Lengths {#optical_cage_square_lengths}
+#### Optical Cage Square Lengths
 
   Element Size   Height
   -------------- --------------

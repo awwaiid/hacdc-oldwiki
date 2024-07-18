@@ -1,4 +1,4 @@
-## Generic AVR Resources {#generic_avr_resources}
+## Generic AVR Resources
 
 -   [AVR Datasheets from
     Atmel](http://www.atmel.com/dyn/products/datasheets.asp?family_id=607)
@@ -20,7 +20,7 @@
 -   [Installing_AVR_Toolchain](Installing_AVR_Toolchain)
     HacDC toolchain page (Atmel Dragon linux notes)
 
-## AVR Tutorials and Classes {#avr_tutorials_and_classes}
+## AVR Tutorials and Classes
 
 -   [Lady Ada's AVR Tutorial](http://www.ladyada.net/learn/avr/) is
     great
@@ -38,7 +38,7 @@
 -   [AVR-Freaks
     tutorials](http://www.avrfreaks.net/index.php?name=PNphpBB2&file=viewforum&f=11)
 
-## Projects and Ideas {#projects_and_ideas}
+## Projects and Ideas
 
 -   [Cornell University's EE476
     Course](http://instruct1.cit.cornell.edu/courses/ee476/FinalProjects/)

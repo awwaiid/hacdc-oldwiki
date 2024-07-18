@@ -9,7 +9,7 @@ These are the minutes of the First Regular Member Meeting held on May
 -   Called to Order: 7:35 PM
 -   Location: HacDC, 1525 Newton St NW, Washington DC, 20010, USA
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 On Saturday, May 17, 2008 all the Incorporators of HacDC approved the
 [Bylaws](Bylaws). The
@@ -20,33 +20,33 @@ files.
 As this event was witnessed and signed by each member, no minutes need
 to be approved.
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 No items appeared in the consent agenda
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
 No ministers have yet been elected by the membership. However, Nick Farr
 presented a [ report for Friday, May 16,
 2008](MoF_Report_2008_05_16)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 There were no Member Reports.
 
-## Old Business {#old_business}
+## Old Business
 
 There was no Old Business
 
-## New Business {#new_business}
+## New Business
 
-### Election of Derek Cooper as Member {#election_of_derek_cooper_as_member}
+### Election of Derek Cooper as Member
 
 Derek Cooper, who has met all conditions for membership, was approved as
 a charter member by all members present. He was the first to be approved
 in order to elect him as Keeper of the MIBS.
 
-### Election of the Board of Directors {#election_of_the_board_of_directors}
+### Election of the Board of Directors
 
 As all members of the Board of Directors are presently vacant, elections
 were held in accordance with Section 3 and 6 of Article V of the
@@ -58,7 +58,7 @@ the MIBS Nicholas Farr was elected as Minister of Finance Adam Koeppel
 was elected as At-Large Director Ryan Clarke was elected as At-Large
 Director
 
-### Charter Members {#charter_members}
+### Charter Members
 
 The following 27 charter members, who have met all conditions for
 membership were approved by all members present. They are listed as they

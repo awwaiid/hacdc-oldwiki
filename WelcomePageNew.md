@@ -46,7 +46,7 @@ space, etc. \>
 -   [ Suppliers](Suppliers)
 -   [ Whiteboard](Whiteboard)
 
-### Popular Links {#popular_links}
+### Popular Links
 
 `<strong>`{=html} \< Themes and threads that span across the other
 categories in the Wiki. This is also where we keep things that don't
@@ -64,7 +64,7 @@ easily fit in other categories \>`</strong>`{=html}
 -   [ Hacker Travel](:Category:Hacker_Travel)
 -   [Cheap Chinese Laser](Cheap_Chinese_Laser)
 
-### [ Project Worklogs](:Category:Projects) {#project_worklogs}
+### [ Project Worklogs](:Category:Projects)
 
 `<strong>`{=html} \< Where our projects collaborate and document their
 research and progress. \>`</strong>`{=html}
@@ -108,7 +108,7 @@ subcategories \>`</strong>`{=html}
 ```{=html}
 <div style="float:right; width:48%;">
 ```
-### Cool Stuff Going On Right Now! {#cool_stuff_going_on_right_now}
+### Cool Stuff Going On Right Now!
 
 `<strong>`{=html}\< Workshops, Projects, Brainstorming Sessions
 \>`</strong>`{=html}
@@ -122,7 +122,7 @@ subcategories \>`</strong>`{=html}
     are on hand and we have many working and workable printers of
     various types ...usually from 6:00pm on.)
 
-### Past Cool Stuff That Will Happen Again {#past_cool_stuff_that_will_happen_again}
+### Past Cool Stuff That Will Happen Again
 
 `<strong>`{=html}\< Ask us about any project you'd like to resurrect
 \>`</strong>`{=html}

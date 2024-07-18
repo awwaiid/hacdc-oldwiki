@@ -1,4 +1,4 @@
-## Main Topics {#main_topics}
+## Main Topics
 
 1\) Introduction to digital logic & design\
 2) Verilog HDL modeling & testing\
@@ -27,7 +27,7 @@ evaluation copies of some of the Xilinx tools."
 
 ## Tools
 
-### Verilog Simulation and Waveform Viewing {#verilog_simulation_and_waveform_viewing}
+### Verilog Simulation and Waveform Viewing
 
 Icarus verilog & gtkwave; for doing Verilog compilation, simulation and
 waveform viewing. A makefile has been made to simplify the flow for any
@@ -114,7 +114,7 @@ A [video](http://www.youtube.com/watch?v=Q06M_j49zRM) archive will be
 those unable to attend. They are available here [
 **here**](FPGAWorkshopTopics).
 
-### List of Lectures {#list_of_lectures}
+### List of Lectures
 
 An archival list of lectures, including presentations and videos, can be
 found [ **here**](FPGAWorkshopTopics)
@@ -138,7 +138,7 @@ as I solidify them - will*
                                                                                                                                                                                                                                                                             
   ------ --------------------- ----------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------
 
-## Workshop requirements {#workshop_requirements}
+## Workshop requirements
 
 This workshop will be free of charge to attend, but there are additional
 needs in order to fully benefit from attending the workshop.
@@ -156,7 +156,7 @@ needs in order to fully benefit from attending the workshop.
     will be needed later on to run exercises and to do any interesting
     projects
 
-## Workshop Frequently Asked Questions {#workshop_frequently_asked_questions}
+## Workshop Frequently Asked Questions
 
 1.  What operating systems will the FPGA toolchain be available on?
     1.  The Xilinx ISE Webpack is supported on Windows XP Pro, Windows
@@ -184,7 +184,7 @@ needs in order to fully benefit from attending the workshop.
         people that are proficient in C/C++ and pick up hardware design
         rather well.
 
-## Workshop Mailing List {#workshop_mailing_list}
+## Workshop Mailing List
 
 A HacDC Mailman mailling list has been setup for this workshop. That
 list is fpga@hacdc.org. You can subscribe to that list by sending an
@@ -192,14 +192,14 @@ email to fpga-request@hacdc.org with the subject line "subscribe" or
 click the mailto link <fpga-request@hacdc.org?Subject=subscribe> and let
 your email application handle it...
 
-## Workshop Instructor {#workshop_instructor}
+## Workshop Instructor
 
 William Gibb, mad scientist. For contacting him regarding the workshop,
 please email <teachmeFPGA@gmail.com>.
 
 ## References
 
-### Grateful Dead Trees Reference {#grateful_dead_trees_reference}
+### Grateful Dead Trees Reference
 
 Fundamentals of Digital Logic with Verilog Design by Brown and Vranesic\
 Verilog Quickstart: A Practical Guide to Simulation and Synthesis in
@@ -209,9 +209,9 @@ FPGA Prototyping using Verilog Examples by Chu.\
 These texts will not be required for the course, but are very good
 launching points for the topics that we are covering.
 
-### Online References {#online_references}
+### Online References
 
-#### General Resources {#general_resources}
+#### General Resources
 
 [Open Circuit Design](http://www.opencircuitdesign.com/) Open Source
 design tools\
@@ -249,7 +249,7 @@ DSP](http://instruct1.cit.cornell.edu/courses/ece576/FloatingPoint/index.html)
 8-bit exponent and 9-bit mantissa and sign to fit into 18 bit IP
 blocks - Thanks Cornell!
 
-#### FPGA Vendors {#fpga_vendors}
+#### FPGA Vendors
 
 [Xilinx](http://www.xilinx.com/)\
 [Altera](http://www.altera.com/)\
@@ -260,7 +260,7 @@ blocks - Thanks Cornell!
 [Lattice Semiconductor](http://www.latticesemi.com/)\
 [Achronix](http://www.achronix.com/)\
 
-#### Course Resources {#course_resources}
+#### Course Resources
 
 [Icaurus Verilog](http://www.icarus.com/eda/verilog/)\
 [GTKWave](http://gtkwave.sourceforge.net/)\
@@ -269,7 +269,7 @@ Linux](http://www.vmware.com/products/player/)\
 [SUSE Studio](http://www.susestudio.com) SLED/OpenSUSE build service.
 Make VMs, live installs, all customized\
 
-#### Xilinx Links {#xilinx_links}
+#### Xilinx Links
 
 [Xilinx Tutorials](http://www.xilinx.com/support/techsup/tutorials/)\
 [Xilinx ISE 10.1 Tutorial and
@@ -295,7 +295,7 @@ says it all\
 Tutorial](http://xess.com/appnotes/ise-10.pdf) For Xess Spartan-3
 Development Board\
 
-#### Spartan 3AN Starter Kit {#spartan_3an_starter_kit}
+#### Spartan 3AN Starter Kit
 
 [Spartan 3AN Starter
 Kit](http://www.xilinx.com/products/devkits/HW-SPAR3AN-SK-UNI-G.htm)\
@@ -307,11 +307,11 @@ HW-SPAR3AN-SK-UNI-G\
 page](http://search.digikey.com/scripts/DkSearch/dksus.dll?Cat=2621773&k=spartan%203an)\
 Probably also at other [suppliers](suppliers).
 
-#### Spartan 3E Starter Kit {#spartan_3e_starter_kit}
+#### Spartan 3E Starter Kit
 
 [Digilent](http://www.digilentinc.com/)
 
-##### Group Order Participants {#group_order_participants}
+##### Group Order Participants
 
 NOTE: Xilinx has donated 15 spartan3 boards, which should arrive before
 12/7
@@ -336,7 +336,7 @@ NOTE: Xilinx has donated 15 spartan3 boards, which should arrive before
 -   Elliot
 -   Justin
 
-#### MIT OpenCourseWare links {#mit_opencourseware_links}
+#### MIT OpenCourseWare links
 
 [MIT OCW Terms of
 Use](http://ocw.mit.edu/OcwWeb/web/terms/terms/index.htm)\
@@ -345,7 +345,7 @@ Structures](http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Scienc
 [OCW site for 6.111 Introductory Digital Systems,
 2006](http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-111Spring-2006/CourseHome/index.htm)\
 
-## FPGA Workshop Projects {#fpga_workshop_projects}
+## FPGA Workshop Projects
 
 List of FPGA projects people are working on at HacDC
 

@@ -1,10 +1,10 @@
 Obsolete page.
 
-## mirage335's Server {#mirage335s_server}
+## mirage335's Server
 
 See [ServerM335-1](ServerM335-1)
 
-## VM Servers {#vm_servers}
+## VM Servers
 
 ### Plan
 

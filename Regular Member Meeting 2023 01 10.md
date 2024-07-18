@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 19:40 pm by ???
@@ -11,7 +11,7 @@
 
     :   Quorum met? Yes
 
-## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_12_13) {#approval_of_previous_meetings_minutes}
+## [Approval of Previous Meeting's Minutes](Regular_Member_Meeting_2022_12_13)
 
 Approved.
 
@@ -21,11 +21,11 @@ Approved.
 -   Obi for filling in last month
 -   Tristan for addin a new course (Nix)
 
-## New Members {#new_members}
+## New Members
 
 -   Calli
 
-## Old Business {#old_business}
+## Old Business
 
 -   LaserCutter repair: Tristan and Calliope are working on bringing it
     back to life.
@@ -40,7 +40,7 @@ Approved.
         -   [Cheap Chinese Laser](Cheap_Chinese_Laser)
         -   [Laser Cutter Settings](Laser_Cutter_Settings)
 
-## New Business {#new_business}
+## New Business
 
 -   Elections
     -   Michelle is stepping down as president at the end of her term.
@@ -71,29 +71,29 @@ Approved.
     the space has been "closed since March" (year unspecified). Revert
     to a regular phone.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - ??? {#project_supplies__}
+### Project SUPPLIES - ???
 
-### Project EXPANSION - ??? {#project_expansion__}
+### Project EXPANSION - ???
 
-### Project HAMRADIO - ??? {#project_hamradio__}
+### Project HAMRADIO - ???
 
-### Project Electron Microscope (SEM) - ??? {#project_electron_microscope_sem__}
+### Project Electron Microscope (SEM) - ???
 
-### Project Media Outreach - ??? {#project_media_outreach__}
+### Project Media Outreach - ???
 
-### Project IT Infrastructure - ??? {#project_it_infrastructure__}
+### Project IT Infrastructure - ???
 
-## Member Reports {#member_reports}
+## Member Reports
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   When Coinbase hits \$400 we're pulling the money out of that.
     \$458.00 at present.
@@ -106,9 +106,9 @@ Approved.
     NF - Children's Tumor Foundation](https://hack4nf.bemyapp.com/),
     some of which was donated (we think) to HacDC.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Gabe
 

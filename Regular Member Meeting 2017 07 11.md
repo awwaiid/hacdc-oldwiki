@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 8:15 pm by Enrique
@@ -11,11 +11,11 @@
 
     :   Quorum met? No.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 -   Benjamin Blundell - The British Invasion! :D But I'm lovely really
     so pretty please vote me in :D
@@ -26,7 +26,7 @@ flag](lancashire.jpg "|another flag")
 -   Tayeb voted in unanimously.
 -   Ben voted in by 3/0 (matt was away).
 
-## Old Business {#old_business}
+## Old Business
 
 -   We have 16 signatures on the bylaws amendment pettition, out of
     about 28 members. We've still to email the petition to members or
@@ -49,7 +49,7 @@ flag](lancashire.jpg "|another flag")
 
 <http://wiki.hacdc.org/index.php/File:HacDC-FiscalSponsorship.pdf>
 
-## New Business {#new_business}
+## New Business
 
 -   Nancy: HacDC is invited to the YMCA of Metropolitan Washington’s
     23rd Annual YMCA Thingamajig® Invention Convention, Thursday, July
@@ -58,35 +58,35 @@ flag](lancashire.jpg "|another flag")
     is covering transportation and food and some help setting up and
     tearing down. Please see Nancy's email today for details. (read it)
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES {#project_supplies}
-
-Nothing to report.
-
-### Project EXPANSION {#project_expansion}
+### Project SUPPLIES
 
 Nothing to report.
 
-### Project HAMRADIO {#project_hamradio}
+### Project EXPANSION
 
-### Project Electron Microscope (SEM) {#project_electron_microscope_sem}
+Nothing to report.
+
+### Project HAMRADIO
+
+### Project Electron Microscope (SEM)
 
 No update.
 
-### Project Optical Table Robot (OTR) {#project_optical_table_robot_otr}
+### Project Optical Table Robot (OTR)
 
-### Project CRISPR {#project_crispr}
+### Project CRISPR
 
 First public even is coming up in the next few weeks.
 
-### Project SpaceBlimp {#project_spaceblimp}
+### Project SpaceBlimp
 
 -   The date for the next launch is preliminarily August 21 (the day of
     the Eclipse). Please speak up if you'd like to participate. Meeting
     should start shortly.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Enrique: Pictures of the space we toured on Saturday are below.
     Another tour is scheduled for tomorrow evening at 7:30pm. See my
@@ -98,13 +98,13 @@ First public even is coming up in the next few weeks.
     it. Will cut extruded Aluminum. It's not high-precision but will
     also cut concrete.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 We had a surplus of \$667 because we're still catching up from my
 forgetting to bill people in previous months. I'll be distributing this
@@ -112,9 +112,9 @@ surplus to Project Awesome as a dividend. Please look at the new
 projects and let me know what to do with your share. Balances is here:
 [1](http://wiki.hacdc.org/index.php/File:HacDC2017-6.pdf)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

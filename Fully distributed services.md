@@ -23,7 +23,7 @@
     -   Service foo needs a plug-in that exposes the service over HTTP.
 -   Each instance of service foo needs a unique identifier.
 
-# Nonspecific solutions {#nonspecific_solutions}
+# Nonspecific solutions
 
 -   Designate a service on the node that maintains a catalogue of other
     services running on the node and make them available on the local

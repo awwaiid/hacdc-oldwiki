@@ -10,7 +10,7 @@ rules and regulations. This will involve how the balloon flight and
 [communications](HacDC_Spaceblimp_6/Projects/Communications)
 can be legally conducted.
 
-# Team Members {#team_members}
+# Team Members
 
 -   [Ethan Waldo](User:Ewaldo) (licensed for Amateur Radio)
 -   Nancy Wolfson

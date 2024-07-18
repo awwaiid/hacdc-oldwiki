@@ -50,15 +50,15 @@ Special events
 -   Moving Day for SEM
 -   KCDC: DIY Clap On Electronics
 
-# New Members {#new_members}
+# New Members
 
 -   List of new members in 2014
 
-# Financial Support {#financial_support}
+# Financial Support
 
 Information on how to support HacDC...
 
-# 2015 Board of Directors {#board_of_directors}
+# 2015 Board of Directors
 
   President            Celeste Lyn Paul (seele)
   -------------------- ----------------------------
@@ -67,7 +67,7 @@ Information on how to support HacDC...
   Treasurer            Travis Brown
   Directors at Large   Phil Stewart and Don Jones
 
-# End Matter {#end_matter}
+# End Matter
 
 The HacDC Year in Review (2014) report was prepared by:
 

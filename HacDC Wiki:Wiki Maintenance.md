@@ -7,13 +7,13 @@ Hints about taking care of the wiki.. for better or worse.
 -   <http://www.mediawiki.org/wiki/Manual:RemoveUnusedAccounts.php>
 -   <http://wiki.dreamhost.com/MediaWiki>
 
-### Maintenance Scripts {#maintenance_scripts}
+### Maintenance Scripts
 
 -   ssh into the dreamhost site
 -   cd wiki.hacdc.org/
 -   php-5.4 maintenance/\[somescriptname\].php
 
-### Content Backup {#content_backup}
+### Content Backup
 
 -   php-5.4 maintenance/dumpBackup.php --full --report \>
     MW_fullbu_14Dec2012.xml
@@ -21,7 +21,7 @@ Hints about taking care of the wiki.. for better or worse.
 Gave lots of div by 0 errors, but output seems ok. Have not tried
 importing it though.
 
-### Bad Bot Accounts {#bad_bot_accounts}
+### Bad Bot Accounts
 
 -   php-5.4 maintenance/removeUnusedAccounts.php --delete \>\>
     rmunused.txt &
@@ -43,7 +43,7 @@ importing it though.
 
 ------------------------------------------------------------------------
 
-## Status and Maintenance Record {#status_and_maintenance_record}
+## Status and Maintenance Record
 
 ### 2013.12.14
 

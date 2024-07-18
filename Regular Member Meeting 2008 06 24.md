@@ -14,20 +14,20 @@ These are the minutes of the Regular Member Meeting held on June 24,
 -   Location: HacDC, 1525 Newton St NW, Washington DC, 20010, USA
 -   Presiding: Andrew Righer, Coordinator in Chief
 
-## Draft minutes of the last meeting {#draft_minutes_of_the_last_meeting}
+## Draft minutes of the last meeting
 
 -   The [ June 17 Meeting
     Minutes](Regular_Member_Meeting_Minutes_2008_06_17) were
     approved.
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 Nick Farr removed [ Central Services
 Concept](Central_Services) from the Consent Agenda
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief {#coordinator_in_chief}
+### Coordinator in Chief
 
 [Introduction to Reverse
 Engineering](http://hacdc.org/2008/06/20/introduction-to-reverse-engineering/)
@@ -35,7 +35,7 @@ was moved to 3pm instead of 2pm due to conflictions with the church.
 Andrew is getting a mechanical lock this week for the door. All projects
 are running smoothly.
 
-### Ministry of Finance {#ministry_of_finance}
+### Ministry of Finance
 
 [ MoF Report for June 24](MoF_Report_2008_06_24).
 
@@ -58,11 +58,11 @@ are running smoothly.
     after filing, worst case a year or more. (Hacker Foundation took a
     year.)
 
-### Keeper of the MIBS {#keeper_of_the_mibs}
+### Keeper of the MIBS
 
 (No report as the office was vacant.)
 
-### Minister of Information {#minister_of_information}
+### Minister of Information
 
 Working on a mailing list for brainstorming/feedback on the website.
 Interested members should email her at info@hacdc.org. Also, she put
@@ -70,7 +70,7 @@ photos on Flickr. If you are in one, and you do not want to be, please
 let Alli know, and she will take it down. Alli noted that she gave
 people as much notice as possible, before posting pictures.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Bjorn: Microconroller Mondays are going well. Members should get
     involved, HacDC has many AVR's available. Bjorn suggested purchasing
@@ -126,9 +126,9 @@ people as much notice as possible, before posting pictures.
     follow up with the landlord and reiterated general membership
     feeling that people should keep the space clean, dishes washed, etc.
 
-## Old Business {#old_business}
+## Old Business
 
-### Approval of New Members {#approval_of_new_members}
+### Approval of New Members
 
 Chris W. : He does Iterated Designs, web application programming, stint
 in the government as a security engineer. They encourage you to break
@@ -137,9 +137,9 @@ HacDC from Rodney and website... and decided to join.
 
 As there were no objections, Chris becomes our 34th member.
 
-## New Business {#new_business}
+## New Business
 
-### Elect new Keeper of the MIBS {#elect_new_keeper_of_the_mibs}
+### Elect new Keeper of the MIBS
 
 Per the bylaws, each member present has the opportunity to run as a
 candidate for each officer position.
@@ -153,7 +153,7 @@ Nick presided over a best two out of three competition which Richard
 won. Ben withdrew his name from nomination and Richard became the new
 Keeper of the MIBS.
 
-### [ Central Services Concept](Central_Services) {#central_services_concept}
+### [ Central Services Concept](Central_Services)
 
 The proposal, in brief, specifies how specific administrative tasks are
 to be delegated.

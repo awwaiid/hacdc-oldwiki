@@ -1,7 +1,7 @@
 ```{=mediawiki}
 {{Floating TOC}}
 ```
-## Time & Location {#time_location}
+## Time & Location
 
 October 21, 2008\
 Members Present: [Nick Farr](User:Nickfarr), Matt, Elliot,
@@ -17,7 +17,7 @@ Member Dave\
 HacDC, 1525 Newton St NW, Washington, DC. (Space)\
 Presiding: [Nick Farr](User:Nickfarr)\
 
-## The Consent Agenda {#the_consent_agenda}
+## The Consent Agenda
 
 [Nick](User:Nickfarr) proposes making the first Tuesday of
 the month the "important one" for voting and otherwise transacting

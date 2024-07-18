@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date July 14, 2009
 :   Called to order at 7:33 PM by Coordinator in Chief Elliot W.
@@ -9,23 +9,23 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 There are no minutes from the June meeting.
 
-## Consent Agenda {#consent_agenda}
+## Consent Agenda
 
 There were no items in tonight's consent agenda.
 
-## Minister Reports {#minister_reports}
+## Minister Reports
 
-### Coordinator in Chief Report {#coordinator_in_chief_report}
+### Coordinator in Chief Report
 
 Nothing to report. It's been a great month. Martin has built a great
 electronics workbench. Tim Ball is building LED cubes, which is great
 but we'd like to see more shared projects.
 
-### Minister of Finance Report {#minister_of_finance_report}
+### Minister of Finance Report
 
 **Section 1: Membership**
 
@@ -54,17 +54,17 @@ about whether paypal fees should be reported as expenses or not.
 
 Ben moved to approve. Dave seconded.
 
-### Minister of Information Report {#minister_of_information_report}
+### Minister of Information Report
 
 Nothing specific to report.
 
-### Keeper of the MIBS Report {#keeper_of_the_mibs_report}
+### Keeper of the MIBS Report
 
 Everyone in attendance was awarded 1000 MIBS points for coming to the
 meeting. Martin was awarded 1 trillion MIBS points for the electronics
 bench.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   **Katie B**
 
@@ -95,11 +95,11 @@ bench.
     church network is using our Internet access. Most of the offices are
     still on their own.
 
-## Old Business {#old_business}
+## Old Business
 
 None
 
-## New Business {#new_business}
+## New Business
 
 -   Bylaws Amendments
 
@@ -136,14 +136,14 @@ drafted and accepted by the membership.
 After discussion about whether that was permissible, since it seemed to
 change the bylaws amending process, the motion was withdrawn.
 
-## New Membership {#new_membership}
+## New Membership
 
 -   Elliot W nominated Elliot Jay K as a new member. There were no
     objections.
 -   Nick F nominated Zach W as a new member. There were no objections.
 -   Sege W nominated Bill A as a new member. There were objections.
 
-### Fundraiser conversation {#fundraiser_conversation}
+### Fundraiser conversation
 
 Ben S Moved to adjourn.
 

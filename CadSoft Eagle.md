@@ -6,7 +6,7 @@ non-profit use.
 
 ### Learning
 
-#### Sparkfun Tutorial Series {#sparkfun_tutorial_series}
+#### Sparkfun Tutorial Series
 
 -   [Getting started with
     eagle](http://sparkfun.com/commerce/tutorial_info.php?tutorials_id=108)
@@ -26,7 +26,7 @@ non-profit use.
 -   [How to make a custom library part in Eagle CAD
     tool](http://www.instructables.com/id/How-to-make-a-custom-library-part-in-Eagle-CAD-too/)
 
-### Parts Libraries {#parts_libraries}
+### Parts Libraries
 
 -   [Sparkfun Eagle
     Library](http://www.opencircuits.com/SFE_Footprint_Library_Eagle)
@@ -35,7 +35,7 @@ non-profit use.
 -   [Adafruit Eagle
     Library](http://github.com/adafruit/Adafruit-Eagle-Library/blob/master/adafruit.lbr)
 
-### User Language Programs (ULPs) {#user_language_programs_ulps}
+### User Language Programs (ULPs)
 
 -   [epscdraw_411.ulp](ftp://ftp.cadsoft.de/eagle/userfiles/ulp/epscdraw_411.ulp)
     outputs color EPS (encapsulated PostScript). Handy for printing

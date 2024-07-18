@@ -14,7 +14,7 @@ out in the Maryland suburbs, I'm not physically present at
 [hackerspaces:HacDC](hackerspaces:HacDC) often. Feel free to
 [e-mail me](mailto:bokunenjin@gmail.com).
 
-## HacDC Projects {#hacdc_projects}
+## HacDC Projects
 
 -   Geeks & Depression meetup - see [Mitch's
     tips](http://lists.hackerspaces.org/pipermail/discuss/2011-December/005341.html)
@@ -38,7 +38,7 @@ out in the Maryland suburbs, I'm not physically present at
         pool](http://www.flickr.com/groups/1718510@N24/) has some good
         examples
 
-## Wiki to-do {#wiki_to_do}
+## Wiki to-do
 
 -   consolidate [Inventory](Inventory) and
     [Stuff](Stuff)
@@ -54,7 +54,7 @@ out in the Maryland suburbs, I'm not physically present at
 -   add to [hackerspaces:HacDC](hackerspaces:HacDC)
 -   set up Flickr extension as at [nycr:Flickr](nycr:Flickr)
 
-## Mailing Lists to-do {#mailing_lists_to_do}
+## Mailing Lists to-do
 
 -   check to see that each list (including project ones) has an admin to
     take care of pending requests

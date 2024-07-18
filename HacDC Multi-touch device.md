@@ -1,9 +1,9 @@
-## Multi-Touch Display Interface {#multi_touch_display_interface}
+## Multi-Touch Display Interface
 
 The discussion list for this project is
 [multi-touch-int-display@hacdc.org](http://hacdc.org/mailman/listinfo/multi-touch-int-display_hacdc.org).
 
-### Meeting Minutes {#meeting_minutes}
+### Meeting Minutes
 
 -   [ Roadmap Meeting](MTID030708)
 
@@ -15,14 +15,14 @@ interface for real-time multi-user-multi-touch applications, created by
 and for HacDC and its friends.
 <http://en.wikipedia.org/wiki/Multi-touch>
 
-#### High Level Requirements {#high_level_requirements}
+#### High Level Requirements
 
 -   When complete, device will be donated to HacDC
 -   Plans, instructions, parts list will be available to the public
 -   Source code will be available to the public
 -   Implement using FTIR <http://cs.nyu.edu/~jhan/ftirtouch/>
 
-##### Reference Documentation {#reference_documentation}
+##### Reference Documentation
 
 -   Use Harry van der Veen building instructions as a guide
     <http://www.multitouch.nl/documents/multitouchdisplay_howto_070523_v02.pdf>
@@ -31,13 +31,13 @@ and for HacDC and its friends.
 -   Working Flash applications with multi-touch
     <http://www.multitouch.nl/?p=23>
 
-#### Detailed Requirements {#detailed_requirements}
+#### Detailed Requirements
 
-##### Operating System {#operating_system}
+##### Operating System
 
 -   TBD
 
-##### Package Management {#package_management}
+##### Package Management
 
 -   TBD
 
@@ -46,7 +46,7 @@ and for HacDC and its friends.
 -   TouchLib <http://www.whitenoiseaudio.com/touchlib/>
 -   TouchLib Source Code <http://code.google.com/p/touchlib/>
 
-##### 3rd Party Software {#rd_party_software}
+##### 3rd Party Software
 
 -   TBD
 
@@ -82,13 +82,13 @@ and for HacDC and its friends.
 -   Working computer
 -   Mirror (optionally)
 
-#### Testing Resources {#testing_resources}
+#### Testing Resources
 
 ##### Equipment
 
 -   TBD
 
-#### Test Plan {#test_plan}
+#### Test Plan
 
 TBD
 
@@ -96,11 +96,11 @@ TBD
 
 TBD
 
-#### Human Resources {#human_resources}
+#### Human Resources
 
 -   Project Coordinator: [RBD](User:Rdegraci)
 
-#### Task Partitioning {#task_partitioning}
+#### Task Partitioning
 
 -   TBD
 
@@ -114,11 +114,11 @@ Assume 4 hour days.
 
 TBD
 
-#### Component Testing {#component_testing}
+#### Component Testing
 
 TBD
 
-#### Integration Testing {#integration_testing}
+#### Integration Testing
 
 TBD
 

@@ -27,7 +27,7 @@ year.
 
 # Recap
 
-## What do you track/quantify with? {#what_do_you_trackquantify_with}
+## What do you track/quantify with?
 
 Here is an informal/incomplete list of the tools people use that we
 collected on the whiteboard. ![ 300px \|
@@ -60,7 +60,7 @@ Xaq presented CigLog, a home-brewed cigarette-habit-tracking PHP/MySQL
 webapp. He talked about the value of social support in trying to create
 (keep tracking!) or destroy (stop smoking!) habits.
 
-#### Xaq's Links {#xaqs_links}
+#### Xaq's Links
 
 [The Science of Self
 Control](http://www.amazon.com/Science-Self-Control-Howard-Rachlin/dp/0674013573)
@@ -77,7 +77,7 @@ impressive array of projects: GPS logging, using a web notebook to keep
 track of his thoughts, and a DIY pulse/oximeter (which I, Xaq, saw in
 prototypical form this past Monday and dang was it cool).
 
-#### Bjorn's Links {#bjorns_links}
+#### Bjorn's Links
 
 [TiddlySpace](http://tiddlyspace.com) or
 [TiddlyWiki](http://tiddlywiki.com) "discoursive non-linear web
@@ -103,13 +103,13 @@ or debunked those ideas.
 
 [Erica's slides](Media:Bodybugg_Presentation.pdf)
 
-### Elephant Ninja (aka Robert) {#elephant_ninja_aka_robert}
+### Elephant Ninja (aka Robert)
 
 Mr. Ninja told us how the disturbing motivational power of video game
 achievement systems inspired him to implement a similar, low-tech system
 to help him improve his pull-ups.
 
-#### Elephant Ninja's Links {#elephant_ninjas_links}
+#### Elephant Ninja's Links
 
 [Elephant Ninja's
 slides](Media:Elephant_Ninja_Quantified_Self.pdf‎)
@@ -131,7 +131,7 @@ playing songs and posting them on YouTube as Hello, the Future! She
 played two songs, one from the beginning of the project, and one from
 the end, to show her progression.
 
-#### Blue's links {#blues_links}
+#### Blue's links
 
 [Hello, the Future!](http://hello-the-future.com) - Blue's blog [The
 Songs of the Fifty
@@ -146,7 +146,7 @@ to track several habits and see correlations between them. He talked
 about lowering the cost of tracking, and the need for (and seeming lack
 of) statistcal analysis in self-quantification.
 
-#### Daniel's Links {#daniels_links}
+#### Daniel's Links
 
 [Proactive Sleep](http://proactivesleep.com) - Daniel's app Daniel's
 slides are too big for the HacDC wiki to handle...maybe he'll send a

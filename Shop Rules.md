@@ -24,7 +24,7 @@ codification of expected actions given unneighborly conduct.
     Certifications](Tool_Certifications) then don't use it
     unless you are Certified
 
-### Junk Disposal {#junk_disposal}
+### Junk Disposal
 
 -   If a Bench space is not clean and no one present claims the Item(s)
     and there is no label/note indicating ownership or intent to return
@@ -34,9 +34,9 @@ codification of expected actions given unneighborly conduct.
     ensure the Item(s) make it back to the owner, but may be removed
     from the bench.
 
-## Special Cases {#special_cases}
+## Special Cases
 
-### Bench Freeze {#bench_freeze}
+### Bench Freeze
 
 -   Bench Freeze - Some projects may require Bench space for longer than
     is pragmatic for the owner to stay with the Item(s):

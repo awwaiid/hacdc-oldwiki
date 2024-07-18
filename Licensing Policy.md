@@ -20,7 +20,7 @@ collaboration.
 `<big>`{=html}**DO NOT CONTRIBUTE TO A HACDC PROJECT IF YOU ARE
 UNCOMFORTABLE WITH OUR LICENSING POLICY**`</big>`{=html}
 
-## General Disclaimer {#general_disclaimer}
+## General Disclaimer
 
 The web presence of HacDC, a District of Columbia Non-Profit
 Corporation, is an informational and collaborative space on the [
@@ -53,7 +53,7 @@ herein.
 
 For further information, please [Contact Us](mailto:info@hacdc.org)
 
-## Website, Blog and Other Creations {#website_blog_and_other_creations}
+## Website, Blog and Other Creations
 
 All contributions, content, services, and products **produced by** HacDC
 (except for our wiki

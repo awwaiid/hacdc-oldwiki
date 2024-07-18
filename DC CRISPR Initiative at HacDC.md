@@ -1,4 +1,4 @@
-## Project Description {#project_description}
+## Project Description
 
 -   Organizers: Enrique C., Nancy C. Wolfson, Bobby B.
 -   Contact: crispr@hacdc.org
@@ -57,7 +57,7 @@ RNA-guided editing of bacterial genomes using CRISPR-Cas systems, Nature
 Biotechnology 31(3), pp.233 (2013).
 <http://zlab.mit.edu/assets/reprints/Jiang_W_Nat_Biotechnol_2013.pdf>
 
-## Financial Support / Sponsors {#financial_support_sponsors}
+## Financial Support / Sponsors
 
 HacDC - 8/2016 - purchased Bacterial DIY CRISPR kit. Enrique C -
 11/2016- purchased Bacterial DIY CRISPR Kit. Nancy W - purchased
@@ -68,7 +68,7 @@ Nancy W - 2017 - loaned 1600X Optical Microscope with USB camera.
 Enrique C - 2017 - purchased supplies and gram staining kit. The ODIN -
 01/2018- provided free sample of next-gen CRISPR kit.
 
-## Activities and Goals {#activities_and_goals}
+## Activities and Goals
 
 DC CRISPR Initiative is our effort to learn about, perform, and teach
 CRISPR genetic editing at HacDC. To begin the project, we’ve ordered a
@@ -81,7 +81,7 @@ genetics at HacDC. We're just starting! Keep an eye out for CRISPR
 events in our MeetUp page, on the mailing list, and our Blabber
 discussion forum.
 
-## Project Team Members {#project_team_members}
+## Project Team Members
 
 Enrique C. - Project Manager and Point of Contact Nancy W. - Project
 Development Lead Bobby B. - Molecular Biology Advisor Sophia M. -
@@ -201,7 +201,7 @@ the CRISPR process. Used bacteria straight from the supply rather than a
 colony (not available). The result after 48 hours was much growth on the
 Agar plate and zero growth on the Strep-Kan plate. (no modification)
 
-## Sample Inventory {#sample_inventory}
+## Sample Inventory
 
 **CRISPR Trial 8/24/2017** LB-Agar Plate at 1 and 20 Hours:
 ![](IMG_20170825_001628s.jpg "IMG_20170825_001628s.jpg")
@@ -226,7 +226,7 @@ Strep-Kan plate with the post-protocol bacteria incubation 48 hours
 (CRISPR result): no growth.
 [Media:CRISPR-180112-StrepKan_CrisprBact_48h.jpeg](Media:CRISPR-180112-StrepKan_CrisprBact_48h.jpeg)
 
-## News References {#news_references}
+## News References
 
 -   Video: bacteria evolving antibiotic resistance in 11 days.
     <https://www.youtube.com/watch?v=yybsSqcB7mE>

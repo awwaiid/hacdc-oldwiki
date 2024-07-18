@@ -1,4 +1,4 @@
-## What is WOPR {#what_is_wopr}
+## What is WOPR
 
 WOPR is the HacDC IRC bot and lives on #hacdc on freenode. WOPR is based
 on [phenny](http://inamidst.com/phenny/), a simple modular IRC bot
@@ -8,7 +8,7 @@ WOPR is maintained by [User:Obscurite](User:Obscurite).
 Contributors include [User:Tfine](User:Tfine) and
 [User:Tc](User:Tc).
 
-## WOPR commands {#wopr_commands}
+## WOPR commands
 
 -   .space
     -   Displays length of time HacDC occupancy sensor has been on or
@@ -43,7 +43,7 @@ Contributors include [User:Tfine](User:Tfine) and
 -   .title `<url>`{=html}
     -   Try to get and display the title of a web page
 
-## WOPR code {#wopr_code}
+## WOPR code
 
 Track code changes at: [The WOPR repository
 page](https://bitbucket.org/obscurite/wopr/)

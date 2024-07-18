@@ -4,7 +4,7 @@ px](_sb3_IMG_6899_small.jpg " 530 px")
 A collection of stuff about HacDC's near space initiatives, including
 the *Hackerspaces In Space* Contest entry (2010).
 
-# Current Status {#current_status}
+# Current Status
 
 Project Spaceblimp is back! Spaceblimp has been a multi-discipline club
 effort to build, launch, track, and recover a [High-altitude
@@ -15,7 +15,7 @@ altitude of 118,533 ft and [Spaceblimp 6](HacDC_Spaceblimp_6)
 reaching 104,023 ft on 15 October 2016. The next iteration is expected
 in Spring 2018.
 
-# Come be involved in [Spaceblimp 6](HacDC_Spaceblimp_6) {#come_be_involved_in_spaceblimp_6}
+# Come be involved in [Spaceblimp 6](HacDC_Spaceblimp_6)
 
 Since Global Space Balloon Challenge 2016 (GSBC) just ended, there is no
 better time than now to start planning for participation in, but not
@@ -34,7 +34,7 @@ radio operators, project developers, crafts people, decorators,
 coordinators, outreach specialists and educators. However, no one with
 helping hands or a willingness to learn will be turned away.
 
-# History of the HacDC Spaceblimp Project {#history_of_the_hacdc_spaceblimp_project}
+# History of the HacDC Spaceblimp Project
 
 -   On Aug 7, 2010, we launched our first balloon: [HacDC Spaceblimp
     1](HacDC_Spaceblimp_1). Its epic journey began well
@@ -106,7 +106,7 @@ helping hands or a willingness to learn will be turned away.
     program...[Subscribe to the Spaceblimp email
     list](http://hacdc.org/mailman/listinfo/spaceblimp)**
 
-# Related Links {#related_links}
+# Related Links
 
 -   [HacDC Spaceblimp Flickr
     Group](http://www.flickr.com/groups/spaceblimp/)

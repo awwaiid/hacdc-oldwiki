@@ -10,7 +10,7 @@ modulation or demodulation.
 
 ## Links
 
-### General Info {#general_info}
+### General Info
 
 -   [uv3r.com](http://uv3r.com/)
 -   [bricklore UV-3R
@@ -97,7 +97,7 @@ modulation or demodulation.
     -   [very low, low
         power](http://groups.yahoo.com/group/UV-3R/message/4036)
 
-#### Recommended Modifications {#recommended_modifications}
+#### Recommended Modifications
 
 -   fix harmonics (needs links)
 -   fixes as needed: speaker volume, [mic
@@ -119,7 +119,7 @@ modulation or demodulation.
     -   [User:haxwithaxe](User:haxwithaxe) used a VirtualBox
         VM with usb pass through.
 
-### Recommended Accessories {#recommended_accessories}
+### Recommended Accessories
 
 -   A wide based flush fit BNC (or similarly durable connector) adapter
     (sometimes called an antenna saver) given the short mating cycle
@@ -142,7 +142,7 @@ modulation or demodulation.
     BNC terminated antenna and don't worry about adapters for the
     antennas.
 
-## Hardware Versions {#hardware_versions}
+## Hardware Versions
 
 There are a large number of internally identical radios with very
 nonstandardized names in the UV-3R and UV-5R family.

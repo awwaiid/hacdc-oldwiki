@@ -12,7 +12,7 @@ Access is provided via tortoise, or unauthenticated services.
     -   Public read only resource distribution - //hoard/shared
     -   Public read-write - //hoard/public
 
-# Admin Notes {#admin_notes}
+# Admin Notes
 
 Host machine is [Albert](Albert)
 

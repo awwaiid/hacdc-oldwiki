@@ -1,4 +1,4 @@
-## 2017.11.21 "Inaugural" Meeting {#inaugural_meeting}
+## 2017.11.21 "Inaugural" Meeting
 
 In attendance:
 
@@ -22,7 +22,7 @@ In attendance:
     Designs](http://bettyamosdesigns.com/))
 -   Nicolas Sabharwal (lewlking)
 
-## DC government initiative {#dc_government_initiative}
+## DC government initiative
 
 From June 2017, the ["Innovation Space and Marketplace Report:
 Developing a Makerspace in the
@@ -33,7 +33,7 @@ Development
 ​There's a 77-page PDF at the bottom of the page. Lots of good
 information here on needs and possibilities.
 
-## Neighborhood Artisan Centers (NACs) {#neighborhood_artisan_centers_nacs}
+## Neighborhood Artisan Centers (NACs)
 
 -   [concept
     paper](https://docs.google.com/document/d/1UxZ_VBHbBEJ9fVJN7rdwqIjmKjv-HTKhiVUrSnDJta4/edit)
@@ -106,7 +106,7 @@ Try to make an effort to keep the page sane and readable by using
 [Mediawiki's formatting](https://www.mediawiki.org/wiki/Help:Formatting)
 correctly.
 
-## DC/MD/VA spaces {#dcmdva_spaces}
+## DC/MD/VA spaces
 
 Following up with some of the other local maker/hacker/bio/food spaces
 in the area (*Dorothy*):
@@ -174,7 +174,7 @@ in the area (*Dorothy*):
         MD; University Makerspace)
     -   [Rhizome DC](http://www.rhizomedc.org/) (Takoma Park, MD)
 
-## Miscellaneous links {#miscellaneous_links}
+## Miscellaneous links
 
 Some of the places, people and events mentioned yesterday, in no
 particular order (**[Ubuntourist](User:Ubuntourist)**)
@@ -341,7 +341,7 @@ particular order (**[Ubuntourist](User:Ubuntourist)**)
         Philadelphia, PA and Wilmington, DE)
     -   [Idea Foundry](https://ideafoundry.com/) (Columbus, OH)
 
-## 2017.12.13 Virtual Reality Demo Meeting {#virtual_reality_demo_meeting}
+## 2017.12.13 Virtual Reality Demo Meeting
 
 In attendance:
 

@@ -21,7 +21,7 @@ Not known with certainty, some estimations follow:
 -   Heavy - 800 pounds (350kg).
 -   Pneumatic mounting.
 
-# Associated Equipment {#associated_equipment}
+# Associated Equipment
 
 -   Big (\~40x40mm) aluminum extrusions, sufficient to equip entire
     table with a gantry.

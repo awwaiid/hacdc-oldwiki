@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   May 13, 2014
 :   Called to order at 2013 by Dan B.
@@ -16,7 +16,7 @@
 
     :   Quorum met? Called Lee for quorum on one proposal.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 04
 08](Regular_Member_Meeting_2014_04_08) (not voted on)
@@ -31,19 +31,19 @@ been offered.
 Ben: Travis, mirage and all that have helped with getting the spiffy new
 3DPs!
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 Wants to know what we need to change in order to have enough members at
 the monthly meets in order to reach quorum. Please provide feedback as
 to whether on not we need to change the meeting time or other ideas.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 n/a
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for April 2014:
 ![](HacDC_Financials_2014_04.pdf "HacDC_Financials_2014_04.pdf"). We
@@ -54,7 +54,7 @@ behind on dues. We have filed IRS Form 990-N (Return of Organization
 Exempt From Income Tax for small organizations whose annual gross
 receipts are normally \$50,000 or less).
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for April:
 ![](HacDC_PA_Projects-2014_04.pdf "HacDC_PA_Projects-2014_04.pdf").
@@ -62,7 +62,7 @@ Between less income from dues/donations and higher expenses from the
 truck rental for the SEM, there was no surplus this month and thus no
 Project Awesome dividend. :(
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 My pleas to the gods to slow the Earth's rotation by a few hours a day
 have, sadly gone unanswered. Unfortunately, this means I'm resigning my
@@ -71,7 +71,7 @@ position as Secretary.
 I'll still be around, but have become too neglectful of things
 secretarial to continue holding the position in good conscience.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Ben
 
@@ -84,18 +84,18 @@ El Presidente and I looked over the donated 60" TV LED issues last
 night, and Dan is going to see if he can rustle up a replacement for the
 ONE DEAD LED that is keeping the screen from working.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Dan cleaned the laser from the Splat run. It was quite nasty. We're
 considering buying a more powerful laser as the current laser is at the
 edge of the kind of utility we want. Looking at replacing guides with
 rails to increase accuracy and lifespan.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 In preparation for the 2014 Summer School session, Project KITBUILD
 foresees a related kit build for rookies in late June or mid-July.
@@ -106,7 +106,7 @@ unless soldering irons need mending or more power strips are needed.
 It would be fun to have a more advanced kit build before or around that
 time. More on this under New Business.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Last month's expenses included:
 
@@ -121,11 +121,11 @@ Next month's expenses are expected to include:
 -   SEM supplies/parts.
 -   Possibly parts for the optical table if not funded otherwise.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Have not ordered bandsaw yet, been busy with USASEF.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 Kevin: going to leave projector cart with instructions near arcade
 machine. We need to to work towards cleaning the meeting room, getting
@@ -136,9 +136,9 @@ functional.
 Dan & Ben: we should get rid of the arcade machine.. Ben will try to get
 in touch with owner, whoever that may be.
 
-## Member Reports {#member_reports}
+## Member Reports
 
-### Dan B {#dan_b}
+### Dan B
 
 Wants to start working on rewiring (power and ethernet) of the meeting
 room. Could use help. Will re-post request for help on list-serv. Kevin
@@ -169,7 +169,7 @@ Given we now have two 3D printers, including one of the proposed types,
 I consider the budget approved (officially unconditionally, unofficially
 conditionally) at last month cancelled, with no plans to spend it.
 
-#### Photolithography PCB Fab {#photolithography_pcb_fab}
+#### Photolithography PCB Fab
 
 Modified an EEPROM timed UV exposure box, laser cut new PCB exposure
 jig, and improved software toolchain. Have now fabricated full-scale
@@ -179,13 +179,13 @@ Practice is required to evenly develop/etch the PCBs. Follow the tips at
 [:Category:Photolithography_PCB_Fab](:Category:Photolithography_PCB_Fab)
 .
 
-### Parts Library {#parts_library}
+### Parts Library
 
 Generic high-quality parts library under construction in mini-drawers.
 Emphasis is on the ability to rapidly prototype high-performance
 2.7-3.3V analog and digital circuits.
 
-#### Unnecessary Mess {#unnecessary_mess}
+#### Unnecessary Mess
 
 Two members lost valuable cleanup time straitening out work surfaces.
 That time could otherwise have been used to free up more space instead.
@@ -197,15 +197,15 @@ To be clear, this does not refer to the legitimate mess created during
 3D printer commissioning, which was easily and neatly packed up this
 morning.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Proposal on having Ben become the Secretary and Travis becoming Director
 at Large (taking Ben's place). Passed (Thanks Lee!) by member vote. Dave
 Mc. is no longer Secretary.
 
-### via Alberto {#via_alberto}
+### via Alberto
 
 It would be attractive to have a more advanced--Project KI on having Ben
 become the Secretary and Travis becoming Director at Large (taking Ben's
@@ -221,7 +221,7 @@ book](http://shop.oreilly.com/product/0636920028161.do) can serve as a
 course supplement. I'm pretty sure I can finagle an instructor copy from
 Make Books gratis.
 
-## New Members {#new_members}
+## New Members
 
 Brian: Oceanic, EE, interested in 3DP and PCB Duly voted in.
 

@@ -3,7 +3,7 @@ a Cambridge Stereoscan 200.
 
 ![SEM in workshop](SEM_install_1_thumb.jpg "SEM in workshop")
 
-# Current Status {#current_status}
+# Current Status
 
 June 23rd: Summary. Roughing pump works, seals adequate to fire turbo.
 Probably just needs cleaning and testing, similar in scope to
@@ -37,7 +37,7 @@ March 29th: Awaiting pick-up and installation (March 29th and 30th).
 March 23rd: A space in the workshop has been cleared. Photo:
 <http://i.imgur.com/BDNWL5z.jpg>
 
-# Maintenance Information {#maintenance_information}
+# Maintenance Information
 
 Maintenance and repair logs will be kept on an ongoing basis. For
 previous status and repairs, see:
@@ -106,7 +106,7 @@ including people that should be notified about problems.
 -   Dan K. (plasma on IRC): SEM information, documentation, repair
     information, problems
 
-# Supplies wishlist {#supplies_wishlist}
+# Supplies wishlist
 
 -   Apiezon M vacuum grease for "O" rings, to be used for vacuum seals
     at room temperature:
@@ -132,7 +132,7 @@ including people that should be notified about problems.
     <http://www.sisweb.com/vacuum/sis/inland.htm> (\$30 per gallon)
     (needs confirmation that this oil is suitable)
 
-# More Photos {#more_photos}
+# More Photos
 
 -   <http://imgur.com/a/uR7Yv#0>
 

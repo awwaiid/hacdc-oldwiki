@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date 10/9/2018
 :   Called to order at 7:40 pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? No
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 ## Recognition
 
@@ -20,43 +20,43 @@ a lot of work researching the rent history which hopefully satisfies the
 church Tom hosted a gaming night which I heard was a lot of fun and may
 be repeated if he gets help
 
-## New Members {#new_members}
+## New Members
 
 Dave
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Tom {#project_supplies___tom}
-
-N/R
-
-### Project EXPANSION - Tom {#project_expansion___tom}
+### Project SUPPLIES - Tom
 
 N/R
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
-
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
-
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
-
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
-
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project EXPANSION - Tom
 
 N/R
 
-## Member Reports {#member_reports}
+### Project HAMRADIO - Jeff
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+### Project Electron Microscope (SEM) - Julia
 
-### President's Report {#presidents_report}
+### Project Optical Table Robot (OTR) - Julia
+
+### Project CRISPR -Enrique
+
+### Project SpaceBlimp -Enrique
+
+### Project IT Infrastructure - Tom
+
+N/R
+
+## Member Reports
+
+## Director Reports (Governance related stuff)
+
+### President's Report
 
 My to-dos:
 
@@ -68,7 +68,7 @@ My to-dos:
 -   Movie night - first film will probably be October Sky - bio of Homer
     Hickam, NASA engineer and hacker/rocketeer
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 I've been coming up on my 3 years on the board here and trying to
 reflect and come up with some actionable ideas.
@@ -89,11 +89,11 @@ will resign from my seat on the bod at some time in the near future,
 ahead of our next annual meet. I will probably begin a long break from
 the space as well after that."
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

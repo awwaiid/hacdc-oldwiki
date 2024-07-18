@@ -2,7 +2,7 @@
 format. Click it to go to the downloadable image page and click that to
 get a full-size image)
 
-### Network diagram {#network_diagram}
+### Network diagram
 
 ![Classroom networking diagram, circa
 2019.03.18](HacDC_Network.djvu "Classroom networking diagram, circa 2019.03.18")

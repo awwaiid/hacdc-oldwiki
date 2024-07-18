@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 8:17 pm by Julia
@@ -12,7 +12,7 @@
 
     :   Quorum met? Yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 -   August, no quorum:
     <http://wiki.hacdc.org/index.php/Regular_Member_Meeting_2017_08_08>
@@ -27,13 +27,13 @@
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 Tristan voted in.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   We need a liability waiver for kids that specifies that parents are
     responsible for supervision. Nancy promised to bring in an example.
@@ -45,15 +45,15 @@ Tristan voted in.
     \$100 far away). We could then decide what stuff we use frequently
     and what stuff we clearly live without.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Enrique {#project_electron_microscope_sem___enrique}
+### Project Electron Microscope (SEM) - Enrique
 
 I am not working on this; too many other things. Julia et al are working
 on providing a digital interface to the new vacuum gauge with an
@@ -62,9 +62,9 @@ opto-isolator.
 I may have managed to read out a similar ROM chip - should able to have
 a crack at dumping the ROMs from the machine - Oni
 
-### Project Optical Table Robot (OTR) -Julia {#project_optical_table_robot_otr__julia}
+### Project Optical Table Robot (OTR) -Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
+### Project CRISPR -Enrique
 
 We repeated the protocol carefully with Sophia doing the plating and
 protocol and good temperature control during the process. But it didn't
@@ -77,7 +77,7 @@ people can learn about CRISPR and get a hands-on feeling for what the
 process is like. Nancy and Sophia are working on a video.
 crispr@hacdc.org
 
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project SpaceBlimp -Enrique
 
 We aborted the launch of Spaceblimp 7 during the solar eclipse. Long
 story short we were not ready and driving 8 hours down to the SC border
@@ -90,14 +90,14 @@ we're paying \$0.20/day to rent, so we're actively losing money not
 doing anything. But the tracker(s) are still broken or untested, for
 example. Contact spaceblimp@hacdc.org for more information.
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project Media Outreach - Matt
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+### Project IT Infrastructure - Tom
 
 We got a donation of dumb switches which led to the trouble with the
 classroom VLAN and so on as mentioned below.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 -   Enrique. We had a nice lockpicking class Saturday with TOOOL. About
     20 guests came and a half dozen or so got a tour of the classroom. A
@@ -126,11 +126,11 @@ classroom VLAN and so on as mentioned below.
     and commitment, I'll see what I can do. This would almost certainly
     be weekday after-school stuff, not weekends.
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+## Director Reports (Governance related stuff)
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   I've bollocksed up the VLAN for the classroom temporarily. Will fix
     it sooner or later.
@@ -198,7 +198,7 @@ classroom VLAN and so on as mentioned below.
 ```
 -   No progress on the videoconferencing this month.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 -   I'm resigning as Treasurer. Good luck y'all.
 -   We broke about even in August. August financial report is linked
@@ -206,9 +206,9 @@ classroom VLAN and so on as mentioned below.
 
 [Media:HacDC_2017-8.pdf](Media:HacDC_2017-8.pdf)
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

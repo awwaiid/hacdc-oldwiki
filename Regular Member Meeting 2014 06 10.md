@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   June 10, 2014
 :   Called to order at \_\_\_\_\_\_ by \_\_\_\_\_\_
@@ -15,7 +15,7 @@
 
     :   Quorum met?
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2014 05
 13](Regular_Member_Meeting_2014_05_13)
@@ -33,11 +33,11 @@
     an engine hoist for deploying the optical table.
 -   Zach, for fixing the large TV.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 -   1 server is configured and ready to use
     -   still needs a 3U or smaller PSU \>=500W to be able to close the
@@ -46,7 +46,7 @@
     be Dreamhost shared hosting being overrun by something we don't
     control.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for May 2014:
 ![](HacDC_Financials_2014_05.pdf "HacDC_Financials_2014_05.pdf"). We did
@@ -55,7 +55,7 @@ Griffin Boyce, and Sharad Satsangi. We have 43 dues-paying members in
 good standing, 8 dues-waived members, and 5 members who are behind on
 dues.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 Here is the Project Awesome spreadsheet for May:
 ![](HacDC_PA_Projects-2014_05.pdf "HacDC_PA_Projects-2014_05.pdf").
@@ -63,26 +63,26 @@ Since we had to dip into our savings again (to the tune of \$400+) to
 pay our rent, I did not declare a Project Awesome dividend for the month
 of May.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Ben
 
 #### Zach
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 Been too busy to begin planning for the HacDC Summer School kit build
 but will turn to that soon.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Directed Katie to order the following:
 
@@ -95,14 +95,14 @@ Projected expenses still include:
 -   SEM supplies/parts.
 -   Possibly parts for the optical table if not funded otherwise.
 
-### Project EXPANSION {#project_expansion}
+### Project EXPANSION
 
 Have not ordered bandsaw yet, still been busy, still need to confirm
 blade compatibility.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -122,7 +122,7 @@ of my enhancements. Additionally plan to host more enhancements on a
 local server at HacDC. Plan to deploy several laptops with KDE and other
 things.
 
-#### Optical Table {#optical_table}
+#### Optical Table
 
 Heard we now have the engine hoist at HacDC. Perhaps that could be used
 to deploy the table after the meeting.
@@ -160,11 +160,11 @@ software.
 -   DC DOH Training - June 20th
 -   FCC License exam - Here June 21st - Free
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
-## New Members {#new_members}
+## New Members
 
 ## Adjournment
 

@@ -51,7 +51,7 @@ be spent in the following order of priority
   Lockers                          (Suggestions?)                                                                Furniture    1 Set                             \$200?                Scrap? Get Donated?                             18
                                                                                                                                                                                                                                       
 
-## Parts & Inventory {#parts_inventory}
+## Parts & Inventory
 
 Parts and [Inventory](Inventory) are supplies that HacDC
 carries to facilitate its projects. Things like coffee and snacks for
@@ -64,7 +64,7 @@ parts and expendable materials that can be purchased on an as-needed
 basis](Components_Store). These should be paid for by the
 members and not have to be replenished, per se, by group funds.
 
-## Special Funds {#special_funds}
+## Special Funds
 
 The following special funds have been set aside to purchase major tools.
 

@@ -10,14 +10,14 @@
 This machine is just for caching package management traffic and
 rehosting it. There are no user accounts available on this machine.
 
-## Caching Proxies {#caching_proxies}
+## Caching Proxies
 
 -   apt - via apt-cacher-ng - <http://cthulhu:9999>
 -   web
 
-# Admin Notes {#admin_notes}
+# Admin Notes
 
-## Xen Config {#xen_config}
+## Xen Config
 
 -   CPU: 2
 -   RAM: 2048MB

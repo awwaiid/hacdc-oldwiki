@@ -1,4 +1,4 @@
-# Where and when {#where_and_when}
+# Where and when
 
 Thursday November 8th, 2012; 1930 @ [HacDC](http://hacdc.org/)
 
@@ -6,11 +6,11 @@ Thursday November 8th, 2012; 1930 @ [HacDC](http://hacdc.org/)
 
 [Shawn](User:Nocko)
 
-# New Business {#new_business}
+# New Business
 
 None
 
-## Build / Test OpenTDCS v4 {#build_test_opentdcs_v4}
+## Build / Test OpenTDCS v4
 
 Shawn has received three (3) v4 PCBs from fabrication. The plan is to
 build at least one and have a look on the Oscilloscope.
@@ -20,15 +20,15 @@ current limiting functions didn't appear to be calibrated to the
 expected values. [Shawn](User:Nocko) only spent a few minutes
 with the multimeter / scope.
 
-# Old Business {#old_business}
+# Old Business
 
-## Project Updates {#project_updates}
+## Project Updates
 
 ### Wiki
 
 Many pages added
 
-### Physiological Saline {#physiological_saline}
+### Physiological Saline
 
 No progress
 

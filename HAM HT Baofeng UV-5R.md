@@ -9,7 +9,7 @@ as the UV-3Rs.
 
 ## Links
 
-### General Info {#general_info}
+### General Info
 
 -   [bricklore UV-5R
     tagged](http://www.brickolore.com/search/label/UV-5R)
@@ -33,7 +33,7 @@ as the UV-3Rs.
 
 #### Hardware
 
-#### Recommended Modifications {#recommended_modifications}
+#### Recommended Modifications
 
 ## Notes
 
@@ -45,7 +45,7 @@ as the UV-3Rs.
     WaterPoint 4 on nets C/H/G. No received signal at all. All other HTs
     at the same location had perfectly fine Rx.
 
-### Recommended Accessories {#recommended_accessories}
+### Recommended Accessories
 
 -   A wide based flush fit BNC (or similarly durable connector) adapter
     (sometimes called an antenna saver) given the short mating cycle
@@ -67,7 +67,7 @@ as the UV-3Rs.
     of them. If you followed the above then get a BNC terminated antenna
     and don't worry about adapters for the antennas.
 
-## Hardware Versions {#hardware_versions}
+## Hardware Versions
 
 There are a large number of internally identical radios with very
 nonstandardized names in the UV-3R and UV-5R family.

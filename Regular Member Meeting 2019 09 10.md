@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:35 pm by Karen
@@ -12,13 +12,13 @@
 
     :   Quorum met? Y
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2019_07_09) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2019_07_09)
 
 Tayeb, James, approved
 
 ## Recognition
 
-## New Members {#new_members}
+## New Members
 
 Jeff Oby Luis
 
@@ -28,7 +28,7 @@ Don
 
 Kevin, Ken, carried
 
-## Old Business {#old_business}
+## Old Business
 
 -   Rules of the road/code of conduct - will edit in Bobby's input for
     consideration for a vote at the next meeting
@@ -42,7 +42,7 @@ Kevin, Ken, carried
     trivia night, a few different models, waiting for feedback, Kevin
     will check back
 
-## New Business {#new_business}
+## New Business
 
 Possible events:
 
@@ -52,39 +52,39 @@ Possible events:
 -   Joint event HacDC and Ham club
 -   Capture the flag once, maybe twice a month
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-\- Report and updates
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project SpaceBlimp -Enrique
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+\- Report and updates
 
-## Member Reports {#member_reports}
+### Project Media Outreach - Matt
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+### Project IT Infrastructure - Tom
 
-### President's Report {#presidents_report}
+## Member Reports
 
-### Vice President's Report {#vice_presidents_report}
+## Director Reports (Governance related stuff)
 
-### Treasurer's Report {#treasurers_report}
+### President's Report
+
+### Vice President's Report
+
+### Treasurer's Report
 
 Welcome new paying members: Jeffrey, Oby, Luis, Dona and Tristan
 
@@ -100,9 +100,9 @@ Here's the treasury register if you want all the deets (as the cool kids
 say):
 <https://docs.google.com/spreadsheets/d/1H53XrHWV8upXKLat5QicIoJF7C_gILy2xBVkKZMfpsM/edit?usp=sharing>
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 

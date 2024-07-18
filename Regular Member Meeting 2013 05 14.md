@@ -1,4 +1,4 @@
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   May 14, 2013
 :   Called to order at 2006 by Ben.
@@ -8,7 +8,7 @@
 
     :   Quorum not met.
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2013 04
 09](Regular_Member_Meeting_2013_04_09)
@@ -21,9 +21,9 @@ Thanks to Matthew Hines (mirage335) for overhauling the
 Thanks to haxwithaxe and itg for installing new hardware in the server
 closet.
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 DC Day of Civic Hacking is coming up on June 1st. More details on
 Blabber (or email me). Come do good stuff for the community.
@@ -36,11 +36,11 @@ CA Cert has offered to come do a presentation. If anyone is interested
 in hearing them talk about the world of X.509 Certificates then let me
 know.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 Installed NAS type servers in downstairs area.
 
-### Treasurer's Report {#treasurers_report}
+### Treasurer's Report
 
 Here is the financial summary spreadsheet for April 2013:
 ![](HacDC_Financials_2013_04.pdf "HacDC_Financials_2013_04.pdf"). We
@@ -53,7 +53,7 @@ I have filed our 990-N with the IRS.
 
 Quorum remains at 14.
 
-#### Project Awesome {#project_awesome}
+#### Project Awesome
 
 We had a surplus so I am able to declare a \$500 Project Awesome
 dividend and add \$131.52 to our reserves. Here is the Project Awesome
@@ -73,14 +73,14 @@ without prior approval). They don't have to do all the work, but they
 must consent to being the contact. That said, Project KITBUILD needs a
 contact person. Alberto? Nocko?
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 Working on making sure we have the rules in place we think we have.. in
 place. Nothing else.
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
-#### [Shawn Nock](User:Nocko) (unable to attend) {#shawn_nock_unable_to_attend}
+#### [Shawn Nock](User:Nocko) (unable to attend)
 
 :   More (hypothetical) Free stuff:
     -   5x Neurosky MindWave Single-channel EEG headsets
@@ -131,38 +131,38 @@ place. Nothing else.
         tear-down including discovering the sensitivity limits of the
         device.
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project LASER {#project_laser}
+### Project LASER
 
 Looked at options, made specification call. Upgrading the source, cost a
 few hundred more but lifetime is 5x. Exploring safety concerns... air
 handling, etc. Also it will have a method to keep both the lens and the
 target area relatively clear of debris and smoke.
 
-### Project BYZANTIUM {#project_byzantium}
+### Project BYZANTIUM
 
 Second milestone reached; support for Apple products. (!) Mini-field
 days coming up. Interested parties please come and play.
 
-### Project KITBUILD {#project_kitbuild}
+### Project KITBUILD
 
 No report.
 
-### Project SUPPLIES {#project_supplies}
+### Project SUPPLIES
 
 Mirage defers to notes below.
 
-#### Special Thanks {#special_thanks}
+#### Special Thanks
 
 **Major credits to Julia Longtin** (aka. juri) for advice and speedy
 replacement parts on multiple occasions. Prusa Mendel would not be
 operational without that assistance. In particular, replacement
 makergear hot end was provided within a single day.
 
-#### 3D Printers {#d_printers}
+#### 3D Printers
 
-##### Prusa Mendel Repairs {#prusa_mendel_repairs}
+##### Prusa Mendel Repairs
 
 Multiple disabling failures occurred in quick succession, partly
 provoked by high room temperature. Repairs factored in more robust
@@ -170,7 +170,7 @@ replacements, and preemptively addressed future problems. Details at the
 [operators
 log](http://wiki.hacdc.org/index.php/PrusaMendel_Operators_Log).
 
-##### Cupcake Makerbot {#cupcake_makerbot}
+##### Cupcake Makerbot
 
 Since the motor driving board was removed, this machine is merely taking
 up space. A representative from a Pittsburg hackerspace is willing to
@@ -190,11 +190,11 @@ About \$80 in receipts are planned for submission to the supplies fund.
 M3/M4 hardware, LM8UU bearings, PLA plastic. My (mirage335's) own costs
 are about \$70 higher, plus time spent.
 
-### Project SPACECAM {#project_spacecam}
+### Project SPACECAM
 
 No report.
 
-## Member Reports {#member_reports}
+## Member Reports
 
 ### mirage335
 
@@ -206,9 +206,9 @@ Occupancy sensor hardware continues transmitting data reliably.
 transformer are available. 4x5 foot optical table (1 inch holes)
 available, but it weighs maybe 800 pounds.
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 -   [Privacy_Policy](Privacy_Policy) is put forward for
     member vote as officially adopted policy. Notification was sent to
@@ -226,7 +226,7 @@ available, but it weighs maybe 800 pounds.
     Such rules as these are pointed to in Article VI in [Proposed
     Standing Rules](Proposed_Standing_Rules).
 
-## New Members {#new_members}
+## New Members
 
 -   Alex - attends Thursdays meets. EEG, wants to join. -nominated and
     voted in.

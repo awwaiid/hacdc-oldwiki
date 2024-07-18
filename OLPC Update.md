@@ -1,4 +1,4 @@
-## Clean Install {#clean_install}
+## Clean Install
 
 **This will COMPLETELY WIPE the data from the XO... YOU HAVE BEEN
 WARNED**

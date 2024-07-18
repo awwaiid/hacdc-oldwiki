@@ -1,1 +1,1 @@
-### [Likely Rubbish](:Category:Obsolete) {#likely_rubbish}
+### [Likely Rubbish](:Category:Obsolete)

@@ -1,6 +1,6 @@
 `<noinclude>`{=html}
 
-# Generate a link to a book at Amazon {#generate_a_link_to_a_book_at_amazon}
+# Generate a link to a book at Amazon
 
 ## Usage
 

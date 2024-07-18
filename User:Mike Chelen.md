@@ -1,14 +1,14 @@
-## HacDC Projects of Interest {#hacdc_projects_of_interest}
+## HacDC Projects of Interest
 
 [Byzantium](Byzantium)
 [IntrotoVisualsforProgrammers](IntrotoVisualsforProgrammers)
 
-## Tech Interests {#tech_interests}
+## Tech Interests
 
 Open source Open data Bioinformatics Cloud computing Data analysis Data
 visualization Linux Open source games Computer ergonomics Webcasting
 
-## Other Interests {#other_interests}
+## Other Interests
 
 DIY Biology Rock climbing Biking Cooking Urban farming Community service
 Creative Commons

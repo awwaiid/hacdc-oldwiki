@@ -1,6 +1,6 @@
 **Storage Room Shelves are Labeled A1 thru K6**
 
-## Project Storage {#project_storage}
+## Project Storage
 
 -   Spaceblimp: Classroom Shelves.
 -   SEM: Classroom front right.
@@ -23,7 +23,7 @@ For a list of supplies deliberately kept in stock, see
 -   Fire Extinguishers - Classroom Shelves (North)
 -   Fire Extinguishers - Basement Mid-Doorway
 
-## 3D Printers {#d_printers}
+## 3D Printers
 
 -   Lulzbot Mini - Classroom shelves, to right of Rostock.
 -   Lulzbot Taz #1 - 3d printing workstation, left side.
@@ -34,7 +34,7 @@ For a list of supplies deliberately kept in stock, see
 -   OpticalTableRobot - Basement front room.
 -   see: <http://wiki.hacdc.org/index.php/3D_Printing_Supplies>
 
-## 2D Printers {#d_printers_1}
+## 2D Printers
 
 -   Laserjet printer, HP 1020 - radio desk
 -   Laserjet printer, HP - classroom shelves
@@ -44,7 +44,7 @@ For a list of supplies deliberately kept in stock, see
 -   Plotter, HP - borrowed by Mirage335
 -   Sewing machine - C4
 
-## Machine Shop & Woodworking {#machine_shop_woodworking}
+## Machine Shop & Woodworking
 
 -   Welder, Rod, Craftsman 35-230A, \<=3/16" rod - opposite E5
 -   Welding Rods, opposite E5
@@ -73,7 +73,7 @@ see: <http://wiki.hacdc.org/index.php/CNC_Supplies>
 -   Sander - Basement Entrance
 -   Torque wrench, Proto J6113F 0-50 FTLB - classroom
 
-## Electronic Components & Soldering Tools {#electronic_components_soldering_tools}
+## Electronic Components & Soldering Tools
 
 -   Resistors - Classroom shelves
 -   Capacitors - Classroom shelves
@@ -99,7 +99,7 @@ see: <http://wiki.hacdc.org/index.php/CNC_Supplies>
 -   Magnets - classroom RadioShack
 -   Enclosures, for Projects - B5
 
-## Power Supplies, Wall Warts, Transformers {#power_supplies_wall_warts_transformers}
+## Power Supplies, Wall Warts, Transformers
 
 -   Power Adapters, 18V - H6
 -   Power Adapters, 15V - H6
@@ -110,7 +110,7 @@ see: <http://wiki.hacdc.org/index.php/CNC_Supplies>
 -   Power Adapters, Misc - H4
 -   AC Transformer, 60kV - G3
 
-## Computer & Networking Equipment {#computer_networking_equipment}
+## Computer & Networking Equipment
 
 -   Raspberry Pi B+ - Classroom over SEM
 -   Rasbperry Pi 2Bs - Classroom over SEM
@@ -139,7 +139,7 @@ see: <http://wiki.hacdc.org/index.php/CNC_Supplies>
 -   [OBi-110 single phone port Analog Telephone Adapter
     (ATA)](OBi110_VoIP_setup)
 
-## Electronic Measurement & Diagnostic {#electronic_measurement_diagnostic}
+## Electronic Measurement & Diagnostic
 
 -   BNC Coax Cables & Adapters - J3
 -   Spectrum Analyzer, Wellerman PC Scope 50 MHz 1GS/s - classroom cart
@@ -186,7 +186,7 @@ see: <http://wiki.hacdc.org/index.php/CNC_Supplies>
 -   Power Supply 25V 250mA, Marconi 6590B - K2
 -   Universal Programmer, MOS Pak Data I/O - J2
 
-## Optical Parts & Cameras {#optical_parts_cameras}
+## Optical Parts & Cameras
 
 -   Lasers, Mirrors, Lenses, Filters, Diffuses
 
@@ -260,7 +260,7 @@ see: <http://wiki.hacdc.org/index.php/OpticalSupplies>
 -   35mm Slide Projector, C5
 -   Tape player, C5
 
-## Assigned Storage {#assigned_storage}
+## Assigned Storage
 
 -   Enrique's Stuff - B1
 -   Dan's Stuff - Basement Front, Shelf 1 (top)

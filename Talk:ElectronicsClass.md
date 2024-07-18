@@ -12,7 +12,7 @@ actually learn some basic electronics.
 
 hana k.
 
-## Looking forward to the class {#looking_forward_to_the_class}
+## Looking forward to the class
 
 Hello
 

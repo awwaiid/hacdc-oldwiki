@@ -1,7 +1,7 @@
 **Note:** This page serves as the 2011-11-08 Member Meeting's agenda
 (before the meeting) and minutes (after the meeting).
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 November 8, 2011
 
@@ -14,18 +14,18 @@ Others Present: Mike, Nadir
 
 [Quorum](Quorum) met? yes
 
-## Approval of Previous Meeting's Minutes {#approval_of_previous_meetings_minutes}
+## Approval of Previous Meeting's Minutes
 
 [Regular Member Meeting 2011 10
 11](Regular_Member_Meeting_2011_10_11)
 
-## Director Reports {#director_reports}
+## Director Reports
 
-### President's Report {#presidents_report}
+### President's Report
 
 End of the year, so that means we need to beg for money. Do it.
 
-### Vice President's Report {#vice_presidents_report}
+### Vice President's Report
 
 One big thing: Before Elliot left, we were in communications with Viz
 arts in Rockville (trying to make a makerspace for young ladies, 5th
@@ -40,7 +40,7 @@ interaction. Current lab is 8 Mac Pros and some Macbook pros. They are
 set as far as a standardized lab, but are lacking in traditional "maker"
 gear (o-scopes, soldering irons, etc).
 
-### Treasurer's Report (Tim Slagle) {#treasurers_report_tim_slagle}
+### Treasurer's Report (Tim Slagle)
 
 Here is the October 2011 financial summary:
 <file:HacDC_Financials_Oct_2011.pdf>
@@ -69,11 +69,11 @@ will save us \~\$20/mo in fees.
 Our change of DC Registered Agent paperwork is filled out and can be
 submitted once signed by the appropriate directors.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
 DOA / N/A
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Toast
 
@@ -81,9 +81,9 @@ Not much to report… Went to Smithsonian and got awesome. Looking to swap
 out Mario cabinet in the space for a different cabinet which is being
 donated soon. Need help moving the cabinet.
 
-#### Vacant (election today!) {#vacant_election_today}
+#### Vacant (election today!)
 
-## Member Reports {#member_reports}
+## Member Reports
 
 Jamie - Slacking on migrating the mailing list, will try to finish by
 thxgvng. FredHack (Fredricksburg, VA) has some metalworking gear
@@ -123,9 +123,9 @@ access to it. (Phil is interested)
 
 Jamie (2) - 757 Labs has a working Laser cutter
 
-## Old Business {#old_business}
+## Old Business
 
-## New Business {#new_business}
+## New Business
 
 Election for Director-At-Large position.
 
@@ -144,7 +144,7 @@ AND SPEAKING OF THE IRS.......
 Tim S. was perusing the bylaws and supposedly we need two folks (not on
 the board) to audit our books. We should ensure that happens.
 
-## New Members {#new_members}
+## New Members
 
 Mike C. - Works as a web developer and data analyst with a background in
 science and sharing of data. Looking to expand sharing of datasets in

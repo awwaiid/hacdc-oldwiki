@@ -6,7 +6,7 @@ This policy was officially adopted at the [ June 17,
 2008](Regular_Member_Meeting_Minutes_2008_06_17) regular
 member meeting.
 
-## Space Use Policy {#space_use_policy}
+## Space Use Policy
 
 -   Respect your fellow members.
 -   Keep the space as available as possible for as many purposes as
@@ -33,7 +33,7 @@ full access to all members.
 2.  Projects
 3.  Social Networking (i.e. Hanging Out)
 
-#### Public Events {#public_events}
+#### Public Events
 
 Members are encouraged to schedule public events. Public events are, by
 default, open to the public on a first-come, first-serve basis.
@@ -68,7 +68,7 @@ their guests during a public event.
 Members may bring guests to help work on projects and recruit those
 guests to become members!
 
-#### Social Networking {#social_networking}
+#### Social Networking
 
 Social collaboration is another important aspect to HacDC. Effective
 working relationships are often built or reinforced over casual social
@@ -81,7 +81,7 @@ As such, members are subject to no hard limitation on the number of
 guests they can bring into the space, as long as they accept full
 responsibility for the guests they bring.
 
-## Donated Resources Policy {#donated_resources_policy}
+## Donated Resources Policy
 
 Donated resources should be used in the following order of priority:
 
@@ -95,7 +95,7 @@ dispose of the rest.
 
 See also: [Resource Disposal](Resource_Disposal)
 
-## Tools & Equipment Use {#tools_equipment_use}
+## Tools & Equipment Use
 
 -   Use tools and equipment responsibly.
 -   Put tools and equipment away where they belong in a way that best
@@ -105,7 +105,7 @@ See also: [Resource Disposal](Resource_Disposal)
     general use, ask its owner.
 -   Don't act in a way that would lead to expansion of this policy.
 
-## Internet Use Policy {#internet_use_policy}
+## Internet Use Policy
 
 We are subject to the [Speakeasy Terms of
 Service](http://www.speakeasy.net/tos/)

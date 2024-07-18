@@ -3,7 +3,7 @@ The Classroom TV is hooked up to various PCs.
 Once we repair'd it by exhaustively testing each LED on the device and
 replacing the broken one.
 
-## The TV {#the_tv}
+## The TV
 
 The current TV is a 60-inch **Sharp Aquos LC-60LE920UN**.
 
@@ -21,7 +21,7 @@ Sometimes when there's a problem, it displays a constant small blue box
 which reads **\[K\] 60LE810UN** which the careful reader will note looks
 remarkably like a model number...
 
-### Resetting the TV {#resetting_the_tv}
+### Resetting the TV
 
 <http://www.fixya.com/support/t17617780-60_sharp_aquos_power_indicator_flashing>
 
@@ -113,13 +113,13 @@ repair your TV (1-800-237-4277)
 
 Posted on Mar 16, 2008
 
-## The PCs {#the_pcs}
+## The PCs
 
-### Windows VR box {#windows_vr_box}
+### Windows VR box
 
 (it's grody and uses proprietary poison).
 
-### Classroom TV {#classroom_tv}
+### Classroom TV
 
 (highly superior build -- uses Debian Linux, a free software
 distribution, although we have compromised to allow non-free software
@@ -129,15 +129,15 @@ and firmware).
     2018-02-27 21:30 <thossou> but the fans turn
     2018-02-27 21:30 <thossou> http://dlcdnet.asus.com/pub/ASUS/mb/LGA1366/Sabertooth_X58/e5995_sabertooth_X58.pdf#p55
 
-## Instructions for use {#instructions_for_use}
+## Instructions for use
 
-### How to remotely control the classroom-tv PC {#how_to_remotely_control_the_classroom_tv_pc}
+### How to remotely control the classroom-tv PC
 
 (copy from the desktop of classroom PC)
 
-### How to use VR {#how_to_use_vr}
+### How to use VR
 
-### How to run a videoconference with another space using BBB {#how_to_run_a_videoconference_with_another_space_using_bbb}
+### How to run a videoconference with another space using BBB
 
 [Category:Room Displays](Category:Room_Displays)
 [Category:HacDC Computers](Category:HacDC_Computers)

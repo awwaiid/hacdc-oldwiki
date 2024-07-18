@@ -3,7 +3,7 @@ raising money for and awareness of [the Loaves & Fishes
 program](http://www.loavesandfishesdc.org/). Saturday night (weekend in
 December) would be the best time.
 
-## Proposal Vitals {#proposal_vitals}
+## Proposal Vitals
 
 **Status**: In Progress, Discussion
 
@@ -15,7 +15,7 @@ December) would be the best time.
     -   To boost our 501(c)(3) application
     -   To build relationships within the church
 
-## Detailed Proposal {#detailed_proposal}
+## Detailed Proposal
 
 The idea is basically to have the Church transformed into a technology
 playground for kids of the area, in a very Christmas type fashion. The

@@ -1,4 +1,4 @@
-## Level-to-pulser {#level_to_pulser}
+## Level-to-pulser
 
 Finite state machine implementation of a device that takes a level
 change (low to high) and turns it into a one-period pulse.
@@ -58,7 +58,7 @@ change (low to high) and turns it into a one-period pulse.
 
     endmodule 
 
-## Level-to-pulser Testbench {#level_to_pulser_testbench}
+## Level-to-pulser Testbench
 
     module test_stateMachine();
        // Parameters

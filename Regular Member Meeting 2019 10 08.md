@@ -1,6 +1,6 @@
 `{{TOCright}}`{=mediawiki}
 
-## Time and Location {#time_and_location}
+## Time and Location
 
 :   Date
 :   Called to order at 7:35pm by Karen
@@ -11,7 +11,7 @@
 
     :   Quorum met? Y
 
-## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2019_09_10) {#approval_of_previous_meetings_minutes}
+## Approval of [Previous Meeting's Minutes](Regular_Member_Meeting_2019_09_10)
 
 Motion to approve James, seconded Kevin
 
@@ -20,11 +20,11 @@ Motion to approve James, seconded Kevin
 James - great, useful reports Tayeb - Organizing a Machine Learning
 class
 
-## New Members {#new_members}
+## New Members
 
 None
 
-## Old Business {#old_business}
+## Old Business
 
 Fundraiser at Exiles on U Street (Kevin): proposed date is Thursday, 21
 November Brian needs projected numbers for staffing purposes Extended
@@ -41,7 +41,7 @@ Karen wants to check with Hams about organizing a Fox Hunt
 
 Possible Crypto-Party event - organization tbd
 
-## New Business {#new_business}
+## New Business
 
 -   Laser cutter status improved by Bobby
 
@@ -52,39 +52,39 @@ Possible events: Deep Learning class Fox Hunt Crypto Party
 
 Movie Night: October 25 Hackers Game Night: November 16
 
-## [Project Awesome](:Category:Project_Awesome) Reports {#project_awesome_reports}
+## [Project Awesome](:Category:Project_Awesome) Reports
 
-### Project SUPPLIES - Mirage {#project_supplies___mirage}
+### Project SUPPLIES - Mirage
 
-### Project EXPANSION - Mirage {#project_expansion___mirage}
+### Project EXPANSION - Mirage
 
-### Project HAMRADIO - Jeff {#project_hamradio___jeff}
+### Project HAMRADIO - Jeff
 
-### Project Electron Microscope (SEM) - Julia {#project_electron_microscope_sem___julia}
+### Project Electron Microscope (SEM) - Julia
 
-### Project Optical Table Robot (OTR) - Julia {#project_optical_table_robot_otr___julia}
+### Project Optical Table Robot (OTR) - Julia
 
-### Project CRISPR -Enrique {#project_crispr__enrique}
-
-\- Report and updates
-
-### Project SpaceBlimp -Enrique {#project_spaceblimp__enrique}
+### Project CRISPR -Enrique
 
 \- Report and updates
 
-### Project Media Outreach - Matt {#project_media_outreach___matt}
+### Project SpaceBlimp -Enrique
 
-### Project IT Infrastructure - Tom {#project_it_infrastructure___tom}
+\- Report and updates
 
-## Member Reports {#member_reports}
+### Project Media Outreach - Matt
 
-## Director Reports (Governance related stuff) {#director_reports_governance_related_stuff}
+### Project IT Infrastructure - Tom
 
-### President's Report {#presidents_report}
+## Member Reports
 
-### Vice President's Report {#vice_presidents_report}
+## Director Reports (Governance related stuff)
 
-### Treasurer's Report {#treasurers_report}
+### President's Report
+
+### Vice President's Report
+
+### Treasurer's Report
 
 October 8, 2019
 
@@ -104,9 +104,9 @@ October 8, 2019
 -   Kevin has a fund raiser planned for November 21 at Exiles bar, so
     mark your calendars and spread the word.
 
-### Secretary's Report {#secretarys_report}
+### Secretary's Report
 
-### Director-at-Large Reports {#director_at_large_reports}
+### Director-at-Large Reports
 
 #### Kevin
 
