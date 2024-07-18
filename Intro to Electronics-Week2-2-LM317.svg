@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" x="0px" y="0px"
+	 width="800px" height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<g id="g2402">
+	<path id="path1315" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="
+		M171.347,347.115h-56.693"/>
+	<path id="path1317" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="7.0866" stroke-linecap="square" d="
+		M157.173,355.975h-28.346"/>
+	<path id="path2220" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="3.5433" d="M143,334.715v14.174"/>
+	<path id="path2222" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="
+		M143,355.975v14.172"/>
+	<g id="g3965" transform="matrix(2,0,0,2,-258.79112,-56.482983)">
+		<path id="path3967" sodipodi:nodetypes="cc" fill="none" stroke="#000000" d="M215.069,195.599h-7.087"/>
+		<path id="path3969" sodipodi:nodetypes="cc" fill="none" stroke="#000000" d="M211.525,199.142v-7.087"/>
+	</g>
+</g>
+<rect x="57.386" y="338.148" fill="none" width="46" height="24"/>
+<text transform="matrix(1 0 0 1 60.9932 360.2588)" font-family="'TrebuchetMS'" font-size="30">6 V</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="143" y1="335" x2="143" y2="36"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="143" y1="441" x2="143" y2="373"/>
+<g id="g4062" transform="matrix(2,0,0,2,-56.118102,-52.352453)">
+	<path id="path3938" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="1.7716" d="M272.91,160.713v29.814"/>
+	<path id="path3940" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="1.7716" d="M272.91,134.139v5.315"/>
+	
+		<path id="path3970" sodipodi:nodetypes="cccccccc" fill="none" stroke="#000000" stroke-width="1.7716" stroke-linecap="round" stroke-linejoin="bevel" d="
+		M272.91,160.713l-3.543-1.771l7.086-3.543l-7.086-3.543l7.086-3.543l-7.086-3.543l7.086-3.544l-3.543-1.771"/>
+</g>
+<g id="g4062_1_" transform="matrix(2,0,0,2,-56.118102,-52.352453)">
+	<path id="path3938_1_" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="1.7716" d="M272.91,217.213v5.314"/>
+	<path id="path3940_1_" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="1.7716" d="M272.91,190.639v5.315"/>
+	
+		<path id="path3970_1_" sodipodi:nodetypes="cccccccc" fill="none" stroke="#000000" stroke-width="1.7716" stroke-linecap="round" stroke-linejoin="bevel" d="
+		M272.91,217.213l-3.543-1.771l7.086-3.543l-7.086-3.543l7.086-3.543l-7.086-3.543l7.086-3.544l-3.543-1.771"/>
+</g>
+<rect x="506.004" y="235.792" fill="none" width="91" height="24"/>
+<text transform="matrix(1 0 0 1 506.0039 257.9028)" font-family="'TrebuchetMS'" font-size="30">360 Ω</text>
+<line fill="none" stroke="#F15A24" stroke-width="10" x1="601" y1="233" x2="601" y2="258"/>
+<line fill="none" stroke="#0000FF" stroke-width="10" x1="613" y1="233" x2="613" y2="258"/>
+<line fill="none" stroke="#754C24" stroke-width="10" x1="625" y1="233" x2="625" y2="258"/>
+<line fill="none" stroke="#FBC926" stroke-width="10" x1="636" y1="233" x2="636" y2="258"/>
+<rect x="506.004" y="350.793" fill="none" width="74" height="24"/>
+<text transform="matrix(1 0 0 1 506.0039 372.9023)" font-family="'TrebuchetMS'" font-size="30">1 kΩ</text>
+<line fill="none" stroke="#754C24" stroke-width="10" x1="584" y1="348" x2="584" y2="373"/>
+<line fill="none" stroke="#000000" stroke-width="10" x1="596" y1="348" x2="596" y2="373"/>
+<line fill="none" stroke="#FF0000" stroke-width="10" x1="608" y1="348" x2="608" y2="373"/>
+<line fill="none" stroke="#FBC926" stroke-width="10" x1="619" y1="348" x2="619" y2="373"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="277" y1="297" x2="490" y2="297"/>
+<path stroke="#000000" stroke-width="2" d="M494.701,296.826c0-2.758-2.238-5-5-5c-2.761,0-5,2.242-5,5c0,2.76,2.239,5,5,5
+	C492.463,301.826,494.701,299.586,494.701,296.826z"/>
+<path stroke="#000000" stroke-width="2" d="M148.701,416.826c0-2.758-2.238-5-5-5c-2.761,0-5,2.242-5,5c0,2.76,2.239,5,5,5
+	C146.463,421.826,148.701,419.586,148.701,416.826z"/>
+<g id="g2396">
+	<path id="path3980" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="
+		M164.26,455.174h-42.52"/>
+	<path id="path3984" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="3.5433" d="M143,441v14.174"/>
+	<path id="path3994" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="
+		M157.172,462.262h-28.346"/>
+	<path id="path3996" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="
+		M150.086,469.348h-14.174"/>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" x1="143" y1="417" x2="490" y2="417"/>
+<line fill="none" stroke="#000000" stroke-width="2" x1="490" y1="417" x2="490" y2="393"/>
+<rect x="229" y="103" fill="none" width="62" height="25"/>
+<text transform="matrix(1 0 0 1 248.6172 123.6357)" font-family="'TrebuchetMS'" font-size="28">Adj</text>
+<rect x="414" y="103" fill="none" width="62" height="25"/>
+<text transform="matrix(1 0 0 1 414 123.6357)"><tspan x="0" y="0" font-family="'TrebuchetMS'" font-size="28">V</tspan><tspan x="16.447" y="6" font-family="'TrebuchetMS'" font-size="20">in</tspan></text>
+<rect x="358" y="173" fill="none" width="62" height="25"/>
+<text transform="matrix(1 0 0 1 373.9629 193.6357)"><tspan x="0" y="0" font-family="'TrebuchetMS'" font-size="28">V</tspan><tspan x="16.447" y="6" font-family="'TrebuchetMS'" font-size="20">out</tspan></text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="352.311" y1="215.828" x2="569.701" y2="215.925"/>
+<path stroke="#000000" stroke-width="2" d="M494.701,216.826c0-2.758-2.238-5-5-5c-2.761,0-5,2.242-5,5c0,2.76,2.239,5,5,5
+	C492.463,221.826,494.701,219.586,494.701,216.826z"/>
+<rect x="579" y="204" fill="none" width="59" height="24.652"/>
+<text transform="matrix(1 0 0 1 579 224.6357)" font-family="'TrebuchetMS'" font-size="28">Out</text>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="143" y1="36" x2="460" y2="36"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="460" y1="36" x2="460" y2="135"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="460" y1="135" x2="410" y2="135"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="352" y1="216" x2="352" y2="165"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="277" y1="297" x2="277" y2="135"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" x1="277" y1="135" x2="294" y2="135"/>
+<g>
+	<g id="g3163">
+		
+			<rect id="rect4666" x="302.688" y="113.566" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" width="99.211" height="42.434"/>
+		<text transform="matrix(1 0 0 1 310.3735 146.627)" font-family="'TrebuchetMS'" font-size="28">LM317</text>
+		<path id="path4672" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="M401.918,134.828h8.479"/>
+		<path id="path4674" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="M294.225,134.828h8.48"/>
+		
+			<path id="path4676" inkscape:transform-center-x="39.672987" inkscape:transform-center-y="14.173218" fill="none" stroke="#000000" stroke-width="3.5433" stroke-linecap="square" d="
+			M352.311,156.088v8.479"/>
+	</g>
+	<rect x="303" y="60" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" width="99" height="54"/>
+	<circle fill="none" stroke="#000000" stroke-width="2" stroke-linecap="square" cx="352.5" cy="87" r="15.5"/>
+</g>
+</svg>

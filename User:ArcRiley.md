@@ -1,0 +1,1 @@
+[Category:Friends](Category:Friends)

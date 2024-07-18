@@ -1,0 +1,1 @@
+linear_extrude(height=25.4) import("Hacdc.withtext.simplified.dxf");

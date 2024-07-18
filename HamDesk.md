@@ -1,0 +1,3 @@
+```{=mediawiki}
+{{Template:Amateur Radio}}
+```

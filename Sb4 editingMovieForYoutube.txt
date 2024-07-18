@@ -1,0 +1,16 @@
+## So for anyone interested, here's what I did to turn the raw footage into
+## snippets that worked ok for youtube.
+
+ffmpeg -ss 3848 -t 200 -i Zi019728.MOV -r 30 -s 640x360 -sameq sb4_pop.mp4
+ffmpeg -ss 2565 -t 135 -i Zi6_9728.MOV -r 30 -s 640x360 -sameq sb4_launch.mp4
+
+## -ss x       seeks to second x
+## -t  x       gives duration in seconds
+## -r 30       is 30 frames per second (b/c ours was recorded in 60fps)
+## -s 640x360  is one of the sizes that youtube wants to import natively
+## -sameq      keeps the quality the same (maximum!) b/c it's going to get 
+                owned by Youtube's compression so we want to give
+                them our best
+
+## Just thought you'd like to know!
+##  -- Elliot.

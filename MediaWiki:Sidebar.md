@@ -1,0 +1,5 @@
+-   Navigation
+    -   mainpage\|Welcome!
+    -   recentchanges-url\|recentchanges
+    -   randompage-url\|randompage
+    -   helppage\|help
